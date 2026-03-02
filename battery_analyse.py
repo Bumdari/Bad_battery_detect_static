@@ -73,18 +73,18 @@ def analyze_strings(df_seg, active):
 def classify_string(pct, avg_cap, other_results):
     cap_gap = (max(r['avg_cap'] for r in other_results) - avg_cap) if other_results else 0
     if pct >= STOPPER_BAD:
-        return 'BAD',  f'{pct:.0f}% discharge-д систем зогсоосон → батерей солих'
+        return 'BAD',  f'{pct:.0f}% discharge → батерей солих'
     elif pct >= STOPPER_WEAK:
-        return 'WEAK', f'{pct:.0f}% discharge-д систем зогсоосон → муудаж байна'
+        return 'WEAK', f'{pct:.0f}% discharge → муудаж байна'
     elif cap_gap >= 15:
-        return 'WEAK', f'Нөгөө string-ээс cap {cap_gap:.0f}% доогуур'
+        return 'WEAK', f'Нөгөө battery-нээс cap {cap_gap:.0f}% доогуур'
     elif pct <= STOPPER_GOOD and avg_cap >= 82:
         return 'GOOD', f'Зөвхөн {pct:.0f}% тохиолдолд зогсоосон — сайн'
     else:
         return 'FAIR', f'{pct:.0f}% зогсоосон, cap={avg_cap:.0f}%'
 
 def analyze_file(fp):
-    print(f"\n📂 {os.path.basename(fp)}")
+    print(f"\n {os.path.basename(fp)}")
     df = load_and_filter(fp)
     if df.empty: print("    Хоосон"); return None
     ip   = df['IP'].iloc[0] if 'IP' in df.columns else '-'
@@ -185,17 +185,10 @@ def build_excel(all_sites, out_path):
         ws.merge_cells(start_row=r1,start_column=c1,end_row=r2,end_column=c2)
         sc(r1,c1,v,**kw)
 
-    # Баганын өргөн
-    # 1:IP 2:Site 3:Солисон 4:Хугацаа 5:n 6:SegMed 7:30хоног 8:Ratio 9:Муудалт 10:LastDur
-    # 11:sep
-    # 12:S1статус 13:S1зогс% 14:S1cap 15:S1volt 16:S1тайлбар
-    # 17:sep
-    # 18:S2статус 19:S2зогс% 20:S2cap 21:S2volt 22:S2тайлбар
     ws_widths = [16,32,16,24,7,13,14,8,16,12, 2, 16,12,10,10,32, 2, 16,12,10,10,32]
     for i,w in enumerate(ws_widths,1):
         ws.column_dimensions[get_column_letter(i)].width = w
 
-    # Мөр 1: Бүлэг гарчиг
     ws.row_dimensions[1].height = 30
     mg(1,1,1,2,'SITE', font=WH11,fill=DARK,aln=C)
     mg(1,3,1,10,'БАТЕРЕЙН ЕРӨНХИЙ БАЙДАЛ', font=WH11,fill=MED,aln=C)
@@ -204,7 +197,6 @@ def build_excel(all_sites, out_path):
     sc(1,17,'',fill=SEP)
     mg(1,18,1,22,'STRING 2', font=WH11,fill=DARK,aln=C)
 
-    # Мөр 2: Баганын нэр
     ws.row_dimensions[2].height = 42
     hdr2 = [
         (1,'IP хаяг',LT,BL10),(2,'Байршил',LT,BL10),
@@ -222,7 +214,6 @@ def build_excel(all_sites, out_path):
     for col,txt,fill,font in hdr2:
         sc(2,col,txt,font=font,fill=fill,aln=C,brd=BH)
 
-    # Мэдээллийн мөрүүд
     for idx,s in enumerate(all_sites):
         row = 3+idx
         ws.row_dimensions[row].height = 22
@@ -257,50 +248,22 @@ def build_excel(all_sites, out_path):
         sc(row,17,'',fill=SEP)
         fill_str(18,2)
 
-    # Тайлбар
-    lr = len(all_sites)+5
-    ws.row_dimensions[lr].height=20
-    mg(lr,1,lr,8,'ТАЙЛБАР — String статус',
-       font=Font(name='Arial',size=10,bold=True,color='1F4E79'),fill=LT,aln=L)
-    legends=[
-        ('BAD', '✕  BAD',  'Discharge-ийн 70%+ тохиолдолд тухайн string систем зогсоосон → яаралтай солих'),
-        ('WEAK','⚠  WEAK', '40–70% тохиолдолд зогсоосон, эсвэл нөгөөгөөсөө 15%+ cap доогуур → хянах'),
-        ('FAIR','~  FAIR',  'Дунд зэрэг — хяналтад байлгах шаардлагатай'),
-        ('GOOD','✓  GOOD', 'Зөвхөн 15%-д зогсоосон, capacity 82%+ → сайн байдалтай'),
-    ]
-    for i,(st,lbl,desc) in enumerate(legends):
-        r=lr+1+i; ws.row_dimensions[r].height=18
-        sc(r,1,lbl,font=STR_FONT[st],fill=STR_FILL[st],aln=C)
-        mg(r,2,r,10,desc,font=F10,fill=WH,aln=L)
-
-    r2=lr+6
-    for ln in ['Ratio = Segment Median ÷ Сүүлийн 30 хоногийн дундаж  (≥1.6 CRITICAL | ≥1.3 DEGRADING | <1.3 STABLE)',
-               'Зогсоосон % = тухайн string хэдэн % discharge-д систем зогсоосон (BATTERY_VOLTAGE → хамгийн бага volt / BATTERY_CAPACITY → хамгийн бага cap)']:
-        ws.row_dimensions[r2].height=15
-        mg(r2,1,r2,14,ln,font=Font(name='Arial',size=8,italic=True,color='666666'),fill=WH,aln=L)
-        r2+=1
-
     ws.freeze_panes='A3'
     wb.save(out_path)
-    print(f"\n📋 Excel → {out_path}")
+    print(f"\n Excel → {out_path}")
 
 def collect_csv_files(paths):
-    """
-    Аргументаас CSV файлуудын жагсаалт гаргана.
-    - Хэрэв folder бол тэр folder-ийн бүх *.csv файлыг авна
-    - Хэрэв *.csv glob pattern бол glob ашиглана
-    - Хэрэв шууд файл бол шууд ашиглана
-    """
+
     import glob as _glob
     files = []
     for p in paths:
         if os.path.isdir(p):
             found = sorted(_glob.glob(os.path.join(p, '*.csv')))
-            print(f"📁 Folder: {p}  ({len(found)} CSV файл олдлоо)")
+            print(f"Folder: {p}  ({len(found)} CSV файл олдлоо)")
             files.extend(found)
         elif '*' in p or '?' in p:
             found = sorted(_glob.glob(p))
-            print(f"🔍 Pattern: {p}  ({len(found)} файл)")
+            print(f"Pattern: {p}  ({len(found)} файл)")
             files.extend(found)
         elif os.path.isfile(p):
             files.append(p)

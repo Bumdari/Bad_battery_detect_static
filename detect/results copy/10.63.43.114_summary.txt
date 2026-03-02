@@ -1,0 +1,32 @@
+Battery Analysis Summary: 10.63.43.114
+Generated: 2026-03-02 17:42:57
+Data range: 2023-09-26 15:08:42 to 2026-02-28 19:00:01
+Total measurements: 426
+Measurement interval: 2 days
+============================================================
+
+String1
+----------------------------------------
+  Current SOH: 85.00%
+  Battery segments: 2
+  Replacements detected: 1
+    Replacement 1: 2025-04-02
+  Current battery age: 163 cycles
+  Current battery installed: ~2025-04-02
+  Degradation rate: -0.3515%/cycle
+  Degradation rate: -0.1758%/day
+  Est. 80.0% threshold: 2026-03-29 (14 cycles)
+  STATUS: WATCH — Approaching threshold
+
+String2
+----------------------------------------
+  Current SOH: 85.00%
+  Battery segments: 2
+  Replacements detected: 1
+    Replacement 1: 2025-04-02
+  Current battery age: 163 cycles
+  Current battery installed: ~2025-04-02
+  Degradation rate: -0.3455%/cycle
+  Degradation rate: -0.1727%/day
+  Est. 80.0% threshold: 2026-03-29 (14 cycles)
+  STATUS: WATCH — Approaching threshold

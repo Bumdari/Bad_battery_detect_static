@@ -1,0 +1,3 @@
+﻿site,battery,current_soh,current_date,eol_date,eol_days,slope
+10.63.120.8,String1,100.0,2026-03-01,,,1.25607396694702e-15
+10.63.120.8,String2,100.0,2026-03-01,,,4.086956521739133

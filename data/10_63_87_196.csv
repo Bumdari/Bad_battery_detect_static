@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+218621,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,39,2026-03-10T19:00:03,2026-03-10T20:24:52,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-42.8,60.4,18.0,VRLA12v_LeadAcid
+161880,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,38,2026-03-07T19:00:02,2026-03-07T20:23:33,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-42.3,58.7,16.0,VRLA12v_LeadAcid
+106507,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,37,2026-03-04T19:00:02,2026-03-04T20:24:56,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-42.5,60.0,16.0,VRLA12v_LeadAcid
+16034,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,1,2026-03-01T19:00:03,2026-03-01T20:26:29,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-41.9,60.2,16.0,VRLA12v_LeadAcid
+16035,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,2,2026-02-26T19:00:03,2026-02-26T20:43:33,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-35.7,61.5,17.0,VRLA12v_LeadAcid
+16036,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,3,2026-02-23T19:00:03,2026-02-23T20:29:19,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-40.9,60.8,17.0,VRLA12v_LeadAcid
+16037,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,4,2026-02-20T19:00:03,2026-02-20T20:33:28,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-39.2,60.9,18.0,VRLA12v_LeadAcid
+16038,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,5,2026-02-17T19:00:02,2026-02-17T20:33:52,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-39.4,61.5,17.0,VRLA12v_LeadAcid
+16039,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,6,2026-02-14T19:00:02,2026-02-14T20:28:22,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-41.5,61.0,17.0,VRLA12v_LeadAcid
+16040,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,7,2026-02-11T19:00:02,2026-02-11T20:27:04,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-42.3,61.3,16.0,VRLA12v_LeadAcid
+16041,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,8,2026-02-08T19:00:02,2026-02-08T20:34:41,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-38.6,60.8,14.0,VRLA12v_LeadAcid
+16042,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,9,2026-02-05T19:00:02,2026-02-05T20:31:23,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-40.2,61.1,14.0,VRLA12v_LeadAcid
+16043,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,10,2026-02-02T19:00:02,2026-02-02T20:29:03,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-41.1,60.9,13.0,VRLA12v_LeadAcid
+16044,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,11,2026-01-30T19:00:03,2026-01-30T20:32:35,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-40.0,61.6,13.0,VRLA12v_LeadAcid
+16045,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,12,2026-01-27T19:00:02,2026-01-27T20:10:06,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,48.8,-45.7,53.3,13.0,VRLA12v_LeadAcid
+16046,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,13,2026-01-24T19:00:02,2026-01-24T20:35:48,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-38.6,61.5,12.0,VRLA12v_LeadAcid
+16047,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,14,2026-01-21T19:00:03,2026-01-21T19:22:55,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.4,-45.5,17.3,12.0,VRLA12v_LeadAcid
+16048,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,15,2026-01-18T19:00:02,2026-01-18T20:50:24,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-38.0,69.8,15.0,VRLA12v_LeadAcid
+16049,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,16,2026-01-15T19:00:03,2026-01-15T20:48:47,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-39.1,70.8,17.0,VRLA12v_LeadAcid
+16050,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,17,2026-01-12T19:00:02,2026-01-12T20:40:49,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-41.5,69.5,17.0,VRLA12v_LeadAcid
+16051,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,18,2026-01-09T19:00:01,2026-01-09T20:49:02,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-39.5,71.7,17.0,VRLA12v_LeadAcid
+16052,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,19,2026-01-06T19:00:02,2026-01-06T20:49:47,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-39.8,72.7,17.0,VRLA12v_LeadAcid
+16053,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,20,2026-01-03T19:00:02,2026-01-03T20:56:48,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-37.7,73.2,17.0,VRLA12v_LeadAcid
+16054,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,21,2025-12-31T19:00:02,2025-12-31T20:58:34,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-37.6,74.1,17.0,VRLA12v_LeadAcid
+16055,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,22,2025-12-28T19:00:02,2025-12-28T20:57:14,Timed Self-Check,Low Capacity,Test Result Normal,47.5,-38.0,74.1,18.0,VRLA12v_LeadAcid
+16056,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,23,2025-12-25T19:00:02,2025-12-25T20:57:22,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-38.4,75.0,18.0,VRLA12v_LeadAcid
+16057,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,24,2025-12-22T19:00:02,2025-12-22T20:56:54,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-39.2,76.1,18.0,VRLA12v_LeadAcid
+16058,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,25,2025-12-19T19:00:03,2025-12-19T20:59:09,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-38.6,76.5,18.0,VRLA12v_LeadAcid
+16059,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,26,2025-12-16T19:00:03,2025-12-16T20:58:01,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-39.0,76.4,17.0,VRLA12v_LeadAcid
+16060,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,27,2025-12-13T19:00:02,2025-12-13T21:02:13,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-38.1,77.4,17.0,VRLA12v_LeadAcid
+16061,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,28,2025-12-10T19:00:02,2025-12-10T20:55:28,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-40.7,78.2,18.0,VRLA12v_LeadAcid
+16062,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,29,2025-12-07T19:00:02,2025-12-07T21:06:06,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-38.2,80.2,17.0,VRLA12v_LeadAcid
+16063,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,30,2025-12-04T19:00:03,2025-12-04T21:02:06,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-39.6,80.4,17.0,VRLA12v_LeadAcid
+16064,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,31,2025-12-01T19:00:03,2025-12-01T21:39:53,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-32.0,85.1,18.0,VRLA12v_LeadAcid
+16065,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,32,2025-11-28T19:00:03,2025-11-28T21:32:44,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-33.8,85.7,20.0,VRLA12v_LeadAcid
+16066,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,33,2025-11-25T19:00:02,2025-11-25T21:37:59,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-33.0,86.7,20.0,VRLA12v_LeadAcid
+16067,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,34,2025-11-22T19:00:03,2025-11-22T21:56:37,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-29.9,87.8,21.0,VRLA12v_LeadAcid
+16068,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,35,2025-11-19T19:00:03,2025-11-19T21:47:27,Timed Self-Check,Low Capacity,Test Result Normal,47.9,-31.5,87.8,21.0,VRLA12v_LeadAcid
+16069,10.63.87.196,SBD._1hor_SoyomboTower_Indoor_MP21_ULN,36,2025-11-16T19:00:03,2025-11-16T21:49:07,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-31.0,87.1,22.0,VRLA12v_LeadAcid

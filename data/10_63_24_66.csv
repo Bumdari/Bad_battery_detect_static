@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+171291,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,38,2026-03-08T19:00:03,2026-03-08T20:35:30,Timed Self-Check,Low Capacity,Test Result Normal,49.4,-38.4,61.0,20.0,VRLA12v_LeadAcid
+115704,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,37,2026-03-05T19:00:03,2026-03-05T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.7,-24.5,73.6,20.0,VRLA12v_LeadAcid
+7054,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,1,2026-03-02T19:00:02,2026-03-02T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.4,-24.1,72.4,20.0,VRLA12v_LeadAcid
+7055,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,2,2026-02-27T19:00:02,2026-02-27T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.7,-24.2,72.5,20.0,VRLA12v_LeadAcid
+7056,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,3,2026-02-24T19:00:02,2026-02-24T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,49.6,-24.7,74.0,20.0,VRLA12v_LeadAcid
+7057,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,4,2026-02-21T19:00:02,2026-02-21T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.5,-24.1,72.4,20.0,VRLA12v_LeadAcid
+7058,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,5,2026-02-18T19:00:02,2026-02-18T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.8,-24.0,72.0,20.0,VRLA12v_LeadAcid
+7059,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,6,2026-02-15T19:00:02,2026-02-15T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,49.5,-24.1,72.3,20.0,VRLA12v_LeadAcid
+7060,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,7,2026-02-12T19:00:02,2026-02-12T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,49.5,-24.3,72.9,20.0,VRLA12v_LeadAcid
+7061,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,8,2026-02-09T19:00:02,2026-02-09T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,49.7,-24.1,72.3,20.0,VRLA12v_LeadAcid
+7062,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,9,2026-02-06T19:00:02,2026-02-06T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,49.4,-24.6,73.8,20.0,VRLA12v_LeadAcid
+7063,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,10,2026-02-03T19:00:02,2026-02-03T19:19:17,Timed Self-Check,Low Capacity,Test Result Normal,48.2,-36.6,11.7,17.0,VRLA12v_LeadAcid
+7064,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,11,2026-01-31T19:00:03,2026-01-31T19:26:13,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-24.7,10.7,16.0,VRLA12v_LeadAcid
+7065,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,12,2026-01-28T19:00:03,2026-01-28T19:24:15,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.5,-23.9,9.6,17.0,VRLA12v_LeadAcid
+7066,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,13,2026-01-25T19:00:03,2026-01-25T19:31:41,Timed Self-Check,Low Capacity,Test Result Normal,46.9,-24.1,12.7,15.0,VRLA12v_LeadAcid
+7067,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,14,2026-01-22T19:00:03,2026-01-22T19:18:05,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-30.5,9.1,17.0,VRLA12v_LeadAcid
+7068,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,15,2026-01-19T19:00:02,2026-01-19T19:21:39,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-24.4,8.8,16.0,VRLA12v_LeadAcid
+7069,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,16,2026-01-16T19:00:02,2026-01-16T19:22:22,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-24.9,9.3,16.0,VRLA12v_LeadAcid
+7070,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,17,2026-01-13T19:00:03,2026-01-13T19:22:30,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-24.9,9.3,15.0,VRLA12v_LeadAcid
+7071,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,18,2026-01-10T19:00:02,2026-01-10T19:21:59,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-25.2,9.2,15.0,VRLA12v_LeadAcid
+7072,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,19,2026-01-07T19:00:02,2026-01-07T19:22:17,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-24.8,9.2,17.0,VRLA12v_LeadAcid
+7073,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,20,2026-01-04T19:00:03,2026-01-04T19:21:35,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-25.2,9.0,16.0,VRLA12v_LeadAcid
+7074,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,21,2026-01-01T19:00:01,2026-01-01T19:20:14,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-26.3,8.8,18.0,VRLA12v_LeadAcid
+7075,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,22,2025-12-29T19:00:03,2025-12-29T19:18:21,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-27.0,8.2,15.0,VRLA12v_LeadAcid
+7076,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,23,2025-12-26T19:00:02,2025-12-26T19:19:39,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-26.0,8.5,18.0,VRLA12v_LeadAcid
+7077,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,24,2025-12-23T19:00:03,2025-12-23T19:19:26,Timed Self-Check,Low Capacity,Test Result Normal,46.8,-27.7,8.9,16.0,VRLA12v_LeadAcid
+7078,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,25,2025-12-20T19:00:02,2025-12-20T19:19:24,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-28.6,9.2,17.0,VRLA12v_LeadAcid
+7079,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,26,2025-12-17T19:00:03,2025-12-17T19:19:53,Timed Self-Check,Low Capacity,Test Result Normal,45.8,-28.0,9.2,16.0,VRLA12v_LeadAcid
+7080,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,27,2025-12-14T19:00:02,2025-12-14T19:19:58,Timed Self-Check,Low Capacity,Test Result Normal,46.3,-27.7,9.2,18.0,VRLA12v_LeadAcid
+7081,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,28,2025-12-11T19:00:02,2025-12-11T19:19:24,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-28.3,9.1,15.0,VRLA12v_LeadAcid
+7082,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,29,2025-12-08T19:00:02,2025-12-08T19:19:05,Timed Self-Check,Low Capacity,Test Result Normal,46.4,-28.0,8.9,18.0,VRLA12v_LeadAcid
+7083,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,30,2025-12-05T19:00:01,2025-12-05T19:18:50,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-28.6,8.9,17.0,VRLA12v_LeadAcid
+7084,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,31,2025-12-02T19:00:02,2025-12-02T19:18:55,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-28.6,9.0,18.0,VRLA12v_LeadAcid
+7085,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,32,2025-11-29T19:00:02,2025-11-29T19:18:58,Timed Self-Check,Low Capacity,Test Result Normal,46.1,-28.6,9.0,16.0,VRLA12v_LeadAcid
+7086,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,33,2025-11-26T19:00:02,2025-11-26T19:18:14,Timed Self-Check,Low Capacity,Test Result Normal,46.1,-29.8,9.0,16.0,VRLA12v_LeadAcid
+7087,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,34,2025-11-23T19:00:03,2025-11-23T19:19:39,Timed Self-Check,Low Capacity,Test Result Normal,46.3,-27.7,9.0,16.0,VRLA12v_LeadAcid
+7088,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,35,2025-11-20T19:00:02,2025-11-20T19:19:56,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-27.6,9.1,18.0,VRLA12v_LeadAcid
+7089,10.63.24.66,HUD._8Hor_SteppeArena_Indoor_SMP22_ULN,36,2025-11-17T19:00:03,2025-11-17T19:19:53,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-27.9,9.2,19.0,VRLA12v_LeadAcid

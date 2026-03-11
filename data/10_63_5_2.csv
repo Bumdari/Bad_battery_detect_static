@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+213481,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,39,2026-03-10T19:00:02,2026-03-10T20:55:00,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-84.9,162.5,6.0,VRLA12v_LeadAcid
+156862,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,38,2026-03-07T19:00:48,2026-03-07T19:15:16,Timed Self-Check,Low temperature,Abnormal end,49.8,-88.4,21.3,5.0,VRLA12v_LeadAcid
+101586,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,37,2026-03-04T19:00:02,2026-03-04T20:04:50,Timed Self-Check,Low temperature,Abnormal end,48.8,-89.0,95.9,5.0,VRLA12v_LeadAcid
+11142,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,1,2026-03-01T19:00:03,2026-03-01T21:11:55,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-74.9,164.3,12.0,VRLA12v_LeadAcid
+11143,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,2,2026-02-26T19:00:02,2026-02-26T20:59:37,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-75.9,151.1,12.0,VRLA12v_LeadAcid
+11144,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,3,2026-02-23T19:00:03,2026-02-23T21:16:40,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-73.7,167.6,13.0,VRLA12v_LeadAcid
+11145,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,4,2026-02-20T19:00:02,2026-02-20T19:00:46,Timed Self-Check,Low temperature,Abnormal end,51.9,-53.4,0.7,5.0,VRLA12v_LeadAcid
+11146,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,5,2026-02-17T19:00:03,2026-02-17T19:33:51,Timed Self-Check,Low temperature,Abnormal end,50.0,-60.9,34.3,5.0,VRLA12v_LeadAcid
+11147,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,6,2026-02-14T19:00:02,2026-02-14T21:07:54,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-72.1,153.4,13.0,VRLA12v_LeadAcid
+11148,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,7,2026-02-11T19:00:02,2026-02-11T19:13:36,Timed Self-Check,Low temperature,Abnormal end,49.9,-83.7,18.9,5.0,VRLA12v_LeadAcid
+11149,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,8,2026-02-08T19:00:03,2026-02-08T19:46:56,Timed Self-Check,Low temperature,Abnormal end,49.0,-81.6,63.7,5.0,VRLA12v_LeadAcid
+11150,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,9,2026-02-05T19:00:02,2026-02-05T21:08:00,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-81.8,174.2,10.0,VRLA12v_LeadAcid
+11151,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,10,2026-02-02T19:00:02,2026-02-02T19:25:31,Timed Self-Check,Low temperature,Abnormal end,49.6,-82.3,34.9,4.0,VRLA12v_LeadAcid
+11152,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,11,2026-01-30T19:00:02,2026-01-30T20:36:01,Timed Self-Check,Low temperature,Abnormal end,48.3,-78.3,124.9,4.0,VRLA12v_LeadAcid
+11153,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,12,2026-01-27T19:00:03,2026-01-27T21:25:35,Timed Self-Check,Low Capacity,Test Result Normal,46.9,-73.4,177.7,13.0,VRLA12v_LeadAcid
+11154,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,13,2026-01-24T19:00:02,2026-01-24T21:08:53,Timed Self-Check,Low Capacity,Test Result Normal,47.5,-78.0,167.2,10.0,VRLA12v_LeadAcid
+11155,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,14,2026-01-21T19:00:03,2026-01-21T21:21:36,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-79.1,186.4,9.0,VRLA12v_LeadAcid
+11156,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,15,2026-01-18T19:00:03,2026-01-18T19:15:15,Timed Self-Check,Low temperature,Abnormal end,49.8,-70.5,17.8,4.0,VRLA12v_LeadAcid
+11157,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,16,2026-01-15T19:00:02,2026-01-15T21:32:37,Timed Self-Check,Low Capacity,Test Result Normal,46.9,-72.9,185.1,9.0,VRLA12v_LeadAcid
+11158,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,17,2026-01-12T19:00:03,2026-01-12T20:06:12,Timed Self-Check,Low temperature,Abnormal end,49.1,-69.3,76.3,4.0,VRLA12v_LeadAcid
+11159,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,18,2026-01-09T19:00:02,2026-01-09T20:39:42,Timed Self-Check,Low temperature,Abnormal end,48.5,-69.8,115.6,4.0,VRLA12v_LeadAcid
+11160,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,19,2026-01-06T19:00:03,2026-01-06T19:01:05,Timed Self-Check,Low temperature,Abnormal end,51.1,-62.2,1.1,5.0,VRLA12v_LeadAcid
+11161,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,20,2026-01-03T19:00:02,2026-01-03T21:46:52,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-66.9,185.7,13.0,VRLA12v_LeadAcid
+11162,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,21,2025-12-31T19:00:02,2025-12-31T19:43:22,Timed Self-Check,Low temperature,Abnormal end,50.2,-55.5,40.0,5.0,VRLA12v_LeadAcid
+11163,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,22,2025-12-28T19:00:02,2025-12-28T21:28:54,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-68.2,169.0,13.0,VRLA12v_LeadAcid
+11164,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,23,2025-12-25T19:00:02,2025-12-25T21:33:34,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-67.7,172.9,5.0,VRLA12v_LeadAcid
+11165,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,24,2025-12-22T19:00:03,2025-12-22T20:12:03,Timed Self-Check,Low temperature,Abnormal end,49.4,-71.4,85.5,4.0,VRLA12v_LeadAcid
+11166,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,25,2025-12-19T19:00:03,2025-12-19T21:32:25,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-73.1,185.4,11.0,VRLA12v_LeadAcid
+11167,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,26,2025-12-16T19:00:03,2025-12-16T21:24:38,Timed Self-Check,Low temperature,Abnormal end,47.8,-71.7,172.6,5.0,VRLA12v_LeadAcid
+11168,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,27,2025-12-13T19:00:03,2025-12-13T21:57:31,Timed Self-Check,Low Capacity,Test Result Normal,46.9,-66.2,195.3,12.0,VRLA12v_LeadAcid
+11169,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,28,2025-12-10T19:00:02,2025-12-10T21:46:30,Timed Self-Check,Low Capacity,Test Result Normal,46.8,-72.3,200.3,13.0,VRLA12v_LeadAcid
+11170,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,29,2025-12-07T19:00:03,2025-12-07T19:23:42,Timed Self-Check,Low temperature,Abnormal end,49.9,-74.4,29.3,5.0,VRLA12v_LeadAcid
+11171,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,30,2025-12-04T19:00:03,2025-12-04T20:50:43,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-82.5,151.9,,VRLA12v_LeadAcid
+11172,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,31,2025-12-01T19:00:02,2025-12-01T21:22:03,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-75.1,177.4,,VRLA12v_LeadAcid
+11173,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,32,2025-11-28T19:00:03,2025-11-28T22:08:24,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-58.7,184.1,,VRLA12v_LeadAcid
+11174,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,33,2025-11-25T19:00:03,2025-11-25T21:18:08,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-58.9,135.4,,VRLA12v_LeadAcid
+11175,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,34,2025-11-22T19:00:03,2025-11-22T21:29:53,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-57.4,143.1,,VRLA12v_LeadAcid
+11176,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,35,2025-11-19T19:00:02,2025-11-19T21:28:52,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-58.7,145.4,,VRLA12v_LeadAcid
+11177,10.63.5.2,BZD._14hor_CentralMall_MP22_ULN,36,2025-11-16T19:00:02,2025-11-16T19:01:18,Timed Self-Check,Low Capacity,Test Result Normal,45.9,-58.8,1.2,,VRLA12v_LeadAcid

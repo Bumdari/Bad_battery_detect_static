@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+171102,10.63.235.187,DAR.Nomgon_MW305,38,2026-03-08T19:00:00,2026-03-08T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.4,-42.9,128.8,12.0,VRLA12v_LeadAcid
+115520,10.63.235.187,DAR.Nomgon_MW305,37,2026-03-05T19:00:01,2026-03-05T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.2,-43.9,131.7,8.0,VRLA12v_LeadAcid
+6872,10.63.235.187,DAR.Nomgon_MW305,1,2026-02-19T19:00:00,2026-02-19T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.0,-46.9,140.7,10.0,VRLA12v_LeadAcid
+6873,10.63.235.187,DAR.Nomgon_MW305,2,2026-02-16T19:00:01,2026-02-16T22:00:22,Scheduled test,Exceeded time limit,Test normal,47.9,-44.6,133.9,6.0,VRLA12v_LeadAcid
+6874,10.63.235.187,DAR.Nomgon_MW305,3,2026-02-10T19:00:00,2026-02-10T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.5,-42.6,127.8,9.0,VRLA12v_LeadAcid
+6875,10.63.235.187,DAR.Nomgon_MW305,4,2026-02-07T19:00:01,2026-02-07T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.9,-44.7,134.2,6.0,VRLA12v_LeadAcid
+6876,10.63.235.187,DAR.Nomgon_MW305,5,2026-02-02T19:00:01,2026-02-02T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.2,-44.7,134.3,7.0,VRLA12v_LeadAcid
+6877,10.63.235.187,DAR.Nomgon_MW305,6,2026-01-30T19:00:00,2026-01-30T22:00:22,Scheduled test,Exceeded time limit,Test normal,47.9,-44.9,134.8,6.0,VRLA12v_LeadAcid
+6878,10.63.235.187,DAR.Nomgon_MW305,7,2026-01-27T19:00:01,2026-01-27T19:49:25,Scheduled test,Low temperature,Abnormal end,50.0,-41.2,33.8,5.0,VRLA12v_LeadAcid
+6879,10.63.235.187,DAR.Nomgon_MW305,8,2026-01-13T19:00:01,2026-01-13T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.2,-44.3,133.1,5.0,VRLA12v_LeadAcid
+6880,10.63.235.187,DAR.Nomgon_MW305,9,2026-01-09T19:00:00,2026-01-09T19:51:35,Scheduled test,Low temperature,Abnormal end,49.9,-43.2,37.1,5.0,VRLA12v_LeadAcid
+6881,10.63.235.187,DAR.Nomgon_MW305,10,2026-01-06T19:00:01,2026-01-06T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.0,-46.5,139.7,8.0,VRLA12v_LeadAcid
+6882,10.63.235.187,DAR.Nomgon_MW305,11,2026-01-03T19:00:01,2026-01-03T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.0,-47.1,141.3,8.0,VRLA12v_LeadAcid
+6883,10.63.235.187,DAR.Nomgon_MW305,12,2025-12-31T19:00:01,2025-12-31T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.0,-45.7,137.0,6.0,VRLA12v_LeadAcid
+6884,10.63.235.187,DAR.Nomgon_MW305,13,2025-12-28T19:00:01,2025-12-28T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.9,-46.7,140.1,6.0,VRLA12v_LeadAcid
+6885,10.63.235.187,DAR.Nomgon_MW305,14,2025-12-25T19:00:00,2025-12-25T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.9,-46.3,138.9,6.0,VRLA12v_LeadAcid
+6886,10.63.235.187,DAR.Nomgon_MW305,15,2025-12-21T19:00:01,2025-12-21T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.8,-47.1,141.2,6.0,VRLA12v_LeadAcid
+6887,10.63.235.187,DAR.Nomgon_MW305,16,2025-12-18T19:00:01,2025-12-18T20:41:11,Scheduled test,Low temperature,Abnormal end,49.4,-43.7,73.5,5.0,VRLA12v_LeadAcid
+6888,10.63.235.187,DAR.Nomgon_MW305,17,2025-12-15T19:00:00,2025-12-15T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.4,-43.2,129.7,9.0,VRLA12v_LeadAcid
+6889,10.63.235.187,DAR.Nomgon_MW305,18,2025-12-12T19:00:00,2025-12-12T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.1,-43.7,131.2,6.0,VRLA12v_LeadAcid
+6890,10.63.235.187,DAR.Nomgon_MW305,19,2025-12-06T19:00:02,2025-12-06T22:00:26,Scheduled test,Exceeded time limit,Test normal,48.2,-44.1,132.3,6.0,VRLA12v_LeadAcid
+6891,10.63.235.187,DAR.Nomgon_MW305,20,2025-12-03T19:00:00,2025-12-03T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.2,-42.2,126.6,6.0,VRLA12v_LeadAcid
+6892,10.63.235.187,DAR.Nomgon_MW305,21,2025-11-28T19:00:00,2025-11-28T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.4,-44.2,132.6,8.0,VRLA12v_LeadAcid
+6893,10.63.235.187,DAR.Nomgon_MW305,22,2024-08-21T19:00:00,2024-08-21T22:00:22,Scheduled test,Exceeded time limit,Test normal,49.2,-48.9,146.6,22.0,VRLA12v_LeadAcid
+6894,10.63.235.187,DAR.Nomgon_MW305,23,2024-08-18T19:00:01,2024-08-18T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.3,-49.4,148.2,25.0,VRLA12v_LeadAcid
+6895,10.63.235.187,DAR.Nomgon_MW305,24,2024-08-15T19:00:02,2024-08-15T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.2,-48.4,145.3,23.0,VRLA12v_LeadAcid
+6896,10.63.235.187,DAR.Nomgon_MW305,25,2024-08-12T19:00:00,2024-08-12T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.3,-48.6,145.9,28.0,VRLA12v_LeadAcid
+6897,10.63.235.187,DAR.Nomgon_MW305,26,2024-08-09T19:00:00,2024-08-09T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.3,-49.4,148.2,25.0,VRLA12v_LeadAcid
+6898,10.63.235.187,DAR.Nomgon_MW305,27,2024-08-06T19:00:00,2024-08-06T22:00:21,Scheduled test,Exceeded time limit,Test normal,49.4,-50.2,150.7,29.0,VRLA12v_LeadAcid
+6899,10.63.235.187,DAR.Nomgon_MW305,28,2024-08-03T19:00:01,2024-08-03T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.3,-49.4,148.1,26.0,VRLA12v_LeadAcid
+6900,10.63.235.187,DAR.Nomgon_MW305,29,2024-07-31T19:00:00,2024-07-31T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.2,-49.7,149.0,27.0,VRLA12v_LeadAcid
+6901,10.63.235.187,DAR.Nomgon_MW305,30,2024-07-28T19:00:02,2024-07-28T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.3,-49.5,148.6,27.0,VRLA12v_LeadAcid
+6902,10.63.235.187,DAR.Nomgon_MW305,31,2024-07-25T19:00:00,2024-07-25T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.3,-46.9,140.9,25.0,VRLA12v_LeadAcid
+6903,10.63.235.187,DAR.Nomgon_MW305,32,2024-07-22T19:00:00,2024-07-22T22:00:22,Scheduled test,Exceeded time limit,Test normal,49.4,-47.5,142.4,27.0,VRLA12v_LeadAcid
+6904,10.63.235.187,DAR.Nomgon_MW305,33,2024-07-19T19:00:01,2024-07-19T22:00:22,Scheduled test,Exceeded time limit,Test normal,49.5,-48.1,144.3,29.0,VRLA12v_LeadAcid
+6905,10.63.235.187,DAR.Nomgon_MW305,34,2024-07-16T19:00:01,2024-07-16T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.5,-46.2,138.5,27.0,VRLA12v_LeadAcid
+6906,10.63.235.187,DAR.Nomgon_MW305,35,2024-07-13T19:00:01,2024-07-13T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.3,-48.5,145.5,26.0,VRLA12v_LeadAcid
+6907,10.63.235.187,DAR.Nomgon_MW305,36,2024-07-10T19:00:01,2024-07-10T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.4,-48.9,146.8,27.0,VRLA12v_LeadAcid

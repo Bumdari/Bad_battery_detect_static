@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+12119,10.63.56.210,HEN.Murun_NetcomUul_ISS100,1,2025-11-11T19:00:03,2025-11-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.6,-5.5,16.5,5.0,VRLA12v_LeadAcid
+12120,10.63.56.210,HEN.Murun_NetcomUul_ISS100,2,2025-11-05T19:00:03,2025-11-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.8,-5.6,16.8,9.0,VRLA12v_LeadAcid
+12121,10.63.56.210,HEN.Murun_NetcomUul_ISS100,3,2025-11-02T19:00:02,2025-11-02T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.0,-5.6,16.7,9.0,VRLA12v_LeadAcid
+12122,10.63.56.210,HEN.Murun_NetcomUul_ISS100,4,2025-10-30T19:00:02,2025-10-30T22:00:10,Scheduled test,Exceeded time limit,Test normal,50.2,-5.5,16.6,7.0,VRLA12v_LeadAcid
+12123,10.63.56.210,HEN.Murun_NetcomUul_ISS100,5,2025-10-27T19:00:03,2025-10-27T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.9,-5.6,16.9,6.0,VRLA12v_LeadAcid
+12124,10.63.56.210,HEN.Murun_NetcomUul_ISS100,6,2025-10-24T19:00:03,2025-10-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.3,-5.6,16.9,6.0,VRLA12v_LeadAcid
+12125,10.63.56.210,HEN.Murun_NetcomUul_ISS100,7,2025-10-20T19:00:02,2025-10-20T21:31:29,Scheduled test,Low temperature,Abnormal end,50.6,-5.7,14.3,5.0,VRLA12v_LeadAcid
+12126,10.63.56.210,HEN.Murun_NetcomUul_ISS100,8,2025-10-15T19:00:02,2025-10-15T22:00:10,Scheduled test,Exceeded time limit,Test normal,51.1,-5.6,16.7,7.0,VRLA12v_LeadAcid
+12127,10.63.56.210,HEN.Murun_NetcomUul_ISS100,9,2025-10-12T19:00:02,2025-10-12T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.0,-5.7,17.2,11.0,VRLA12v_LeadAcid
+12128,10.63.56.210,HEN.Murun_NetcomUul_ISS100,10,2025-10-09T19:00:02,2025-10-09T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.0,-5.8,17.5,12.0,VRLA12v_LeadAcid
+12129,10.63.56.210,HEN.Murun_NetcomUul_ISS100,11,2025-10-06T19:00:02,2025-10-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-5.5,16.6,13.0,VRLA12v_LeadAcid
+12130,10.63.56.210,HEN.Murun_NetcomUul_ISS100,12,2025-10-03T19:00:03,2025-10-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-6.1,18.2,17.0,VRLA12v_LeadAcid
+12131,10.63.56.210,HEN.Murun_NetcomUul_ISS100,13,2025-09-30T19:00:03,2025-09-30T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-5.8,17.5,19.0,VRLA12v_LeadAcid
+12132,10.63.56.210,HEN.Murun_NetcomUul_ISS100,14,2025-09-27T19:00:02,2025-09-27T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.4,-5.7,17.1,19.0,VRLA12v_LeadAcid
+12133,10.63.56.210,HEN.Murun_NetcomUul_ISS100,15,2025-09-24T19:00:03,2025-09-24T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-5.7,17.1,17.0,VRLA12v_LeadAcid
+12134,10.63.56.210,HEN.Murun_NetcomUul_ISS100,16,2025-09-21T19:00:03,2025-09-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-6.4,19.3,18.0,VRLA12v_LeadAcid
+12135,10.63.56.210,HEN.Murun_NetcomUul_ISS100,17,2025-09-18T19:00:03,2025-09-18T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-5.7,17.2,18.0,VRLA12v_LeadAcid
+12136,10.63.56.210,HEN.Murun_NetcomUul_ISS100,18,2025-09-15T19:00:03,2025-09-15T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.1,-5.8,17.3,13.0,VRLA12v_LeadAcid
+12137,10.63.56.210,HEN.Murun_NetcomUul_ISS100,19,2025-09-12T19:00:03,2025-09-12T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-5.8,17.3,18.0,VRLA12v_LeadAcid
+12138,10.63.56.210,HEN.Murun_NetcomUul_ISS100,20,2025-09-09T19:00:03,2025-09-09T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-5.9,17.7,18.0,VRLA12v_LeadAcid
+12139,10.63.56.210,HEN.Murun_NetcomUul_ISS100,21,2025-09-06T19:00:02,2025-09-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-5.7,17.0,17.0,VRLA12v_LeadAcid
+12140,10.63.56.210,HEN.Murun_NetcomUul_ISS100,22,2025-09-03T19:00:02,2025-09-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.4,-5.6,16.7,22.0,VRLA12v_LeadAcid
+12141,10.63.56.210,HEN.Murun_NetcomUul_ISS100,23,2025-08-31T19:00:02,2025-08-31T22:00:12,Scheduled test,Exceeded time limit,Test normal,50.9,-5.6,16.9,21.0,VRLA12v_LeadAcid
+12142,10.63.56.210,HEN.Murun_NetcomUul_ISS100,24,2025-08-28T19:00:03,2025-08-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.7,-5.8,17.3,22.0,VRLA12v_LeadAcid
+12143,10.63.56.210,HEN.Murun_NetcomUul_ISS100,25,2025-08-25T19:00:03,2025-08-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.7,-5.8,17.5,24.0,VRLA12v_LeadAcid
+12144,10.63.56.210,HEN.Murun_NetcomUul_ISS100,26,2025-08-22T19:00:02,2025-08-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,50.8,-5.8,17.4,21.0,VRLA12v_LeadAcid
+12145,10.63.56.210,HEN.Murun_NetcomUul_ISS100,27,2025-08-19T19:00:02,2025-08-19T22:00:11,Scheduled test,Exceeded time limit,Test normal,51.0,-5.8,17.3,25.0,VRLA12v_LeadAcid
+12146,10.63.56.210,HEN.Murun_NetcomUul_ISS100,28,2025-08-16T19:00:02,2025-08-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,51.1,-5.8,17.3,25.0,VRLA12v_LeadAcid
+12147,10.63.56.210,HEN.Murun_NetcomUul_ISS100,29,2025-08-13T19:00:02,2025-08-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,51.3,-5.7,17.2,21.0,VRLA12v_LeadAcid
+12148,10.63.56.210,HEN.Murun_NetcomUul_ISS100,30,2025-08-06T19:00:02,2025-08-06T19:14:40,Scheduled test,Fault alarm,Abnormal end,51.9,-5.6,1.4,24.0,VRLA12v_LeadAcid
+12149,10.63.56.210,HEN.Murun_NetcomUul_ISS100,31,2025-08-03T19:00:03,2025-08-03T20:20:25,Scheduled test,Fault alarm,Abnormal end,51.7,-5.6,7.5,25.0,VRLA12v_LeadAcid
+12150,10.63.56.210,HEN.Murun_NetcomUul_ISS100,32,2025-07-28T19:00:03,2025-07-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.2,-5.9,17.7,17.0,VRLA12v_LeadAcid
+12151,10.63.56.210,HEN.Murun_NetcomUul_ISS100,33,2025-07-25T19:00:03,2025-07-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-5.8,17.5,21.0,VRLA12v_LeadAcid
+12152,10.63.56.210,HEN.Murun_NetcomUul_ISS100,34,2025-07-22T19:00:03,2025-07-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-5.9,17.6,25.0,VRLA12v_LeadAcid
+12153,10.63.56.210,HEN.Murun_NetcomUul_ISS100,35,2025-07-19T19:00:03,2025-07-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-5.8,17.5,22.0,VRLA12v_LeadAcid
+12154,10.63.56.210,HEN.Murun_NetcomUul_ISS100,36,2025-07-16T19:00:02,2025-07-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-5.9,17.7,25.0,VRLA12v_LeadAcid

@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+11611,10.63.51.82,SUH.Halzan_Holboo_ID150,1,2025-11-06T19:00:00,2025-11-06T19:04:39,Scheduled test,Low temperature,Abnormal end,49.8,-25.1,1.9,5.0,VRLA12v_LeadAcid
+11612,10.63.51.82,SUH.Halzan_Holboo_ID150,2,2025-11-02T19:00:01,2025-11-02T21:07:13,Scheduled test,Low capacity,Test normal,47.6,-24.5,51.7,6.0,VRLA12v_LeadAcid
+11613,10.63.51.82,SUH.Halzan_Holboo_ID150,3,2025-10-28T19:00:01,2025-10-28T21:05:40,Scheduled test,Low capacity,Test normal,47.7,-25.2,52.7,5.0,VRLA12v_LeadAcid
+11614,10.63.51.82,SUH.Halzan_Holboo_ID150,4,2025-10-13T19:00:01,2025-10-13T19:00:03,Scheduled test,Low temperature,Abnormal end,55.1,0.0,0.0,5.0,VRLA12v_LeadAcid
+11615,10.63.51.82,SUH.Halzan_Holboo_ID150,5,2025-10-10T19:00:00,2025-10-10T21:28:55,Scheduled test,Low capacity,Test normal,48.1,-23.9,59.2,15.0,VRLA12v_LeadAcid
+11616,10.63.51.82,SUH.Halzan_Holboo_ID150,6,2025-10-07T19:00:01,2025-10-07T21:20:49,Scheduled test,Low capacity,Test normal,47.8,-24.2,56.7,8.0,VRLA12v_LeadAcid
+11617,10.63.51.82,SUH.Halzan_Holboo_ID150,7,2025-10-04T19:00:00,2025-10-04T21:14:31,Scheduled test,Low capacity,Test normal,48.4,-25.0,55.9,15.0,VRLA12v_LeadAcid
+11618,10.63.51.82,SUH.Halzan_Holboo_ID150,8,2025-10-01T19:00:00,2025-10-01T21:14:06,Scheduled test,Low capacity,Test normal,48.4,-25.3,56.5,20.0,VRLA12v_LeadAcid
+11619,10.63.51.82,SUH.Halzan_Holboo_ID150,9,2025-09-28T19:00:01,2025-09-28T21:20:49,Scheduled test,Low capacity,Test normal,48.5,-24.9,58.2,20.0,VRLA12v_LeadAcid
+11620,10.63.51.82,SUH.Halzan_Holboo_ID150,10,2025-09-25T19:00:01,2025-09-25T21:19:43,Scheduled test,Low capacity,Test normal,48.5,-25.7,59.6,16.0,VRLA12v_LeadAcid
+11621,10.63.51.82,SUH.Halzan_Holboo_ID150,11,2025-09-22T19:00:01,2025-09-22T21:32:10,Scheduled test,Low capacity,Test normal,48.4,-24.5,61.9,18.0,VRLA12v_LeadAcid
+11622,10.63.51.82,SUH.Halzan_Holboo_ID150,12,2025-09-19T19:00:00,2025-09-19T21:33:01,Scheduled test,Low capacity,Test normal,47.9,-25.7,65.3,16.0,VRLA12v_LeadAcid
+11623,10.63.51.82,SUH.Halzan_Holboo_ID150,13,2025-09-16T19:00:00,2025-09-16T21:38:42,Scheduled test,Low capacity,Test normal,48.4,-23.5,61.9,13.0,VRLA12v_LeadAcid
+11624,10.63.51.82,SUH.Halzan_Holboo_ID150,14,2025-09-13T19:00:01,2025-09-13T21:51:09,Scheduled test,Low capacity,Test normal,48.3,-24.2,68.8,19.0,VRLA12v_LeadAcid
+11625,10.63.51.82,SUH.Halzan_Holboo_ID150,15,2025-09-10T19:00:01,2025-09-10T21:47:30,Scheduled test,Low capacity,Test normal,48.3,-24.8,69.0,21.0,VRLA12v_LeadAcid
+11626,10.63.51.82,SUH.Halzan_Holboo_ID150,16,2025-09-07T19:00:01,2025-09-07T21:49:32,Scheduled test,Low capacity,Test normal,48.2,-23.9,67.3,16.0,VRLA12v_LeadAcid
+11627,10.63.51.82,SUH.Halzan_Holboo_ID150,17,2025-09-04T19:00:01,2025-09-04T21:48:40,Scheduled test,Low capacity,Test normal,48.6,-25.1,70.3,25.0,VRLA12v_LeadAcid
+11628,10.63.51.82,SUH.Halzan_Holboo_ID150,18,2025-09-01T19:00:01,2025-09-01T21:53:11,Scheduled test,Low capacity,Test normal,48.9,-23.4,67.4,23.0,VRLA12v_LeadAcid
+11629,10.63.51.82,SUH.Halzan_Holboo_ID150,19,2025-08-29T19:00:00,2025-08-29T19:31:46,Scheduled test,Fault alarm,Abnormal end,50.2,-23.5,12.4,21.0,VRLA12v_LeadAcid
+11630,10.63.51.82,SUH.Halzan_Holboo_ID150,20,2025-08-26T19:00:01,2025-08-26T22:00:27,Scheduled test,Exceeded time limit,Test normal,48.6,-24.1,72.4,24.0,VRLA12v_LeadAcid
+11631,10.63.51.82,SUH.Halzan_Holboo_ID150,21,2025-08-23T19:00:00,2025-08-23T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.5,-19.9,59.8,22.0,VRLA12v_LeadAcid
+11632,10.63.51.82,SUH.Halzan_Holboo_ID150,22,2025-08-20T19:00:00,2025-08-20T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.5,-20.8,62.5,25.0,VRLA12v_LeadAcid
+11633,10.63.51.82,SUH.Halzan_Holboo_ID150,23,2025-08-17T19:00:00,2025-08-17T21:48:19,Scheduled test,Low capacity,Test normal,48.4,-24.7,69.2,23.0,VRLA12v_LeadAcid
+11634,10.63.51.82,SUH.Halzan_Holboo_ID150,24,2025-08-14T19:00:00,2025-08-14T22:00:27,Scheduled test,Exceeded time limit,Test normal,48.8,-24.4,73.1,24.0,VRLA12v_LeadAcid
+11635,10.63.51.82,SUH.Halzan_Holboo_ID150,25,2025-08-11T19:00:01,2025-08-11T22:00:27,Scheduled test,Exceeded time limit,Test normal,48.5,-25.1,75.3,21.0,VRLA12v_LeadAcid
+11636,10.63.51.82,SUH.Halzan_Holboo_ID150,26,2025-08-08T19:00:00,2025-08-08T21:55:02,Scheduled test,Low capacity,Test normal,48.9,-24.7,71.9,24.0,VRLA12v_LeadAcid
+11637,10.63.51.82,SUH.Halzan_Holboo_ID150,27,2025-08-05T19:00:00,2025-08-05T22:00:27,Scheduled test,Exceeded time limit,Test normal,48.8,-24.7,74.1,24.0,VRLA12v_LeadAcid
+11638,10.63.51.82,SUH.Halzan_Holboo_ID150,28,2025-08-02T19:00:00,2025-08-02T21:52:30,Scheduled test,Low capacity,Test normal,48.8,-25.0,71.6,25.0,VRLA12v_LeadAcid
+11639,10.63.51.82,SUH.Halzan_Holboo_ID150,29,2025-07-30T19:00:00,2025-07-30T21:42:14,Scheduled test,Low capacity,Test normal,48.7,-24.9,67.1,25.0,VRLA12v_LeadAcid
+11640,10.63.51.82,SUH.Halzan_Holboo_ID150,30,2025-07-27T19:00:00,2025-07-27T21:47:12,Scheduled test,Low capacity,Test normal,48.9,-27.1,75.4,24.0,VRLA12v_LeadAcid
+11641,10.63.51.82,SUH.Halzan_Holboo_ID150,31,2025-07-24T19:00:00,2025-07-24T19:20:28,Scheduled test,Fault alarm,Abnormal end,50.4,-23.9,8.1,22.0,VRLA12v_LeadAcid
+11642,10.63.51.82,SUH.Halzan_Holboo_ID150,32,2025-07-21T19:00:00,2025-07-21T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.0,-25.8,77.3,26.0,VRLA12v_LeadAcid
+11643,10.63.51.82,SUH.Halzan_Holboo_ID150,33,2025-07-18T19:00:01,2025-07-18T19:40:49,Scheduled test,Fault alarm,Abnormal end,50.1,-29.3,19.9,22.0,VRLA12v_LeadAcid
+11644,10.63.51.82,SUH.Halzan_Holboo_ID150,34,2025-07-15T19:00:01,2025-07-15T22:00:26,Scheduled test,Exceeded time limit,Test normal,48.6,-26.6,79.9,24.0,VRLA12v_LeadAcid
+11645,10.63.51.82,SUH.Halzan_Holboo_ID150,35,2025-07-12T19:00:01,2025-07-12T22:00:31,Scheduled test,Exceeded time limit,Test normal,48.8,-26.1,78.4,25.0,VRLA12v_LeadAcid
+11646,10.63.51.82,SUH.Halzan_Holboo_ID150,36,2025-07-09T19:00:01,2025-07-09T22:00:28,Scheduled test,Exceeded time limit,Test normal,49.1,-23.4,70.3,25.0,VRLA12v_LeadAcid

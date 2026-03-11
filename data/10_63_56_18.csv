@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+195344,10.63.56.18,HEN.Herlen_1bag_J36bair,38,2026-03-09T19:00:00,2026-03-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.6,-38.6,115.7,24.0,ESMU_Lithium
+139148,10.63.56.18,HEN.Herlen_1bag_J36bair,37,2026-03-06T19:00:00,2026-03-06T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.3,-39.0,117.0,20.0,ESMU_Lithium
+12010,10.63.56.18,HEN.Herlen_1bag_J36bair,1,2026-03-01T19:00:00,2026-03-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.3,-37.2,111.6,17.0,ESMU_Lithium
+12011,10.63.56.18,HEN.Herlen_1bag_J36bair,2,2026-02-24T19:00:00,2026-02-24T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.5,-36.7,110.2,19.0,ESMU_Lithium
+12012,10.63.56.18,HEN.Herlen_1bag_J36bair,3,2026-02-19T19:00:01,2026-02-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.7,-33.1,99.3,22.0,ESMU_Lithium
+12013,10.63.56.18,HEN.Herlen_1bag_J36bair,4,2026-02-16T19:00:01,2026-02-16T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.4,-36.6,109.7,17.0,ESMU_Lithium
+12014,10.63.56.18,HEN.Herlen_1bag_J36bair,5,2026-02-12T19:00:00,2026-02-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.5,-37.0,111.1,21.0,ESMU_Lithium
+12015,10.63.56.18,HEN.Herlen_1bag_J36bair,6,2026-02-09T19:00:01,2026-02-09T22:00:09,Scheduled test,Exceeded time limit,Test normal,51.6,-35.2,105.5,19.0,ESMU_Lithium
+12016,10.63.56.18,HEN.Herlen_1bag_J36bair,7,2026-02-01T19:00:01,2026-02-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.3,-35.8,107.4,17.0,ESMU_Lithium
+12017,10.63.56.18,HEN.Herlen_1bag_J36bair,8,2026-01-14T19:00:01,2026-01-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.4,-34.8,104.5,16.0,ESMU_Lithium
+12018,10.63.56.18,HEN.Herlen_1bag_J36bair,9,2026-01-09T19:00:01,2026-01-09T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.4,-34.8,104.4,16.0,ESMU_Lithium
+12019,10.63.56.18,HEN.Herlen_1bag_J36bair,10,2026-01-06T19:00:00,2026-01-06T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.4,-34.9,104.8,15.0,ESMU_Lithium
+12020,10.63.56.18,HEN.Herlen_1bag_J36bair,11,2025-12-28T19:00:00,2025-12-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.4,-34.6,103.7,15.0,ESMU_Lithium
+12021,10.63.56.18,HEN.Herlen_1bag_J36bair,12,2025-12-18T19:00:01,2025-12-18T22:00:09,Scheduled test,Exceeded time limit,Test normal,51.5,-36.3,108.9,19.0,ESMU_Lithium
+12022,10.63.56.18,HEN.Herlen_1bag_J36bair,13,2025-12-15T19:00:01,2025-12-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.4,-35.7,107.2,17.0,ESMU_Lithium
+12023,10.63.56.18,HEN.Herlen_1bag_J36bair,14,2025-12-06T19:00:01,2025-12-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.6,-35.3,106.0,20.0,ESMU_Lithium
+12024,10.63.56.18,HEN.Herlen_1bag_J36bair,15,2025-11-28T19:00:00,2025-11-28T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.5,-35.4,106.2,18.0,ESMU_Lithium
+12025,10.63.56.18,HEN.Herlen_1bag_J36bair,16,2025-11-25T19:00:01,2025-11-25T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.5,-35.2,105.5,19.0,ESMU_Lithium
+12026,10.63.56.18,HEN.Herlen_1bag_J36bair,17,2025-11-22T19:00:02,2025-11-22T21:45:28,Scheduled test,Low capacity,Test normal,51.7,-38.0,104.7,24.0,ESMU_Lithium
+12027,10.63.56.18,HEN.Herlen_1bag_J36bair,18,2025-11-19T19:00:01,2025-11-19T21:57:05,Scheduled test,Low capacity,Test normal,51.7,-36.1,106.3,23.0,ESMU_Lithium
+12028,10.63.56.18,HEN.Herlen_1bag_J36bair,19,2025-11-16T19:00:02,2025-11-16T22:00:09,Scheduled test,Exceeded time limit,Test normal,51.6,-33.9,101.8,18.0,ESMU_Lithium
+12029,10.63.56.18,HEN.Herlen_1bag_J36bair,20,2025-11-13T19:00:01,2025-11-13T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.8,-33.8,101.3,21.0,ESMU_Lithium
+12030,10.63.56.18,HEN.Herlen_1bag_J36bair,21,2025-11-10T19:00:01,2025-11-10T21:45:23,Scheduled test,Low capacity,Test normal,51.6,-37.7,103.7,21.0,ESMU_Lithium
+12031,10.63.56.18,HEN.Herlen_1bag_J36bair,22,2025-11-07T19:00:01,2025-11-07T21:44:43,Scheduled test,Low capacity,Test normal,51.6,-38.2,104.8,22.0,ESMU_Lithium
+12032,10.63.56.18,HEN.Herlen_1bag_J36bair,23,2025-11-04T19:00:00,2025-11-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.9,-38.8,116.5,32.0,ESMU_Lithium
+12033,10.63.56.18,HEN.Herlen_1bag_J36bair,24,2025-11-01T19:00:00,2025-11-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.9,-38.4,115.3,33.0,ESMU_Lithium
+12034,10.63.56.18,HEN.Herlen_1bag_J36bair,25,2025-10-29T19:00:00,2025-10-29T22:00:06,Scheduled test,Exceeded time limit,Test normal,51.9,-37.7,113.2,33.0,ESMU_Lithium
+12035,10.63.56.18,HEN.Herlen_1bag_J36bair,26,2025-10-26T19:00:01,2025-10-26T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.7,-38.2,114.6,26.0,ESMU_Lithium
+12036,10.63.56.18,HEN.Herlen_1bag_J36bair,27,2025-10-23T19:00:01,2025-10-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,51.7,-36.8,110.3,23.0,ESMU_Lithium
+12037,10.63.56.18,HEN.Herlen_1bag_J36bair,28,2025-10-20T19:00:00,2025-10-20T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.6,-34.5,103.5,21.0,ESMU_Lithium
+12038,10.63.56.18,HEN.Herlen_1bag_J36bair,29,2025-10-17T19:00:01,2025-10-17T19:21:24,Scheduled test,Fault alarm,Abnormal end,52.7,-38.3,13.6,27.0,ESMU_Lithium
+12039,10.63.56.18,HEN.Herlen_1bag_J36bair,30,2025-10-12T19:00:00,2025-10-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.9,-37.3,112.0,31.0,ESMU_Lithium
+12040,10.63.56.18,HEN.Herlen_1bag_J36bair,31,2025-10-09T19:00:01,2025-10-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,52.0,-38.9,116.8,36.0,ESMU_Lithium
+12041,10.63.56.18,HEN.Herlen_1bag_J36bair,32,2025-10-06T19:00:01,2025-10-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,51.9,-39.2,117.6,36.0,ESMU_Lithium
+12042,10.63.56.18,HEN.Herlen_1bag_J36bair,33,2025-10-03T19:00:00,2025-10-03T22:00:07,Scheduled test,Exceeded time limit,Test normal,52.0,-38.4,115.3,37.0,ESMU_Lithium
+12043,10.63.56.18,HEN.Herlen_1bag_J36bair,34,2025-09-28T19:00:01,2025-09-28T22:00:08,Scheduled test,Exceeded time limit,Test normal,52.1,-36.4,109.3,40.0,ESMU_Lithium
+12044,10.63.56.18,HEN.Herlen_1bag_J36bair,35,2025-09-24T19:00:01,2025-09-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,52.0,-38.9,116.8,39.0,ESMU_Lithium
+12045,10.63.56.18,HEN.Herlen_1bag_J36bair,36,2025-09-21T19:00:01,2025-09-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,52.2,-31.6,94.8,39.0,ESMU_Lithium

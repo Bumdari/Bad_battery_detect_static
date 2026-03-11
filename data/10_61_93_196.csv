@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+185007,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,39,2026-03-09T19:00:03,2026-03-09T19:38:39,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-7.6,4.9,15.0,VRLA12v_LeadAcid
+129088,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,38,2026-03-06T19:00:02,2026-03-06T19:40:50,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-7.2,4.9,9.0,VRLA12v_LeadAcid
+2208,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,37,2026-03-03T19:00:02,2026-03-03T19:05:55,Timed Self-Check,Low temperature,Abnormal end,49.9,-6.9,0.7,5.0,VRLA12v_LeadAcid
+2172,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,1,2026-02-28T19:00:02,2026-02-28T19:38:04,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-7.5,4.8,8.0,VRLA12v_LeadAcid
+2173,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,2,2026-02-24T19:00:02,2026-02-24T19:38:25,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-7.5,4.8,8.0,VRLA12v_LeadAcid
+2174,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,3,2026-02-20T19:00:03,2026-02-20T19:39:28,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-7.8,5.1,14.0,VRLA12v_LeadAcid
+2175,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,4,2026-02-17T19:00:02,2026-02-17T19:03:55,Timed Self-Check,Low temperature,Abnormal end,50.2,-7.1,0.5,5.0,VRLA12v_LeadAcid
+2176,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,5,2026-02-11T19:00:02,2026-02-11T19:33:32,Timed Self-Check,Low temperature,Abnormal end,49.7,-7.7,4.3,5.0,VRLA12v_LeadAcid
+2177,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,6,2026-02-02T19:00:02,2026-02-02T19:13:01,Timed Self-Check,Low temperature,Abnormal end,50.2,-7.4,1.6,5.0,VRLA12v_LeadAcid
+2178,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,7,2026-01-13T19:00:02,2026-01-13T19:44:59,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-7.5,5.6,9.0,VRLA12v_LeadAcid
+2179,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,8,2026-01-08T19:00:03,2026-01-08T19:31:16,Timed Self-Check,Low temperature,Abnormal end,49.8,-7.6,4.0,5.0,VRLA12v_LeadAcid
+2180,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,9,2025-12-17T19:00:03,2025-12-17T19:20:00,Timed Self-Check,Low temperature,Abnormal end,50.0,-7.3,2.4,5.0,VRLA12v_LeadAcid
+2181,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,10,2025-11-28T19:00:02,2025-11-28T19:43:00,Timed Self-Check,Low temperature,Abnormal end,49.9,-7.2,5.2,5.0,VRLA12v_LeadAcid
+2182,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,11,2025-11-20T19:00:03,2025-11-20T19:42:39,Timed Self-Check,Low Capacity,Test Result Normal,45.6,-7.5,5.3,5.0,VRLA12v_LeadAcid
+2183,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,12,2025-11-14T19:00:03,2025-11-14T19:41:27,Timed Self-Check,Lower Than End Voltage,Battery alm,45.3,-7.9,5.4,13.0,VRLA12v_LeadAcid
+2184,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,13,2025-11-11T19:00:03,2025-11-11T19:44:18,Timed Self-Check,Lower Than End Voltage,Battery alm,45.3,-8.2,6.0,16.0,VRLA12v_LeadAcid
+2185,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,14,2025-11-08T19:00:03,2025-11-08T19:48:06,Timed Self-Check,Low Capacity,Test Result Normal,45.1,-8.0,6.4,9.0,VRLA12v_LeadAcid
+2186,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,15,2025-11-05T19:00:03,2025-11-05T19:35:46,Timed Self-Check,Low Capacity,Test Result Normal,46.4,-8.1,4.8,17.0,VRLA12v_LeadAcid
+2187,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,16,2025-11-02T19:00:03,2025-11-02T19:36:48,Timed Self-Check,Low Capacity,Test Result Normal,46.1,-8.0,4.9,20.0,VRLA12v_LeadAcid
+2188,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,17,2025-10-30T19:00:02,2025-10-30T19:37:39,Timed Self-Check,Lower Than End Voltage,Battery alm,45.5,-8.1,5.1,16.0,VRLA12v_LeadAcid
+2189,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,18,2025-10-27T19:00:02,2025-10-27T19:36:51,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-8.4,5.1,17.0,VRLA12v_LeadAcid
+2190,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,19,2025-10-24T19:00:03,2025-10-24T19:40:28,Timed Self-Check,Low Capacity,Test Result Normal,45.3,-7.9,5.3,14.0,VRLA12v_LeadAcid
+2191,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,20,2025-10-21T19:00:03,2025-10-21T19:39:02,Timed Self-Check,Low Capacity,Test Result Normal,45.4,-8.3,5.4,11.0,VRLA12v_LeadAcid
+2192,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,21,2025-10-18T19:00:03,2025-10-18T19:00:13,Timed Self-Check,Low temperature,Abnormal end,53.9,-4.3,0.0,5.0,VRLA12v_LeadAcid
+2193,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,22,2025-10-15T19:00:03,2025-10-15T19:44:16,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-7.8,5.7,13.0,VRLA12v_LeadAcid
+2194,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,23,2025-10-12T19:00:03,2025-10-12T19:42:29,Timed Self-Check,Low Capacity,Test Result Normal,45.6,-8.4,6.0,21.0,VRLA12v_LeadAcid
+2195,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,24,2025-10-09T19:00:02,2025-10-09T19:39:37,Timed Self-Check,Low Capacity,Test Result Normal,45.6,-9.0,5.9,20.0,VRLA12v_LeadAcid
+2196,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,25,2025-10-06T19:00:03,2025-10-06T19:47:36,Timed Self-Check,Low Capacity,Test Result Normal,45.2,-8.2,6.5,20.0,VRLA12v_LeadAcid
+2197,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,26,2025-10-03T19:00:03,2025-10-03T19:54:27,Timed Self-Check,Lower Than End Voltage,Battery alm,45.5,-7.8,7.1,23.0,VRLA12v_LeadAcid
+2198,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,27,2025-09-30T19:00:03,2025-09-30T19:56:49,Timed Self-Check,Low Capacity,Test Result Normal,45.3,-8.7,8.2,22.0,VRLA12v_LeadAcid
+2199,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,28,2025-09-22T19:00:03,2025-09-22T19:37:01,Timed Self-Check,Lower Than End Voltage,Battery alm,45.4,-7.9,4.9,22.0,VRLA12v_LeadAcid
+2200,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,29,2025-09-19T19:00:02,2025-09-19T19:35:12,Timed Self-Check,Low Capacity,Test Result Normal,45.1,-8.4,4.9,23.0,VRLA12v_LeadAcid
+2201,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,30,2025-09-16T19:00:03,2025-09-16T19:38:32,Timed Self-Check,Lower Than End Voltage,Battery alm,45.7,-7.7,5.0,21.0,VRLA12v_LeadAcid
+2202,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,31,2025-09-13T19:00:02,2025-09-13T19:32:48,Timed Self-Check,Low Capacity,Test Result Normal,45.7,-9.4,5.1,21.0,VRLA12v_LeadAcid
+2203,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,32,2025-09-10T19:00:02,2025-09-10T19:28:23,Timed Self-Check,Low Capacity,Test Result Normal,45.2,-10.1,4.7,21.0,VRLA12v_LeadAcid
+2204,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,33,2025-09-07T19:00:01,2025-09-07T19:32:41,Timed Self-Check,Low Capacity,Test Result Normal,45.1,-9.4,5.1,22.0,VRLA12v_LeadAcid
+2205,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,34,2025-09-03T19:00:03,2025-09-03T19:25:54,Timed Self-Check,Lower Than End Voltage,Battery alm,45.6,-10.3,4.4,20.0,VRLA12v_LeadAcid
+2206,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,35,2025-08-31T19:00:03,2025-08-31T19:24:49,Timed Self-Check,Low Capacity,Test Result Normal,45.3,-11.0,4.5,22.0,VRLA12v_LeadAcid
+2207,10.61.93.196,UMG.Hanhongor_JuulchinGoviResort_MA73,36,2025-08-28T19:00:02,2025-08-28T19:31:20,Timed Self-Check,Lower Than End Voltage,Battery alm,45.6,-9.4,4.9,22.0,VRLA12v_LeadAcid

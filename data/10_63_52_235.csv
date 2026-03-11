@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+214122,10.63.52.235,DOG.Altanshiree_Neft,39,2026-03-10T19:00:02,2026-03-10T22:00:09,Scheduled test,Exceeded time limit,Test normal,47.7,-19.0,57.0,18.0,VRLA12v_LeadAcid
+157489,10.63.52.235,DOG.Altanshiree_Neft,38,2026-03-07T19:00:03,2026-03-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-18.5,55.6,15.0,VRLA12v_LeadAcid
+102202,10.63.52.235,DOG.Altanshiree_Neft,37,2026-03-04T19:00:03,2026-03-04T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-19.0,57.0,13.0,VRLA12v_LeadAcid
+11755,10.63.52.235,DOG.Altanshiree_Neft,1,2026-03-01T19:00:02,2026-03-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-18.4,55.4,13.0,VRLA12v_LeadAcid
+11756,10.63.52.235,DOG.Altanshiree_Neft,2,2026-02-26T19:00:02,2026-02-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-19.0,56.9,12.0,VRLA12v_LeadAcid
+11757,10.63.52.235,DOG.Altanshiree_Neft,3,2026-02-23T19:00:02,2026-02-23T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-18.2,54.6,12.0,VRLA12v_LeadAcid
+11758,10.63.52.235,DOG.Altanshiree_Neft,4,2026-02-20T19:00:03,2026-02-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-19.0,56.9,18.0,VRLA12v_LeadAcid
+11759,10.63.52.235,DOG.Altanshiree_Neft,5,2026-02-17T19:00:03,2026-02-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.6,-18.5,55.5,14.0,VRLA12v_LeadAcid
+11760,10.63.52.235,DOG.Altanshiree_Neft,6,2026-02-14T19:00:02,2026-02-14T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.8,-18.4,55.2,13.0,VRLA12v_LeadAcid
+11761,10.63.52.235,DOG.Altanshiree_Neft,7,2026-02-11T19:00:02,2026-02-11T22:00:09,Scheduled test,Exceeded time limit,Test normal,47.9,-18.8,56.4,14.0,VRLA12v_LeadAcid
+11762,10.63.52.235,DOG.Altanshiree_Neft,8,2026-02-08T19:00:02,2026-02-08T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-18.7,56.0,13.0,VRLA12v_LeadAcid
+11763,10.63.52.235,DOG.Altanshiree_Neft,9,2026-02-05T19:00:02,2026-02-05T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.4,-18.7,56.2,11.0,VRLA12v_LeadAcid
+11764,10.63.52.235,DOG.Altanshiree_Neft,10,2026-02-02T19:00:02,2026-02-02T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-18.6,55.8,13.0,VRLA12v_LeadAcid
+11765,10.63.52.235,DOG.Altanshiree_Neft,11,2026-01-30T19:00:02,2026-01-30T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.6,-18.8,56.5,11.0,VRLA12v_LeadAcid
+11766,10.63.52.235,DOG.Altanshiree_Neft,12,2026-01-27T19:00:03,2026-01-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-18.7,56.2,11.0,VRLA12v_LeadAcid
+11767,10.63.52.235,DOG.Altanshiree_Neft,13,2026-01-24T19:00:03,2026-01-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.1,-20.1,60.3,11.0,VRLA12v_LeadAcid
+11768,10.63.52.235,DOG.Altanshiree_Neft,14,2026-01-21T19:00:02,2026-01-21T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.5,-19.0,57.0,10.0,VRLA12v_LeadAcid
+11769,10.63.52.235,DOG.Altanshiree_Neft,15,2026-01-18T19:00:01,2026-01-18T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-19.5,58.5,10.0,VRLA12v_LeadAcid
+11770,10.63.52.235,DOG.Altanshiree_Neft,16,2026-01-15T19:00:02,2026-01-15T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-19.4,58.2,11.0,VRLA12v_LeadAcid
+11771,10.63.52.235,DOG.Altanshiree_Neft,17,2026-01-12T19:00:02,2026-01-12T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.7,-19.5,58.5,12.0,VRLA12v_LeadAcid
+11772,10.63.52.235,DOG.Altanshiree_Neft,18,2026-01-09T19:00:02,2026-01-09T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.4,-19.9,59.9,13.0,VRLA12v_LeadAcid
+11773,10.63.52.235,DOG.Altanshiree_Neft,19,2026-01-06T19:00:02,2026-01-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.8,-19.2,57.7,12.0,VRLA12v_LeadAcid
+11774,10.63.52.235,DOG.Altanshiree_Neft,20,2026-01-03T19:00:03,2026-01-03T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-19.3,58.0,12.0,VRLA12v_LeadAcid
+11775,10.63.52.235,DOG.Altanshiree_Neft,21,2025-12-31T19:00:02,2025-12-31T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.9,-19.3,57.9,12.0,VRLA12v_LeadAcid
+11776,10.63.52.235,DOG.Altanshiree_Neft,22,2025-12-28T19:00:02,2025-12-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.5,-18.2,54.6,13.0,VRLA12v_LeadAcid
+11777,10.63.52.235,DOG.Altanshiree_Neft,23,2025-12-25T19:00:02,2025-12-25T22:00:09,Scheduled test,Exceeded time limit,Test normal,49.1,-19.3,57.9,12.0,VRLA12v_LeadAcid
+11778,10.63.52.235,DOG.Altanshiree_Neft,24,2025-12-22T19:00:02,2025-12-22T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.8,-20.1,60.4,13.0,VRLA12v_LeadAcid
+11779,10.63.52.235,DOG.Altanshiree_Neft,25,2025-12-19T19:00:02,2025-12-19T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.7,-20.0,60.0,12.0,VRLA12v_LeadAcid
+11780,10.63.52.235,DOG.Altanshiree_Neft,26,2025-12-16T19:00:02,2025-12-16T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.8,-20.1,60.2,13.0,VRLA12v_LeadAcid
+11781,10.63.52.235,DOG.Altanshiree_Neft,27,2025-12-13T19:00:03,2025-12-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-19.2,57.6,12.0,VRLA12v_LeadAcid
+11782,10.63.52.235,DOG.Altanshiree_Neft,28,2025-12-10T19:00:03,2025-12-10T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.5,-20.4,61.2,13.0,VRLA12v_LeadAcid
+11783,10.63.52.235,DOG.Altanshiree_Neft,29,2025-12-07T19:00:03,2025-12-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-19.8,59.4,13.0,VRLA12v_LeadAcid
+11784,10.63.52.235,DOG.Altanshiree_Neft,30,2025-12-04T19:00:03,2025-12-04T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.8,-20.4,61.3,13.0,VRLA12v_LeadAcid
+11785,10.63.52.235,DOG.Altanshiree_Neft,31,2025-12-01T19:00:03,2025-12-01T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.2,-21.4,64.3,11.0,VRLA12v_LeadAcid
+11786,10.63.52.235,DOG.Altanshiree_Neft,32,2025-11-28T19:00:03,2025-11-28T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.8,-21.2,63.7,14.0,VRLA12v_LeadAcid
+11787,10.63.52.235,DOG.Altanshiree_Neft,33,2025-11-25T19:00:03,2025-11-25T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.9,-20.7,62.2,14.0,VRLA12v_LeadAcid
+11788,10.63.52.235,DOG.Altanshiree_Neft,34,2025-11-22T16:00:02,2025-11-22T20:20:11,Scheduled test,Low capacity,Test normal,46.7,-18.4,79.6,16.0,VRLA12v_LeadAcid
+11789,10.63.52.235,DOG.Altanshiree_Neft,35,2025-11-19T16:00:03,2025-11-19T19:32:41,Scheduled test,Low capacity,Test normal,46.9,-21.8,77.2,15.0,VRLA12v_LeadAcid
+11790,10.63.52.235,DOG.Altanshiree_Neft,36,2025-11-16T16:00:03,2025-11-16T20:01:43,Scheduled test,Low capacity,Test normal,46.3,-20.7,83.3,12.0,VRLA12v_LeadAcid

@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+212204,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,38,2026-03-10T19:00:01,2026-03-10T21:37:44,Scheduled test,Fault alarm,Abnormal end,49.2,-26.7,70.2,25.0,ESMU_Lithium
+155616,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,37,2026-03-07T19:00:01,2026-03-07T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.8,-30.0,90.0,21.0,ESMU_Lithium
+9931,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,1,2026-02-14T19:00:01,2026-02-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-28.3,85.0,32.0,ESMU_Lithium
+9932,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,2,2026-02-11T19:00:01,2026-02-11T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-26.7,80.1,30.0,ESMU_Lithium
+9933,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,3,2026-02-08T19:00:00,2026-02-08T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-28.1,84.4,27.0,ESMU_Lithium
+9934,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,4,2026-02-05T19:00:01,2026-02-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-27.0,81.0,31.0,ESMU_Lithium
+9935,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,5,2026-02-02T19:00:00,2026-02-02T21:29:31,Scheduled test,Fault alarm,Abnormal end,49.2,-27.9,69.4,32.0,ESMU_Lithium
+9936,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,6,2026-01-30T19:00:01,2026-01-30T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-25.7,77.2,30.0,ESMU_Lithium
+9937,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,7,2026-01-27T19:00:00,2026-01-27T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-26.5,79.6,27.0,ESMU_Lithium
+9938,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,8,2026-01-24T19:00:01,2026-01-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-28.9,86.7,25.0,ESMU_Lithium
+9939,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,9,2026-01-16T19:00:00,2026-01-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-29.7,89.0,23.0,ESMU_Lithium
+9940,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,10,2026-01-13T19:00:00,2026-01-13T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-29.5,88.6,34.0,ESMU_Lithium
+9941,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,11,2026-01-10T19:00:01,2026-01-10T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.8,-31.1,93.3,28.0,ESMU_Lithium
+9942,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,12,2026-01-07T19:00:01,2026-01-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-29.3,87.9,27.0,ESMU_Lithium
+9943,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,13,2026-01-04T19:00:00,2026-01-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-33.5,100.6,24.0,ESMU_Lithium
+9944,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,14,2026-01-01T19:00:00,2026-01-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-33.5,100.6,24.0,ESMU_Lithium
+9945,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,15,2025-12-29T19:00:00,2025-12-29T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-30.2,90.5,28.0,ESMU_Lithium
+9946,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,16,2025-12-26T19:00:01,2025-12-26T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-28.5,85.6,27.0,ESMU_Lithium
+9947,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,17,2025-12-23T19:00:01,2025-12-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-29.8,89.5,33.0,ESMU_Lithium
+9948,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,18,2025-12-20T19:00:00,2025-12-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-28.7,86.1,28.0,ESMU_Lithium
+9949,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,19,2025-12-17T19:00:01,2025-12-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-27.8,83.5,30.0,ESMU_Lithium
+9950,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,20,2025-12-14T19:00:01,2025-12-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-31.8,95.3,28.0,ESMU_Lithium
+9951,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,21,2025-12-11T19:00:01,2025-12-11T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-26.8,80.4,31.0,ESMU_Lithium
+9952,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,22,2025-12-06T19:00:01,2025-12-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-28.6,85.9,14.0,ESMU_Lithium
+9953,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,23,2025-11-28T19:00:00,2025-11-28T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-27.4,82.2,19.0,ESMU_Lithium
+9954,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,24,2025-11-14T19:00:00,2025-11-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-25.6,76.7,13.0,ESMU_Lithium
+9955,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,25,2025-11-11T19:00:01,2025-11-11T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-25.8,77.3,22.0,ESMU_Lithium
+9956,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,26,2025-11-08T19:00:01,2025-11-08T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.7,-26.8,80.3,17.0,ESMU_Lithium
+9957,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,27,2025-11-05T19:00:00,2025-11-05T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-28.1,84.2,24.0,ESMU_Lithium
+9958,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,28,2025-11-02T19:00:00,2025-11-02T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-31.3,93.8,26.0,ESMU_Lithium
+9959,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,29,2025-10-30T19:00:01,2025-10-30T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-26.4,79.1,26.0,ESMU_Lithium
+9960,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,30,2025-10-27T19:00:01,2025-10-27T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-28.0,84.1,24.0,ESMU_Lithium
+9961,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,31,2025-10-24T19:00:01,2025-10-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-27.4,82.2,25.0,ESMU_Lithium
+9962,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,32,2025-10-21T19:00:00,2025-10-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-28.7,86.1,24.0,ESMU_Lithium
+9963,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,33,2025-10-18T19:00:00,2025-10-18T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-26.3,78.8,21.0,ESMU_Lithium
+9964,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,34,2025-10-15T19:00:00,2025-10-15T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-24.6,73.7,17.0,ESMU_Lithium
+9965,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,35,2025-10-12T19:00:00,2025-10-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-26.9,80.7,24.0,ESMU_Lithium
+9966,10.63.43.34,HOV.Jargalant_8bag_Naran19gudamj_7toot_MP23,36,2025-10-09T19:00:00,2025-10-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-26.7,80.0,29.0,ESMU_Lithium

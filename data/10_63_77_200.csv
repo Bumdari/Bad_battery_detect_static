@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+179271,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,38,2026-03-08T19:00:00,2026-03-08T23:20:03,Scheduled test,Low capacity,Test normal,45.3,-21.0,90.8,14.0,VRLA12v_LeadAcid
+123479,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,37,2026-03-05T19:00:01,2026-03-05T20:57:43,Scheduled test,Low temperature,Abnormal end,48.8,-19.6,38.4,5.0,VRLA12v_LeadAcid
+14727,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,1,2026-03-02T19:00:00,2026-03-02T23:19:59,Scheduled test,Low capacity,Test normal,45.2,-21.0,90.7,12.0,VRLA12v_LeadAcid
+14728,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,2,2026-02-27T19:00:01,2026-02-27T23:40:46,Scheduled test,Low capacity,Test normal,45.5,-19.5,91.3,14.0,VRLA12v_LeadAcid
+14729,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,3,2026-02-24T19:00:01,2026-02-24T22:12:19,Scheduled test,Low temperature,Abnormal end,47.1,-19.8,63.3,5.0,VRLA12v_LeadAcid
+14730,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,4,2026-02-21T19:00:00,2026-02-22T00:00:18,Scheduled test,Exceeded time limit,Test normal,46.2,-17.5,87.4,13.0,VRLA12v_LeadAcid
+14731,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,5,2026-02-18T19:00:01,2026-02-18T22:56:20,Scheduled test,Low temperature,Abnormal end,47.3,-17.0,66.8,5.0,VRLA12v_LeadAcid
+14732,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,6,2026-02-15T19:00:01,2026-02-16T00:00:12,Scheduled test,Exceeded time limit,Test normal,46.6,-17.0,84.8,14.0,VRLA12v_LeadAcid
+14733,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,7,2026-02-12T19:00:01,2026-02-12T23:26:59,Scheduled test,Low capacity,Test normal,45.3,-20.6,91.5,6.0,VRLA12v_LeadAcid
+14734,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,8,2026-02-09T19:00:00,2026-02-09T19:07:24,Scheduled test,Low temperature,Abnormal end,49.7,-19.3,2.4,5.0,VRLA12v_LeadAcid
+14735,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,9,2026-02-06T19:00:01,2026-02-06T23:43:53,Scheduled test,Low capacity,Test normal,45.5,-19.3,91.1,11.0,VRLA12v_LeadAcid
+14736,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,10,2026-02-03T19:00:01,2026-02-03T23:13:52,Scheduled test,Low temperature,Abnormal end,46.1,-20.1,85.0,5.0,VRLA12v_LeadAcid
+14737,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,11,2026-01-31T19:00:00,2026-02-01T00:00:11,Scheduled test,Exceeded time limit,Test normal,46.1,-17.7,88.7,14.0,VRLA12v_LeadAcid
+14738,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,12,2026-01-28T19:00:01,2026-01-28T22:36:52,Scheduled test,Low capacity,Test normal,46.8,-19.6,70.9,13.0,VRLA12v_LeadAcid
+14739,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,13,2026-01-24T19:00:00,2026-01-24T23:59:38,Scheduled test,Low capacity,Test normal,45.6,-18.3,91.2,13.0,VRLA12v_LeadAcid
+14740,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,14,2026-01-18T19:00:01,2026-01-18T19:13:43,Scheduled test,Low temperature,Abnormal end,49.8,-17.4,4.0,5.0,VRLA12v_LeadAcid
+14741,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,15,2026-01-15T19:00:00,2026-01-16T00:00:12,Scheduled test,Exceeded time limit,Test normal,45.3,-18.2,91.1,10.0,VRLA12v_LeadAcid
+14742,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,16,2026-01-12T19:00:01,2026-01-12T23:51:14,Scheduled test,Low capacity,Test normal,45.8,-18.8,91.3,13.0,VRLA12v_LeadAcid
+14743,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,17,2026-01-09T19:00:01,2026-01-09T23:58:27,Scheduled test,Low capacity,Test normal,45.6,-18.4,91.3,13.0,VRLA12v_LeadAcid
+14744,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,18,2026-01-06T19:00:00,2026-01-07T00:00:13,Scheduled test,Exceeded time limit,Test normal,46.0,-18.2,91.1,15.0,VRLA12v_LeadAcid
+14745,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,19,2026-01-03T19:00:00,2026-01-03T23:36:43,Scheduled test,Low temperature,Abnormal end,46.4,-18.1,83.4,5.0,VRLA12v_LeadAcid
+14746,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,20,2025-12-31T19:00:00,2026-01-01T00:00:12,Scheduled test,Exceeded time limit,Test normal,46.3,-17.8,88.8,14.0,VRLA12v_LeadAcid
+14747,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,21,2025-12-28T19:00:01,2025-12-28T23:55:13,Scheduled test,Low capacity,Test normal,45.6,-18.6,91.6,13.0,VRLA12v_LeadAcid
+14748,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,22,2025-12-25T19:00:01,2025-12-25T23:25:03,Scheduled test,Low capacity,Test normal,46.0,-20.7,91.4,16.0,VRLA12v_LeadAcid
+14749,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,23,2025-12-22T19:00:01,2025-12-22T19:19:25,Scheduled test,Low temperature,Abnormal end,50.0,-17.9,5.8,5.0,VRLA12v_LeadAcid
+14750,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,24,2025-12-19T19:00:01,2025-12-19T23:42:29,Scheduled test,Low capacity,Test normal,45.7,-19.4,91.3,12.0,VRLA12v_LeadAcid
+14751,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,25,2025-12-16T19:00:00,2025-12-16T22:24:29,Scheduled test,Low temperature,Abnormal end,47.4,-19.5,66.4,5.0,VRLA12v_LeadAcid
+14752,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,26,2025-12-13T19:00:01,2025-12-13T23:51:52,Scheduled test,Low capacity,Test normal,45.9,-18.9,92.1,13.0,VRLA12v_LeadAcid
+14753,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,27,2025-12-10T19:00:01,2025-12-10T23:43:00,Scheduled test,Low capacity,Test normal,45.9,-19.4,91.2,11.0,VRLA12v_LeadAcid
+14754,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,28,2025-12-07T19:00:00,2025-12-07T23:35:09,Scheduled test,Low capacity,Test normal,45.8,-19.9,91.3,14.0,VRLA12v_LeadAcid
+14755,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,29,2025-12-04T19:00:01,2025-12-04T23:17:50,Scheduled test,Low capacity,Test normal,45.8,-21.3,91.4,15.0,VRLA12v_LeadAcid
+14756,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,30,2025-12-01T19:00:01,2025-12-01T23:13:43,Scheduled test,Low capacity,Test normal,45.3,-21.6,91.3,7.0,VRLA12v_LeadAcid
+14757,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,31,2025-11-28T19:00:01,2025-11-28T22:57:46,Scheduled test,Low capacity,Test normal,45.3,-22.9,90.7,6.0,VRLA12v_LeadAcid
+14758,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,32,2025-11-25T19:00:01,2025-11-25T21:38:32,Scheduled test,Low temperature,Abnormal end,47.2,-22.5,59.5,5.0,VRLA12v_LeadAcid
+14759,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,33,2025-11-22T19:00:01,2025-11-22T23:15:48,Scheduled test,Low capacity,Test normal,45.5,-21.5,91.5,6.0,VRLA12v_LeadAcid
+14760,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,34,2025-11-19T19:00:01,2025-11-19T22:00:09,Scheduled test,Exceeded time limit,Test normal,46.7,-22.5,67.4,13.0,VRLA12v_LeadAcid
+14761,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,35,2025-11-16T19:00:01,2025-11-16T22:00:09,Scheduled test,Exceeded time limit,Test normal,47.2,-20.8,62.4,15.0,VRLA12v_LeadAcid
+14762,10.63.77.200,BZD._1hor_GoldenVilla1002Bair_MP24_ULN,36,2025-11-13T19:00:01,2025-11-13T19:37:47,Scheduled test,Low temperature,Abnormal end,49.5,-20.5,12.9,5.0,VRLA12v_LeadAcid

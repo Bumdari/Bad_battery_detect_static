@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+7913,10.63.34.83,BUL.Bulgan_TEDS_TPD,1,2025-11-06T19:00:02,2025-11-06T19:58:31,Scheduled test,Low voltage,Battery alm,45.9,-54.4,52.9,6.0,VRLA12v_LeadAcid
+7914,10.63.34.83,BUL.Bulgan_TEDS_TPD,2,2025-11-03T19:00:02,2025-11-03T20:06:41,Scheduled test,Low voltage,Battery alm,45.8,-53.0,58.7,9.0,VRLA12v_LeadAcid
+7915,10.63.34.83,BUL.Bulgan_TEDS_TPD,3,2025-10-31T19:00:04,2025-10-31T20:06:45,Scheduled test,Low voltage,Battery alm,45.9,-54.2,60.1,10.0,VRLA12v_LeadAcid
+7916,10.63.34.83,BUL.Bulgan_TEDS_TPD,4,2025-10-29T05:19:30,2025-10-29T05:24:33,Short test,Exceeded time limit,Test normal,50.2,-22.7,1.9,6.0,VRLA12v_LeadAcid
+7917,10.63.34.83,BUL.Bulgan_TEDS_TPD,5,2025-10-28T19:00:03,2025-10-28T20:01:39,Scheduled test,Low voltage,Battery alm,45.9,-55.2,56.5,6.0,VRLA12v_LeadAcid
+7918,10.63.34.83,BUL.Bulgan_TEDS_TPD,6,2025-10-10T19:00:03,2025-10-10T20:10:07,Scheduled test,Low voltage,Battery alm,45.7,-53.6,62.4,10.0,VRLA12v_LeadAcid
+7919,10.63.34.83,BUL.Bulgan_TEDS_TPD,7,2025-10-07T19:00:03,2025-10-07T20:10:59,Scheduled test,Low voltage,Battery alm,45.9,-54.7,64.5,8.0,VRLA12v_LeadAcid
+7920,10.63.34.83,BUL.Bulgan_TEDS_TPD,8,2025-10-04T19:00:02,2025-10-04T20:09:03,Scheduled test,Low voltage,Battery alm,45.9,-55.3,63.5,14.0,VRLA12v_LeadAcid
+7921,10.63.34.83,BUL.Bulgan_TEDS_TPD,9,2025-10-01T19:00:03,2025-10-01T20:14:02,Scheduled test,Low voltage,Battery alm,45.8,-56.0,68.9,23.0,VRLA12v_LeadAcid
+7922,10.63.34.83,BUL.Bulgan_TEDS_TPD,10,2025-09-29T03:03:33,2025-09-29T03:08:36,Short test,Exceeded time limit,Test normal,50.6,-21.8,1.8,24.0,VRLA12v_LeadAcid
+7923,10.63.34.83,BUL.Bulgan_TEDS_TPD,11,2025-09-28T19:00:01,2025-09-28T19:44:29,Scheduled test,Low voltage,Battery alm,45.8,-54.6,40.3,26.0,VRLA12v_LeadAcid
+7924,10.63.34.83,BUL.Bulgan_TEDS_TPD,12,2025-09-25T19:00:00,2025-09-25T20:06:57,Scheduled test,Low voltage,Battery alm,46.0,-56.6,63.0,25.0,VRLA12v_LeadAcid
+7925,10.63.34.83,BUL.Bulgan_TEDS_TPD,13,2025-09-22T19:00:02,2025-09-22T20:19:55,Scheduled test,Low voltage,Battery alm,46.0,-56.7,75.2,18.0,VRLA12v_LeadAcid
+7926,10.63.34.83,BUL.Bulgan_TEDS_TPD,14,2025-09-19T19:00:03,2025-09-19T20:24:08,Scheduled test,Low voltage,Battery alm,45.8,-54.8,76.6,22.0,VRLA12v_LeadAcid
+7927,10.63.34.83,BUL.Bulgan_TEDS_TPD,15,2025-09-16T19:00:02,2025-09-16T20:19:33,Scheduled test,Low voltage,Battery alm,45.9,-54.9,72.5,18.0,VRLA12v_LeadAcid
+7928,10.63.34.83,BUL.Bulgan_TEDS_TPD,16,2025-09-13T19:00:02,2025-09-13T20:23:22,Scheduled test,Low voltage,Battery alm,45.9,-55.8,77.2,18.0,VRLA12v_LeadAcid
+7929,10.63.34.83,BUL.Bulgan_TEDS_TPD,17,2025-09-10T19:00:02,2025-09-10T20:37:52,Scheduled test,Low voltage,Battery alm,46.0,-52.4,85.1,25.0,VRLA12v_LeadAcid
+7930,10.63.34.83,BUL.Bulgan_TEDS_TPD,18,2025-09-07T19:00:01,2025-09-07T20:52:04,Scheduled test,Low voltage,Battery alm,45.7,-50.7,94.5,21.0,VRLA12v_LeadAcid
+7931,10.63.34.83,BUL.Bulgan_TEDS_TPD,19,2025-09-04T19:00:01,2025-09-04T20:33:18,Scheduled test,Low voltage,Battery alm,45.9,-54.9,85.0,21.0,VRLA12v_LeadAcid
+7932,10.63.34.83,BUL.Bulgan_TEDS_TPD,20,2025-08-31T19:00:03,2025-08-31T20:34:35,Scheduled test,Low voltage,Battery alm,45.8,-53.0,83.3,27.0,VRLA12v_LeadAcid
+7933,10.63.34.83,BUL.Bulgan_TEDS_TPD,21,2025-08-30T00:46:37,2025-08-30T00:51:40,Short test,Exceeded time limit,Test normal,49.9,-37.5,3.1,22.0,VRLA12v_LeadAcid
+7934,10.63.34.83,BUL.Bulgan_TEDS_TPD,22,2025-08-28T19:00:03,2025-08-28T20:37:00,Scheduled test,Low voltage,Battery alm,45.8,-49.5,79.7,20.0,VRLA12v_LeadAcid
+7935,10.63.34.83,BUL.Bulgan_TEDS_TPD,23,2025-08-25T19:00:02,2025-08-25T20:43:28,Scheduled test,Low voltage,Battery alm,45.8,-48.9,84.0,25.0,VRLA12v_LeadAcid
+7936,10.63.34.83,BUL.Bulgan_TEDS_TPD,24,2025-08-22T19:00:03,2025-08-22T20:45:47,Scheduled test,Low voltage,Battery alm,46.0,-47.6,83.7,21.0,VRLA12v_LeadAcid
+7937,10.63.34.83,BUL.Bulgan_TEDS_TPD,25,2025-08-19T19:00:04,2025-08-19T20:48:36,Scheduled test,Low voltage,Battery alm,45.8,-49.6,89.4,26.0,VRLA12v_LeadAcid
+7938,10.63.34.83,BUL.Bulgan_TEDS_TPD,26,2025-08-16T19:00:03,2025-08-16T20:54:06,Scheduled test,Low voltage,Battery alm,45.9,-48.2,91.4,26.0,VRLA12v_LeadAcid
+7939,10.63.34.83,BUL.Bulgan_TEDS_TPD,27,2025-08-13T19:00:03,2025-08-13T20:47:42,Scheduled test,Low voltage,Battery alm,45.8,-49.8,89.1,22.0,VRLA12v_LeadAcid
+7940,10.63.34.83,BUL.Bulgan_TEDS_TPD,28,2025-08-10T19:00:03,2025-08-10T20:50:39,Scheduled test,Low voltage,Battery alm,45.8,-50.5,92.9,23.0,VRLA12v_LeadAcid
+7941,10.63.34.83,BUL.Bulgan_TEDS_TPD,29,2025-08-07T19:00:01,2025-08-07T20:45:13,Scheduled test,Low capacity,Test normal,46.2,-50.4,88.1,26.0,VRLA12v_LeadAcid
+7942,10.63.34.83,BUL.Bulgan_TEDS_TPD,30,2025-08-04T19:00:03,2025-08-04T20:48:54,Scheduled test,Low voltage,Battery alm,45.9,-52.9,95.7,23.0,VRLA12v_LeadAcid
+7943,10.63.34.83,BUL.Bulgan_TEDS_TPD,31,2025-08-01T19:00:03,2025-08-01T20:56:07,Scheduled test,Low capacity,Test normal,46.0,-52.7,101.6,28.0,VRLA12v_LeadAcid
+7944,10.63.34.83,BUL.Bulgan_TEDS_TPD,32,2025-07-30T22:30:33,2025-07-30T22:35:36,Short test,Exceeded time limit,Test normal,49.6,-50.5,4.2,25.0,VRLA12v_LeadAcid
+7945,10.63.34.83,BUL.Bulgan_TEDS_TPD,33,2025-07-29T19:00:02,2025-07-29T21:00:29,Scheduled test,Low capacity,Test normal,46.4,-48.8,97.6,26.0,VRLA12v_LeadAcid
+7946,10.63.34.83,BUL.Bulgan_TEDS_TPD,34,2025-07-26T19:00:02,2025-07-26T20:59:57,Scheduled test,Low capacity,Test normal,46.2,-47.7,95.2,23.0,VRLA12v_LeadAcid
+7947,10.63.34.83,BUL.Bulgan_TEDS_TPD,35,2025-07-23T19:00:03,2025-07-23T20:54:12,Scheduled test,Low capacity,Test normal,46.4,-52.1,98.7,23.0,VRLA12v_LeadAcid
+7948,10.63.34.83,BUL.Bulgan_TEDS_TPD,36,2025-07-20T19:00:02,2025-07-20T21:08:42,Scheduled test,Low capacity,Test normal,46.7,-46.5,99.5,29.0,VRLA12v_LeadAcid

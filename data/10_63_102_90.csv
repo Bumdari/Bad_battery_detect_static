@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+2758,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,1,2026-02-05T21:00:00,2026-02-06T05:00:15,Scheduled test,Exceeded time limit,Test normal,46.6,-12.2,97.7,,VRLA12v_LeadAcid

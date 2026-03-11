@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+186228,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,39,2026-03-09T19:00:01,2026-03-09T19:45:17,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-52.7,39.7,26.0,VRLA12v_LeadAcid
+130279,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,38,2026-03-06T19:00:02,2026-03-06T19:43:49,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-54.6,39.8,25.0,VRLA12v_LeadAcid
+3376,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,37,2026-03-03T19:00:03,2026-03-03T19:47:08,Timed Self-Check,Low Capacity,Test Result Normal,46.9,-50.0,39.1,25.0,VRLA12v_LeadAcid
+3340,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,1,2026-02-28T19:00:02,2026-02-28T19:47:45,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-50.3,39.9,25.0,VRLA12v_LeadAcid
+3341,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,2,2026-02-25T19:00:03,2026-02-25T19:47:18,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-53.7,42.2,25.0,VRLA12v_LeadAcid
+3342,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,3,2026-02-22T19:00:02,2026-02-22T19:54:26,Timed Self-Check,Low Capacity,Test Result Normal,46.8,-49.8,45.0,25.0,VRLA12v_LeadAcid
+3343,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,4,2026-02-19T19:00:03,2026-02-19T20:00:02,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-49.3,49.1,25.0,VRLA12v_LeadAcid
+3344,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,5,2026-02-16T19:00:02,2026-02-16T19:54:36,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-52.3,47.5,22.0,VRLA12v_LeadAcid
+3345,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,6,2026-02-13T19:00:02,2026-02-13T19:52:37,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-54.3,47.5,19.0,VRLA12v_LeadAcid
+3346,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,7,2026-02-10T19:00:03,2026-02-10T19:53:09,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-54.5,48.1,19.0,VRLA12v_LeadAcid
+3347,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,8,2026-02-07T19:00:03,2026-02-07T19:53:31,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-54.6,48.6,19.0,VRLA12v_LeadAcid
+3348,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,9,2026-02-04T19:00:03,2026-02-04T19:53:04,Timed Self-Check,Low Capacity,Test Result Normal,46.7,-56.3,49.7,19.0,VRLA12v_LeadAcid
+3349,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,10,2026-02-01T19:00:02,2026-02-01T19:55:04,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-57.1,52.3,19.0,VRLA12v_LeadAcid
+3350,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,11,2026-01-29T19:00:03,2026-01-29T20:01:07,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-56.5,57.4,18.0,VRLA12v_LeadAcid
+3351,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,12,2026-01-24T19:00:02,2026-01-24T19:52:41,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-57.6,50.5,19.0,VRLA12v_LeadAcid
+3352,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,13,2026-01-19T19:00:02,2026-01-19T19:57:25,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-56.2,53.7,18.0,VRLA12v_LeadAcid
+3353,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,14,2026-01-16T19:00:03,2026-01-16T19:58:18,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-56.7,54.9,19.0,VRLA12v_LeadAcid
+3354,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,15,2026-01-13T19:00:02,2026-01-13T19:58:49,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-57.0,55.8,18.0,VRLA12v_LeadAcid
+3355,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,16,2026-01-10T19:00:03,2026-01-10T19:58:57,Timed Self-Check,Low Capacity,Test Result Normal,46.3,-57.9,56.7,18.0,VRLA12v_LeadAcid
+3356,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,17,2026-01-07T19:00:03,2026-01-07T20:01:02,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-57.7,58.6,19.0,VRLA12v_LeadAcid
+3357,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,18,2026-01-04T19:00:02,2026-01-04T20:02:29,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-58.4,60.7,19.0,VRLA12v_LeadAcid
+3358,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,19,2026-01-01T19:00:01,2026-01-01T20:05:24,Timed Self-Check,Low Capacity,Test Result Normal,46.3,-57.3,62.3,19.0,VRLA12v_LeadAcid
+3359,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,20,2025-12-29T19:00:03,2025-12-29T20:05:17,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-59.2,64.2,19.0,VRLA12v_LeadAcid
+3360,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,21,2025-12-26T19:00:03,2025-12-26T20:07:11,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-59.7,66.7,18.0,VRLA12v_LeadAcid
+3361,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,22,2025-12-23T19:00:01,2025-12-23T20:10:37,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-58.5,68.7,19.0,VRLA12v_LeadAcid
+3362,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,23,2025-12-20T19:00:02,2025-12-20T20:13:10,Timed Self-Check,Low Capacity,Test Result Normal,46.3,-59.6,72.5,18.0,VRLA12v_LeadAcid
+3363,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,24,2025-12-17T19:00:02,2025-12-17T20:16:10,Timed Self-Check,Low Capacity,Test Result Normal,46.6,-58.4,73.9,18.0,VRLA12v_LeadAcid
+3364,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,25,2025-12-14T19:00:03,2025-12-14T20:21:13,Timed Self-Check,Lower Than End Voltage,Battery alm,45.9,-58.4,78.8,19.0,VRLA12v_LeadAcid
+3365,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,26,2025-12-11T19:00:02,2025-12-11T20:22:00,Timed Self-Check,Lower Than End Voltage,Battery alm,45.9,-58.1,79.3,18.0,VRLA12v_LeadAcid
+3366,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,27,2025-12-08T19:00:03,2025-12-08T20:27:32,Timed Self-Check,Low Capacity,Test Result Normal,45.9,-55.2,80.3,19.0,VRLA12v_LeadAcid
+3367,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,28,2025-12-05T19:00:03,2025-12-05T20:26:25,Timed Self-Check,Low Capacity,Test Result Normal,46.0,-56.2,80.8,18.0,VRLA12v_LeadAcid
+3368,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,29,2025-12-02T19:00:03,2025-12-02T20:29:13,Timed Self-Check,Lower Than End Voltage,Battery alm,45.8,-55.3,82.0,19.0,VRLA12v_LeadAcid
+3369,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,30,2025-11-29T19:00:03,2025-11-29T20:29:38,Timed Self-Check,Low Capacity,Test Result Normal,46.0,-56.5,84.2,18.0,VRLA12v_LeadAcid
+3370,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,31,2025-11-26T19:00:03,2025-11-26T20:31:26,Timed Self-Check,Lower Than End Voltage,Battery alm,45.9,-55.9,85.1,18.0,VRLA12v_LeadAcid
+3371,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,32,2025-11-23T19:00:02,2025-11-23T20:32:46,Timed Self-Check,Lower Than End Voltage,Battery alm,45.9,-55.7,86.0,18.0,VRLA12v_LeadAcid
+3372,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,33,2025-11-20T19:00:03,2025-11-20T20:34:10,Timed Self-Check,Low Capacity,Test Result Normal,45.9,-55.4,86.8,19.0,VRLA12v_LeadAcid
+3373,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,34,2025-11-17T19:00:03,2025-11-17T20:36:35,Timed Self-Check,Low Capacity,Test Result Normal,45.9,-55.4,88.9,19.0,VRLA12v_LeadAcid
+3374,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,35,2025-11-14T19:00:02,2025-11-14T20:36:22,Timed Self-Check,Low Capacity,Test Result Normal,45.8,-55.8,89.4,19.0,VRLA12v_LeadAcid
+3375,10.63.108.194,HUD._4hor_HunnuMall_ISS100_ULN,36,2025-11-11T19:00:02,2025-11-11T20:35:16,Timed Self-Check,Low Capacity,Test Result Normal,45.9,-56.2,89.0,19.0,VRLA12v_LeadAcid

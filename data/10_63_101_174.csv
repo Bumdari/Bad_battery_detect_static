@@ -1,0 +1,6 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+204204,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,5,2026-03-10T19:00:00,2026-03-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-32.8,98.3,23.0,ESMU_Lithium
+147803,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,4,2026-03-07T19:00:00,2026-03-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-34.4,103.2,19.0,ESMU_Lithium
+2426,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,1,2026-02-20T19:00:00,2026-02-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-32.3,96.8,19.0,ESMU_Lithium
+2427,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,2,2026-02-17T19:00:00,2026-02-17T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.6,-31.4,94.2,16.0,ESMU_Lithium
+2428,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,3,2026-02-12T19:00:01,2026-02-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-30.5,91.6,18.0,ESMU_Lithium

@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+217394,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,38,2026-03-10T19:00:01,2026-03-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.2,-58.4,175.2,21.0,ESMU_Lithium
+160681,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,37,2026-03-07T19:00:01,2026-03-07T21:58:35,Scheduled test,Low capacity,Test normal,47.6,-66.8,198.7,19.0,ESMU_Lithium
+14872,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,1,2026-02-21T19:00:01,2026-02-21T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.1,-50.2,150.6,14.0,ESMU_Lithium
+14873,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,2,2026-02-18T19:00:01,2026-02-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.2,-47.8,143.5,16.0,ESMU_Lithium
+14874,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,3,2026-01-25T19:00:01,2026-01-25T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.2,-51.5,154.4,14.0,ESMU_Lithium
+14875,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,4,2025-11-28T19:00:00,2025-11-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.0,-55.7,167.1,16.0,ESMU_Lithium
+14876,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,5,2025-11-24T19:00:01,2025-11-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.0,-53.9,161.8,15.0,ESMU_Lithium
+14877,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,6,2025-11-21T19:00:00,2025-11-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.3,-48.8,146.5,16.0,ESMU_Lithium
+14878,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,7,2025-11-18T19:00:01,2025-11-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.1,-52.6,157.7,16.0,ESMU_Lithium
+14879,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,8,2025-11-15T19:00:00,2025-11-15T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.2,-52.2,156.5,16.0,ESMU_Lithium
+14880,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,9,2025-11-12T19:00:00,2025-11-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.4,-55.1,165.4,21.0,ESMU_Lithium
+14881,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,10,2025-11-09T19:00:00,2025-11-09T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.4,-49.1,147.3,20.0,ESMU_Lithium
+14882,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,11,2025-11-06T19:00:01,2025-11-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-53.5,160.6,23.0,ESMU_Lithium
+14883,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,12,2025-11-03T19:00:00,2025-11-03T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-53.7,161.2,25.0,ESMU_Lithium
+14884,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,13,2025-10-31T19:00:00,2025-10-31T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-51.1,153.4,23.0,ESMU_Lithium
+14885,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,14,2025-10-28T19:00:00,2025-10-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-53.0,159.0,23.0,ESMU_Lithium
+14886,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,15,2025-10-25T19:00:00,2025-10-25T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.4,-52.0,156.0,19.0,ESMU_Lithium
+14887,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,16,2025-10-22T19:00:01,2025-10-22T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.4,-49.0,146.9,19.0,ESMU_Lithium
+14888,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,17,2025-10-19T19:00:01,2025-10-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.4,-47.8,143.4,19.0,ESMU_Lithium
+14889,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,18,2025-10-16T19:00:01,2025-10-16T19:22:16,Scheduled test,Fault alarm,Abnormal end,49.1,-58.9,21.8,19.0,ESMU_Lithium
+14890,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,19,2025-10-13T19:00:00,2025-10-13T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-51.7,155.0,26.0,ESMU_Lithium
+14891,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,20,2025-10-10T19:00:01,2025-10-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-53.8,161.3,29.0,ESMU_Lithium
+14892,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,21,2025-10-07T19:00:01,2025-10-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-54.3,163.0,29.0,ESMU_Lithium
+14893,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,22,2025-10-04T19:00:00,2025-10-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-55.1,165.3,33.0,ESMU_Lithium
+14894,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,23,2025-10-01T19:00:01,2025-10-01T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-55.6,166.8,39.0,ESMU_Lithium
+14895,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,24,2025-09-28T19:00:00,2025-09-28T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-52.5,157.4,40.0,ESMU_Lithium
+14896,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,25,2025-09-25T19:00:01,2025-09-25T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-53.7,161.1,38.0,ESMU_Lithium
+14897,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,26,2025-09-22T19:00:01,2025-09-22T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-53.3,160.0,36.0,ESMU_Lithium
+14898,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,27,2025-09-19T19:00:02,2025-09-19T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.7,-55.2,165.7,36.0,ESMU_Lithium
+14899,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,28,2025-09-16T19:00:01,2025-09-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-52.7,158.2,34.0,ESMU_Lithium
+14900,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,29,2025-09-13T19:00:00,2025-09-13T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-51.1,153.4,34.0,ESMU_Lithium
+14901,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,30,2025-09-10T19:00:00,2025-09-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-53.5,160.5,39.0,ESMU_Lithium
+14902,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,31,2025-09-07T19:00:01,2025-09-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-49.3,148.0,36.0,ESMU_Lithium
+14903,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,32,2025-09-04T19:00:01,2025-09-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-54.9,164.7,40.0,ESMU_Lithium
+14904,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,33,2025-09-01T19:00:01,2025-09-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-52.3,156.9,43.0,ESMU_Lithium
+14905,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,34,2025-08-29T19:00:01,2025-08-29T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-53.3,160.0,42.0,ESMU_Lithium
+14906,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,35,2025-08-26T19:00:00,2025-08-26T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-55.9,167.7,43.0,ESMU_Lithium
+14907,10.63.78.227,HUD._11hor_TuuliinHuvuu26Bair_NMD40_ULN,36,2025-08-23T19:00:00,2025-08-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-55.7,167.0,38.0,ESMU_Lithium

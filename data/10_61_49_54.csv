@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+165847,10.61.49.54,SEL.Zuunburen_Mobi_NMD,38,2026-03-08T19:00:02,2026-03-08T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.6,-38.5,115.6,22.0,VRLA12v_LeadAcid
+110388,10.61.49.54,SEL.Zuunburen_Mobi_NMD,37,2026-03-05T19:00:02,2026-03-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.3,-39.7,119.1,22.0,VRLA12v_LeadAcid
+1809,10.61.49.54,SEL.Zuunburen_Mobi_NMD,1,2026-03-02T19:00:03,2026-03-02T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.5,-39.5,118.4,23.0,VRLA12v_LeadAcid
+1810,10.61.49.54,SEL.Zuunburen_Mobi_NMD,2,2026-02-27T19:00:02,2026-02-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.8,-38.8,116.3,23.0,VRLA12v_LeadAcid
+1811,10.61.49.54,SEL.Zuunburen_Mobi_NMD,3,2026-02-24T19:00:03,2026-02-24T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.9,-39.0,117.1,21.0,VRLA12v_LeadAcid
+1812,10.61.49.54,SEL.Zuunburen_Mobi_NMD,4,2026-02-21T19:00:03,2026-02-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.9,-39.9,119.8,23.0,VRLA12v_LeadAcid
+1813,10.61.49.54,SEL.Zuunburen_Mobi_NMD,5,2026-02-18T19:00:03,2026-02-18T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.1,-39.4,118.4,22.0,VRLA12v_LeadAcid
+1814,10.61.49.54,SEL.Zuunburen_Mobi_NMD,6,2026-02-15T19:00:03,2026-02-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-39.0,117.0,24.0,VRLA12v_LeadAcid
+1815,10.61.49.54,SEL.Zuunburen_Mobi_NMD,7,2026-02-12T19:00:03,2026-02-12T22:00:14,Scheduled test,Exceeded time limit,Test normal,47.6,-38.7,116.2,27.0,VRLA12v_LeadAcid
+1816,10.61.49.54,SEL.Zuunburen_Mobi_NMD,8,2026-02-07T19:00:02,2026-02-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.6,-40.4,121.3,43.0,VRLA12v_LeadAcid
+1817,10.61.49.54,SEL.Zuunburen_Mobi_NMD,9,2026-02-04T19:00:03,2026-02-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.0,-37.1,111.2,26.0,VRLA12v_LeadAcid
+1818,10.61.49.54,SEL.Zuunburen_Mobi_NMD,10,2026-02-01T19:00:03,2026-02-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-30.8,92.4,16.0,VRLA12v_LeadAcid
+1819,10.61.49.54,SEL.Zuunburen_Mobi_NMD,11,2026-01-27T19:00:03,2026-01-27T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-33.0,99.0,33.0,VRLA12v_LeadAcid
+1820,10.61.49.54,SEL.Zuunburen_Mobi_NMD,12,2026-01-24T19:00:03,2026-01-24T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.7,-32.4,97.1,48.0,VRLA12v_LeadAcid
+1821,10.61.49.54,SEL.Zuunburen_Mobi_NMD,13,2026-01-21T19:00:02,2026-01-21T21:28:09,Scheduled test,Fault alarm,Abnormal end,48.8,-33.0,81.4,45.0,VRLA12v_LeadAcid
+1822,10.61.49.54,SEL.Zuunburen_Mobi_NMD,14,2026-01-16T19:00:02,2026-01-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.0,-31.5,94.4,21.0,VRLA12v_LeadAcid
+1823,10.61.49.54,SEL.Zuunburen_Mobi_NMD,15,2026-01-13T19:00:03,2026-01-13T22:00:14,Scheduled test,Exceeded time limit,Test normal,47.2,-31.2,93.6,21.0,VRLA12v_LeadAcid
+1824,10.61.49.54,SEL.Zuunburen_Mobi_NMD,16,2026-01-10T19:00:02,2026-01-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.0,-31.9,95.8,20.0,VRLA12v_LeadAcid
+1825,10.61.49.54,SEL.Zuunburen_Mobi_NMD,17,2026-01-07T19:00:03,2026-01-07T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.2,-31.7,95.0,21.0,VRLA12v_LeadAcid
+1826,10.61.49.54,SEL.Zuunburen_Mobi_NMD,18,2026-01-04T19:00:03,2026-01-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.5,-32.6,97.9,21.0,VRLA12v_LeadAcid
+1827,10.61.49.54,SEL.Zuunburen_Mobi_NMD,19,2026-01-01T19:00:03,2026-01-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.8,-32.2,96.5,20.0,VRLA12v_LeadAcid
+1828,10.61.49.54,SEL.Zuunburen_Mobi_NMD,20,2025-12-29T19:00:03,2025-12-29T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.6,-30.1,90.3,21.0,VRLA12v_LeadAcid
+1829,10.61.49.54,SEL.Zuunburen_Mobi_NMD,21,2025-12-26T19:00:02,2025-12-26T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.1,-31.5,94.6,21.0,VRLA12v_LeadAcid
+1830,10.61.49.54,SEL.Zuunburen_Mobi_NMD,22,2025-12-23T19:00:02,2025-12-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-31.3,93.9,20.0,VRLA12v_LeadAcid
+1831,10.61.49.54,SEL.Zuunburen_Mobi_NMD,23,2025-12-20T19:00:03,2025-12-20T22:00:13,Scheduled test,Exceeded time limit,Test normal,45.6,-32.6,97.7,21.0,VRLA12v_LeadAcid
+1832,10.61.49.54,SEL.Zuunburen_Mobi_NMD,24,2025-12-17T19:00:03,2025-12-17T22:00:14,Scheduled test,Exceeded time limit,Test normal,45.8,-32.6,97.8,20.0,VRLA12v_LeadAcid
+1833,10.61.49.54,SEL.Zuunburen_Mobi_NMD,25,2025-12-14T19:00:03,2025-12-14T22:00:13,Scheduled test,Exceeded time limit,Test normal,45.4,-32.5,97.4,21.0,VRLA12v_LeadAcid
+1834,10.61.49.54,SEL.Zuunburen_Mobi_NMD,26,2025-12-11T19:00:02,2025-12-11T21:59:03,Scheduled test,Low voltage,Battery alm,45.0,-33.1,98.7,21.0,VRLA12v_LeadAcid
+1835,10.61.49.54,SEL.Zuunburen_Mobi_NMD,27,2025-12-08T19:00:02,2025-12-08T22:00:11,Scheduled test,Exceeded time limit,Test normal,45.7,-32.0,96.0,21.0,VRLA12v_LeadAcid
+1836,10.61.49.54,SEL.Zuunburen_Mobi_NMD,28,2025-12-05T19:00:02,2025-12-05T22:00:12,Scheduled test,Exceeded time limit,Test normal,45.2,-32.2,96.7,21.0,VRLA12v_LeadAcid
+1837,10.61.49.54,SEL.Zuunburen_Mobi_NMD,29,2025-12-02T19:00:03,2025-12-02T22:00:13,Scheduled test,Exceeded time limit,Test normal,44.9,-32.4,97.2,21.0,VRLA12v_LeadAcid
+1838,10.61.49.54,SEL.Zuunburen_Mobi_NMD,30,2025-11-29T19:00:03,2025-11-29T22:00:13,Scheduled test,Exceeded time limit,Test normal,45.5,-31.7,95.3,21.0,VRLA12v_LeadAcid
+1839,10.61.49.54,SEL.Zuunburen_Mobi_NMD,31,2025-11-26T19:00:02,2025-11-26T22:00:12,Scheduled test,Exceeded time limit,Test normal,45.4,-31.8,95.4,21.0,VRLA12v_LeadAcid
+1840,10.61.49.54,SEL.Zuunburen_Mobi_NMD,32,2025-11-23T19:00:02,2025-11-23T21:52:49,Scheduled test,Low capacity,Test normal,46.3,-31.6,90.9,20.0,VRLA12v_LeadAcid
+1841,10.61.49.54,SEL.Zuunburen_Mobi_NMD,33,2025-11-20T19:00:03,2025-11-20T21:50:32,Scheduled test,Low capacity,Test normal,46.3,-32.0,90.7,20.0,VRLA12v_LeadAcid
+1842,10.61.49.54,SEL.Zuunburen_Mobi_NMD,34,2025-11-17T19:00:03,2025-11-17T21:50:13,Scheduled test,Low capacity,Test normal,46.1,-31.9,90.5,20.0,VRLA12v_LeadAcid
+1843,10.61.49.54,SEL.Zuunburen_Mobi_NMD,35,2025-11-14T19:00:03,2025-11-14T21:47:15,Scheduled test,Low capacity,Test normal,46.2,-32.4,90.3,22.0,VRLA12v_LeadAcid
+1844,10.61.49.54,SEL.Zuunburen_Mobi_NMD,36,2025-11-11T19:00:03,2025-11-11T21:49:58,Scheduled test,Low capacity,Test normal,46.4,-31.8,89.9,21.0,VRLA12v_LeadAcid

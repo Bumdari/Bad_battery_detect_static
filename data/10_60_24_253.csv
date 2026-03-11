@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+322,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,1,2026-02-04T19:00:02,2026-02-04T19:24:48,Timed Self-Check,Lower Than End Voltage,Battery alm,44.6,-74.5,30.7,17.0,VRLA12v_LeadAcid
+323,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,2,2026-02-01T19:00:02,2026-02-01T19:23:37,Timed Self-Check,Lower Than End Voltage,Battery alm,43.7,-78.3,30.7,23.0,VRLA12v_LeadAcid
+324,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,3,2026-01-29T19:00:03,2026-01-29T19:23:35,Timed Self-Check,Low Capacity,Test Result Normal,43.9,-73.7,28.8,18.0,VRLA12v_LeadAcid
+325,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,4,2026-01-26T19:00:02,2026-01-26T19:25:19,Timed Self-Check,Lower Than End Voltage,Battery alm,43.3,-73.6,31.0,18.0,VRLA12v_LeadAcid
+326,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,5,2026-01-23T19:00:02,2026-01-23T19:22:43,Timed Self-Check,Low Capacity,Test Result Normal,44.6,-75.3,28.4,8.0,VRLA12v_LeadAcid
+327,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,6,2026-01-19T19:00:02,2026-01-19T19:23:16,Timed Self-Check,Lower Than End Voltage,Battery alm,44.4,-76.3,29.5,8.0,VRLA12v_LeadAcid
+328,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,7,2026-01-16T19:00:03,2026-01-16T19:24:51,Timed Self-Check,Lower Than End Voltage,Battery alm,43.9,-74.3,30.7,11.0,VRLA12v_LeadAcid
+329,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,8,2026-01-13T19:00:03,2026-01-13T19:24:37,Timed Self-Check,Lower Than End Voltage,Battery alm,44.2,-76.7,31.4,22.0,VRLA12v_LeadAcid
+330,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,9,2026-01-10T19:00:02,2026-01-10T19:23:08,Timed Self-Check,Lower Than End Voltage,Battery alm,44.7,-78.0,30.0,18.0,VRLA12v_LeadAcid
+331,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,10,2026-01-07T19:00:03,2026-01-07T19:23:19,Timed Self-Check,Low Capacity,Test Result Normal,44.2,-75.7,29.3,22.0,VRLA12v_LeadAcid
+332,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,11,2026-01-04T19:00:02,2026-01-04T19:23:49,Timed Self-Check,Lower Than End Voltage,Battery alm,44.4,-76.0,30.1,22.0,VRLA12v_LeadAcid
+333,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,12,2026-01-01T19:00:03,2026-01-01T19:23:09,Timed Self-Check,Lower Than End Voltage,Battery alm,44.2,-77.2,29.7,21.0,VRLA12v_LeadAcid
+334,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,13,2025-12-29T19:00:02,2025-12-29T19:22:50,Timed Self-Check,Lower Than End Voltage,Battery alm,43.9,-78.0,29.6,21.0,VRLA12v_LeadAcid
+335,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,14,2025-12-26T19:00:03,2025-12-26T19:23:45,Timed Self-Check,Low Capacity,Test Result Normal,45.0,-72.8,28.7,20.0,VRLA12v_LeadAcid
+336,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,15,2025-12-23T19:00:03,2025-12-23T19:24:00,Timed Self-Check,Low Capacity,Test Result Normal,43.9,-71.1,28.3,18.0,VRLA12v_LeadAcid
+337,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,16,2025-12-20T19:00:03,2025-12-20T19:23:22,Timed Self-Check,Low Capacity,Test Result Normal,43.4,-72.2,28.0,17.0,VRLA12v_LeadAcid
+338,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,17,2025-12-17T19:00:02,2025-12-17T19:24:23,Timed Self-Check,Low Capacity,Test Result Normal,43.3,-69.7,28.2,25.0,VRLA12v_LeadAcid
+339,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,18,2025-12-14T19:00:03,2025-12-14T19:21:56,Timed Self-Check,Lower Than End Voltage,Battery alm,43.9,-75.9,27.6,20.0,VRLA12v_LeadAcid
+340,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,19,2025-12-11T19:00:02,2025-12-11T19:22:36,Timed Self-Check,Low Capacity,Test Result Normal,44.0,-72.5,27.2,17.0,VRLA12v_LeadAcid
+341,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,20,2025-12-08T19:00:03,2025-12-08T19:21:16,Timed Self-Check,Low Capacity,Test Result Normal,44.4,-75.8,26.8,23.0,VRLA12v_LeadAcid
+342,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,21,2025-12-05T19:00:02,2025-12-05T19:24:22,Timed Self-Check,Lower Than End Voltage,Battery alm,44.5,-72.1,29.2,23.0,VRLA12v_LeadAcid
+343,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,22,2025-12-02T19:00:02,2025-12-02T19:22:54,Timed Self-Check,Low Capacity,Test Result Normal,43.9,-71.1,27.1,8.0,VRLA12v_LeadAcid
+344,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,23,2025-11-05T19:00:02,2025-11-05T19:19:28,Timed Self-Check,Lower Than End Voltage,Battery alm,45.7,-81.3,26.3,11.0,VRLA12v_LeadAcid
+345,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,24,2025-11-02T19:00:03,2025-11-02T19:19:43,Timed Self-Check,Lower Than End Voltage,Battery alm,45.3,-81.3,26.6,13.0,VRLA12v_LeadAcid
+346,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,25,2025-10-30T19:00:03,2025-10-30T19:18:29,Timed Self-Check,Lower Than End Voltage,Battery alm,45.8,-85.2,26.1,8.0,VRLA12v_LeadAcid
+347,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,26,2025-10-27T19:00:02,2025-10-27T19:20:47,Timed Self-Check,Lower Than End Voltage,Battery alm,45.4,-78.9,27.3,7.0,VRLA12v_LeadAcid
+348,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,27,2025-10-14T19:00:03,2025-10-14T19:20:49,Timed Self-Check,Lower Than End Voltage,Battery alm,45.3,-75.1,25.9,5.0,VRLA12v_LeadAcid
+349,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,28,2025-10-11T19:00:03,2025-10-11T19:20:41,Timed Self-Check,Lower Than End Voltage,Battery alm,45.6,-77.9,26.7,12.0,VRLA12v_LeadAcid
+350,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,29,2025-10-08T19:00:02,2025-10-08T19:20:37,Timed Self-Check,Lower Than End Voltage,Battery alm,46.2,-76.9,26.3,12.0,VRLA12v_LeadAcid
+351,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,30,2025-10-05T19:00:03,2025-10-05T19:20:28,Timed Self-Check,Lower Than End Voltage,Battery alm,44.6,-80.6,27.4,18.0,VRLA12v_LeadAcid
+352,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,31,2025-10-02T19:00:02,2025-10-02T19:21:21,Timed Self-Check,Lower Than End Voltage,Battery alm,44.9,-79.2,28.1,25.0,VRLA12v_LeadAcid
+353,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,32,2025-09-29T19:00:03,2025-09-29T19:23:48,Timed Self-Check,Lower Than End Voltage,Battery alm,45.6,-74.0,29.2,24.0,VRLA12v_LeadAcid
+354,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,33,2025-09-26T19:00:03,2025-09-26T19:25:00,Timed Self-Check,Lower Than End Voltage,Battery alm,44.2,-73.2,30.4,24.0,VRLA12v_LeadAcid
+355,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,34,2025-09-23T19:00:02,2025-09-23T19:24:57,Timed Self-Check,Lower Than End Voltage,Battery alm,44.8,-74.1,30.7,18.0,VRLA12v_LeadAcid
+356,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,35,2025-09-20T19:00:02,2025-09-20T19:26:19,Timed Self-Check,Lower Than End Voltage,Battery alm,45.5,-72.1,31.5,22.0,VRLA12v_LeadAcid
+357,10.60.24.253,SHD._8hor_NarangiinGol48_41_ULN,36,2025-09-16T19:00:03,2025-09-16T19:26:25,Timed Self-Check,Lower Than End Voltage,Battery alm,45.2,-71.7,31.4,16.0,VRLA12v_LeadAcid

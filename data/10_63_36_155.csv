@@ -1,0 +1,6 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+210575,10.63.36.155,SEL.Baruunburen_2bag_Gmobile,5,2026-03-10T19:00:01,2026-03-11T00:00:40,Scheduled test,Exceeded time limit,Test normal,47.2,-17.2,85.8,13.0,VRLA12v_LeadAcid
+154021,10.63.36.155,SEL.Baruunburen_2bag_Gmobile,4,2026-03-07T19:00:02,2026-03-07T19:28:15,Scheduled test,Low temperature,Abnormal end,49.0,-17.5,8.2,5.0,VRLA12v_LeadAcid
+8457,10.63.36.155,SEL.Baruunburen_2bag_Gmobile,1,2026-02-17T19:00:01,2026-02-17T20:54:52,Scheduled test,Low temperature,Abnormal end,47.7,-19.0,36.4,5.0,VRLA12v_LeadAcid
+8458,10.63.36.155,SEL.Baruunburen_2bag_Gmobile,2,2026-02-11T19:00:00,2026-02-11T19:02:26,Scheduled test,Low temperature,Abnormal end,49.7,-14.3,0.6,5.0,VRLA12v_LeadAcid
+8459,10.63.36.155,SEL.Baruunburen_2bag_Gmobile,3,2025-11-27T19:00:00,2025-11-27T22:12:10,Scheduled test,Low temperature,Abnormal end,47.6,-14.9,47.6,5.0,VRLA12v_LeadAcid

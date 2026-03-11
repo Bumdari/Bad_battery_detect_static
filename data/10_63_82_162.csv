@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+218045,10.63.82.162,BGD._3hor_UranGanArena_ULN,39,2026-03-10T19:00:02,2026-03-10T20:26:09,Timed Self-Check,Low Capacity,Test Result Normal,48.6,-22.2,31.8,21.0,VRLA12v_LeadAcid
+161317,10.63.82.162,BGD._3hor_UranGanArena_ULN,38,2026-03-07T19:00:02,2026-03-07T20:42:46,Timed Self-Check,Low Capacity,Test Result Normal,49.2,-18.9,32.4,18.0,VRLA12v_LeadAcid
+105957,10.63.82.162,BGD._3hor_UranGanArena_ULN,37,2026-03-04T19:00:03,2026-03-04T21:08:48,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-18.1,38.8,20.0,VRLA12v_LeadAcid
+15489,10.63.82.162,BGD._3hor_UranGanArena_ULN,1,2026-03-01T19:00:03,2026-03-01T21:14:32,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-17.9,40.1,17.0,VRLA12v_LeadAcid
+15490,10.63.82.162,BGD._3hor_UranGanArena_ULN,2,2026-02-26T19:00:02,2026-02-26T21:28:47,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-17.6,43.7,22.0,VRLA12v_LeadAcid
+15491,10.63.82.162,BGD._3hor_UranGanArena_ULN,3,2026-02-23T19:00:02,2026-02-23T21:28:09,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-17.5,43.1,20.0,VRLA12v_LeadAcid
+15492,10.63.82.162,BGD._3hor_UranGanArena_ULN,4,2026-02-20T19:00:03,2026-02-20T21:08:07,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-21.0,44.6,25.0,VRLA12v_LeadAcid
+15493,10.63.82.162,BGD._3hor_UranGanArena_ULN,5,2026-02-17T19:00:02,2026-02-17T21:47:13,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-16.6,46.2,25.0,VRLA12v_LeadAcid
+15494,10.63.82.162,BGD._3hor_UranGanArena_ULN,6,2026-02-14T19:00:03,2026-02-14T20:24:14,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-30.7,43.0,25.0,VRLA12v_LeadAcid
+15495,10.63.82.162,BGD._3hor_UranGanArena_ULN,7,2026-02-11T19:00:03,2026-02-11T20:52:49,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-24.4,45.7,21.0,VRLA12v_LeadAcid
+15496,10.63.82.162,BGD._3hor_UranGanArena_ULN,8,2026-02-08T19:00:02,2026-02-08T19:42:18,Timed Self-Check,Low Capacity,Test Result Normal,50.8,-19.9,14.0,23.0,VRLA12v_LeadAcid
+15497,10.63.82.162,BGD._3hor_UranGanArena_ULN,9,2026-02-05T19:00:03,2026-02-05T21:09:29,Timed Self-Check,Low Capacity,Test Result Normal,50.1,-18.0,38.9,26.0,VRLA12v_LeadAcid
+15498,10.63.82.162,BGD._3hor_UranGanArena_ULN,10,2026-02-02T19:00:03,2026-02-02T21:29:14,Timed Self-Check,Low Capacity,Test Result Normal,48.8,-17.6,43.6,25.0,VRLA12v_LeadAcid
+15499,10.63.82.162,BGD._3hor_UranGanArena_ULN,11,2026-01-30T19:00:03,2026-01-30T21:17:27,Timed Self-Check,Low Capacity,Test Result Normal,48.3,-19.2,43.9,25.0,VRLA12v_LeadAcid
+15500,10.63.82.162,BGD._3hor_UranGanArena_ULN,12,2026-01-27T19:00:02,2026-01-27T20:08:50,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.3,-19.7,22.5,23.0,VRLA12v_LeadAcid
+15501,10.63.82.162,BGD._3hor_UranGanArena_ULN,13,2026-01-24T19:00:03,2026-01-24T21:23:28,Timed Self-Check,Low Capacity,Test Result Normal,48.2,-17.8,42.5,22.0,VRLA12v_LeadAcid
+15502,10.63.82.162,BGD._3hor_UranGanArena_ULN,14,2026-01-21T19:00:02,2026-01-21T19:05:05,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,51.5,-9.6,0.8,22.0,VRLA12v_LeadAcid
+15503,10.63.82.162,BGD._3hor_UranGanArena_ULN,15,2026-01-18T19:00:03,2026-01-18T21:05:50,Timed Self-Check,Low Capacity,Test Result Normal,49.0,-17.5,36.7,22.0,VRLA12v_LeadAcid
+15504,10.63.82.162,BGD._3hor_UranGanArena_ULN,16,2026-01-15T19:00:01,2026-01-15T21:08:32,Timed Self-Check,Low Capacity,Test Result Normal,48.5,-18.0,38.5,24.0,VRLA12v_LeadAcid
+15505,10.63.82.162,BGD._3hor_UranGanArena_ULN,17,2026-01-12T19:00:03,2026-01-12T21:10:40,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-17.8,38.7,23.0,VRLA12v_LeadAcid
+15506,10.63.82.162,BGD._3hor_UranGanArena_ULN,18,2026-01-09T19:00:02,2026-01-09T21:14:19,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-17.6,39.3,24.0,VRLA12v_LeadAcid
+15507,10.63.82.162,BGD._3hor_UranGanArena_ULN,19,2026-01-06T19:00:03,2026-01-06T21:01:15,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-19.4,39.2,24.0,VRLA12v_LeadAcid
+15508,10.63.82.162,BGD._3hor_UranGanArena_ULN,20,2026-01-03T19:00:03,2026-01-03T21:21:05,Timed Self-Check,Low Capacity,Test Result Normal,48.1,-17.7,41.5,23.0,VRLA12v_LeadAcid
+15509,10.63.82.162,BGD._3hor_UranGanArena_ULN,21,2025-12-31T19:00:03,2025-12-31T21:34:28,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-17.1,44.1,22.0,VRLA12v_LeadAcid
+15510,10.63.82.162,BGD._3hor_UranGanArena_ULN,22,2025-12-28T19:00:03,2025-12-28T21:20:17,Timed Self-Check,Low Capacity,Test Result Normal,49.4,-18.6,43.3,22.0,VRLA12v_LeadAcid
+15511,10.63.82.162,BGD._3hor_UranGanArena_ULN,23,2025-12-25T19:00:03,2025-12-25T21:22:34,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-20.7,49.0,22.0,VRLA12v_LeadAcid
+15512,10.63.82.162,BGD._3hor_UranGanArena_ULN,24,2025-12-22T19:00:01,2025-12-22T21:13:57,Timed Self-Check,Low Capacity,Test Result Normal,48.1,-24.2,54.0,23.0,VRLA12v_LeadAcid
+15513,10.63.82.162,BGD._3hor_UranGanArena_ULN,25,2025-12-19T19:00:02,2025-12-19T21:56:52,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-19.8,58.4,23.0,VRLA12v_LeadAcid
+15514,10.63.82.162,BGD._3hor_UranGanArena_ULN,26,2025-12-16T19:00:03,2025-12-16T21:17:21,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-20.0,45.6,23.0,VRLA12v_LeadAcid
+15515,10.63.82.162,BGD._3hor_UranGanArena_ULN,27,2025-12-13T19:00:02,2025-12-13T21:25:29,Timed Self-Check,Low Capacity,Test Result Normal,48.5,-19.3,46.6,23.0,VRLA12v_LeadAcid
+15516,10.63.82.162,BGD._3hor_UranGanArena_ULN,28,2025-12-10T19:00:02,2025-12-10T21:20:57,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-20.5,48.0,23.0,VRLA12v_LeadAcid
+15517,10.63.82.162,BGD._3hor_UranGanArena_ULN,29,2025-12-07T19:00:03,2025-12-07T21:28:21,Timed Self-Check,Low Capacity,Test Result Normal,48.1,-20.7,51.0,24.0,VRLA12v_LeadAcid
+15518,10.63.82.162,BGD._3hor_UranGanArena_ULN,30,2025-12-04T19:00:03,2025-12-04T21:34:18,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-20.6,52.8,23.0,VRLA12v_LeadAcid
+15519,10.63.82.162,BGD._3hor_UranGanArena_ULN,31,2025-12-01T19:00:01,2025-12-01T21:42:08,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-20.3,54.6,22.0,VRLA12v_LeadAcid
+15520,10.63.82.162,BGD._3hor_UranGanArena_ULN,32,2025-11-28T19:00:02,2025-11-28T21:49:34,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-19.8,55.7,21.0,VRLA12v_LeadAcid
+15521,10.63.82.162,BGD._3hor_UranGanArena_ULN,33,2025-11-25T19:00:02,2025-11-25T21:45:11,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-20.9,57.5,22.0,VRLA12v_LeadAcid
+15522,10.63.82.162,BGD._3hor_UranGanArena_ULN,34,2025-11-22T19:00:02,2025-11-22T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,47.9,-19.3,58.0,24.0,VRLA12v_LeadAcid
+15523,10.63.82.162,BGD._3hor_UranGanArena_ULN,35,2025-11-19T19:00:02,2025-11-19T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,47.1,-20.7,62.1,23.0,VRLA12v_LeadAcid
+15524,10.63.82.162,BGD._3hor_UranGanArena_ULN,36,2025-11-16T19:00:03,2025-11-16T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.3,-19.4,58.2,22.0,VRLA12v_LeadAcid

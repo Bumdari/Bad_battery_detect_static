@@ -16,7 +16,7 @@ cursor = conn.cursor()
 
 # ================= PATH SETUP =================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "data")
+DATA_DIR = os.path.join(BASE_DIR, "data_archive_2")
 STATE_DIR = os.path.join(BASE_DIR, "state")
 
 os.makedirs(DATA_DIR, exist_ok=True)

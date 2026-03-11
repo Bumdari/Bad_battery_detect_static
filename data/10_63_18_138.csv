@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+208519,10.63.18.138,TUV.Bayantsogt_Hairthaan,38,2026-03-10T19:00:03,2026-03-10T19:52:43,Scheduled test,Low capacity,Test normal,47.3,-7.6,6.7,11.0,VRLA12v_LeadAcid
+152015,10.63.18.138,TUV.Bayantsogt_Hairthaan,37,2026-03-07T19:00:03,2026-03-07T19:53:45,Scheduled test,Low capacity,Test normal,47.7,-8.0,7.1,6.0,VRLA12v_LeadAcid
+6479,10.63.18.138,TUV.Bayantsogt_Hairthaan,1,2026-02-19T19:00:03,2026-02-19T19:56:46,Scheduled test,Low capacity,Test normal,47.5,-8.5,8.0,8.0,VRLA12v_LeadAcid
+6480,10.63.18.138,TUV.Bayantsogt_Hairthaan,2,2026-02-12T19:00:02,2026-02-12T20:19:53,Scheduled test,Low capacity,Test normal,47.6,-7.4,9.9,7.0,VRLA12v_LeadAcid
+6481,10.63.18.138,TUV.Bayantsogt_Hairthaan,3,2025-11-21T19:00:03,2025-11-21T19:35:05,Scheduled test,Low temperature,Abnormal end,50.5,-8.2,4.8,5.0,VRLA12v_LeadAcid
+6482,10.63.18.138,TUV.Bayantsogt_Hairthaan,4,2025-11-13T19:00:03,2025-11-13T20:11:56,Scheduled test,Low capacity,Test normal,46.0,-7.4,8.9,5.0,VRLA12v_LeadAcid
+6483,10.63.18.138,TUV.Bayantsogt_Hairthaan,5,2025-11-10T19:00:03,2025-11-10T20:13:34,Scheduled test,Low capacity,Test normal,46.1,-7.4,9.1,6.0,VRLA12v_LeadAcid
+6484,10.63.18.138,TUV.Bayantsogt_Hairthaan,6,2025-11-06T19:00:02,2025-11-06T20:15:38,Scheduled test,Low capacity,Test normal,46.1,-7.5,9.5,10.0,VRLA12v_LeadAcid
+6485,10.63.18.138,TUV.Bayantsogt_Hairthaan,7,2025-11-03T19:00:02,2025-11-03T20:18:30,Scheduled test,Low capacity,Test normal,45.9,-7.9,10.3,10.0,VRLA12v_LeadAcid
+6486,10.63.18.138,TUV.Bayantsogt_Hairthaan,8,2025-10-31T19:00:02,2025-10-31T20:25:49,Scheduled test,Low capacity,Test normal,46.2,-7.6,10.9,10.0,VRLA12v_LeadAcid
+6487,10.63.18.138,TUV.Bayantsogt_Hairthaan,9,2025-10-28T19:00:03,2025-10-28T20:31:52,Scheduled test,Low capacity,Test normal,46.0,-7.7,11.8,10.0,VRLA12v_LeadAcid
+6488,10.63.18.138,TUV.Bayantsogt_Hairthaan,10,2025-10-25T19:00:03,2025-10-25T19:35:37,Scheduled test,Low temperature,Abnormal end,50.7,-8.1,4.8,5.0,VRLA12v_LeadAcid
+6489,10.63.18.138,TUV.Bayantsogt_Hairthaan,11,2025-10-22T19:00:03,2025-10-22T20:52:07,Scheduled test,Low capacity,Test normal,46.2,-7.8,14.6,17.0,VRLA12v_LeadAcid
+6490,10.63.18.138,TUV.Bayantsogt_Hairthaan,12,2025-10-19T19:00:02,2025-10-19T21:03:29,Scheduled test,Low capacity,Test normal,45.8,-8.6,17.6,16.0,VRLA12v_LeadAcid
+6491,10.63.18.138,TUV.Bayantsogt_Hairthaan,13,2025-10-15T19:00:03,2025-10-15T21:38:00,Scheduled test,Low capacity,Test normal,46.2,-7.9,20.7,11.0,VRLA12v_LeadAcid
+6492,10.63.18.138,TUV.Bayantsogt_Hairthaan,14,2025-10-12T19:00:03,2025-10-12T21:48:07,Scheduled test,Low capacity,Test normal,45.8,-8.0,22.5,17.0,VRLA12v_LeadAcid
+6493,10.63.18.138,TUV.Bayantsogt_Hairthaan,15,2025-10-09T19:00:02,2025-10-09T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.7,-7.7,23.0,23.0,VRLA12v_LeadAcid
+6494,10.63.18.138,TUV.Bayantsogt_Hairthaan,16,2025-10-06T19:00:03,2025-10-06T21:58:49,Scheduled test,Fault alarm,Abnormal end,47.9,-7.4,21.9,13.0,VRLA12v_LeadAcid
+6495,10.63.18.138,TUV.Bayantsogt_Hairthaan,17,2025-10-03T19:00:03,2025-10-03T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-8.2,24.7,23.0,VRLA12v_LeadAcid
+6496,10.63.18.138,TUV.Bayantsogt_Hairthaan,18,2025-09-30T19:00:02,2025-09-30T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-7.6,22.8,24.0,VRLA12v_LeadAcid
+6497,10.63.18.138,TUV.Bayantsogt_Hairthaan,19,2025-09-27T19:00:03,2025-09-27T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-8.2,24.6,28.0,VRLA12v_LeadAcid
+6498,10.63.18.138,TUV.Bayantsogt_Hairthaan,20,2025-09-23T19:00:02,2025-09-23T20:53:19,Scheduled test,Low capacity,Test normal,45.8,-8.0,15.1,21.0,VRLA12v_LeadAcid
+6499,10.63.18.138,TUV.Bayantsogt_Hairthaan,21,2025-09-20T19:00:02,2025-09-20T20:58:06,Scheduled test,Low voltage,Battery alm,45.7,-8.8,17.4,26.0,VRLA12v_LeadAcid
+6500,10.63.18.138,TUV.Bayantsogt_Hairthaan,22,2025-09-17T19:00:03,2025-09-17T21:07:55,Scheduled test,Low capacity,Test normal,46.0,-8.0,17.1,27.0,VRLA12v_LeadAcid
+6501,10.63.18.138,TUV.Bayantsogt_Hairthaan,23,2025-09-14T19:00:02,2025-09-14T21:13:33,Scheduled test,Low capacity,Test normal,45.5,-7.7,17.1,25.0,VRLA12v_LeadAcid
+6502,10.63.18.138,TUV.Bayantsogt_Hairthaan,24,2025-09-11T19:00:02,2025-09-11T21:06:54,Scheduled test,Low capacity,Test normal,45.7,-7.7,16.3,26.0,VRLA12v_LeadAcid
+6503,10.63.18.138,TUV.Bayantsogt_Hairthaan,25,2025-09-08T19:00:02,2025-09-08T21:12:17,Scheduled test,Low capacity,Test normal,46.3,-7.6,16.8,25.0,VRLA12v_LeadAcid
+6504,10.63.18.138,TUV.Bayantsogt_Hairthaan,26,2025-09-05T19:00:03,2025-09-05T20:59:50,Scheduled test,Low capacity,Test normal,45.7,-8.4,16.7,25.0,VRLA12v_LeadAcid
+6505,10.63.18.138,TUV.Bayantsogt_Hairthaan,27,2025-09-02T19:00:03,2025-09-02T21:09:19,Scheduled test,Low capacity,Test normal,45.9,-7.7,16.6,28.0,VRLA12v_LeadAcid
+6506,10.63.18.138,TUV.Bayantsogt_Hairthaan,28,2025-08-30T19:00:03,2025-08-30T20:56:36,Scheduled test,Low capacity,Test normal,45.7,-8.5,16.5,27.0,VRLA12v_LeadAcid
+6507,10.63.18.138,TUV.Bayantsogt_Hairthaan,29,2025-08-27T19:00:03,2025-08-27T20:57:39,Scheduled test,Low voltage,Battery alm,45.7,-8.5,16.6,25.0,VRLA12v_LeadAcid
+6508,10.63.18.138,TUV.Bayantsogt_Hairthaan,30,2025-08-24T19:00:02,2025-08-24T20:50:41,Scheduled test,Low capacity,Test normal,45.6,-9.0,16.5,28.0,VRLA12v_LeadAcid
+6509,10.63.18.138,TUV.Bayantsogt_Hairthaan,31,2025-08-21T19:00:03,2025-08-21T20:52:53,Scheduled test,Low capacity,Test normal,46.0,-8.5,16.0,27.0,VRLA12v_LeadAcid
+6510,10.63.18.138,TUV.Bayantsogt_Hairthaan,32,2025-08-18T19:00:03,2025-08-18T20:35:44,Scheduled test,Low capacity,Test normal,46.2,-8.5,13.6,27.0,VRLA12v_LeadAcid
+6511,10.63.18.138,TUV.Bayantsogt_Hairthaan,33,2025-08-15T19:00:03,2025-08-15T20:35:38,Scheduled test,Low capacity,Test normal,45.6,-8.5,13.6,25.0,VRLA12v_LeadAcid
+6512,10.63.18.138,TUV.Bayantsogt_Hairthaan,34,2025-08-12T19:00:03,2025-08-12T20:42:24,Scheduled test,Low capacity,Test normal,45.6,-8.8,15.0,28.0,VRLA12v_LeadAcid
+6513,10.63.18.138,TUV.Bayantsogt_Hairthaan,35,2025-08-09T19:00:02,2025-08-09T20:27:55,Scheduled test,Low voltage,Battery alm,45.7,-9.7,14.2,26.0,VRLA12v_LeadAcid
+6514,10.63.18.138,TUV.Bayantsogt_Hairthaan,36,2025-08-06T19:00:03,2025-08-06T20:36:55,Scheduled test,Low capacity,Test normal,45.6,-8.7,14.0,25.0,VRLA12v_LeadAcid

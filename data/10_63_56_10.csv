@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+195153,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,39,2026-03-09T19:00:02,2026-03-09T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.3,-12.9,38.7,,VRLA12v_LeadAcid
+138962,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,38,2026-03-06T19:00:03,2026-03-06T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-13.7,41.2,,VRLA12v_LeadAcid
+11863,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,37,2026-03-03T19:00:03,2026-03-03T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-13.7,41.1,,VRLA12v_LeadAcid
+11827,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,1,2026-02-28T19:00:02,2026-02-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-12.0,36.0,,VRLA12v_LeadAcid
+11828,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,2,2026-02-25T19:00:02,2026-02-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-12.8,38.4,,VRLA12v_LeadAcid
+11829,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,3,2026-02-22T19:00:03,2026-02-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-12.4,37.4,,VRLA12v_LeadAcid
+11830,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,4,2026-02-19T19:00:02,2026-02-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.2,-12.1,36.2,,VRLA12v_LeadAcid
+11831,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,5,2026-02-16T19:00:03,2026-02-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.2,-12.3,36.8,,VRLA12v_LeadAcid
+11832,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,6,2026-02-13T19:00:02,2026-02-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.1,-12.8,38.4,,VRLA12v_LeadAcid
+11833,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,7,2026-02-10T19:00:03,2026-02-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-12.3,36.8,,VRLA12v_LeadAcid
+11834,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,8,2026-02-07T19:00:02,2026-02-07T22:45:57,Scheduled test,Low capacity,Test normal,47.1,-12.4,46.6,,VRLA12v_LeadAcid
+11835,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,9,2026-02-04T19:00:02,2026-02-04T22:55:32,Scheduled test,Low capacity,Test normal,47.2,-13.1,51.4,,VRLA12v_LeadAcid
+11836,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,10,2026-02-01T19:00:03,2026-02-01T22:33:28,Scheduled test,Low capacity,Test normal,47.4,-12.7,45.3,,VRLA12v_LeadAcid
+11837,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,11,2026-01-29T19:00:03,2026-01-29T21:18:38,Scheduled test,Low capacity,Test normal,47.2,-12.9,29.7,,VRLA12v_LeadAcid
+11838,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,12,2026-01-24T19:00:02,2026-01-24T21:20:13,Scheduled test,Low capacity,Test normal,47.1,-12.3,28.7,,VRLA12v_LeadAcid
+11839,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,13,2026-01-18T19:00:03,2026-01-18T21:46:05,Scheduled test,Low capacity,Test normal,47.4,-12.5,34.5,,VRLA12v_LeadAcid
+11840,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,14,2026-01-15T19:00:03,2026-01-15T23:12:40,Scheduled test,Low capacity,Test normal,47.1,-12.6,53.2,,VRLA12v_LeadAcid
+11841,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,15,2026-01-12T19:00:03,2026-01-12T22:43:40,Scheduled test,Low capacity,Test normal,47.1,-13.7,50.9,,VRLA12v_LeadAcid
+11842,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,16,2026-01-09T19:00:02,2026-01-09T23:01:20,Scheduled test,Low capacity,Test normal,47.4,-13.4,53.9,,VRLA12v_LeadAcid
+11843,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,17,2026-01-06T19:00:03,2026-01-06T22:22:33,Scheduled test,Low capacity,Test normal,47.3,-14.1,47.6,,VRLA12v_LeadAcid
+11844,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,18,2026-01-03T19:00:02,2026-01-03T22:01:01,Scheduled test,Low capacity,Test normal,47.0,-13.9,41.9,,VRLA12v_LeadAcid
+11845,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,19,2025-12-31T19:00:02,2025-12-31T22:05:01,Scheduled test,Low capacity,Test normal,47.1,-12.6,38.9,,VRLA12v_LeadAcid
+11846,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,20,2025-12-28T19:00:02,2025-12-28T23:08:57,Scheduled test,Low capacity,Test normal,47.1,-12.3,51.2,,VRLA12v_LeadAcid
+11847,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,21,2025-12-25T19:00:03,2025-12-25T22:16:27,Scheduled test,Low capacity,Test normal,47.1,-13.3,43.5,,VRLA12v_LeadAcid
+11848,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,22,2025-12-22T19:00:02,2025-12-22T23:07:11,Scheduled test,Low capacity,Test normal,47.2,-12.7,52.3,,VRLA12v_LeadAcid
+11849,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,23,2025-12-19T19:00:03,2025-12-20T00:00:17,Scheduled test,Exceeded time limit,Test normal,47.6,-11.6,58.1,,VRLA12v_LeadAcid
+11850,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,24,2025-12-16T19:00:03,2025-12-16T23:54:05,Scheduled test,Low capacity,Test normal,47.2,-11.7,57.4,,VRLA12v_LeadAcid
+11851,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,25,2025-12-13T19:00:03,2025-12-13T22:23:52,Scheduled test,Low capacity,Test normal,47.5,-12.0,40.7,,VRLA12v_LeadAcid
+11852,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,26,2025-12-10T19:00:02,2025-12-10T23:07:05,Scheduled test,Low capacity,Test normal,47.1,-12.5,51.6,,VRLA12v_LeadAcid
+11853,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,27,2025-12-07T19:00:03,2025-12-08T00:00:16,Scheduled test,Exceeded time limit,Test normal,47.7,-12.1,60.4,,VRLA12v_LeadAcid
+11854,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,28,2025-12-04T19:00:03,2025-12-04T23:47:28,Scheduled test,Low capacity,Test normal,47.2,-11.9,56.7,,VRLA12v_LeadAcid
+11855,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,29,2025-12-01T19:00:02,2025-12-01T23:58:11,Scheduled test,Low capacity,Test normal,47.3,-12.0,59.5,,VRLA12v_LeadAcid
+11856,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,30,2025-11-28T19:00:03,2025-11-29T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.1,-11.7,58.5,,VRLA12v_LeadAcid
+11857,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,31,2025-11-25T19:00:02,2025-11-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-11.6,34.7,,VRLA12v_LeadAcid
+11858,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,32,2025-11-22T19:00:02,2025-11-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.2,-11.9,35.8,,VRLA12v_LeadAcid
+11859,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,33,2025-11-19T19:00:03,2025-11-19T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.9,-11.9,35.6,,VRLA12v_LeadAcid
+11860,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,34,2025-11-16T19:00:02,2025-11-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.9,-11.1,33.2,,VRLA12v_LeadAcid
+11861,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,35,2025-11-13T19:00:03,2025-11-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.3,-11.1,33.4,,VRLA12v_LeadAcid
+11862,10.63.56.10,HEN.Herlen_Ulziittosgon_SoyoliinTuv,36,2025-11-10T19:00:04,2025-11-10T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.2,-12.2,36.7,,VRLA12v_LeadAcid

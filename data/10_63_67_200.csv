@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+13415,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,1,2025-11-12T19:00:02,2025-11-12T19:19:28,Scheduled test,Low temperature,Abnormal end,50.0,-36.7,11.9,5.0,VRLA12v_LeadAcid
+13416,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,2,2025-11-08T19:00:02,2025-11-08T21:37:21,Scheduled test,Low voltage,Battery alm,46.0,-44.2,115.7,6.0,VRLA12v_LeadAcid
+13417,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,3,2025-11-05T19:00:02,2025-11-05T21:41:16,Scheduled test,Low voltage,Battery alm,45.7,-43.6,117.2,8.0,VRLA12v_LeadAcid
+13418,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,4,2025-11-02T19:00:02,2025-11-02T21:45:34,Scheduled test,Low voltage,Battery alm,45.5,-43.6,120.3,9.0,VRLA12v_LeadAcid
+13419,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,5,2025-10-30T19:00:02,2025-10-30T21:47:30,Scheduled test,Low voltage,Battery alm,46.1,-42.9,119.7,6.0,VRLA12v_LeadAcid
+13420,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,6,2025-10-27T19:00:02,2025-10-27T21:50:23,Scheduled test,Low voltage,Battery alm,45.9,-42.5,120.5,6.0,VRLA12v_LeadAcid
+13421,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,7,2025-10-23T19:00:03,2025-10-23T19:00:59,Scheduled test,Low temperature,Abnormal end,51.8,-32.1,0.5,5.0,VRLA12v_LeadAcid
+13422,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,8,2025-10-17T19:00:03,2025-10-17T21:54:22,Scheduled test,Low voltage,Battery alm,45.9,-42.2,122.5,5.0,VRLA12v_LeadAcid
+13423,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,9,2025-10-13T19:00:03,2025-10-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.9,-39.9,119.7,11.0,VRLA12v_LeadAcid
+13424,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,10,2025-10-10T19:00:03,2025-10-10T21:49:30,Scheduled test,Low voltage,Battery alm,45.9,-44.9,126.7,13.0,VRLA12v_LeadAcid
+13425,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,11,2025-10-07T19:00:02,2025-10-07T21:57:57,Scheduled test,Low voltage,Battery alm,45.5,-43.1,127.7,12.0,VRLA12v_LeadAcid
+13426,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,12,2025-10-04T19:00:02,2025-10-04T21:51:42,Scheduled test,Low voltage,Battery alm,45.8,-46.3,132.4,17.0,VRLA12v_LeadAcid
+13427,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,13,2025-10-01T19:00:02,2025-10-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.8,-43.5,130.5,20.0,VRLA12v_LeadAcid
+13428,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,14,2025-09-27T19:00:02,2025-09-27T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.6,-43.0,128.9,19.0,VRLA12v_LeadAcid
+13429,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,15,2025-09-24T19:00:02,2025-09-24T21:51:39,Scheduled test,Low voltage,Battery alm,46.0,-46.6,133.1,18.0,VRLA12v_LeadAcid
+13430,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,16,2025-09-21T19:00:02,2025-09-21T21:58:41,Scheduled test,Low capacity,Test normal,46.1,-45.8,136.2,20.0,VRLA12v_LeadAcid
+13431,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,17,2025-09-18T19:00:03,2025-09-18T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.0,-42.8,128.4,18.0,VRLA12v_LeadAcid
+13432,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,18,2025-09-15T19:00:02,2025-09-15T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.8,-42.2,126.7,16.0,VRLA12v_LeadAcid
+13433,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,19,2025-09-12T19:00:02,2025-09-12T22:00:09,Scheduled test,Exceeded time limit,Test normal,46.5,-44.9,134.9,19.0,VRLA12v_LeadAcid
+13434,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,20,2025-09-09T19:00:03,2025-09-09T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.6,-44.5,133.5,20.0,VRLA12v_LeadAcid
+13435,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,21,2025-09-06T19:00:03,2025-09-06T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.7,-45.9,137.9,20.0,VRLA12v_LeadAcid
+13436,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,22,2025-09-03T19:00:03,2025-09-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-44.7,134.1,22.0,VRLA12v_LeadAcid
+13437,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,23,2025-08-31T19:00:02,2025-08-31T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.7,-42.2,126.7,22.0,VRLA12v_LeadAcid
+13438,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,24,2025-08-28T19:00:04,2025-08-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.4,-44.6,133.8,23.0,VRLA12v_LeadAcid
+13439,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,25,2025-08-25T19:00:03,2025-08-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-40.2,120.5,25.0,VRLA12v_LeadAcid
+13440,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,26,2025-08-22T19:00:02,2025-08-22T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.7,-41.5,124.4,23.0,VRLA12v_LeadAcid
+13441,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,27,2025-08-18T19:00:03,2025-08-18T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.6,-40.7,122.1,25.0,VRLA12v_LeadAcid
+13442,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,28,2025-08-15T19:00:02,2025-08-15T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.7,-39.8,119.5,25.0,VRLA12v_LeadAcid
+13443,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,29,2025-08-12T19:00:02,2025-08-12T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.4,-37.5,112.6,23.0,VRLA12v_LeadAcid
+13444,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,30,2025-08-09T19:00:02,2025-08-09T21:14:58,Scheduled test,Low capacity,Test normal,49.0,-40.0,89.9,27.0,VRLA12v_LeadAcid
+13445,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,31,2025-08-05T19:00:03,2025-08-05T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-37.4,112.1,26.0,VRLA12v_LeadAcid
+13446,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,32,2025-08-02T19:00:02,2025-08-02T21:56:28,Scheduled test,Low capacity,Test normal,47.3,-45.3,133.1,27.0,VRLA12v_LeadAcid
+13447,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,33,2025-07-30T19:00:03,2025-07-30T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.8,-40.7,122.0,26.0,VRLA12v_LeadAcid
+13448,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,34,2025-07-27T19:00:02,2025-07-27T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.1,-41.6,124.8,27.0,VRLA12v_LeadAcid
+13449,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,35,2025-07-24T19:00:03,2025-07-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-39.3,117.9,28.0,VRLA12v_LeadAcid
+13450,10.63.67.200,SHD._25hor_Hairhan_2_63toot_IronTower_ULN,36,2025-07-21T19:00:03,2025-07-21T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-40.5,121.5,28.0,VRLA12v_LeadAcid

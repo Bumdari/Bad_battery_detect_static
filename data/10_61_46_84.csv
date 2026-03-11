@@ -1,0 +1,41 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+184501,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,76,2026-03-09T19:00:01,2026-03-09T20:35:55,Scheduled test,Low capacity,Test normal,50.1,-10.4,16.6,15.0,VRLA12v_LeadAcid
+128595,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,74,2026-03-06T19:00:00,2026-03-06T20:32:40,Scheduled test,Low capacity,Test normal,49.9,-10.7,16.5,11.0,VRLA12v_LeadAcid
+128596,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,75,2026-03-06T16:32:03,2026-03-06T16:37:05,Short test,Exceeded time limit,No result,51.4,-10.5,0.9,11.0,VRLA12v_LeadAcid
+1728,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,37,2026-03-03T19:00:01,2026-03-03T20:31:32,Scheduled test,Low capacity,Test normal,49.8,-10.9,16.6,8.0,VRLA12v_LeadAcid
+1692,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,1,2026-02-28T19:00:01,2026-02-28T20:33:55,Scheduled test,Low capacity,Test normal,49.8,-10.6,16.6,9.0,VRLA12v_LeadAcid
+1693,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,2,2026-02-25T19:00:01,2026-02-25T20:30:54,Scheduled test,Low capacity,Test normal,50.0,-11.0,16.7,10.0,VRLA12v_LeadAcid
+1694,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,3,2026-02-22T19:00:01,2026-02-22T20:24:46,Scheduled test,Low capacity,Test normal,49.8,-11.9,16.8,9.0,VRLA12v_LeadAcid
+1695,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,4,2026-02-19T19:00:01,2026-02-19T20:27:43,Scheduled test,Low capacity,Test normal,49.9,-11.5,16.7,12.0,VRLA12v_LeadAcid
+1696,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,5,2026-02-16T19:00:01,2026-02-16T20:30:14,Scheduled test,Low capacity,Test normal,49.8,-11.1,16.7,8.0,VRLA12v_LeadAcid
+1697,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,6,2026-02-13T19:00:00,2026-02-13T20:35:06,Scheduled test,Low capacity,Test normal,50.0,-10.4,16.6,10.0,VRLA12v_LeadAcid
+1698,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,7,2026-02-10T19:00:00,2026-02-10T20:32:26,Scheduled test,Low capacity,Test normal,49.8,-10.8,16.7,9.0,VRLA12v_LeadAcid
+1699,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,8,2026-02-07T19:00:01,2026-02-07T20:35:52,Scheduled test,Low capacity,Test normal,49.8,-10.4,16.6,8.0,VRLA12v_LeadAcid
+1700,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,9,2026-02-04T19:00:01,2026-02-04T20:32:29,Scheduled test,Low capacity,Test normal,49.8,-10.8,16.6,10.0,VRLA12v_LeadAcid
+1701,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,10,2026-02-04T16:13:14,2026-02-04T16:18:16,Short test,Exceeded time limit,No result,51.6,-9.6,0.8,10.0,VRLA12v_LeadAcid
+1702,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,11,2026-02-01T19:00:01,2026-02-01T20:31:57,Scheduled test,Low capacity,Test normal,49.8,-10.9,16.6,11.0,VRLA12v_LeadAcid
+1703,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,12,2026-01-29T19:00:01,2026-01-29T20:31:00,Scheduled test,Low capacity,Test normal,49.9,-11.0,16.7,10.0,VRLA12v_LeadAcid
+1704,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,13,2026-01-26T19:00:01,2026-01-26T20:25:55,Scheduled test,Low capacity,Test normal,49.8,-11.7,16.7,10.0,VRLA12v_LeadAcid
+1705,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,14,2026-01-23T19:00:01,2026-01-23T20:28:30,Scheduled test,Low capacity,Test normal,49.7,-11.3,16.7,5.0,VRLA12v_LeadAcid
+1706,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,15,2026-01-17T19:00:01,2026-01-17T19:00:05,Scheduled test,Low temperature,No result,53.6,-1.5,0.0,5.0,VRLA12v_LeadAcid
+1707,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,16,2026-01-14T19:00:01,2026-01-14T20:34:05,Scheduled test,Low capacity,Test normal,50.0,-10.6,16.6,12.0,VRLA12v_LeadAcid
+1708,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,17,2026-01-11T19:00:00,2026-01-11T20:26:02,Scheduled test,Low capacity,Test normal,49.8,-11.7,16.8,12.0,VRLA12v_LeadAcid
+1709,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,18,2026-01-08T19:00:00,2026-01-08T20:29:54,Scheduled test,Low capacity,Test normal,49.8,-11.2,16.7,11.0,VRLA12v_LeadAcid
+1710,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,19,2026-01-05T19:00:00,2026-01-05T20:30:32,Scheduled test,Low capacity,Test normal,49.9,-11.0,16.6,9.0,VRLA12v_LeadAcid
+1711,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,20,2026-01-05T15:54:31,2026-01-05T15:59:33,Short test,Exceeded time limit,No result,51.6,-9.9,0.8,9.0,VRLA12v_LeadAcid
+1712,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,21,2026-01-02T19:00:01,2026-01-02T20:33:45,Scheduled test,Low capacity,Test normal,49.8,-10.7,16.7,10.0,VRLA12v_LeadAcid
+1713,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,22,2025-12-30T19:00:00,2025-12-30T20:33:50,Scheduled test,Low capacity,Test normal,49.9,-10.6,16.6,10.0,VRLA12v_LeadAcid
+1714,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,23,2025-12-27T19:00:00,2025-12-27T20:34:15,Scheduled test,Low capacity,Test normal,50.0,-10.6,16.6,13.0,VRLA12v_LeadAcid
+1715,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,24,2025-12-24T19:00:01,2025-12-24T20:37:09,Scheduled test,Low capacity,Test normal,50.0,-10.2,16.4,13.0,VRLA12v_LeadAcid
+1716,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,25,2025-12-21T19:00:01,2025-12-21T20:34:51,Scheduled test,Low capacity,Test normal,49.9,-10.4,16.5,11.0,VRLA12v_LeadAcid
+1717,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,26,2025-12-18T19:00:01,2025-12-18T20:34:07,Scheduled test,Low capacity,Test normal,50.0,-10.6,16.6,11.0,VRLA12v_LeadAcid
+1718,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,27,2025-12-15T19:00:00,2025-12-15T20:34:23,Scheduled test,Low capacity,Test normal,49.9,-10.6,16.6,12.0,VRLA12v_LeadAcid
+1719,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,28,2025-12-12T19:00:01,2025-12-12T20:36:20,Scheduled test,Low capacity,Test normal,50.0,-10.3,16.6,10.0,VRLA12v_LeadAcid
+1720,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,29,2025-12-09T19:00:01,2025-12-09T20:33:11,Scheduled test,Low capacity,Test normal,50.0,-10.8,16.7,14.0,VRLA12v_LeadAcid
+1721,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,30,2025-12-06T19:00:00,2025-12-06T20:31:46,Scheduled test,Low capacity,Test normal,50.0,-10.9,16.6,13.0,VRLA12v_LeadAcid
+1722,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,31,2025-12-06T15:35:51,2025-12-06T15:40:53,Short test,Exceeded time limit,No result,51.6,-9.8,0.8,13.0,VRLA12v_LeadAcid
+1723,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,32,2025-12-03T19:00:01,2025-12-03T20:35:47,Scheduled test,Low capacity,Test normal,49.9,-10.3,16.5,10.0,VRLA12v_LeadAcid
+1724,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,33,2025-11-30T19:00:00,2025-11-30T20:33:58,Scheduled test,Low capacity,Test normal,50.1,-10.6,16.6,11.0,VRLA12v_LeadAcid
+1725,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,34,2025-11-27T19:00:01,2025-11-27T20:27:09,Scheduled test,Low capacity,Test normal,50.1,-11.5,16.7,25.0,VRLA12v_LeadAcid
+1726,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,35,2025-11-24T19:00:01,2025-11-24T20:34:21,Scheduled test,Low capacity,Test normal,50.0,-10.5,16.6,14.0,VRLA12v_LeadAcid
+1727,10.61.46.84,ZAV.Bayanhairhan_Holboo_NMD110,36,2025-11-21T19:00:00,2025-11-21T20:33:57,Scheduled test,Low capacity,Test normal,50.1,-10.6,16.6,14.0,VRLA12v_LeadAcid

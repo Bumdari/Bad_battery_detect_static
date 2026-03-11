@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+200685,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,39,2026-03-09T19:00:02,2026-03-09T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-54.5,163.6,,VRLA12v_LeadAcid
+144366,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,38,2026-03-06T19:00:02,2026-03-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.0,-53.6,160.7,,VRLA12v_LeadAcid
+17159,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,37,2026-03-03T19:00:03,2026-03-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.0,-57.5,172.6,,VRLA12v_LeadAcid
+17123,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,1,2026-02-28T19:00:02,2026-02-28T21:49:26,Scheduled test,Low voltage,Battery alm,45.0,-56.4,159.1,,VRLA12v_LeadAcid
+17124,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,2,2026-02-25T19:00:02,2026-02-25T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.0,-50.4,151.3,,VRLA12v_LeadAcid
+17125,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,3,2026-02-22T19:00:02,2026-02-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.9,-50.6,151.9,,VRLA12v_LeadAcid
+17126,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,4,2026-02-19T19:00:03,2026-02-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-44.1,132.4,,VRLA12v_LeadAcid
+17127,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,5,2026-02-16T19:00:03,2026-02-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-42.5,127.5,,VRLA12v_LeadAcid
+17128,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,6,2026-02-13T19:00:01,2026-02-13T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.0,-47.7,143.2,,VRLA12v_LeadAcid
+17129,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,7,2026-02-10T19:00:02,2026-02-10T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.8,-48.5,145.6,,VRLA12v_LeadAcid
+17130,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,8,2026-02-07T19:00:03,2026-02-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-49.6,148.9,,VRLA12v_LeadAcid
+17131,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,9,2026-02-04T19:00:02,2026-02-04T22:46:31,Scheduled test,Low capacity,Test normal,46.0,-48.7,183.7,,VRLA12v_LeadAcid
+17132,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,10,2026-02-01T19:00:03,2026-02-01T23:24:19,Scheduled test,Low capacity,Test normal,46.2,-47.5,209.2,,VRLA12v_LeadAcid
+17133,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,11,2026-01-29T19:00:03,2026-01-29T22:37:40,Scheduled test,Low capacity,Test normal,46.2,-49.1,178.0,,VRLA12v_LeadAcid
+17134,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,12,2026-01-24T19:00:02,2026-01-24T20:53:47,Scheduled test,Low capacity,Test normal,45.4,-50.6,95.9,,VRLA12v_LeadAcid
+17135,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,13,2026-01-19T19:00:03,2026-01-19T19:00:59,Scheduled test,Low voltage,Battery alm,44.8,-51.5,0.8,,VRLA12v_LeadAcid
+17136,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,14,2026-01-16T19:00:02,2026-01-16T21:39:05,Scheduled test,Low capacity,Test normal,45.5,-52.3,138.5,,VRLA12v_LeadAcid
+17137,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,15,2026-01-13T19:00:02,2026-01-13T23:32:13,Scheduled test,Low capacity,Test normal,46.6,-46.1,209.2,,VRLA12v_LeadAcid
+17138,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,16,2026-01-10T19:00:02,2026-01-10T22:55:06,Scheduled test,Low capacity,Test normal,45.9,-49.0,191.8,,VRLA12v_LeadAcid
+17139,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,17,2026-01-07T19:00:02,2026-01-07T23:18:48,Scheduled test,Low capacity,Test normal,46.5,-49.1,211.7,,VRLA12v_LeadAcid
+17140,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,18,2026-01-04T19:00:03,2026-01-04T23:37:22,Scheduled test,Low capacity,Test normal,46.5,-45.1,208.5,,VRLA12v_LeadAcid
+17141,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,19,2026-01-01T19:00:02,2026-01-01T23:27:05,Scheduled test,Low capacity,Test normal,46.3,-45.3,201.3,,VRLA12v_LeadAcid
+17142,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,20,2025-12-29T19:00:02,2025-12-29T23:36:25,Scheduled test,Low capacity,Test normal,45.8,-45.0,207.0,,VRLA12v_LeadAcid
+17143,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,21,2025-12-26T19:00:02,2025-12-26T23:32:43,Scheduled test,Low capacity,Test normal,46.6,-47.2,214.4,,VRLA12v_LeadAcid
+17144,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,22,2025-12-23T19:00:02,2025-12-23T22:48:53,Scheduled test,Low capacity,Test normal,46.3,-52.3,199.2,,VRLA12v_LeadAcid
+17145,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,23,2025-12-20T19:00:03,2025-12-20T23:08:28,Scheduled test,Low capacity,Test normal,46.0,-48.7,201.4,,VRLA12v_LeadAcid
+17146,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,24,2025-12-17T19:00:02,2025-12-17T23:14:55,Scheduled test,Low capacity,Test normal,46.3,-52.0,220.7,,VRLA12v_LeadAcid
+17147,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,25,2025-12-14T19:00:03,2025-12-14T23:34:14,Scheduled test,Low capacity,Test normal,46.1,-47.4,216.3,,VRLA12v_LeadAcid
+17148,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,26,2025-12-11T19:00:03,2025-12-11T23:14:57,Scheduled test,Low capacity,Test normal,45.8,-46.9,198.9,,VRLA12v_LeadAcid
+17149,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,27,2025-12-08T19:00:03,2025-12-08T23:45:55,Scheduled test,Low capacity,Test normal,46.4,-45.2,215.0,,VRLA12v_LeadAcid
+17150,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,28,2025-12-05T19:00:01,2025-12-05T23:30:10,Scheduled test,Low capacity,Test normal,46.2,-47.2,212.5,,VRLA12v_LeadAcid
+17151,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,29,2025-12-02T19:00:02,2025-12-02T23:16:31,Scheduled test,Low capacity,Test normal,45.9,-44.8,191.4,,VRLA12v_LeadAcid
+17152,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,30,2025-11-29T19:00:02,2025-11-29T23:37:54,Scheduled test,Low capacity,Test normal,46.6,-44.7,207.0,,VRLA12v_LeadAcid
+17153,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,31,2025-11-26T19:00:02,2025-11-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-50.9,152.8,,VRLA12v_LeadAcid
+17154,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,32,2025-11-23T19:00:02,2025-11-23T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.6,-49.6,148.8,,VRLA12v_LeadAcid
+17155,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,33,2025-11-20T19:00:02,2025-11-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.8,-47.3,141.9,,VRLA12v_LeadAcid
+17156,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,34,2025-11-17T19:00:02,2025-11-17T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-46.7,140.1,,VRLA12v_LeadAcid
+17157,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,35,2025-11-14T19:00:02,2025-11-14T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.9,-48.8,146.4,,VRLA12v_LeadAcid
+17158,10.63.95.130,BGD._30hor_MunhOnichEmneleg_ULN,36,2025-11-11T19:00:03,2025-11-11T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.9,-47.3,142.1,,VRLA12v_LeadAcid

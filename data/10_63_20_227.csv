@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+6580,10.63.20.227,DOG.Huvsgul_BilegtGoviUurhai_Starlink,1,2026-02-25T21:00:00,2026-02-25T21:38:43,Scheduled test,Low voltage,Battery alm,44.5,-11.7,7.5,18.0,VRLA12v_LeadAcid

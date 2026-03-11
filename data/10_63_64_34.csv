@@ -1,0 +1,10 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+196352,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,9,2026-03-09T19:00:00,2026-03-09T20:45:07,Scheduled test,Low capacity,Test normal,47.6,-70.5,123.4,27.0,ESMU_Lithium
+140134,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,8,2026-03-06T19:00:01,2026-03-06T20:37:20,Scheduled test,Low capacity,Test normal,47.4,-73.8,119.7,24.0,ESMU_Lithium
+13009,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,1,2026-02-20T19:00:00,2026-02-20T21:22:46,Scheduled test,Low capacity,Test normal,47.8,-51.4,122.1,24.0,ESMU_Lithium
+13010,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,2,2026-02-17T19:00:01,2026-02-17T21:22:51,Scheduled test,Low capacity,Test normal,47.4,-49.9,118.7,21.0,ESMU_Lithium
+13011,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,3,2026-02-12T19:00:01,2026-02-12T20:40:26,Scheduled test,Low capacity,Test normal,47.2,-72.1,120.7,25.0,ESMU_Lithium
+13012,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,4,2025-12-18T19:00:00,2025-12-18T20:39:17,Scheduled test,Low capacity,Test normal,47.1,-70.0,115.8,23.0,ESMU_Lithium
+13013,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,5,2025-11-29T19:00:00,2025-11-29T20:44:32,Scheduled test,Low capacity,Test normal,47.3,-63.3,110.3,21.0,ESMU_Lithium
+13014,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,6,2025-11-22T19:00:00,2025-11-22T20:27:51,Scheduled test,Low capacity,Test normal,47.5,-69.4,101.6,23.0,ESMU_Lithium
+13015,10.63.64.34,BGD._15xor_TEDY3_NMD30_ULN,7,2025-11-19T19:00:00,2025-11-19T20:22:07,Scheduled test,Low capacity,Test normal,47.4,-73.4,100.3,23.0,ESMU_Lithium

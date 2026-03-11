@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+200303,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,39,2026-03-09T19:00:02,2026-03-09T21:09:48,Scheduled test,Low capacity,Test normal,46.0,-20.6,44.4,23.0,VRLA12v_LeadAcid
+143993,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,38,2026-03-06T19:00:02,2026-03-06T21:11:19,Scheduled test,Low capacity,Test normal,46.0,-20.9,45.6,21.0,VRLA12v_LeadAcid
+16794,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,37,2026-03-03T19:00:03,2026-03-03T21:39:40,Scheduled test,Low capacity,Test normal,45.6,-20.0,53.1,22.0,VRLA12v_LeadAcid
+16758,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,1,2026-02-28T19:00:02,2026-02-28T21:27:54,Scheduled test,Low capacity,Test normal,45.8,-19.4,47.7,22.0,VRLA12v_LeadAcid
+16759,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,2,2026-02-25T19:00:02,2026-02-25T21:42:37,Scheduled test,Low capacity,Test normal,45.8,-19.9,53.9,23.0,VRLA12v_LeadAcid
+16760,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,3,2026-02-22T19:00:02,2026-02-22T21:49:25,Scheduled test,Low capacity,Test normal,46.1,-19.6,55.4,23.0,VRLA12v_LeadAcid
+16761,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,4,2026-02-19T19:00:03,2026-02-19T21:58:45,Scheduled test,Low capacity,Test normal,45.8,-19.5,58.1,24.0,VRLA12v_LeadAcid
+16762,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,5,2026-02-16T19:00:03,2026-02-16T21:56:54,Scheduled test,Low capacity,Test normal,46.2,-20.1,59.1,22.0,VRLA12v_LeadAcid
+16763,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,6,2026-02-11T19:00:01,2026-02-11T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.7,-20.0,59.9,21.0,VRLA12v_LeadAcid
+16764,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,7,2026-02-08T19:00:03,2026-02-08T21:56:09,Scheduled test,Low capacity,Test normal,46.0,-20.6,60.3,20.0,VRLA12v_LeadAcid
+16765,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,8,2026-02-05T19:00:02,2026-02-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-19.6,58.8,24.0,VRLA12v_LeadAcid
+16766,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,9,2026-02-02T19:00:03,2026-02-02T21:58:38,Scheduled test,Low capacity,Test normal,46.3,-19.8,58.8,21.0,VRLA12v_LeadAcid
+16767,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,10,2026-01-30T19:00:02,2026-01-30T20:45:17,Scheduled test,Fault alarm,Abnormal end,50.2,-20.0,35.0,23.0,VRLA12v_LeadAcid
+16768,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,11,2026-01-27T19:00:02,2026-01-27T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-19.5,58.5,22.0,VRLA12v_LeadAcid
+16769,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,12,2026-01-24T19:00:02,2026-01-24T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.7,-20.9,62.6,22.0,VRLA12v_LeadAcid
+16770,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,13,2026-01-21T19:00:03,2026-01-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.9,-19.8,59.5,24.0,VRLA12v_LeadAcid
+16771,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,14,2026-01-16T19:00:02,2026-01-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.9,-19.7,59.0,23.0,VRLA12v_LeadAcid
+16772,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,15,2026-01-13T19:00:03,2026-01-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-20.4,61.2,23.0,VRLA12v_LeadAcid
+16773,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,16,2026-01-10T19:00:03,2026-01-10T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.4,-19.9,59.8,21.0,VRLA12v_LeadAcid
+16774,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,17,2026-01-07T19:00:02,2026-01-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-20.1,60.4,23.0,VRLA12v_LeadAcid
+16775,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,18,2026-01-04T19:00:03,2026-01-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.7,-19.7,59.2,24.0,VRLA12v_LeadAcid
+16776,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,19,2026-01-01T19:00:03,2026-01-01T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.8,-19.6,58.9,23.0,VRLA12v_LeadAcid
+16777,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,20,2025-12-29T19:00:03,2025-12-29T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.1,-19.8,59.3,23.0,VRLA12v_LeadAcid
+16778,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,21,2025-12-26T19:00:03,2025-12-26T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.0,-20.1,60.2,22.0,VRLA12v_LeadAcid
+16779,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,22,2025-12-23T19:00:03,2025-12-23T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-19.8,59.4,24.0,VRLA12v_LeadAcid
+16780,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,23,2025-12-20T19:00:02,2025-12-20T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-19.2,57.6,24.0,VRLA12v_LeadAcid
+16781,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,24,2025-12-17T19:00:03,2025-12-17T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.3,-20.2,60.6,21.0,VRLA12v_LeadAcid
+16782,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,25,2025-12-14T19:00:02,2025-12-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.4,-20.2,60.6,23.0,VRLA12v_LeadAcid
+16783,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,26,2025-12-11T19:00:02,2025-12-11T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.6,-19.5,58.5,23.0,VRLA12v_LeadAcid
+16784,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,27,2025-12-08T19:00:02,2025-12-08T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.8,-19.5,58.6,23.0,VRLA12v_LeadAcid
+16785,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,28,2025-12-05T19:00:02,2025-12-05T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.7,-20.2,60.6,23.0,VRLA12v_LeadAcid
+16786,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,29,2025-12-02T19:00:03,2025-12-02T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.9,-20.0,60.0,23.0,VRLA12v_LeadAcid
+16787,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,30,2025-11-29T19:00:02,2025-11-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,50.1,-19.8,59.4,23.0,VRLA12v_LeadAcid
+16788,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,31,2025-11-26T19:00:02,2025-11-26T19:56:46,Scheduled test,Fault alarm,Abnormal end,50.3,-20.4,19.3,34.0,VRLA12v_LeadAcid
+16789,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,32,2025-11-22T19:00:47,2025-11-22T19:12:48,Scheduled test,Fault alarm,Abnormal end,50.6,-21.5,4.3,39.0,VRLA12v_LeadAcid
+16790,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,33,2025-11-17T19:00:03,2025-11-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.9,-20.2,60.7,33.0,VRLA12v_LeadAcid
+16791,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,34,2025-11-14T19:00:02,2025-11-14T20:25:09,Scheduled test,Fault alarm,Abnormal end,50.1,-19.7,27.9,33.0,VRLA12v_LeadAcid
+16792,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,35,2025-11-10T19:00:01,2025-11-10T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.5,-19.5,58.6,20.0,VRLA12v_LeadAcid
+16793,10.63.93.154,UMG.Gurvantes_UsuhZoosUurhai_Otvol,36,2025-11-07T19:00:02,2025-11-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.6,-19.5,58.5,22.0,VRLA12v_LeadAcid

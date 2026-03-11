@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+6237,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,1,2025-11-04T19:00:02,2025-11-04T19:14:42,Scheduled test,Low temperature,Abnormal end,50.3,-6.3,1.5,5.0,VRLA12v_LeadAcid
+6238,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,2,2025-11-01T19:00:02,2025-11-01T19:43:38,Scheduled test,Low temperature,Abnormal end,50.9,-6.2,4.5,5.0,VRLA12v_LeadAcid
+6239,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,3,2025-10-28T19:00:02,2025-10-28T19:00:52,Scheduled test,Low temperature,Abnormal end,52.0,-4.8,0.1,5.0,VRLA12v_LeadAcid
+6240,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,4,2025-10-11T19:00:02,2025-10-11T22:00:10,Scheduled test,Exceeded time limit,Test normal,49.4,-6.7,20.0,8.0,VRLA12v_LeadAcid
+6241,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,5,2025-10-08T19:00:03,2025-10-08T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.5,-6.3,19.0,5.0,VRLA12v_LeadAcid
+6242,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,6,2025-10-05T19:00:02,2025-10-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.6,-6.8,20.5,7.0,VRLA12v_LeadAcid
+6243,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,7,2025-10-02T19:00:02,2025-10-02T22:00:10,Scheduled test,Exceeded time limit,Test normal,50.2,-6.4,19.1,17.0,VRLA12v_LeadAcid
+6244,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,8,2025-09-29T19:00:02,2025-09-29T22:00:10,Scheduled test,Exceeded time limit,Test normal,50.3,-5.9,17.8,14.0,VRLA12v_LeadAcid
+6245,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,9,2025-09-26T19:00:03,2025-09-26T19:56:45,Scheduled test,Fault alarm,Abnormal end,51.1,-5.7,5.4,19.0,VRLA12v_LeadAcid
+6246,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,10,2025-09-21T19:00:02,2025-09-21T19:33:29,Scheduled test,Fault alarm,Abnormal end,50.4,-6.4,3.6,20.0,VRLA12v_LeadAcid
+6247,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,11,2025-09-18T19:00:03,2025-09-18T19:55:37,Scheduled test,Fault alarm,Abnormal end,50.5,-5.4,5.0,17.0,VRLA12v_LeadAcid
+6248,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,12,2025-09-15T19:00:02,2025-09-15T19:45:43,Scheduled test,Fault alarm,Abnormal end,50.4,-5.5,4.2,10.0,VRLA12v_LeadAcid
+6249,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,13,2025-09-12T19:00:02,2025-09-12T19:44:51,Scheduled test,Fault alarm,Abnormal end,50.6,-5.6,4.2,19.0,VRLA12v_LeadAcid
+6250,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,14,2025-09-09T19:00:03,2025-09-09T19:29:02,Scheduled test,Fault alarm,Abnormal end,50.9,-5.7,2.8,21.0,VRLA12v_LeadAcid
+6251,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,15,2025-09-06T19:00:03,2025-09-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-6.7,20.1,11.0,VRLA12v_LeadAcid
+6252,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,16,2025-09-03T19:00:03,2025-09-03T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.6,-5.7,17.0,17.0,VRLA12v_LeadAcid
+6253,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,17,2025-08-31T19:00:03,2025-08-31T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.5,-5.8,17.4,18.0,VRLA12v_LeadAcid
+6254,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,18,2025-08-28T19:00:02,2025-08-28T20:49:29,Scheduled test,Fault alarm,Abnormal end,50.1,-6.4,11.6,21.0,VRLA12v_LeadAcid
+6255,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,19,2025-08-25T19:00:02,2025-08-25T19:35:50,Scheduled test,Fault alarm,Abnormal end,50.9,-5.7,3.4,27.0,VRLA12v_LeadAcid
+6256,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,20,2025-08-22T19:00:02,2025-08-22T20:33:45,Scheduled test,Fault alarm,Abnormal end,50.3,-5.6,8.7,18.0,VRLA12v_LeadAcid
+6257,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,21,2025-08-19T19:00:02,2025-08-19T20:20:48,Scheduled test,Fault alarm,Abnormal end,50.5,-5.5,7.4,25.0,VRLA12v_LeadAcid
+6258,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,22,2025-08-16T19:00:02,2025-08-16T20:07:55,Scheduled test,Fault alarm,Abnormal end,50.6,-6.9,7.8,28.0,VRLA12v_LeadAcid
+6259,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,23,2025-08-13T19:00:02,2025-08-13T19:53:56,Scheduled test,Fault alarm,Abnormal end,50.9,-6.3,5.7,26.0,VRLA12v_LeadAcid
+6260,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,24,2025-08-10T19:00:03,2025-08-10T20:45:00,Scheduled test,Fault alarm,Abnormal end,50.4,-6.0,10.5,23.0,VRLA12v_LeadAcid
+6261,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,25,2025-08-07T19:00:02,2025-08-07T19:36:15,Scheduled test,Fault alarm,Abnormal end,50.7,-5.9,3.6,24.0,VRLA12v_LeadAcid
+6262,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,26,2025-08-04T19:00:02,2025-08-04T19:48:08,Scheduled test,Fault alarm,Abnormal end,50.7,-5.7,4.5,26.0,VRLA12v_LeadAcid
+6263,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,27,2025-08-01T19:00:02,2025-08-01T21:27:40,Scheduled test,Fault alarm,Abnormal end,51.0,-3.1,7.5,22.0,VRLA12v_LeadAcid
+6264,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,28,2025-07-27T19:00:02,2025-07-27T20:40:20,Scheduled test,Fault alarm,Abnormal end,51.2,-3.6,6.1,29.0,VRLA12v_LeadAcid
+6265,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,29,2025-07-24T19:00:02,2025-07-24T19:54:30,Scheduled test,Fault alarm,Abnormal end,50.7,-6.2,5.6,30.0,VRLA12v_LeadAcid
+6266,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,30,2025-07-21T19:00:03,2025-07-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.8,-6.0,17.9,23.0,VRLA12v_LeadAcid
+6267,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,31,2025-07-18T19:00:03,2025-07-18T22:00:10,Scheduled test,Exceeded time limit,Test normal,50.0,-5.8,17.3,23.0,VRLA12v_LeadAcid
+6268,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,32,2025-07-15T19:00:03,2025-07-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.9,-5.8,17.5,26.0,VRLA12v_LeadAcid
+6269,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,33,2025-07-12T19:00:03,2025-07-12T22:00:12,Scheduled test,Exceeded time limit,Test normal,50.1,-5.8,17.4,26.0,VRLA12v_LeadAcid
+6270,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,34,2025-07-09T19:00:02,2025-07-09T20:35:40,Scheduled test,Fault alarm,Abnormal end,50.6,-6.0,9.5,24.0,VRLA12v_LeadAcid
+6271,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,35,2025-07-06T19:00:03,2025-07-06T20:08:51,Scheduled test,Fault alarm,Abnormal end,50.9,-6.1,6.9,31.0,VRLA12v_LeadAcid
+6272,10.63.171.154,SHD._32hor_BaruunTuruun_1_24toot_ULN,36,2025-07-03T19:00:02,2025-07-03T22:00:10,Scheduled test,Exceeded time limit,Test normal,50.2,-6.0,18.1,23.0,VRLA12v_LeadAcid

@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+194702,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,39,2026-03-09T19:00:03,2026-03-09T22:56:40,Scheduled test,Low capacity,Test normal,47.8,-46.9,184.8,20.0,VRLA12v_LeadAcid
+138520,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,38,2026-03-06T19:00:02,2026-03-06T23:26:17,Scheduled test,Low capacity,Test normal,47.5,-47.1,208.8,21.0,VRLA12v_LeadAcid
+11428,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,37,2026-03-03T19:00:02,2026-03-03T23:32:13,Scheduled test,Low capacity,Test normal,47.8,-44.3,200.7,17.0,VRLA12v_LeadAcid
+11392,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,1,2026-02-28T19:00:03,2026-02-28T23:40:38,Scheduled test,Low capacity,Test normal,47.3,-45.8,214.2,19.0,VRLA12v_LeadAcid
+11393,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,2,2026-02-25T19:00:03,2026-02-25T23:00:16,Scheduled test,Low capacity,Test normal,48.8,-40.9,163.8,20.0,VRLA12v_LeadAcid
+11394,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,3,2026-02-22T19:00:03,2026-02-22T22:50:37,Scheduled test,Low capacity,Test normal,47.9,-44.5,170.9,17.0,VRLA12v_LeadAcid
+11395,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,4,2026-02-19T19:00:02,2026-02-19T22:45:53,Scheduled test,Low capacity,Test normal,48.1,-43.7,164.3,22.0,VRLA12v_LeadAcid
+11396,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,5,2026-02-16T19:00:03,2026-02-16T21:54:30,Scheduled test,Low capacity,Test normal,49.2,-42.0,122.0,21.0,VRLA12v_LeadAcid
+11397,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,6,2026-02-13T19:00:03,2026-02-13T23:14:40,Scheduled test,Low capacity,Test normal,47.6,-44.6,189.3,21.0,VRLA12v_LeadAcid
+11398,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,7,2026-02-10T19:00:02,2026-02-10T23:17:10,Scheduled test,Low capacity,Test normal,47.3,-45.5,195.0,21.0,VRLA12v_LeadAcid
+11399,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,8,2026-02-07T19:00:03,2026-02-07T23:16:14,Scheduled test,Low capacity,Test normal,47.3,-44.4,189.3,16.0,VRLA12v_LeadAcid
+11400,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,9,2026-02-04T19:00:03,2026-02-04T23:08:58,Scheduled test,Low capacity,Test normal,47.5,-44.8,185.6,16.0,VRLA12v_LeadAcid
+11401,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,10,2026-02-01T19:00:02,2026-02-01T23:05:40,Scheduled test,Low capacity,Test normal,47.3,-46.0,188.4,19.0,VRLA12v_LeadAcid
+11402,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,11,2026-01-29T19:00:03,2026-01-29T22:46:28,Scheduled test,Low capacity,Test normal,48.5,-43.0,162.1,18.0,VRLA12v_LeadAcid
+11403,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,12,2026-01-26T19:00:02,2026-01-26T23:08:27,Scheduled test,Low capacity,Test normal,47.5,-44.5,184.3,17.0,VRLA12v_LeadAcid
+11404,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,13,2026-01-23T19:00:03,2026-01-23T23:04:38,Scheduled test,Low capacity,Test normal,47.4,-45.6,185.7,12.0,VRLA12v_LeadAcid
+11405,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,14,2026-01-20T19:00:02,2026-01-20T23:13:24,Scheduled test,Low capacity,Test normal,47.6,-42.2,178.1,8.0,VRLA12v_LeadAcid
+11406,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,15,2026-01-17T19:00:03,2026-01-17T23:17:23,Scheduled test,Low capacity,Test normal,47.2,-44.6,191.0,11.0,VRLA12v_LeadAcid
+11407,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,16,2026-01-14T19:00:03,2026-01-14T23:18:44,Scheduled test,Low capacity,Test normal,47.6,-42.9,184.7,17.0,VRLA12v_LeadAcid
+11408,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,17,2026-01-11T19:00:03,2026-01-11T23:12:45,Scheduled test,Low capacity,Test normal,47.3,-45.2,190.1,19.0,VRLA12v_LeadAcid
+11409,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,18,2026-01-08T19:00:02,2026-01-08T23:14:41,Scheduled test,Low capacity,Test normal,47.2,-45.1,191.5,21.0,VRLA12v_LeadAcid
+11410,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,19,2026-01-05T19:00:02,2026-01-05T22:52:17,Scheduled test,Low capacity,Test normal,48.0,-44.2,171.1,19.0,VRLA12v_LeadAcid
+11411,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,20,2026-01-02T19:00:03,2026-01-02T23:14:56,Scheduled test,Low capacity,Test normal,47.1,-45.9,194.9,19.0,VRLA12v_LeadAcid
+11412,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,21,2025-12-30T19:00:03,2025-12-30T23:08:04,Scheduled test,Low capacity,Test normal,47.8,-42.1,174.0,15.0,VRLA12v_LeadAcid
+11413,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,22,2025-12-27T19:00:02,2025-12-27T23:10:52,Scheduled test,Low capacity,Test normal,47.5,-44.0,184.0,20.0,VRLA12v_LeadAcid
+11414,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,23,2025-12-24T19:00:03,2025-12-24T23:17:10,Scheduled test,Low capacity,Test normal,47.4,-43.6,186.8,15.0,VRLA12v_LeadAcid
+11415,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,24,2025-12-21T19:00:02,2025-12-21T23:00:41,Scheduled test,Low capacity,Test normal,48.0,-42.6,170.8,19.0,VRLA12v_LeadAcid
+11416,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,25,2025-12-18T19:00:02,2025-12-18T23:10:05,Scheduled test,Low capacity,Test normal,47.5,-44.0,183.4,20.0,VRLA12v_LeadAcid
+11417,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,26,2025-12-15T19:00:02,2025-12-15T23:09:09,Scheduled test,Low capacity,Test normal,47.8,-41.8,173.5,20.0,VRLA12v_LeadAcid
+11418,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,27,2025-12-12T19:00:02,2025-12-12T23:01:04,Scheduled test,Low capacity,Test normal,47.8,-42.8,171.9,17.0,VRLA12v_LeadAcid
+11419,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,28,2025-12-09T19:00:03,2025-12-09T22:41:49,Scheduled test,Low capacity,Test normal,48.6,-42.0,155.3,21.0,VRLA12v_LeadAcid
+11420,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,29,2025-12-06T19:00:02,2025-12-06T23:13:30,Scheduled test,Low capacity,Test normal,47.4,-44.3,187.0,21.0,VRLA12v_LeadAcid
+11421,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,30,2025-12-03T19:00:02,2025-12-03T22:43:45,Scheduled test,Low capacity,Test normal,48.0,-42.1,156.7,15.0,VRLA12v_LeadAcid
+11422,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,31,2025-11-30T19:00:03,2025-11-30T23:03:16,Scheduled test,Low capacity,Test normal,48.1,-40.2,162.8,17.0,VRLA12v_LeadAcid
+11423,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,32,2025-11-27T19:00:02,2025-11-27T22:53:29,Scheduled test,Low capacity,Test normal,47.9,-42.0,163.3,20.0,VRLA12v_LeadAcid
+11424,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,33,2025-11-24T19:00:02,2025-11-24T23:03:54,Scheduled test,Low capacity,Test normal,47.6,-41.7,169.3,20.0,VRLA12v_LeadAcid
+11425,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,34,2025-11-21T19:00:02,2025-11-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-41.4,124.3,21.0,VRLA12v_LeadAcid
+11426,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,35,2025-11-18T19:00:02,2025-11-18T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-43.0,129.0,21.0,VRLA12v_LeadAcid
+11427,10.63.51.179,SUH.BaruunUrt_3bag_Chuluutiin709toot_TPD55,36,2025-11-15T19:00:02,2025-11-15T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-43.2,129.6,21.0,VRLA12v_LeadAcid

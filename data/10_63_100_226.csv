@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+166375,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,38,2026-03-08T19:00:03,2026-03-08T21:27:11,Timed Self-Check,Low Capacity,Test Result Normal,49.0,-46.8,114.5,21.0,VRLA12v_LeadAcid
+110904,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,37,2026-03-05T19:00:02,2026-03-05T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.4,-47.6,142.8,22.0,VRLA12v_LeadAcid
+2317,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,1,2026-03-02T19:00:02,2026-03-02T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.4,-46.2,138.6,22.0,VRLA12v_LeadAcid
+2318,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,2,2026-02-27T19:00:02,2026-02-27T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.3,-46.5,139.4,21.0,VRLA12v_LeadAcid
+2319,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,3,2026-02-24T19:00:02,2026-02-24T22:00:23,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-46.3,138.9,22.0,VRLA12v_LeadAcid
+2320,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,4,2026-02-21T19:00:02,2026-02-21T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,49.0,-39.2,117.6,26.0,VRLA12v_LeadAcid
+2321,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,5,2026-02-18T19:00:02,2026-02-18T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,49.3,-36.3,108.8,23.0,VRLA12v_LeadAcid
+2322,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,6,2026-02-15T19:00:03,2026-02-15T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-44.3,133.0,22.0,VRLA12v_LeadAcid
+2323,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,7,2026-02-12T19:00:02,2026-02-12T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.2,-48.5,145.6,24.0,VRLA12v_LeadAcid
+2324,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,8,2026-02-09T19:00:01,2026-02-09T21:53:15,Timed Self-Check,Low Capacity,Test Result Normal,48.3,-48.9,141.1,22.0,VRLA12v_LeadAcid
+2325,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,9,2026-02-06T19:00:03,2026-02-06T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.4,-46.6,139.9,21.0,VRLA12v_LeadAcid
+2326,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,10,2026-02-03T19:00:03,2026-02-03T21:53:09,Timed Self-Check,Low Capacity,Test Result Normal,48.5,-46.4,133.5,23.0,VRLA12v_LeadAcid
+2327,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,11,2026-01-31T19:00:04,2026-01-31T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-45.6,136.7,23.0,VRLA12v_LeadAcid
+2328,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,12,2026-01-28T19:00:02,2026-01-28T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.3,-48.8,146.4,22.0,VRLA12v_LeadAcid
+2329,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,13,2026-01-25T19:00:02,2026-01-25T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-42.1,126.4,21.0,VRLA12v_LeadAcid
+2330,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,14,2026-01-22T19:00:01,2026-01-22T21:54:15,Timed Self-Check,Low Capacity,Test Result Normal,48.3,-47.7,138.3,21.0,VRLA12v_LeadAcid
+2331,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,15,2026-01-19T19:00:02,2026-01-19T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.6,-44.5,133.5,21.0,VRLA12v_LeadAcid
+2332,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,16,2026-01-16T19:00:02,2026-01-16T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.6,-46.3,139.0,22.0,VRLA12v_LeadAcid
+2333,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,17,2026-01-13T19:00:02,2026-01-13T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.6,-45.2,135.6,23.0,VRLA12v_LeadAcid
+2334,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,18,2026-01-10T19:00:02,2026-01-10T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.8,-42.6,127.7,23.0,VRLA12v_LeadAcid
+2335,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,19,2026-01-07T19:00:02,2026-01-07T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.6,-44.6,133.9,23.0,VRLA12v_LeadAcid
+2336,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,20,2026-01-04T19:00:02,2026-01-04T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.9,-43.2,129.7,24.0,VRLA12v_LeadAcid
+2337,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,21,2026-01-01T19:00:02,2026-01-01T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,49.1,-40.3,120.9,23.0,VRLA12v_LeadAcid
+2338,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,22,2025-12-29T19:00:02,2025-12-29T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.8,-45.4,136.2,22.0,VRLA12v_LeadAcid
+2339,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,23,2025-12-26T19:00:03,2025-12-26T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.9,-45.8,137.5,22.0,VRLA12v_LeadAcid
+2340,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,24,2025-12-23T19:00:03,2025-12-23T21:33:56,Timed Self-Check,Low Capacity,Test Result Normal,49.2,-48.7,124.6,23.0,VRLA12v_LeadAcid
+2341,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,25,2025-12-18T19:00:02,2025-12-18T19:50:36,Timed Self-Check,Low Capacity,Test Result Normal,50.2,-50.4,42.4,24.0,VRLA12v_LeadAcid
+2342,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,26,2025-12-15T19:00:03,2025-12-15T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.4,-45.8,137.5,21.0,VRLA12v_LeadAcid
+2343,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,27,2025-12-12T19:00:02,2025-12-12T20:56:24,Timed Self-Check,Low Capacity,Test Result Normal,49.1,-51.1,99.0,23.0,VRLA12v_LeadAcid
+2344,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,28,2025-12-09T19:00:02,2025-12-09T20:39:52,Timed Self-Check,Low Capacity,Test Result Normal,49.5,-48.3,80.3,21.0,VRLA12v_LeadAcid
+2345,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,29,2025-12-06T19:00:02,2025-12-06T21:27:35,Timed Self-Check,Low Capacity,Test Result Normal,48.8,-46.9,115.0,23.0,VRLA12v_LeadAcid
+2346,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,30,2025-12-03T19:00:03,2025-12-03T21:34:38,Timed Self-Check,Low Capacity,Test Result Normal,49.0,-46.4,119.4,23.0,VRLA12v_LeadAcid
+2347,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,31,2025-11-30T19:00:02,2025-11-30T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.9,-42.3,126.8,20.0,VRLA12v_LeadAcid
+2348,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,32,2025-11-27T19:00:01,2025-11-27T21:33:39,Timed Self-Check,Low Capacity,Test Result Normal,49.0,-47.8,122.1,24.0,VRLA12v_LeadAcid
+2349,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,33,2025-11-24T19:00:03,2025-11-24T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.7,-46.6,139.7,23.0,VRLA12v_LeadAcid
+2350,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,34,2025-11-21T19:00:03,2025-11-21T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,49.0,-42.8,128.4,24.0,VRLA12v_LeadAcid
+2351,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,35,2025-11-18T19:00:02,2025-11-18T21:31:23,Timed Self-Check,Low Capacity,Test Result Normal,48.9,-45.0,113.2,22.0,VRLA12v_LeadAcid
+2352,10.63.100.226,CHD._3hor_UlsiinIhDelguur_SMP22_ULN,36,2025-11-15T19:00:03,2025-11-15T21:10:34,Timed Self-Check,Low Capacity,Test Result Normal,49.3,-45.5,98.8,24.0,VRLA12v_LeadAcid

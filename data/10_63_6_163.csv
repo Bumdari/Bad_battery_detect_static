@@ -1,0 +1,12 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+176978,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,11,2026-03-08T19:00:02,2026-03-08T22:00:27,Scheduled test,Exceeded time limit,Test normal,47.1,-31.8,95.3,2.0,VRLA12v_LeadAcid
+121228,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,10,2026-03-05T19:00:01,2026-03-05T19:04:09,Scheduled test,Low temperature,Abnormal end,49.4,-28.9,2.0,-5.0,VRLA12v_LeadAcid
+12530,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,1,2026-02-19T19:00:00,2026-02-19T22:00:27,Scheduled test,Exceeded time limit,Test normal,48.1,-26.8,80.4,0.0,VRLA12v_LeadAcid
+12531,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,2,2026-02-16T19:00:43,2026-02-16T19:00:51,Scheduled test,Low temperature,Abnormal end,53.5,-12.5,0.0,-5.0,VRLA12v_LeadAcid
+12532,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,3,2026-02-13T19:00:01,2026-02-13T22:00:28,Scheduled test,Exceeded time limit,Test normal,47.6,-29.7,89.1,-4.0,VRLA12v_LeadAcid
+12533,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,4,2026-02-10T19:00:01,2026-02-10T19:10:26,Scheduled test,Low temperature,Abnormal end,49.7,-29.2,5.1,-5.0,VRLA12v_LeadAcid
+12534,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,5,2025-12-18T19:00:01,2025-12-18T19:04:12,Scheduled test,Low temperature,Abnormal end,49.6,-24.6,1.7,-5.0,VRLA12v_LeadAcid
+12535,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,6,2025-11-28T19:00:00,2025-11-28T22:00:26,Scheduled test,Exceeded time limit,Test normal,47.9,-27.5,82.6,-4.0,VRLA12v_LeadAcid
+12536,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,7,2025-11-25T19:00:01,2025-11-25T22:00:25,Scheduled test,Exceeded time limit,Test normal,47.8,-27.6,82.9,-5.0,VRLA12v_LeadAcid
+12537,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,8,2025-11-22T19:00:00,2025-11-22T22:00:26,Scheduled test,Exceeded time limit,Test normal,47.9,-28.6,85.9,-1.0,VRLA12v_LeadAcid
+12538,10.63.6.163,BZD._19hor_Tsaiz_DreamTavilganiiUildver_TPD55_ULN,9,2025-11-19T19:00:00,2025-11-19T22:00:26,Scheduled test,Exceeded time limit,Test normal,47.8,-29.5,88.5,-4.0,VRLA12v_LeadAcid

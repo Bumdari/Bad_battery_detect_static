@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+2904,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,1,2025-11-09T19:00:01,2025-11-09T21:29:40,Scheduled test,Low capacity,Test normal,48.8,-101.8,253.7,33.0,ESMU_Lithium
+2905,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,2,2025-11-01T19:00:00,2025-11-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-104.2,312.6,36.0,ESMU_Lithium
+2906,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,3,2025-10-29T19:00:01,2025-10-29T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-101.3,303.9,34.0,ESMU_Lithium
+2907,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,4,2025-10-26T19:00:00,2025-10-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-101.7,305.2,33.0,ESMU_Lithium
+2908,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,5,2025-10-23T19:00:00,2025-10-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-106.0,317.9,33.0,ESMU_Lithium
+2909,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,6,2025-10-20T19:00:01,2025-10-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-107.0,321.0,33.0,ESMU_Lithium
+2910,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,7,2025-10-17T19:00:01,2025-10-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-97.9,293.8,32.0,ESMU_Lithium
+2911,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,8,2025-10-13T19:00:01,2025-10-13T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-98.8,296.4,34.0,ESMU_Lithium
+2912,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,9,2025-10-10T19:00:00,2025-10-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-103.5,310.5,35.0,ESMU_Lithium
+2913,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,10,2025-10-07T19:00:00,2025-10-07T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-100.5,301.4,34.0,ESMU_Lithium
+2914,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,11,2025-10-04T19:00:01,2025-10-04T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-109.2,327.5,37.0,ESMU_Lithium
+2915,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,12,2025-10-01T19:00:00,2025-10-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-106.3,318.9,37.0,ESMU_Lithium
+2916,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,13,2025-09-28T19:00:00,2025-09-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-104.0,312.0,37.0,ESMU_Lithium
+2917,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,14,2025-09-25T19:00:00,2025-09-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-108.9,326.7,38.0,ESMU_Lithium
+2918,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,15,2025-09-22T19:00:01,2025-09-22T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-103.1,309.3,36.0,ESMU_Lithium
+2919,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,16,2025-09-19T19:00:00,2025-09-19T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-107.5,322.6,38.0,ESMU_Lithium
+2920,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,17,2025-09-16T19:00:01,2025-09-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-107.1,321.3,37.0,ESMU_Lithium
+2921,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,18,2025-09-13T19:00:00,2025-09-13T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-100.9,302.7,35.0,ESMU_Lithium
+2922,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,19,2025-09-10T19:00:01,2025-09-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-103.1,309.3,37.0,ESMU_Lithium
+2923,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,20,2025-09-07T19:00:01,2025-09-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-99.8,299.3,35.0,ESMU_Lithium
+2924,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,21,2025-08-08T19:00:01,2025-08-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-104.0,312.0,39.0,ESMU_Lithium
+2925,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,22,2025-08-05T19:00:01,2025-08-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-103.2,309.5,39.0,ESMU_Lithium
+2926,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,23,2025-08-02T19:00:00,2025-08-02T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-96.8,290.4,37.0,ESMU_Lithium
+2927,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,24,2025-07-30T19:00:01,2025-07-30T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-104.4,313.3,37.0,ESMU_Lithium
+2928,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,25,2025-07-27T19:00:00,2025-07-27T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-100.2,300.6,40.0,ESMU_Lithium
+2929,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,26,2025-07-24T19:00:01,2025-07-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-103.5,310.5,38.0,ESMU_Lithium
+2930,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,27,2025-07-21T19:00:01,2025-07-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-97.8,293.4,39.0,ESMU_Lithium
+2931,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,28,2025-07-18T19:00:01,2025-07-18T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-96.2,288.7,37.0,ESMU_Lithium
+2932,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,29,2025-07-15T19:00:01,2025-07-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-91.0,272.9,39.0,ESMU_Lithium
+2933,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,30,2025-07-12T19:00:01,2025-07-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-90.6,271.8,39.0,ESMU_Lithium
+2934,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,31,2025-07-09T19:00:00,2025-07-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-100.7,302.2,37.0,ESMU_Lithium
+2935,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,32,2025-07-06T19:00:00,2025-07-06T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-97.9,293.7,38.0,ESMU_Lithium
+2936,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,33,2025-07-03T19:00:00,2025-07-03T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-101.5,304.4,38.0,ESMU_Lithium
+2937,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,34,2025-06-30T19:00:01,2025-06-30T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-100.3,301.0,37.0,ESMU_Lithium
+2938,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,35,2025-06-27T19:00:00,2025-06-27T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-104.2,312.7,38.0,ESMU_Lithium
+2939,10.63.104.226,CHD._11Hor_DarhanUrguu_1014Bair_TPD55_ULN,36,2025-06-21T19:00:01,2025-06-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-98.3,295.0,40.0,ESMU_Lithium

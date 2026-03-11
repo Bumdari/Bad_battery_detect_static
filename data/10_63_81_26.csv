@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+217896,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,39,2026-03-10T19:00:00,2026-03-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-23.3,69.8,25.0,ESMU_Lithium
+161170,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,38,2026-03-07T19:00:01,2026-03-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-30.4,91.3,24.0,ESMU_Lithium
+105812,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,37,2026-03-04T19:00:01,2026-03-04T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-22.4,67.3,15.0,ESMU_Lithium
+15345,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,1,2026-03-01T19:00:00,2026-03-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-25.3,75.8,15.0,ESMU_Lithium
+15346,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,2,2026-02-26T19:00:00,2026-02-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-23.2,69.7,12.0,ESMU_Lithium
+15347,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,3,2026-02-23T19:00:00,2026-02-23T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.1,-22.2,66.5,14.0,ESMU_Lithium
+15348,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,4,2026-02-20T19:00:00,2026-02-20T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-29.2,87.6,25.0,ESMU_Lithium
+15349,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,5,2026-02-17T19:00:01,2026-02-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-28.5,85.6,21.0,ESMU_Lithium
+15350,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,6,2026-02-14T19:00:00,2026-02-14T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-28.0,84.0,13.0,ESMU_Lithium
+15351,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,7,2026-02-11T19:00:01,2026-02-11T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-24.1,72.3,20.0,ESMU_Lithium
+15352,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,8,2026-02-08T19:00:01,2026-02-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-25.2,75.6,23.0,ESMU_Lithium
+15353,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,9,2026-02-05T19:00:01,2026-02-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-24.3,72.9,14.0,ESMU_Lithium
+15354,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,10,2026-02-02T19:00:00,2026-02-02T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.3,-22.0,66.1,21.0,ESMU_Lithium
+15355,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,11,2026-01-30T19:00:00,2026-01-30T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-23.2,69.5,15.0,ESMU_Lithium
+15356,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,12,2026-01-27T19:00:00,2026-01-27T21:55:04,Scheduled test,Fault alarm,Abnormal end,49.2,-22.2,64.7,16.0,ESMU_Lithium
+15357,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,13,2026-01-24T19:00:01,2026-01-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-29.9,89.6,13.0,ESMU_Lithium
+15358,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,14,2026-01-21T19:00:01,2026-01-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-29.9,89.6,15.0,ESMU_Lithium
+15359,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,15,2026-01-18T19:00:00,2026-01-18T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-26.9,80.6,17.0,ESMU_Lithium
+15360,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,16,2026-01-15T19:00:01,2026-01-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-27.0,81.1,13.0,ESMU_Lithium
+15361,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,17,2026-01-12T19:00:00,2026-01-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-27.2,81.7,13.0,ESMU_Lithium
+15362,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,18,2026-01-09T19:00:01,2026-01-09T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-30.6,91.7,13.0,ESMU_Lithium
+15363,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,19,2026-01-06T19:00:01,2026-01-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-27.3,81.9,12.0,ESMU_Lithium
+15364,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,20,2026-01-03T19:00:00,2026-01-03T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.6,-33.3,99.9,15.0,ESMU_Lithium
+15365,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,21,2025-12-31T19:00:01,2025-12-31T21:39:55,Scheduled test,Fault alarm,Abnormal end,48.8,-31.1,82.8,15.0,ESMU_Lithium
+15366,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,22,2025-12-28T19:00:01,2025-12-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-31.4,94.2,12.0,ESMU_Lithium
+15367,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,23,2025-12-25T19:00:01,2025-12-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-28.3,84.8,16.0,ESMU_Lithium
+15368,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,24,2025-12-22T19:00:00,2025-12-22T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-27.5,82.4,13.0,ESMU_Lithium
+15369,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,25,2025-12-19T19:00:00,2025-12-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-26.8,80.3,14.0,ESMU_Lithium
+15370,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,26,2025-12-16T19:00:01,2025-12-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-25.3,75.8,19.0,ESMU_Lithium
+15371,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,27,2025-12-13T19:00:01,2025-12-13T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.7,-28.9,86.6,16.0,ESMU_Lithium
+15372,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,28,2025-12-10T19:00:00,2025-12-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-27.0,81.1,12.0,ESMU_Lithium
+15373,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,29,2025-12-07T19:00:01,2025-12-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-25.1,75.2,12.0,ESMU_Lithium
+15374,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,30,2025-12-04T19:00:00,2025-12-04T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-25.3,76.0,18.0,ESMU_Lithium
+15375,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,31,2025-12-01T19:00:00,2025-12-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-24.8,74.5,13.0,ESMU_Lithium
+15376,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,32,2025-11-28T19:00:01,2025-11-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-24.6,73.8,15.0,ESMU_Lithium
+15377,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,33,2025-11-25T19:00:01,2025-11-25T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-25.8,77.5,17.0,ESMU_Lithium
+15378,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,34,2025-11-22T19:00:01,2025-11-22T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-29.4,88.3,22.0,ESMU_Lithium
+15379,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,35,2025-11-19T19:00:00,2025-11-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-24.6,73.9,17.0,ESMU_Lithium
+15380,10.63.81.26,BZD._20hor_BerhUul_MP23_ULN,36,2025-11-16T19:00:01,2025-11-16T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-25.1,75.4,12.0,ESMU_Lithium

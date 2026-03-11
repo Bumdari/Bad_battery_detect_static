@@ -1,0 +1,10 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+5012,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,1,2025-12-21T19:00:01,2025-12-21T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.7,-36.4,109.2,10.0,VRLA12v_LeadAcid
+5013,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,2,2025-12-18T19:00:03,2025-12-18T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.5,-37.2,111.7,11.0,VRLA12v_LeadAcid
+5014,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,3,2025-12-15T19:00:02,2025-12-15T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.3,-36.3,109.0,14.0,VRLA12v_LeadAcid
+5015,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,4,2025-12-12T19:00:02,2025-12-12T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.1,-35.9,107.7,8.0,VRLA12v_LeadAcid
+5016,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,5,2025-12-09T19:00:03,2025-12-09T22:00:14,Scheduled test,Exceeded time limit,Test normal,47.3,-35.6,106.9,8.0,VRLA12v_LeadAcid
+5017,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,6,2025-12-06T19:00:03,2025-12-06T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.6,-35.9,107.6,11.0,VRLA12v_LeadAcid
+5018,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,7,2025-12-03T19:00:03,2025-12-03T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-36.4,109.2,11.0,VRLA12v_LeadAcid
+5019,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,8,2025-11-30T19:00:02,2025-11-30T21:18:16,Scheduled test,Low temperature,Abnormal end,48.1,-36.1,83.0,5.0,VRLA12v_LeadAcid
+5020,10.63.135.51,ORH.BayanUndur_Gok_Dispatcher,9,2025-11-27T19:00:02,2025-11-27T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-36.2,108.7,15.0,VRLA12v_LeadAcid

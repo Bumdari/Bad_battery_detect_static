@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+11864,10.63.56.123,HEN.Umnudelger_Bayandelger_Mobi_MA73,1,2026-02-03T21:00:02,2026-02-03T22:29:02,Scheduled test,Low capacity,Test normal,46.3,-23.4,34.7,28.0,VRLA12v_LeadAcid

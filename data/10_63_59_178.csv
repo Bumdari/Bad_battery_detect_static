@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+195768,10.63.59.178,DUG.Huld_MW468_TPD10,39,2026-03-09T19:00:01,2026-03-09T22:00:22,Scheduled test,Exceeded time limit,Test normal,46.4,-11.8,35.3,15.0,VRLA12v_LeadAcid
+139564,10.63.59.178,DUG.Huld_MW468_TPD10,38,2026-03-06T19:00:01,2026-03-06T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.1,-11.7,35.1,11.0,VRLA12v_LeadAcid
+12457,10.63.59.178,DUG.Huld_MW468_TPD10,37,2026-03-03T19:00:02,2026-03-03T21:49:35,Scheduled test,Low voltage,Battery alm,45.9,-12.0,33.8,6.0,VRLA12v_LeadAcid
+12421,10.63.59.178,DUG.Huld_MW468_TPD10,1,2026-02-28T19:00:00,2026-02-28T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.2,-11.1,33.3,6.0,VRLA12v_LeadAcid
+12422,10.63.59.178,DUG.Huld_MW468_TPD10,2,2026-02-24T19:00:00,2026-02-24T22:00:24,Scheduled test,Exceeded time limit,Test normal,46.4,-11.2,33.7,10.0,VRLA12v_LeadAcid
+12423,10.63.59.178,DUG.Huld_MW468_TPD10,3,2026-02-21T19:00:01,2026-02-21T21:55:59,Scheduled test,Low voltage,Battery alm,45.9,-11.9,34.7,6.0,VRLA12v_LeadAcid
+12424,10.63.59.178,DUG.Huld_MW468_TPD10,4,2026-02-18T19:00:00,2026-02-18T21:58:56,Scheduled test,Low voltage,Battery alm,46.0,-11.7,34.9,7.0,VRLA12v_LeadAcid
+12425,10.63.59.178,DUG.Huld_MW468_TPD10,5,2026-02-15T19:00:01,2026-02-15T21:37:03,Scheduled test,Low temperature,Abnormal end,46.8,-11.6,30.3,5.0,VRLA12v_LeadAcid
+12426,10.63.59.178,DUG.Huld_MW468_TPD10,6,2026-02-12T19:00:00,2026-02-12T21:49:33,Scheduled test,Low voltage,Battery alm,45.9,-11.8,33.2,6.0,VRLA12v_LeadAcid
+12427,10.63.59.178,DUG.Huld_MW468_TPD10,7,2026-02-02T19:00:00,2026-02-02T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.4,-11.4,34.2,9.0,VRLA12v_LeadAcid
+12428,10.63.59.178,DUG.Huld_MW468_TPD10,8,2026-01-30T19:00:00,2026-01-30T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.4,-11.1,33.4,7.0,VRLA12v_LeadAcid
+12429,10.63.59.178,DUG.Huld_MW468_TPD10,9,2026-01-27T19:00:00,2026-01-27T19:22:15,Scheduled test,Low temperature,Abnormal end,49.9,-11.1,4.1,5.0,VRLA12v_LeadAcid
+12430,10.63.59.178,DUG.Huld_MW468_TPD10,10,2026-01-12T19:00:00,2026-01-12T21:05:08,Scheduled test,Low temperature,Abnormal end,48.3,-11.8,24.5,5.0,VRLA12v_LeadAcid
+12431,10.63.59.178,DUG.Huld_MW468_TPD10,11,2025-12-28T19:00:01,2025-12-28T21:48:43,Scheduled test,Low voltage,Battery alm,45.9,-12.6,35.2,7.0,VRLA12v_LeadAcid
+12432,10.63.59.178,DUG.Huld_MW468_TPD10,12,2025-12-24T19:00:00,2025-12-24T19:43:47,Scheduled test,Low temperature,Abnormal end,49.9,-12.2,8.9,5.0,VRLA12v_LeadAcid
+12433,10.63.59.178,DUG.Huld_MW468_TPD10,13,2025-12-19T19:00:01,2025-12-19T21:54:56,Scheduled test,Low voltage,Battery alm,45.9,-12.6,36.5,5.0,VRLA12v_LeadAcid
+12434,10.63.59.178,DUG.Huld_MW468_TPD10,14,2025-12-16T19:00:00,2025-12-16T19:23:35,Scheduled test,Low temperature,Abnormal end,49.9,-11.6,4.5,5.0,VRLA12v_LeadAcid
+12435,10.63.59.178,DUG.Huld_MW468_TPD10,15,2025-12-10T19:00:00,2025-12-10T22:00:22,Scheduled test,Exceeded time limit,Test normal,46.3,-11.9,35.6,9.0,VRLA12v_LeadAcid
+12436,10.63.59.178,DUG.Huld_MW468_TPD10,16,2025-12-07T19:00:00,2025-12-07T21:37:33,Scheduled test,Low temperature,Abnormal end,47.0,-11.7,30.6,5.0,VRLA12v_LeadAcid
+12437,10.63.59.178,DUG.Huld_MW468_TPD10,17,2025-12-04T19:00:01,2025-12-04T22:00:24,Scheduled test,Exceeded time limit,Test normal,46.4,-11.6,34.8,6.0,VRLA12v_LeadAcid
+12438,10.63.59.178,DUG.Huld_MW468_TPD10,18,2025-11-27T19:00:00,2025-11-27T19:58:39,Scheduled test,Low temperature,Abnormal end,49.6,-11.6,11.3,5.0,VRLA12v_LeadAcid
+12439,10.63.59.178,DUG.Huld_MW468_TPD10,19,2025-11-14T19:00:00,2025-11-14T19:29:03,Scheduled test,Low temperature,Abnormal end,50.0,-11.2,5.4,5.0,VRLA12v_LeadAcid
+12440,10.63.59.178,DUG.Huld_MW468_TPD10,20,2025-11-11T19:00:02,2025-11-11T22:00:24,Scheduled test,Exceeded time limit,Test normal,46.5,-10.8,32.5,6.0,VRLA12v_LeadAcid
+12441,10.63.59.178,DUG.Huld_MW468_TPD10,21,2025-11-08T19:00:01,2025-11-08T19:06:00,Scheduled test,Low temperature,Abnormal end,49.5,-10.7,1.1,5.0,VRLA12v_LeadAcid
+12442,10.63.59.178,DUG.Huld_MW468_TPD10,22,2025-11-05T19:00:00,2025-11-05T22:00:22,Scheduled test,Exceeded time limit,Test normal,46.6,-11.3,34.0,11.0,VRLA12v_LeadAcid
+12443,10.63.59.178,DUG.Huld_MW468_TPD10,23,2025-11-02T19:00:00,2025-11-02T22:00:21,Scheduled test,Exceeded time limit,Test normal,46.8,-11.0,33.0,12.0,VRLA12v_LeadAcid
+12444,10.63.59.178,DUG.Huld_MW468_TPD10,24,2025-10-30T19:00:02,2025-10-30T22:00:24,Scheduled test,Exceeded time limit,Test normal,46.6,-11.4,34.2,11.0,VRLA12v_LeadAcid
+12445,10.63.59.178,DUG.Huld_MW468_TPD10,25,2025-10-27T19:00:01,2025-10-27T22:00:24,Scheduled test,Exceeded time limit,Test normal,46.6,-11.0,32.9,9.0,VRLA12v_LeadAcid
+12446,10.63.59.178,DUG.Huld_MW468_TPD10,26,2025-10-24T19:00:01,2025-10-24T22:00:22,Scheduled test,Exceeded time limit,Test normal,46.5,-10.9,32.6,6.0,VRLA12v_LeadAcid
+12447,10.63.59.178,DUG.Huld_MW468_TPD10,27,2025-10-13T19:00:01,2025-10-13T19:29:31,Scheduled test,Fault alarm,Abnormal end,50.2,-10.9,5.3,14.0,VRLA12v_LeadAcid
+12448,10.63.59.178,DUG.Huld_MW468_TPD10,28,2025-10-10T19:00:00,2025-10-10T22:00:22,Scheduled test,Exceeded time limit,Test normal,46.7,-11.4,34.3,14.0,VRLA12v_LeadAcid
+12449,10.63.59.178,DUG.Huld_MW468_TPD10,29,2025-10-07T19:00:01,2025-10-07T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.5,-11.6,34.7,8.0,VRLA12v_LeadAcid
+12450,10.63.59.178,DUG.Huld_MW468_TPD10,30,2025-10-04T19:00:01,2025-10-04T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.9,-11.8,35.4,15.0,VRLA12v_LeadAcid
+12451,10.63.59.178,DUG.Huld_MW468_TPD10,31,2025-10-01T19:00:00,2025-10-01T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.2,-11.6,34.7,19.0,VRLA12v_LeadAcid
+12452,10.63.59.178,DUG.Huld_MW468_TPD10,32,2025-09-28T19:00:00,2025-09-28T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.1,-11.6,34.7,18.0,VRLA12v_LeadAcid
+12453,10.63.59.178,DUG.Huld_MW468_TPD10,33,2025-09-25T19:00:00,2025-09-25T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.2,-11.1,33.4,19.0,VRLA12v_LeadAcid
+12454,10.63.59.178,DUG.Huld_MW468_TPD10,34,2025-09-22T19:00:01,2025-09-22T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.0,-11.8,35.3,11.0,VRLA12v_LeadAcid
+12455,10.63.59.178,DUG.Huld_MW468_TPD10,35,2025-09-19T19:00:00,2025-09-19T22:00:22,Scheduled test,Exceeded time limit,Test normal,47.2,-11.3,33.8,17.0,VRLA12v_LeadAcid
+12456,10.63.59.178,DUG.Huld_MW468_TPD10,36,2025-09-16T19:00:00,2025-09-16T22:00:22,Scheduled test,Exceeded time limit,Test normal,47.2,-11.2,33.5,12.0,VRLA12v_LeadAcid

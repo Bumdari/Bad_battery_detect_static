@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+203190,10.61.43.164,HOV.Hovd_Holboo_IOMD150,39,2026-03-10T19:00:02,2026-03-10T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.3,-19.9,59.7,24.0,VRLA12v_LeadAcid
+146816,10.61.43.164,HOV.Hovd_Holboo_IOMD150,38,2026-03-07T19:00:00,2026-03-07T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-19.4,58.1,19.0,VRLA12v_LeadAcid
+91817,10.61.43.164,HOV.Hovd_Holboo_IOMD150,37,2026-03-04T19:00:01,2026-03-04T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.4,-19.0,57.0,16.0,VRLA12v_LeadAcid
+1440,10.61.43.164,HOV.Hovd_Holboo_IOMD150,1,2026-03-01T19:00:01,2026-03-01T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.3,-20.1,60.3,16.0,VRLA12v_LeadAcid
+1441,10.61.43.164,HOV.Hovd_Holboo_IOMD150,2,2026-02-26T19:00:00,2026-02-26T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.1,-20.0,60.1,13.0,VRLA12v_LeadAcid
+1442,10.61.43.164,HOV.Hovd_Holboo_IOMD150,3,2026-02-23T19:00:00,2026-02-23T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.5,-19.7,59.3,19.0,VRLA12v_LeadAcid
+1443,10.61.43.164,HOV.Hovd_Holboo_IOMD150,4,2026-02-20T19:00:00,2026-02-20T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.4,-20.0,60.1,17.0,VRLA12v_LeadAcid
+1444,10.61.43.164,HOV.Hovd_Holboo_IOMD150,5,2026-02-17T19:00:01,2026-02-17T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-19.9,59.6,11.0,VRLA12v_LeadAcid
+1445,10.61.43.164,HOV.Hovd_Holboo_IOMD150,6,2026-02-14T19:00:02,2026-02-14T22:00:38,Scheduled test,Exceeded time limit,Test normal,49.3,-19.0,56.9,12.0,VRLA12v_LeadAcid
+1446,10.61.43.164,HOV.Hovd_Holboo_IOMD150,7,2026-02-11T19:00:00,2026-02-11T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.4,-20.4,61.3,19.0,VRLA12v_LeadAcid
+1447,10.61.43.164,HOV.Hovd_Holboo_IOMD150,8,2026-02-08T19:00:01,2026-02-08T19:58:39,Scheduled test,Fault alarm,Abnormal end,50.6,-19.8,19.3,11.0,VRLA12v_LeadAcid
+1448,10.61.43.164,HOV.Hovd_Holboo_IOMD150,9,2026-02-05T19:00:00,2026-02-05T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.3,-20.5,61.6,18.0,VRLA12v_LeadAcid
+1449,10.61.43.164,HOV.Hovd_Holboo_IOMD150,10,2026-02-02T19:00:01,2026-02-02T22:00:38,Scheduled test,Exceeded time limit,Test normal,49.1,-21.0,62.9,11.0,VRLA12v_LeadAcid
+1450,10.61.43.164,HOV.Hovd_Holboo_IOMD150,11,2026-01-30T19:00:01,2026-01-30T19:33:34,Scheduled test,Fault alarm,Abnormal end,50.8,-19.0,10.6,19.0,VRLA12v_LeadAcid
+1451,10.61.43.164,HOV.Hovd_Holboo_IOMD150,12,2026-01-27T19:00:00,2026-01-27T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.2,-20.1,60.2,11.0,VRLA12v_LeadAcid
+1452,10.61.43.164,HOV.Hovd_Holboo_IOMD150,13,2026-01-24T19:00:01,2026-01-24T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.7,-20.1,60.4,24.0,VRLA12v_LeadAcid
+1453,10.61.43.164,HOV.Hovd_Holboo_IOMD150,14,2026-01-21T19:00:01,2026-01-21T21:26:51,Scheduled test,Low temperature,Abnormal end,49.8,-18.0,43.8,5.0,VRLA12v_LeadAcid
+1454,10.61.43.164,HOV.Hovd_Holboo_IOMD150,15,2026-01-17T19:00:00,2026-01-17T22:00:34,Scheduled test,Exceeded time limit,Test normal,49.1,-19.7,59.0,7.0,VRLA12v_LeadAcid
+1455,10.61.43.164,HOV.Hovd_Holboo_IOMD150,16,2026-01-14T19:00:00,2026-01-14T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.2,-20.2,60.8,20.0,VRLA12v_LeadAcid
+1456,10.61.43.164,HOV.Hovd_Holboo_IOMD150,17,2026-01-11T19:00:00,2026-01-11T22:00:34,Scheduled test,Exceeded time limit,Test normal,49.3,-20.8,62.3,22.0,VRLA12v_LeadAcid
+1457,10.61.43.164,HOV.Hovd_Holboo_IOMD150,18,2026-01-08T19:00:00,2026-01-08T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.3,-20.0,60.0,21.0,VRLA12v_LeadAcid
+1458,10.61.43.164,HOV.Hovd_Holboo_IOMD150,19,2026-01-05T19:00:01,2026-01-05T19:07:43,Scheduled test,Fault alarm,Abnormal end,50.6,-20.1,2.6,17.0,VRLA12v_LeadAcid
+1459,10.61.43.164,HOV.Hovd_Holboo_IOMD150,20,2026-01-02T19:00:01,2026-01-02T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.8,-20.8,62.4,9.0,VRLA12v_LeadAcid
+1460,10.61.43.164,HOV.Hovd_Holboo_IOMD150,21,2025-12-30T19:00:01,2025-12-30T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.1,-20.0,60.0,11.0,VRLA12v_LeadAcid
+1461,10.61.43.164,HOV.Hovd_Holboo_IOMD150,22,2025-12-27T19:00:00,2025-12-27T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-19.7,59.0,20.0,VRLA12v_LeadAcid
+1462,10.61.43.164,HOV.Hovd_Holboo_IOMD150,23,2025-12-24T19:00:00,2025-12-24T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-20.1,60.4,18.0,VRLA12v_LeadAcid
+1463,10.61.43.164,HOV.Hovd_Holboo_IOMD150,24,2025-12-21T19:00:01,2025-12-21T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.2,-20.1,60.3,21.0,VRLA12v_LeadAcid
+1464,10.61.43.164,HOV.Hovd_Holboo_IOMD150,25,2025-12-18T19:00:00,2025-12-18T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-20.1,60.4,20.0,VRLA12v_LeadAcid
+1465,10.61.43.164,HOV.Hovd_Holboo_IOMD150,26,2025-12-15T19:00:00,2025-12-15T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.1,-20.4,61.2,21.0,VRLA12v_LeadAcid
+1466,10.61.43.164,HOV.Hovd_Holboo_IOMD150,27,2025-12-12T19:00:00,2025-12-12T22:00:34,Scheduled test,Exceeded time limit,Test normal,49.2,-19.7,59.2,13.0,VRLA12v_LeadAcid
+1467,10.61.43.164,HOV.Hovd_Holboo_IOMD150,28,2025-12-09T19:00:00,2025-12-09T22:00:34,Scheduled test,Exceeded time limit,Test normal,49.2,-20.2,60.5,15.0,VRLA12v_LeadAcid
+1468,10.61.43.164,HOV.Hovd_Holboo_IOMD150,29,2025-12-06T19:00:01,2025-12-06T22:00:40,Scheduled test,Exceeded time limit,Test normal,49.1,-19.6,58.8,14.0,VRLA12v_LeadAcid
+1469,10.61.43.164,HOV.Hovd_Holboo_IOMD150,30,2025-12-03T19:00:01,2025-12-03T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.1,-20.2,60.8,13.0,VRLA12v_LeadAcid
+1470,10.61.43.164,HOV.Hovd_Holboo_IOMD150,31,2025-11-30T19:00:01,2025-11-30T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.2,-19.8,59.4,14.0,VRLA12v_LeadAcid
+1471,10.61.43.164,HOV.Hovd_Holboo_IOMD150,32,2025-11-27T19:00:00,2025-11-27T22:00:36,Scheduled test,Exceeded time limit,Test normal,49.2,-19.8,59.5,17.0,VRLA12v_LeadAcid
+1472,10.61.43.164,HOV.Hovd_Holboo_IOMD150,33,2025-11-24T19:00:02,2025-11-24T22:00:37,Scheduled test,Exceeded time limit,Test normal,49.0,-20.6,61.7,17.0,VRLA12v_LeadAcid
+1473,10.61.43.164,HOV.Hovd_Holboo_IOMD150,34,2025-11-20T19:00:01,2025-11-20T22:00:34,Scheduled test,Exceeded time limit,Test normal,49.3,-19.2,57.7,22.0,VRLA12v_LeadAcid
+1474,10.61.43.164,HOV.Hovd_Holboo_IOMD150,35,2025-11-17T19:00:01,2025-11-17T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.2,-19.9,59.7,19.0,VRLA12v_LeadAcid
+1475,10.61.43.164,HOV.Hovd_Holboo_IOMD150,36,2025-11-13T19:00:01,2025-11-13T22:00:35,Scheduled test,Exceeded time limit,Test normal,49.2,-20.1,60.4,25.0,VRLA12v_LeadAcid

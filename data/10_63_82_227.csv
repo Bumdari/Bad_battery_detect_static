@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+199027,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,39,2026-03-09T19:00:02,2026-03-09T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-13.4,40.3,,VRLA12v_LeadAcid
+142744,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,38,2026-03-06T19:00:03,2026-03-06T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-13.3,39.8,,VRLA12v_LeadAcid
+15574,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,37,2026-03-03T19:00:01,2026-03-03T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.8,-13.1,39.2,,VRLA12v_LeadAcid
+15538,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,1,2026-02-28T19:00:03,2026-02-28T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-13.3,39.9,,VRLA12v_LeadAcid
+15539,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,2,2026-02-25T19:00:02,2026-02-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-13.2,39.5,,VRLA12v_LeadAcid
+15540,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,3,2026-02-22T19:00:01,2026-02-22T22:00:10,Scheduled test,Exceeded time limit,Test normal,49.4,-12.6,37.8,,VRLA12v_LeadAcid
+15541,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,4,2026-02-19T19:00:02,2026-02-19T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.4,-12.6,37.9,,VRLA12v_LeadAcid
+15542,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,5,2026-02-16T19:00:02,2026-02-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.3,-13.0,39.1,,VRLA12v_LeadAcid
+15543,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,6,2026-02-13T19:00:02,2026-02-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.5,-13.2,39.7,,VRLA12v_LeadAcid
+15544,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,7,2026-02-10T19:00:02,2026-02-10T22:00:11,Scheduled test,Exceeded time limit,Test normal,50.0,-13.2,39.5,,VRLA12v_LeadAcid
+15545,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,8,2026-02-07T19:00:02,2026-02-07T21:44:23,Scheduled test,Low capacity,Test normal,46.3,-21.5,58.7,,VRLA12v_LeadAcid
+15546,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,9,2026-02-04T19:00:03,2026-02-04T21:59:20,Scheduled test,Low capacity,Test normal,46.3,-20.0,59.7,,VRLA12v_LeadAcid
+15547,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,10,2026-02-01T19:00:03,2026-02-01T21:54:26,Scheduled test,Low capacity,Test normal,46.5,-19.8,57.6,,VRLA12v_LeadAcid
+15548,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,11,2026-01-29T19:00:02,2026-01-29T21:09:08,Scheduled test,Low capacity,Test normal,46.4,-22.3,47.9,,VRLA12v_LeadAcid
+15549,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,12,2026-01-26T19:00:03,2026-01-26T21:53:39,Scheduled test,Low capacity,Test normal,46.3,-19.7,57.1,,VRLA12v_LeadAcid
+15550,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,13,2026-01-23T19:00:03,2026-01-23T20:29:10,Scheduled test,Low capacity,Test normal,46.7,-20.2,30.0,,VRLA12v_LeadAcid
+15551,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,14,2026-01-19T19:00:02,2026-01-19T21:51:29,Scheduled test,Low capacity,Test normal,46.3,-19.8,56.6,,VRLA12v_LeadAcid
+15552,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,15,2026-01-16T19:00:02,2026-01-16T21:36:58,Scheduled test,Low capacity,Test normal,46.3,-21.9,57.4,,VRLA12v_LeadAcid
+15553,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,16,2026-01-13T19:00:03,2026-01-13T21:25:44,Scheduled test,Low capacity,Test normal,46.6,-23.5,57.1,,VRLA12v_LeadAcid
+15554,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,17,2026-01-10T19:00:01,2026-01-10T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.5,-19.7,59.1,,VRLA12v_LeadAcid
+15555,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,18,2026-01-07T19:00:02,2026-01-07T21:58:11,Scheduled test,Low capacity,Test normal,46.3,-19.9,58.9,,VRLA12v_LeadAcid
+15556,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,19,2026-01-04T19:00:01,2026-01-04T21:59:44,Scheduled test,Low capacity,Test normal,46.3,-19.5,58.5,,VRLA12v_LeadAcid
+15557,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,20,2026-01-01T19:00:02,2026-01-01T21:39:58,Scheduled test,Low capacity,Test normal,46.2,-21.4,56.9,,VRLA12v_LeadAcid
+15558,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,21,2025-12-29T19:00:02,2025-12-29T21:59:45,Scheduled test,Low capacity,Test normal,46.2,-19.3,57.8,,VRLA12v_LeadAcid
+15559,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,22,2025-12-26T19:00:03,2025-12-26T21:17:48,Scheduled test,Low capacity,Test normal,46.2,-23.7,54.3,,VRLA12v_LeadAcid
+15560,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,23,2025-12-23T19:00:01,2025-12-23T21:33:21,Scheduled test,Low capacity,Test normal,46.5,-21.5,55.0,,VRLA12v_LeadAcid
+15561,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,24,2025-12-20T19:00:03,2025-12-20T21:36:40,Scheduled test,Low capacity,Test normal,46.2,-21.2,55.4,,VRLA12v_LeadAcid
+15562,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,25,2025-12-17T19:00:03,2025-12-17T21:28:37,Scheduled test,Low capacity,Test normal,46.2,-21.7,53.7,,VRLA12v_LeadAcid
+15563,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,26,2025-12-14T19:00:02,2025-12-14T21:16:51,Scheduled test,Low capacity,Test normal,46.2,-22.1,50.3,,VRLA12v_LeadAcid
+15564,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,27,2025-12-11T19:00:03,2025-12-11T20:53:09,Scheduled test,Low capacity,Test normal,46.0,-26.9,50.7,,VRLA12v_LeadAcid
+15565,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,28,2025-12-08T19:00:02,2025-12-08T21:05:43,Scheduled test,Low capacity,Test normal,46.1,-24.8,52.0,,VRLA12v_LeadAcid
+15566,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,29,2025-12-05T19:00:02,2025-12-05T21:22:47,Scheduled test,Low capacity,Test normal,46.3,-22.1,52.4,,VRLA12v_LeadAcid
+15567,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,30,2025-12-02T19:00:03,2025-12-02T21:21:21,Scheduled test,Low capacity,Test normal,46.2,-21.9,51.5,,VRLA12v_LeadAcid
+15568,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,31,2025-11-29T19:00:02,2025-11-29T21:21:46,Scheduled test,Low capacity,Test normal,46.5,-21.8,51.5,,VRLA12v_LeadAcid
+15569,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,32,2025-11-26T19:00:03,2025-11-26T21:21:40,Scheduled test,Low capacity,Test normal,46.4,-21.7,51.3,,VRLA12v_LeadAcid
+15570,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,33,2025-11-23T19:00:01,2025-11-23T21:21:41,Scheduled test,Low capacity,Test normal,46.3,-21.6,51.0,,VRLA12v_LeadAcid
+15571,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,34,2025-11-20T19:00:03,2025-11-20T21:17:08,Scheduled test,Low capacity,Test normal,46.3,-22.0,50.3,,VRLA12v_LeadAcid
+15572,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,35,2025-11-17T19:00:02,2025-11-17T21:13:58,Scheduled test,Low capacity,Test normal,46.3,-21.9,48.8,,VRLA12v_LeadAcid
+15573,10.63.82.227,HUD.Goyo_Uildver_TPD_ULN,36,2025-11-14T19:00:03,2025-11-14T21:11:19,Scheduled test,Low capacity,Test normal,46.5,-21.9,47.9,,VRLA12v_LeadAcid

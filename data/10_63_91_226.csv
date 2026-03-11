@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+181118,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,38,2026-03-08T18:00:02,2026-03-08T21:00:12,Scheduled test,Exceeded time limit,Test normal,51.6,-3.1,9.2,,VRLA12v_LeadAcid
+125286,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,37,2026-03-05T18:00:03,2026-03-05T21:00:13,Scheduled test,Exceeded time limit,Test normal,51.7,-3.1,9.2,,VRLA12v_LeadAcid
+16505,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,1,2026-03-02T18:00:02,2026-03-02T21:00:11,Scheduled test,Exceeded time limit,Test normal,51.7,-3.1,9.2,,VRLA12v_LeadAcid
+16506,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,2,2026-02-27T18:00:03,2026-02-27T21:00:12,Scheduled test,Exceeded time limit,Test normal,51.8,-3.1,9.2,,VRLA12v_LeadAcid
+16507,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,3,2026-02-24T18:00:03,2026-02-24T21:00:13,Scheduled test,Exceeded time limit,Test normal,51.9,-3.1,9.3,,VRLA12v_LeadAcid
+16508,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,4,2026-02-21T18:00:03,2026-02-21T21:00:12,Scheduled test,Exceeded time limit,Test normal,52.0,-3.3,10.0,,VRLA12v_LeadAcid
+16509,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,5,2026-02-18T18:00:03,2026-02-18T21:00:12,Scheduled test,Exceeded time limit,Test normal,52.1,-3.6,10.8,,VRLA12v_LeadAcid
+16510,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,6,2026-02-12T18:00:02,2026-02-12T18:00:27,Scheduled test,Low voltage,Battery alm,45.4,0.0,0.0,,VRLA12v_LeadAcid
+16511,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,7,2026-02-09T18:00:02,2026-02-09T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16512,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,8,2026-02-06T18:00:02,2026-02-06T18:00:24,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16513,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,9,2026-02-03T18:00:03,2026-02-03T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16514,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,10,2026-01-31T18:00:02,2026-01-31T18:00:24,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16515,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,11,2026-01-28T18:00:03,2026-01-28T18:00:25,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16516,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,12,2026-01-25T18:00:03,2026-01-25T18:00:29,Scheduled test,Low voltage,Battery alm,45.4,0.0,0.0,,VRLA12v_LeadAcid
+16517,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,13,2026-01-22T18:00:02,2026-01-22T18:00:28,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16518,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,14,2026-01-19T18:00:02,2026-01-19T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16519,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,15,2026-01-16T18:00:03,2026-01-16T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16520,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,16,2026-01-13T18:00:02,2026-01-13T18:00:28,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16521,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,17,2026-01-10T18:00:02,2026-01-10T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16522,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,18,2026-01-07T18:00:03,2026-01-07T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16523,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,19,2026-01-04T18:00:03,2026-01-04T18:00:27,Scheduled test,Low voltage,Battery alm,45.4,0.0,0.0,,VRLA12v_LeadAcid
+16524,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,20,2026-01-01T18:00:03,2026-01-01T18:00:25,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16525,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,21,2025-12-29T18:00:03,2025-12-29T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16526,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,22,2025-12-26T18:00:02,2025-12-26T18:00:24,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16527,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,23,2025-12-23T18:00:02,2025-12-23T18:00:26,Scheduled test,Low voltage,Battery alm,45.4,0.0,0.0,,VRLA12v_LeadAcid
+16528,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,24,2025-12-20T18:00:03,2025-12-20T18:00:25,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16529,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,25,2025-12-17T18:00:03,2025-12-17T18:00:25,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16530,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,26,2025-12-14T18:00:02,2025-12-14T18:00:24,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16531,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,27,2025-12-11T18:00:02,2025-12-11T18:00:24,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16532,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,28,2025-12-08T18:00:03,2025-12-08T18:00:25,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16533,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,29,2025-12-05T18:00:03,2025-12-05T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16534,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,30,2025-12-02T18:00:02,2025-12-02T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16535,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,31,2025-11-29T18:00:03,2025-11-29T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16536,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,32,2025-11-26T18:00:02,2025-11-26T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16537,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,33,2025-11-23T18:00:03,2025-11-23T18:00:27,Scheduled test,Low voltage,Battery alm,45.4,0.0,0.0,,VRLA12v_LeadAcid
+16538,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,34,2025-11-20T18:00:03,2025-11-20T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16539,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,35,2025-11-17T18:00:03,2025-11-17T18:00:27,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid
+16540,10.63.91.226,HUD._8hor_Tashgai_Aguulah_Site_MP23_ULN,36,2025-11-14T18:00:02,2025-11-14T18:00:26,Scheduled test,Low voltage,Battery alm,45.1,0.0,0.0,,VRLA12v_LeadAcid

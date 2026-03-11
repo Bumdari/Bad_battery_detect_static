@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+198444,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,39,2026-03-09T19:00:02,2026-03-09T22:11:08,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-21.1,67.0,26.0,VRLA12v_LeadAcid
+142174,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,38,2026-03-06T19:00:02,2026-03-06T22:08:02,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-21.0,65.8,26.0,VRLA12v_LeadAcid
+15017,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,37,2026-03-03T19:00:03,2026-03-03T22:04:43,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-21.0,64.4,26.0,VRLA12v_LeadAcid
+14981,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,1,2026-02-28T19:00:02,2026-02-28T22:01:05,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-21.1,63.4,26.0,VRLA12v_LeadAcid
+14982,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,2,2026-02-25T19:00:03,2026-02-25T21:59:28,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-20.9,62.5,26.0,VRLA12v_LeadAcid
+14983,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,3,2026-02-22T19:00:02,2026-02-22T21:57:45,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.9,61.8,26.0,VRLA12v_LeadAcid
+14984,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,4,2026-02-19T19:00:02,2026-02-19T21:57:19,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.7,61.1,25.0,VRLA12v_LeadAcid
+14985,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,5,2026-02-16T19:00:02,2026-02-16T21:50:25,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-21.1,59.8,25.0,VRLA12v_LeadAcid
+14986,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,6,2026-02-13T19:00:02,2026-02-13T21:48:48,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-21.2,59.6,25.0,VRLA12v_LeadAcid
+14987,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,7,2026-02-10T19:00:03,2026-02-10T21:48:49,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-20.9,58.6,25.0,VRLA12v_LeadAcid
+14988,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,8,2026-02-07T19:00:02,2026-02-07T21:51:19,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-21.0,59.9,24.0,VRLA12v_LeadAcid
+14989,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,9,2026-02-04T19:00:03,2026-02-04T21:50:33,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-21.1,59.8,24.0,VRLA12v_LeadAcid
+14990,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,10,2026-02-01T19:00:02,2026-02-01T21:52:19,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-20.7,59.5,24.0,VRLA12v_LeadAcid
+14991,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,11,2026-01-29T19:00:02,2026-01-29T20:21:46,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.6,-20.5,27.8,23.0,VRLA12v_LeadAcid
+14992,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,12,2026-01-26T19:00:02,2026-01-26T21:16:35,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.9,47.5,23.0,VRLA12v_LeadAcid
+14993,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,13,2026-01-23T19:00:02,2026-01-23T20:20:49,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-20.8,27.9,23.0,VRLA12v_LeadAcid
+14994,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,14,2026-01-20T19:00:01,2026-01-20T20:00:18,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.4,-21.5,21.6,22.0,VRLA12v_LeadAcid
+14995,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,15,2026-01-17T19:00:03,2026-01-17T20:36:09,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-20.7,33.1,22.0,VRLA12v_LeadAcid
+14996,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,16,2026-01-14T19:00:03,2026-01-14T20:34:20,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.9,32.8,22.0,VRLA12v_LeadAcid
+14997,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,17,2026-01-11T19:00:02,2026-01-11T20:34:45,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-21.1,33.2,22.0,VRLA12v_LeadAcid
+14998,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,18,2026-01-08T19:00:01,2026-01-08T20:39:21,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-20.8,34.3,21.0,VRLA12v_LeadAcid
+14999,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,19,2026-01-05T19:00:03,2026-01-05T20:41:39,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.8,35.1,21.0,VRLA12v_LeadAcid
+15000,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,20,2026-01-02T19:00:02,2026-01-02T20:45:33,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-20.6,36.2,21.0,VRLA12v_LeadAcid
+15001,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,21,2025-12-30T19:00:03,2025-12-30T20:45:48,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-21.1,37.2,21.0,VRLA12v_LeadAcid
+15002,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,22,2025-12-27T19:00:01,2025-12-27T20:50:40,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-20.9,38.4,21.0,VRLA12v_LeadAcid
+15003,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,23,2025-12-24T19:00:03,2025-12-24T20:44:47,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-22.3,38.9,21.0,VRLA12v_LeadAcid
+15004,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,24,2025-12-21T19:00:01,2025-12-21T20:51:04,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-21.9,40.5,21.0,VRLA12v_LeadAcid
+15005,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,25,2025-12-18T19:00:03,2025-12-18T20:53:46,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-22.1,41.9,21.0,VRLA12v_LeadAcid
+15006,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,26,2025-12-15T19:00:03,2025-12-15T20:59:50,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-22.0,43.7,21.0,VRLA12v_LeadAcid
+15007,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,27,2025-12-12T19:00:02,2025-12-12T21:03:58,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-22.0,45.4,22.0,VRLA12v_LeadAcid
+15008,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,28,2025-12-09T19:00:02,2025-12-09T21:07:07,Timed Self-Check,Low Capacity,Test Result Normal,47.2,-22.1,46.7,22.0,VRLA12v_LeadAcid
+15009,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,29,2025-12-06T19:00:01,2025-12-06T21:09:23,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-22.1,47.6,22.0,VRLA12v_LeadAcid
+15010,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,30,2025-12-03T19:00:03,2025-12-03T21:10:59,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-22.3,48.5,22.0,VRLA12v_LeadAcid
+15011,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,31,2025-11-30T19:00:03,2025-11-30T21:16:26,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-22.1,50.1,23.0,VRLA12v_LeadAcid
+15012,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,32,2025-11-27T19:00:03,2025-11-27T21:18:30,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-22.2,51.1,23.0,VRLA12v_LeadAcid
+15013,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,33,2025-11-24T19:00:02,2025-11-24T21:24:50,Timed Self-Check,Low Capacity,Test Result Normal,46.4,-22.2,53.6,23.0,VRLA12v_LeadAcid
+15014,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,34,2025-11-21T19:00:02,2025-11-21T21:29:09,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-22.1,54.8,23.0,VRLA12v_LeadAcid
+15015,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,35,2025-11-18T19:00:03,2025-11-18T21:31:41,Timed Self-Check,Low Capacity,Test Result Normal,46.4,-22.2,55.9,24.0,VRLA12v_LeadAcid
+15016,10.63.79.2,HUD._18hor_Gerlug_MP22_ULN,36,2025-11-15T19:00:02,2025-11-15T21:30:48,Timed Self-Check,Low Capacity,Test Result Normal,46.5,-22.3,55.9,24.0,VRLA12v_LeadAcid

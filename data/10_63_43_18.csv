@@ -1,0 +1,12 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+118547,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,1,2025-02-25T19:00:00,2025-02-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-15.0,44.9,14.0,ESMU_Lithium
+118548,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,2,2025-02-22T19:00:00,2025-02-22T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.5,-15.9,47.7,14.0,ESMU_Lithium
+118549,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,3,2025-02-18T19:00:00,2025-02-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-15.6,46.7,14.0,ESMU_Lithium
+118550,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,4,2025-02-09T19:00:01,2025-02-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-16.2,48.7,14.0,ESMU_Lithium
+118551,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,5,2025-02-04T19:00:00,2025-02-04T22:00:05,Scheduled test,Exceeded time limit,Test normal,49.6,-15.3,45.8,14.0,ESMU_Lithium
+118552,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,6,2025-01-29T19:00:00,2025-01-29T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-15.6,46.7,14.0,ESMU_Lithium
+118553,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,7,2025-01-23T19:00:00,2025-01-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-15.9,47.8,14.0,ESMU_Lithium
+118554,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,8,2025-01-18T19:00:01,2025-01-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-16.7,50.0,14.0,ESMU_Lithium
+118555,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,9,2024-12-31T19:00:01,2024-12-31T20:40:57,Scheduled test,Fault alarm,Abnormal end,49.5,-15.6,26.2,10.0,ESMU_Lithium
+118556,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,10,2024-12-16T19:00:00,2024-12-16T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.5,-17.8,53.3,14.0,ESMU_Lithium
+118557,10.63.43.18,HOV.Tsetseg_AltainZam_HarahTseg,11,2024-07-11T19:00:00,2024-07-11T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.8,-8.8,26.5,37.0,ESMU_Lithium

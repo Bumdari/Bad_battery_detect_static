@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+179385,10.63.78.2,SBD.Hoimor_office_ULN,38,2026-03-08T19:00:02,2026-03-08T21:50:40,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-93.5,265.6,39.0,VRLA12v_LeadAcid
+123591,10.63.78.2,SBD.Hoimor_office_ULN,37,2026-03-05T19:00:03,2026-03-05T21:55:25,Timed Self-Check,Low Capacity,Test Result Normal,47.6,-87.8,256.2,36.0,VRLA12v_LeadAcid
+14836,10.63.78.2,SBD.Hoimor_office_ULN,1,2026-03-02T19:00:02,2026-03-02T21:51:23,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-95.4,271.9,36.0,VRLA12v_LeadAcid
+14837,10.63.78.2,SBD.Hoimor_office_ULN,2,2026-02-27T19:00:02,2026-02-27T21:35:19,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-87.3,225.5,37.0,VRLA12v_LeadAcid
+14838,10.63.78.2,SBD.Hoimor_office_ULN,3,2026-02-24T19:00:02,2026-02-24T21:44:15,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-86.2,235.6,39.0,VRLA12v_LeadAcid
+14839,10.63.78.2,SBD.Hoimor_office_ULN,4,2026-02-21T19:00:02,2026-02-21T22:01:21,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-77.9,235.0,35.0,VRLA12v_LeadAcid
+14840,10.63.78.2,SBD.Hoimor_office_ULN,5,2026-02-18T19:00:03,2026-02-18T22:41:06,Timed Self-Check,Low Capacity,Test Result Normal,47.5,-72.9,268.3,36.0,VRLA12v_LeadAcid
+14841,10.63.78.2,SBD.Hoimor_office_ULN,6,2026-02-15T19:00:03,2026-02-15T21:41:56,Timed Self-Check,Low Capacity,Test Result Normal,48.3,-78.0,210.0,36.0,VRLA12v_LeadAcid
+14842,10.63.78.2,SBD.Hoimor_office_ULN,7,2026-02-12T19:00:02,2026-02-12T21:45:25,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-88.6,243.7,40.0,VRLA12v_LeadAcid
+14843,10.63.78.2,SBD.Hoimor_office_ULN,8,2026-02-09T19:00:02,2026-02-09T21:59:31,Timed Self-Check,Low Capacity,Test Result Normal,47.3,-91.8,274.1,37.0,VRLA12v_LeadAcid
+14844,10.63.78.2,SBD.Hoimor_office_ULN,9,2026-02-06T19:00:03,2026-02-06T21:45:59,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-90.2,248.9,36.0,VRLA12v_LeadAcid
+14845,10.63.78.2,SBD.Hoimor_office_ULN,10,2026-02-03T19:00:02,2026-02-03T21:53:06,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-94.9,273.3,38.0,VRLA12v_LeadAcid
+14846,10.63.78.2,SBD.Hoimor_office_ULN,11,2026-01-31T19:00:03,2026-01-31T21:40:07,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-83.5,222.3,35.0,VRLA12v_LeadAcid
+14847,10.63.78.2,SBD.Hoimor_office_ULN,12,2026-01-28T19:00:03,2026-01-28T20:59:21,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,48.9,-84.3,167.4,35.0,VRLA12v_LeadAcid
+14848,10.63.78.2,SBD.Hoimor_office_ULN,13,2026-01-24T19:00:02,2026-01-24T21:40:03,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-83.9,223.4,35.0,VRLA12v_LeadAcid
+14849,10.63.78.2,SBD.Hoimor_office_ULN,14,2026-01-21T19:00:02,2026-01-21T19:09:53,Timed Self-Check,Stop Upon Fault Alarm,Abnormal end,50.0,-86.0,14.1,38.0,VRLA12v_LeadAcid
+14850,10.63.78.2,SBD.Hoimor_office_ULN,15,2026-01-17T19:00:03,2026-01-17T21:25:54,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-83.3,202.2,36.0,VRLA12v_LeadAcid
+14851,10.63.78.2,SBD.Hoimor_office_ULN,16,2026-01-14T19:00:03,2026-01-14T22:05:50,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-82.4,254.8,40.0,VRLA12v_LeadAcid
+14852,10.63.78.2,SBD.Hoimor_office_ULN,17,2026-01-11T19:00:02,2026-01-11T22:00:58,Timed Self-Check,Low Capacity,Test Result Normal,47.4,-88.6,266.7,39.0,VRLA12v_LeadAcid
+14853,10.63.78.2,SBD.Hoimor_office_ULN,18,2026-01-08T19:00:03,2026-01-08T22:10:25,Timed Self-Check,Low Capacity,Test Result Normal,47.1,-89.5,283.5,40.0,VRLA12v_LeadAcid
+14854,10.63.78.2,SBD.Hoimor_office_ULN,19,2026-01-05T19:00:03,2026-01-05T21:46:02,Timed Self-Check,Low Capacity,Test Result Normal,47.8,-82.7,228.4,37.0,VRLA12v_LeadAcid
+14855,10.63.78.2,SBD.Hoimor_office_ULN,20,2026-01-02T19:00:02,2026-01-02T21:15:45,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-84.3,190.4,37.0,VRLA12v_LeadAcid
+14856,10.63.78.2,SBD.Hoimor_office_ULN,21,2025-12-30T19:00:02,2025-12-30T21:29:48,Timed Self-Check,Low Capacity,Test Result Normal,48.4,-78.9,196.7,35.0,VRLA12v_LeadAcid
+14857,10.63.78.2,SBD.Hoimor_office_ULN,22,2025-12-27T19:00:02,2025-12-27T21:44:13,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-80.8,220.8,38.0,VRLA12v_LeadAcid
+14858,10.63.78.2,SBD.Hoimor_office_ULN,23,2025-12-24T19:00:03,2025-12-24T21:56:22,Timed Self-Check,Low Capacity,Test Result Normal,47.9,-80.7,236.6,35.0,VRLA12v_LeadAcid
+14859,10.63.78.2,SBD.Hoimor_office_ULN,24,2025-12-21T19:00:03,2025-12-21T22:12:54,Timed Self-Check,Low Capacity,Test Result Normal,47.7,-78.3,251.3,34.0,VRLA12v_LeadAcid
+14860,10.63.78.2,SBD.Hoimor_office_ULN,25,2025-12-18T19:00:03,2025-12-18T20:54:41,Timed Self-Check,Low Capacity,Test Result Normal,48.9,-83.6,159.5,40.0,VRLA12v_LeadAcid
+14861,10.63.78.2,SBD.Hoimor_office_ULN,26,2025-12-15T19:00:03,2025-12-15T22:03:43,Timed Self-Check,Low Capacity,Test Result Normal,48.0,-80.9,247.1,37.0,VRLA12v_LeadAcid
+14862,10.63.78.2,SBD.Hoimor_office_ULN,27,2025-12-12T19:00:03,2025-12-12T21:42:10,Timed Self-Check,Low Capacity,Test Result Normal,48.6,-83.0,223.8,35.0,VRLA12v_LeadAcid
+14863,10.63.78.2,SBD.Hoimor_office_ULN,28,2025-12-09T19:00:01,2025-12-09T22:16:17,Timed Self-Check,Low Capacity,Test Result Normal,47.9,-85.8,280.1,37.0,VRLA12v_LeadAcid
+14864,10.63.78.2,SBD.Hoimor_office_ULN,29,2025-12-06T19:00:03,2025-12-06T23:00:11,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-81.8,327.0,36.0,VRLA12v_LeadAcid
+14865,10.63.78.2,SBD.Hoimor_office_ULN,30,2025-12-03T19:00:02,2025-12-03T19:11:16,Timed Self-Check,Low Capacity,Test Result Normal,46.2,-81.3,15.2,31.0,VRLA12v_LeadAcid
+14866,10.63.78.2,SBD.Hoimor_office_ULN,31,2025-11-30T19:00:02,2025-11-30T19:14:44,Timed Self-Check,Low Capacity,Test Result Normal,45.3,-84.2,20.6,31.0,VRLA12v_LeadAcid
+14867,10.63.78.2,SBD.Hoimor_office_ULN,32,2025-11-26T19:00:02,2025-11-26T19:15:20,Timed Self-Check,Low Capacity,Test Result Normal,44.6,-85.0,21.6,32.0,VRLA12v_LeadAcid
+14868,10.63.78.2,SBD.Hoimor_office_ULN,33,2025-11-23T19:00:01,2025-11-23T19:11:08,Timed Self-Check,Low Capacity,Test Result Normal,46.0,-85.6,15.8,32.0,VRLA12v_LeadAcid
+14869,10.63.78.2,SBD.Hoimor_office_ULN,34,2025-11-20T19:00:03,2025-11-20T19:10:58,Timed Self-Check,Lower Than End Voltage,Battery alm,46.0,-87.6,15.9,34.0,VRLA12v_LeadAcid
+14870,10.63.78.2,SBD.Hoimor_office_ULN,35,2025-11-17T19:00:03,2025-11-17T19:13:27,Timed Self-Check,Low Capacity,Test Result Normal,45.7,-81.1,18.1,34.0,VRLA12v_LeadAcid
+14871,10.63.78.2,SBD.Hoimor_office_ULN,36,2025-11-13T19:00:02,2025-11-13T19:14:21,Timed Self-Check,Lower Than End Voltage,Battery alm,45.6,-81.4,19.4,40.0,VRLA12v_LeadAcid

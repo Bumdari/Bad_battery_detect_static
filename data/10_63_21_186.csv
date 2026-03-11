@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+170839,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,38,2026-03-08T19:00:00,2026-03-09T00:00:10,Scheduled test,Exceeded time limit,Test normal,48.7,-22.2,111.2,29.0,ESMU_Lithium
+115263,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,37,2026-03-05T19:00:00,2026-03-06T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-21.9,109.7,17.0,ESMU_Lithium
+6617,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,1,2026-03-02T19:00:01,2026-03-03T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-21.7,108.3,19.0,ESMU_Lithium
+6618,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,2,2026-02-27T19:00:01,2026-02-28T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-22.1,110.3,21.0,ESMU_Lithium
+6619,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,3,2026-02-24T19:00:00,2026-02-25T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-22.1,110.7,20.0,ESMU_Lithium
+6620,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,4,2026-02-21T19:00:01,2026-02-22T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-22.2,110.8,16.0,ESMU_Lithium
+6621,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,5,2026-02-18T19:00:00,2026-02-19T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-22.3,111.5,31.0,ESMU_Lithium
+6622,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,6,2026-02-15T19:00:00,2026-02-16T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-22.4,112.0,22.0,ESMU_Lithium
+6623,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,7,2026-02-11T19:00:01,2026-02-12T00:00:13,Scheduled test,Exceeded time limit,Test normal,48.6,-22.3,111.5,25.0,ESMU_Lithium
+6624,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,8,2026-02-08T19:00:00,2026-02-09T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-22.1,110.5,20.0,ESMU_Lithium
+6625,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,9,2026-02-04T19:00:00,2026-02-05T00:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-22.3,111.3,17.0,ESMU_Lithium
+6626,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,10,2026-02-01T19:00:00,2026-02-02T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-22.4,112.2,23.0,ESMU_Lithium
+6627,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,11,2026-01-29T19:00:01,2026-01-30T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-21.2,106.0,19.0,ESMU_Lithium
+6628,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,12,2026-01-26T19:00:01,2026-01-27T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-21.2,106.1,19.0,ESMU_Lithium
+6629,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,13,2026-01-18T19:00:00,2026-01-18T20:35:22,Scheduled test,Fault alarm,Abnormal end,49.0,-21.6,34.3,14.0,ESMU_Lithium
+6630,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,14,2026-01-15T19:00:01,2026-01-16T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-22.6,113.2,22.0,ESMU_Lithium
+6631,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,15,2026-01-12T19:00:00,2026-01-13T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-21.9,109.7,23.0,ESMU_Lithium
+6632,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,16,2026-01-09T19:00:01,2026-01-10T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-22.1,110.3,23.0,ESMU_Lithium
+6633,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,17,2026-01-06T19:00:00,2026-01-07T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-22.1,110.5,23.0,ESMU_Lithium
+6634,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,18,2026-01-03T19:00:01,2026-01-04T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-22.7,113.7,20.0,ESMU_Lithium
+6635,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,19,2025-12-31T19:00:01,2026-01-01T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-21.7,108.7,15.0,ESMU_Lithium
+6636,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,20,2025-12-28T19:00:01,2025-12-29T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-21.5,107.7,23.0,ESMU_Lithium
+6637,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,21,2025-12-25T19:00:01,2025-12-26T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-23.0,115.0,19.0,ESMU_Lithium
+6638,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,22,2025-12-22T19:00:01,2025-12-23T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-23.6,118.0,30.0,ESMU_Lithium
+6639,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,23,2025-12-18T19:00:00,2025-12-19T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-23.0,115.0,23.0,ESMU_Lithium
+6640,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,24,2025-12-15T19:00:00,2025-12-16T00:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-22.9,114.4,22.0,ESMU_Lithium
+6641,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,25,2025-12-12T19:00:01,2025-12-12T23:56:36,Scheduled test,Low capacity,Test normal,48.1,-23.3,115.1,17.0,ESMU_Lithium
+6642,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,26,2025-12-09T19:00:01,2025-12-10T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-22.7,113.7,20.0,ESMU_Lithium
+6643,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,27,2025-12-06T19:00:00,2025-12-07T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-23.8,118.8,23.0,ESMU_Lithium
+6644,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,28,2025-12-03T19:00:00,2025-12-04T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-23.3,116.6,22.0,ESMU_Lithium
+6645,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,29,2025-11-30T19:00:01,2025-12-01T00:00:13,Scheduled test,Exceeded time limit,Test normal,48.4,-23.0,115.0,23.0,ESMU_Lithium
+6646,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,30,2025-11-27T19:00:01,2025-11-28T00:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-23.0,115.0,21.0,ESMU_Lithium
+6647,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,31,2025-11-24T21:00:00,2025-11-25T01:56:21,Scheduled test,Low capacity,Test normal,48.5,-23.9,117.7,30.0,ESMU_Lithium
+6648,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,32,2025-11-21T21:00:00,2025-11-22T01:21:06,Scheduled test,Low capacity,Test normal,48.6,-23.7,103.3,21.0,ESMU_Lithium
+6649,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,33,2025-11-18T21:00:00,2025-11-19T01:24:30,Scheduled test,Low capacity,Test normal,48.6,-23.1,101.7,25.0,ESMU_Lithium
+6650,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,34,2025-11-15T21:00:01,2025-11-16T01:28:51,Scheduled test,Low capacity,Test normal,48.2,-22.7,101.5,14.0,ESMU_Lithium
+6651,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,35,2025-11-12T21:00:01,2025-11-13T01:23:22,Scheduled test,Low capacity,Test normal,48.7,-23.8,104.3,25.0,ESMU_Lithium
+6652,10.63.21.186,BND._3hor_BaganuurMining_Uuliin2_IOMD150_ULN,36,2025-11-09T21:00:01,2025-11-10T01:25:23,Scheduled test,Low capacity,Test normal,48.4,-23.5,104.0,16.0,ESMU_Lithium

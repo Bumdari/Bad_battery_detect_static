@@ -6,28 +6,22 @@ from openpyxl import load_workbook
 from openpyxl.styles import PatternFill, Font, Alignment
 from openpyxl.utils import get_column_letter
 
-# ─────────────────────────────────────────
-# ТОХИРГОО
-# ─────────────────────────────────────────
-data_folder = 'data'
-OUTPUT_FILE  = 'output_analysis.xlsx'
+data_folder = 'data_archive_2'
+OUTPUT_FILE  = 'output_analysis_da2_2.xlsx'
 
-CAP_THRESHOLD   = 65    # BATTERY_CAPACITY weak threshold %
-MIN_DURATION    = 13    # Хүчингүй cycle хасах босго (мин)
+CAP_THRESHOLD   = 65
+MIN_DURATION    = 13
 BASELINE_TOP_N  = 10
 SLOPE_DAYS      = 30
-MIN_CYCLES_PRED = 5     # Predict хийхэд хамгийн бага cycle тоо
-MAX_PRED_DAYS   = 1825  # 5 жилээс хол бол "Stable long term"
+MIN_CYCLES_PRED = 5
+MAX_PRED_DAYS   = 365
+PRED_WINDOW     = 20
 
-# Duration level threshold
 LEVEL_CRITICAL = 30
 LEVEL_AVERAGE  = 60
 LEVEL_GOOD     = 120
 LEVEL_VERYGOOD = 180
 
-# ─────────────────────────────────────────
-# ТУСЛАХ ФУНКЦҮҮД
-# ─────────────────────────────────────────
 
 def duration_level(dur):
     if dur <= LEVEL_CRITICAL:
@@ -44,24 +38,17 @@ def is_valid_cycle(row):
         return False
     return True
 
-def weighted_regression(recent_df):
-    """
-    Weighted Linear Regression:
-    x = cycle index, y = duration_min
-    w = [1, 2, 3, ... n] — сүүлийнх нь их жинтэй
-    Буцаах: slope (мин/cycle), intercept, avg_days_per_cycle
-    """
-    if len(recent_df) < MIN_CYCLES_PRED:
+def weighted_regression(df_window):
+    if len(df_window) < MIN_CYCLES_PRED:
         return None, None, None
 
-    x = np.arange(len(recent_df), dtype=float)
-    y = recent_df['duration_min'].values.astype(float)
+    x = np.arange(len(df_window), dtype=float)
+    y = df_window['duration_min'].values.astype(float)
     w = x + 1
 
     slope, intercept = np.polyfit(x, y, 1, w=w)
 
-    # Cycle хоорондын дундаж хоног
-    dates = recent_df['start_time'].values
+    dates = df_window['start_time'].values
     if len(dates) >= 2:
         total_days = (pd.Timestamp(dates[-1]) - pd.Timestamp(dates[0])).days
         avg_days_per_cycle = total_days / (len(dates) - 1) if total_days > 0 else 2
@@ -71,25 +58,20 @@ def weighted_regression(recent_df):
     return round(slope, 4), round(intercept, 4), round(avg_days_per_cycle, 2)
 
 def predict_days_to_threshold(current_idx, slope, intercept, threshold, avg_days_per_cycle, today):
-    """
-    Хэдэн хоногийн дараа threshold-д хүрэх тооцоо.
-    current_pred = slope * current_idx + intercept
-    cycles_needed = (current_pred - threshold) / abs(slope)
-    """
     if slope is None or slope >= 0:
-        return 'Improving/Stable'
+        return 'Сайжирч байна'
 
     current_pred = slope * current_idx + intercept
     if current_pred <= threshold:
-        return 'Already below'
+        return 'Доошилж эхэлсэн'
 
     cycles_needed = (current_pred - threshold) / abs(slope)
     days_needed = cycles_needed * avg_days_per_cycle
 
     if days_needed > MAX_PRED_DAYS:
-        return 'Stable long term'
+        return '1 жилд буурахгүй'
     if days_needed <= 0:
-        return 'Already below'
+        return 'Доошилж эхэлсэн'
 
     pred_date = today + timedelta(days=int(days_needed))
     return pred_date.strftime('%Y-%m-%d')
@@ -157,9 +139,7 @@ def determine_weak_group(row):
                 return 'equal'
     return 'unknown'
 
-# ─────────────────────────────────────────
-# ҮНДСЭН БОЛОВСРУУЛАЛТ
-# ─────────────────────────────────────────
+
 all_files = [f for f in os.listdir(data_folder) if f.lower().endswith('.csv')]
 print(f"{len(all_files)} ширхэг csv")
 
@@ -179,18 +159,15 @@ for filename in all_files:
             print(f" → {filename}: хоосон, алгасав")
             continue
 
-        # Хүчингүй cycle хасах
         df = df[df.apply(is_valid_cycle, axis=1)].reset_index(drop=True)
         if len(df) < 1:
             print(f" → {filename}: шүүлтийн дараа хоосон")
             continue
 
-        # Group cap
         df['group1_cap'] = df.apply(lambda r: get_group_cap(r, 1), axis=1)
         df['group2_cap'] = df.apply(lambda r: get_group_cap(r, 2), axis=1)
         df['weak_group'] = df.apply(determine_weak_group, axis=1)
 
-        # Battery change илрүүлэх
         battery_change_indices = [0]
         durations = df['duration_min']
         for i in range(1, len(df)):
@@ -204,7 +181,6 @@ for filename in all_files:
         battery_change_date = df.loc[last_change_idx, 'start_time']
         recent_df = df.iloc[last_change_idx:].copy().reset_index(drop=True)
 
-        # Baseline & slope (30 хоног)
         top_10 = recent_df['duration_min'].sort_values(ascending=False).head(BASELINE_TOP_N)
         baseline = top_10.median()
 
@@ -213,10 +189,10 @@ for filename in all_files:
         slope_30 = last_30_df['duration_min'].median() if len(last_30_df) > 0 else recent_df['duration_min'].median()
 
         last_row = df.iloc[-1]
-        last_duration    = last_row['duration_min']
-        last_stop_cause  = last_row['stop_cause']
-        last_start_time  = last_row['start_time'].strftime('%Y-%m-%d %H:%M:%S')
-        ip               = df['IP'].iloc[0]
+        last_duration   = last_row['duration_min']
+        last_stop_cause = last_row['stop_cause']
+        last_start_date = last_row['start_time'].strftime('%Y-%m-%d')
+        ip              = df['IP'].iloc[0]
 
         drop_percent = round(((baseline - slope_30) / baseline * 100), 2) if baseline > 0 else 0.0
         if drop_percent < 25:
@@ -233,74 +209,90 @@ for filename in all_files:
         else:
             status = 'degrading'
 
-        # Хамгийн бага duration ба түүний stop_cause
         min_idx      = recent_df['duration_min'].idxmin()
         min_duration = recent_df.loc[min_idx, 'duration_min']
         min_stop     = recent_df.loc[min_idx, 'stop_cause']
         min_date     = recent_df.loc[min_idx, 'start_time'].strftime('%Y-%m-%d')
 
-        # Duration level
         current_level = duration_level(last_duration)
 
-        # Weighted Linear Regression
-        wlr_slope, wlr_intercept, avg_days_cycle = weighted_regression(recent_df)
+        pred_window_df = recent_df.tail(PRED_WINDOW).reset_index(drop=True)
+        wlr_slope, wlr_intercept, avg_days_cycle = weighted_regression(pred_window_df)
         trend = get_trend(wlr_slope)
-        current_idx = len(recent_df)  # Дараагийн cycle-ийн байрлал
+        current_idx = len(pred_window_df)
 
-        # Predict
-        has_enough = wlr_slope is not None and len(recent_df) >= MIN_CYCLES_PRED
+        has_enough = wlr_slope is not None and len(pred_window_df) >= MIN_CYCLES_PRED
 
         if current_level == 'VERY GOOD' and has_enough:
-            pred_to_good    = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_GOOD,    avg_days_cycle, today)
-            pred_to_average = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_AVERAGE, avg_days_cycle, today)
-            pred_to_critical= predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL,avg_days_cycle, today)
+            pred_to_good     = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_GOOD,     avg_days_cycle, today)
+            pred_to_average  = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_AVERAGE,  avg_days_cycle, today)
+            pred_to_critical = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL, avg_days_cycle, today)
         elif current_level == 'GOOD' and has_enough:
-            pred_to_good    = 'Current level'
-            pred_to_average = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_AVERAGE, avg_days_cycle, today)
-            pred_to_critical= predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL,avg_days_cycle, today)
+            pred_to_good     = 'Одоогийн түвшин'
+            pred_to_average  = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_AVERAGE,  avg_days_cycle, today)
+            pred_to_critical = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL, avg_days_cycle, today)
         elif current_level == 'AVERAGE' and has_enough:
-            pred_to_good    = 'Already passed'
-            pred_to_average = 'Current level'
-            pred_to_critical= predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL,avg_days_cycle, today)
+            pred_to_good     = 'Муу'
+            pred_to_average  = 'Одоогийн түвшин'
+            pred_to_critical = predict_days_to_threshold(current_idx, wlr_slope, wlr_intercept, LEVEL_CRITICAL, avg_days_cycle, today)
         elif current_level == 'CRITICAL':
-            pred_to_good    = 'Already critical'
-            pred_to_average = 'Already critical'
-            pred_to_critical= 'Current level'
+            pred_to_good     = 'Хурцадмал'
+            pred_to_average  = 'Хурцадмал'
+            pred_to_critical = 'Хурцадмал'
         else:
-            pred_to_good    = 'Insufficient data'
-            pred_to_average = 'Insufficient data'
-            pred_to_critical= 'Insufficient data'
+            pred_to_good     = 'Өгөгдөл хүрэлцэхгүй'
+            pred_to_average  = 'Өгөгдөл хүрэлцэхгүй'
+            pred_to_critical = 'Өгөгдөл хүрэлцэхгүй'
 
-        # Weak group (сүүлийн 30 хоног давамгайлсан)
-        last_30_weak = df[df['start_time'] >= cutoff_date]['weak_group'].value_counts()
+        NEAR_CRITICAL_WINDOW = 10
+        NEAR_CRITICAL_COUNT  = 3
+        recent_10 = recent_df.tail(NEAR_CRITICAL_WINDOW)
+        critical_hits = (recent_10['duration_min'] < LEVEL_CRITICAL).sum()
+        near_critical = critical_hits > NEAR_CRITICAL_COUNT
+
+        trend_arrow = '↘' if trend == 'DECLINING' else ('↗' if trend == 'IMPROVING' else '→')
+
+        if current_level == 'VERY GOOD':
+            next_level = 'GOOD'
+            next_date  = pred_to_good
+        elif current_level == 'GOOD':
+            next_level = 'AVERAGE'
+            next_date  = pred_to_average
+        elif current_level == 'AVERAGE':
+            next_level = 'CRITICAL'
+            next_date  = pred_to_critical
+        else:
+            next_level = None
+            next_date  = None
+
+        if current_level == 'CRITICAL':
+            forecast_str = 'CRITICAL ↘ Хурцадмал'
+        elif near_critical:
+            forecast_str = f"{current_level} ↘ Аль хэдийн CRITICAL орчимд байна"
+        elif next_level and next_date and next_date not in (
+                'Сайжирч байна', 'Доошилж эхэлсэн', '1 жилд буурахгүй',
+                'Муу', 'Одоогийн түвшин', 'Хурцадмал', 'Өгөгдөл хүрэлцэхгүй'):
+            forecast_str = f"{current_level} {trend_arrow} {next_level} ({next_date})"
+        elif trend in ('IMPROVING', 'STABLE'):
+            forecast_str = f"{current_level} {trend_arrow} Хэвийн"
+        else:
+            forecast_str = f"{current_level} {trend_arrow} {next_date or '—'}"
+
+        last_30_weak  = df[df['start_time'] >= cutoff_date]['weak_group'].value_counts()
         dominant_weak = last_30_weak.index[0] if len(last_30_weak) > 0 else 'unknown'
 
         results.append({
-            'ip address'              : ip,
-            'battery change date'     : battery_change_date.strftime('%Y-%m-%d %H:%M:%S'),
-            'baseline'                : round(baseline, 2),
-            'slope(30d median)'       : round(slope_30, 2),
-            'drop percent'            : drop_percent,
-            'drop_level'              : drop_level,
-            'last duration_min'       : last_duration,
-            'last_start_time'         : last_start_time,
-            'last_stop_cause'         : last_stop_cause,
+            'ip address'               : ip,
+            'battery change date'      : battery_change_date.strftime('%Y-%m-%d'),
+            'baseline'                 : round(baseline, 2),
+            'slope(30d median)'        : round(slope_30, 2),
+            'drop percent'             : drop_percent,
+            'last start date'          : last_start_date,
+            'last duration_min'        : last_duration,
+            'last stop cause'          : last_stop_cause,
             'critical degrading stable': status,
-            # Duration level & prediction
-            'current_level'           : current_level,
-            'trend'                   : trend,
-            'wlr_slope(min/cycle)'    : wlr_slope if wlr_slope is not None else 'N/A',
-            'avg_days/cycle'          : avg_days_cycle if avg_days_cycle is not None else 'N/A',
-            'pred_date→GOOD'          : pred_to_good,
-            'pred_date→AVERAGE'       : pred_to_average,
-            'pred_date→CRITICAL'      : pred_to_critical,
-            # Min duration
-            'min_duration_min'        : min_duration,
-            'min_duration_date'       : min_date,
-            'min_duration_stop_cause' : min_stop,
-            # Group
-            'last_weak_group'         : last_row['weak_group'],
-            'dominant_weak_30d'       : dominant_weak,
+            'status & forecast'        : forecast_str,
+            '_drop_level'              : drop_level,
         })
 
         print(f" ✓ {filename} → {ip} | {current_level} | {trend} | drop: {drop_percent}%")
@@ -308,95 +300,73 @@ for filename in all_files:
     except Exception as e:
         print(f" ✗ {filename} алдаа: {e}")
 
-# ─────────────────────────────────────────
-# EXCEL ГАРГАХ
-# ─────────────────────────────────────────
 if not results:
     print("Ямар ч файл боловсруулж чадсангүй!")
 else:
     output_df = pd.DataFrame(results)
 
-    # critical → degrading → stable эрэмбэлэх
     status_order = {'critical': 0, 'degrading': 1, 'stable': 2}
     output_df['_sort'] = output_df['critical degrading stable'].map(status_order)
     output_df = output_df.sort_values('_sort').drop(columns='_sort').reset_index(drop=True)
+
+    drop_level_map = output_df['_drop_level'].tolist()
+    output_df = output_df.drop(columns=['_drop_level'])
 
     output_df.to_excel(OUTPUT_FILE, index=False)
 
     wb = load_workbook(OUTPUT_FILE)
     ws = wb.active
 
-    # Баганын map
     col_map = {}
     for c in range(1, ws.max_column + 1):
         col_map[ws.cell(1, c).value] = c
 
-    # Өнгөний тодорхойлолт
     red    = PatternFill(start_color='FF4444', end_color='FF4444', fill_type='solid')
     orange = PatternFill(start_color='FFA500', end_color='FFA500', fill_type='solid')
     yellow = PatternFill(start_color='FFD700', end_color='FFD700', fill_type='solid')
     green  = PatternFill(start_color='00CC66', end_color='00CC66', fill_type='solid')
-    blue   = PatternFill(start_color='4FC3F7', end_color='4FC3F7', fill_type='solid')
     gray   = PatternFill(start_color='CCCCCC', end_color='CCCCCC', fill_type='solid')
 
-    for row in range(2, ws.max_row + 1):
+    for i, row in enumerate(range(2, ws.max_row + 1)):
 
-        # critical degrading stable
         if 'critical degrading stable' in col_map:
             val = ws.cell(row, col_map['critical degrading stable']).value
-            if val == 'critical':   ws.cell(row, col_map['critical degrading stable']).fill = red
-            elif val == 'degrading':ws.cell(row, col_map['critical degrading stable']).fill = orange
-            elif val == 'stable':   ws.cell(row, col_map['critical degrading stable']).fill = green
+            if val == 'critical':    ws.cell(row, col_map['critical degrading stable']).fill = red
+            elif val == 'degrading': ws.cell(row, col_map['critical degrading stable']).fill = orange
+            elif val == 'stable':    ws.cell(row, col_map['critical degrading stable']).fill = green
 
-        # drop_level
-        if 'drop_level' in col_map:
-            val = ws.cell(row, col_map['drop_level']).value
-            if val == 'STRONG':   ws.cell(row, col_map['drop_level']).fill = orange
-            elif val == 'CRITICAL':ws.cell(row, col_map['drop_level']).fill = red
-            elif val == 'NORMAL': ws.cell(row, col_map['drop_level']).fill = green
+        if 'drop percent' in col_map:
+            dl = drop_level_map[i]
+            if dl == 'CRITICAL': ws.cell(row, col_map['drop percent']).fill = red
+            elif dl == 'STRONG': ws.cell(row, col_map['drop percent']).fill = orange
+            else:                ws.cell(row, col_map['drop percent']).fill = green
 
-        # current_level
-        if 'current_level' in col_map:
-            val = ws.cell(row, col_map['current_level']).value
-            if val == 'CRITICAL':  ws.cell(row, col_map['current_level']).fill = red
-            elif val == 'AVERAGE': ws.cell(row, col_map['current_level']).fill = orange
-            elif val == 'GOOD':    ws.cell(row, col_map['current_level']).fill = yellow
-            elif val == 'VERY GOOD':ws.cell(row, col_map['current_level']).fill = green
+        if 'status & forecast' in col_map:
+            val = ws.cell(row, col_map['status & forecast']).value or ''
+            if val.startswith('CRITICAL') or 'CRITICAL орчимд' in val:
+                ws.cell(row, col_map['status & forecast']).fill = red
+            elif val.startswith('AVERAGE'):   ws.cell(row, col_map['status & forecast']).fill = orange
+            elif val.startswith('GOOD'):      ws.cell(row, col_map['status & forecast']).fill = yellow
+            elif val.startswith('VERY GOOD'): ws.cell(row, col_map['status & forecast']).fill = green
 
-        # trend
-        if 'trend' in col_map:
-            val = ws.cell(row, col_map['trend']).value
-            if val == 'DECLINING':   ws.cell(row, col_map['trend']).fill = red
-            elif val == 'STABLE':    ws.cell(row, col_map['trend']).fill = yellow
-            elif val == 'IMPROVING': ws.cell(row, col_map['trend']).fill = green
-
-        # weak_group өнгө
-        for col_name in ['last_weak_group', 'dominant_weak_30d']:
+        for col_name in ['last weak group', 'dominant weak 30d']:
             if col_name in col_map:
                 val = ws.cell(row, col_map[col_name]).value
-                if val == 'group1':          ws.cell(row, col_map[col_name]).fill = orange
-                elif val == 'group2':        ws.cell(row, col_map[col_name]).fill = yellow
-                elif val == 'equal':         ws.cell(row, col_map[col_name]).fill = red
+                if val == 'group1':                    ws.cell(row, col_map[col_name]).fill = orange
+                elif val == 'group2':                  ws.cell(row, col_map[col_name]).fill = yellow
+                elif val == 'equal':                   ws.cell(row, col_map[col_name]).fill = red
                 elif val and val.startswith('single'): ws.cell(row, col_map[col_name]).fill = gray
 
-    # Header
     header_fill = PatternFill(start_color='1F3864', end_color='1F3864', fill_type='solid')
     header_font = Font(color='FFFFFF', bold=True)
     for c in range(1, ws.max_column + 1):
         ws.cell(1, c).fill = header_fill
         ws.cell(1, c).font = header_font
         ws.cell(1, c).alignment = Alignment(horizontal='center', wrap_text=True)
-        ws.column_dimensions[get_column_letter(c)].width = 22
+        ws.column_dimensions[get_column_letter(c)].width = 24
 
     ws.row_dimensions[1].height = 35
     wb.save(OUTPUT_FILE)
 
     print(f"\n{'='*55}")
     print(f"ДУУСЛАА: {len(results)} IP → {OUTPUT_FILE}")
-    print(f"\nНэмэгдсэн баганууд:")
-    print(f"  current_level          → CRITICAL / AVERAGE / GOOD / VERY GOOD")
-    print(f"  trend                  → IMPROVING / STABLE / DECLINING")
-    print(f"  wlr_slope(min/cycle)   → Weighted regression slope")
-    print(f"  pred_date→GOOD/AVERAGE/CRITICAL → Хэзээ level буурах")
-    print(f"  min_duration_min/date/stop_cause → Хамгийн бага cycle")
-    print(f"  last_weak_group / dominant_weak_30d → Battery group анализ")

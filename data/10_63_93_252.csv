@@ -1,0 +1,39 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+200453,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,38,2026-03-09T19:00:02,2026-03-09T20:22:11,Scheduled test,Low capacity,Test normal,47.2,-25.3,34.6,14.0,VRLA12v_LeadAcid
+144140,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,37,2026-03-06T19:00:03,2026-03-06T20:19:19,Scheduled test,Low capacity,Test normal,47.2,-24.9,32.9,10.0,VRLA12v_LeadAcid
+16903,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,1,2026-03-02T19:00:01,2026-03-02T20:12:21,Scheduled test,Low capacity,Test normal,47.4,-26.9,32.3,9.0,VRLA12v_LeadAcid
+16904,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,2,2026-02-27T19:00:02,2026-02-27T20:12:52,Scheduled test,Low capacity,Test normal,47.5,-26.5,32.2,8.0,VRLA12v_LeadAcid
+16905,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,3,2026-02-24T19:00:02,2026-02-24T20:09:45,Scheduled test,Low capacity,Test normal,47.1,-27.9,32.4,9.0,VRLA12v_LeadAcid
+16906,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,4,2026-02-21T19:00:03,2026-02-21T20:21:28,Scheduled test,Low capacity,Test normal,47.4,-24.7,33.5,11.0,VRLA12v_LeadAcid
+16907,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,5,2026-02-18T19:00:03,2026-02-18T20:15:28,Scheduled test,Low capacity,Test normal,47.7,-25.5,32.1,8.0,VRLA12v_LeadAcid
+16908,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,6,2026-02-15T19:00:03,2026-02-15T20:17:08,Scheduled test,Low capacity,Test normal,47.2,-26.7,34.3,8.0,VRLA12v_LeadAcid
+16909,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,7,2026-02-10T19:00:03,2026-02-10T20:21:20,Scheduled test,Low capacity,Test normal,47.3,-26.7,36.1,6.0,VRLA12v_LeadAcid
+16910,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,8,2025-12-18T19:00:03,2025-12-18T20:13:48,Scheduled test,Low capacity,Test normal,47.5,-26.3,32.2,6.0,VRLA12v_LeadAcid
+16911,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,9,2025-12-11T19:00:03,2025-12-11T20:15:48,Scheduled test,Low capacity,Test normal,47.6,-26.6,33.6,7.0,VRLA12v_LeadAcid
+16912,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,10,2025-12-08T19:00:03,2025-12-08T20:19:51,Scheduled test,Low capacity,Test normal,47.6,-26.2,34.9,8.0,VRLA12v_LeadAcid
+16913,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,11,2025-12-05T19:00:03,2025-12-05T20:22:39,Scheduled test,Low capacity,Test normal,47.5,-26.1,35.9,8.0,VRLA12v_LeadAcid
+16914,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,12,2025-12-02T19:00:02,2025-12-02T20:25:38,Scheduled test,Low capacity,Test normal,47.3,-26.7,38.1,7.0,VRLA12v_LeadAcid
+16915,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,13,2025-11-29T19:00:02,2025-11-29T20:33:28,Scheduled test,Low capacity,Test normal,47.5,-27.3,42.4,10.0,VRLA12v_LeadAcid
+16916,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,14,2025-11-26T19:00:02,2025-11-26T20:49:04,Scheduled test,Low capacity,Test normal,46.5,-26.7,48.6,10.0,VRLA12v_LeadAcid
+16917,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,15,2025-11-23T19:00:02,2025-11-23T20:57:57,Scheduled test,Low capacity,Test normal,46.8,-26.8,52.7,11.0,VRLA12v_LeadAcid
+16918,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,16,2025-11-20T19:00:02,2025-11-20T21:07:50,Scheduled test,Low capacity,Test normal,47.0,-26.4,56.2,11.0,VRLA12v_LeadAcid
+16919,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,17,2025-11-17T19:00:03,2025-11-17T21:13:26,Scheduled test,Low capacity,Test normal,46.8,-26.9,59.7,10.0,VRLA12v_LeadAcid
+16920,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,18,2025-11-14T19:00:03,2025-11-14T21:28:42,Scheduled test,Low capacity,Test normal,46.4,-27.3,67.7,13.0,VRLA12v_LeadAcid
+16921,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,19,2025-11-11T19:00:02,2025-11-11T21:27:21,Scheduled test,Low capacity,Test normal,46.0,-27.9,68.4,6.0,VRLA12v_LeadAcid
+16922,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,20,2025-11-08T19:00:03,2025-11-08T21:46:23,Scheduled test,Low capacity,Test normal,46.2,-26.1,72.4,10.0,VRLA12v_LeadAcid
+16923,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,21,2025-11-05T19:00:03,2025-11-05T21:42:31,Scheduled test,Low capacity,Test normal,46.7,-27.8,75.1,18.0,VRLA12v_LeadAcid
+16924,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,22,2025-11-02T19:00:03,2025-11-02T21:49:05,Scheduled test,Low capacity,Test normal,46.9,-27.2,76.4,20.0,VRLA12v_LeadAcid
+16925,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,23,2025-10-29T19:00:02,2025-10-29T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-27.6,82.8,19.0,VRLA12v_LeadAcid
+16926,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,24,2025-10-26T19:00:02,2025-10-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.0,-25.8,77.4,17.0,VRLA12v_LeadAcid
+16927,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,25,2025-10-23T19:00:02,2025-10-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.6,-26.8,80.4,15.0,VRLA12v_LeadAcid
+16928,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,26,2025-10-20T19:00:02,2025-10-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.8,-27.4,82.3,15.0,VRLA12v_LeadAcid
+16929,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,27,2025-10-17T19:00:02,2025-10-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-25.9,77.8,17.0,VRLA12v_LeadAcid
+16930,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,28,2025-10-13T19:00:03,2025-10-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-25.6,76.8,21.0,VRLA12v_LeadAcid
+16931,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,29,2025-10-10T19:00:03,2025-10-10T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-25.3,76.0,21.0,VRLA12v_LeadAcid
+16932,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,30,2025-10-07T19:00:03,2025-10-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-26.6,79.9,22.0,VRLA12v_LeadAcid
+16933,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,31,2025-10-04T19:00:02,2025-10-04T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.6,-27.1,81.4,21.0,VRLA12v_LeadAcid
+16934,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,32,2025-10-01T19:00:03,2025-10-01T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-26.4,79.2,20.0,VRLA12v_LeadAcid
+16935,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,33,2025-09-28T19:00:02,2025-09-28T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-26.6,80.0,21.0,VRLA12v_LeadAcid
+16936,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,34,2025-09-25T19:00:02,2025-09-25T19:38:35,Scheduled test,Fault alarm,Abnormal end,50.3,-24.6,15.8,20.0,VRLA12v_LeadAcid
+16937,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,35,2025-09-22T19:00:02,2025-09-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.9,-26.4,79.2,21.0,VRLA12v_LeadAcid
+16938,10.63.93.252,UMG.MandalOvoo_Holboo_ID150,36,2025-09-19T19:00:03,2025-09-19T19:08:35,Scheduled test,Fault alarm,Abnormal end,50.4,-23.6,3.4,20.0,VRLA12v_LeadAcid

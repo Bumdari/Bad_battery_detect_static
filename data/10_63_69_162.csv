@@ -1,0 +1,38 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+197144,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,37,2026-03-09T09:52:04,2026-03-09T09:57:07,Short test,Exceeded time limit,Test normal,49.1,-70.9,5.9,-2.0,VRLA12v_LeadAcid
+13742,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,1,2026-02-07T07:30:41,2026-02-07T07:35:44,Short test,Exceeded time limit,Test normal,49.1,-54.8,4.6,-21.0,VRLA12v_LeadAcid
+13743,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,2,2026-01-08T05:11:48,2026-01-08T05:16:50,Short test,Exceeded time limit,Test normal,48.7,-44.5,3.7,-13.0,VRLA12v_LeadAcid
+13744,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,3,2025-12-09T02:51:58,2025-12-09T02:57:01,Short test,Exceeded time limit,Test normal,48.9,-44.2,3.7,-16.0,VRLA12v_LeadAcid
+13745,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,4,2025-11-09T00:31:17,2025-11-09T00:36:19,Short test,Exceeded time limit,Test normal,49.5,-50.5,4.2,-7.0,VRLA12v_LeadAcid
+13746,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,5,2025-11-06T19:00:02,2025-11-06T19:14:32,Scheduled test,Low voltage,Battery alm,45.8,-75.9,18.3,6.0,VRLA12v_LeadAcid
+13747,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,6,2025-11-01T19:00:43,2025-11-01T19:01:11,Scheduled test,Low temperature,Abnormal end,48.8,-54.9,0.4,5.0,VRLA12v_LeadAcid
+13748,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,7,2025-10-11T19:00:00,2025-10-11T19:19:48,Scheduled test,Low voltage,Battery alm,45.3,-72.7,23.9,9.0,VRLA12v_LeadAcid
+13749,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,8,2025-10-09T22:10:39,2025-10-09T22:15:42,Short test,Exceeded time limit,Test normal,49.6,-67.1,5.6,8.0,VRLA12v_LeadAcid
+13750,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,9,2025-10-08T19:00:00,2025-10-08T19:17:24,Scheduled test,Low voltage,Battery alm,46.0,-84.3,24.4,8.0,VRLA12v_LeadAcid
+13751,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,10,2025-10-05T19:00:02,2025-10-05T19:19:48,Scheduled test,Low voltage,Battery alm,45.8,-76.5,25.1,11.0,VRLA12v_LeadAcid
+13752,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,11,2025-10-02T19:00:00,2025-10-02T19:18:38,Scheduled test,Low voltage,Battery alm,45.9,-78.2,24.2,22.0,VRLA12v_LeadAcid
+13753,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,12,2025-09-29T19:00:03,2025-09-29T19:16:29,Scheduled test,Low voltage,Battery alm,45.3,-76.9,21.0,17.0,VRLA12v_LeadAcid
+13754,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,13,2025-09-26T19:00:01,2025-09-26T19:18:21,Scheduled test,Low voltage,Battery alm,45.4,-77.0,23.5,17.0,VRLA12v_LeadAcid
+13755,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,14,2025-09-23T19:00:00,2025-09-23T19:17:25,Scheduled test,Low voltage,Battery alm,45.4,-83.2,24.1,11.0,VRLA12v_LeadAcid
+13756,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,15,2025-09-20T19:00:01,2025-09-20T19:21:31,Scheduled test,Low voltage,Battery alm,45.4,-71.8,25.6,18.0,VRLA12v_LeadAcid
+13757,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,16,2025-09-17T19:00:01,2025-09-17T19:19:19,Scheduled test,Low voltage,Battery alm,45.8,-80.5,25.8,13.0,VRLA12v_LeadAcid
+13758,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,17,2025-09-14T19:00:01,2025-09-14T19:25:04,Scheduled test,Low voltage,Battery alm,45.6,-73.8,30.7,13.0,VRLA12v_LeadAcid
+13759,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,18,2025-09-11T19:00:03,2025-09-11T19:16:19,Scheduled test,Low voltage,Battery alm,45.6,-78.3,21.1,13.0,VRLA12v_LeadAcid
+13760,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,19,2025-09-08T19:00:03,2025-09-08T19:16:12,Scheduled test,Low voltage,Battery alm,45.6,-78.1,21.0,13.0,VRLA12v_LeadAcid
+13761,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,20,2025-09-05T19:00:01,2025-09-05T19:20:19,Scheduled test,Low voltage,Battery alm,45.6,-74.4,25.1,14.0,VRLA12v_LeadAcid
+13762,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,21,2025-09-02T19:00:02,2025-09-02T19:18:59,Scheduled test,Low voltage,Battery alm,45.9,-75.1,23.6,17.0,VRLA12v_LeadAcid
+13763,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,22,2025-08-30T19:00:01,2025-08-30T19:22:44,Scheduled test,Low voltage,Battery alm,45.4,-68.9,26.0,16.0,VRLA12v_LeadAcid
+13764,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,23,2025-08-27T19:00:01,2025-08-27T19:23:06,Scheduled test,Low voltage,Battery alm,45.3,-72.0,27.6,19.0,VRLA12v_LeadAcid
+13765,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,24,2025-08-25T07:26:57,2025-08-25T07:32:01,Short test,Exceeded time limit,Test normal,50.0,-61.2,5.1,15.0,VRLA12v_LeadAcid
+13766,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,25,2025-08-24T19:00:00,2025-08-24T19:22:14,Scheduled test,Low voltage,Battery alm,45.4,-77.4,28.6,22.0,VRLA12v_LeadAcid
+13767,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,26,2025-08-21T19:00:01,2025-08-21T19:23:44,Scheduled test,Low voltage,Battery alm,45.6,-79.7,31.4,15.0,VRLA12v_LeadAcid
+13768,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,27,2025-08-18T19:00:02,2025-08-18T19:29:12,Scheduled test,Low voltage,Battery alm,45.5,-72.0,34.9,21.0,VRLA12v_LeadAcid
+13769,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,28,2025-08-15T19:00:01,2025-08-15T19:33:25,Scheduled test,Low voltage,Battery alm,45.1,-72.4,40.2,20.0,VRLA12v_LeadAcid
+13770,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,29,2025-08-12T19:00:01,2025-08-12T19:34:00,Scheduled test,Low voltage,Battery alm,46.0,-75.6,42.7,18.0,VRLA12v_LeadAcid
+13771,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,30,2025-08-09T19:00:01,2025-08-09T19:45:10,Scheduled test,Low voltage,Battery alm,45.9,-67.6,50.7,21.0,VRLA12v_LeadAcid
+13772,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,31,2025-08-06T19:00:00,2025-08-06T19:40:28,Scheduled test,Low voltage,Battery alm,45.7,-75.0,50.4,23.0,VRLA12v_LeadAcid
+13773,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,32,2025-08-03T19:00:01,2025-08-03T19:44:44,Scheduled test,Low voltage,Battery alm,45.6,-69.0,51.2,23.0,VRLA12v_LeadAcid
+13774,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,33,2025-07-31T19:00:00,2025-07-31T19:46:31,Scheduled test,Low voltage,Battery alm,46.0,-72.5,56.0,22.0,VRLA12v_LeadAcid
+13775,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,34,2025-07-28T19:00:00,2025-07-28T19:49:36,Scheduled test,Low voltage,Battery alm,45.9,-72.4,59.7,20.0,VRLA12v_LeadAcid
+13776,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,35,2025-07-26T05:03:33,2025-07-26T05:08:36,Short test,Exceeded time limit,Test normal,50.6,-41.0,3.4,17.0,VRLA12v_LeadAcid
+13777,10.63.69.162,HUD._UildveriinGudamj9Abair_R1_ULN,36,2025-07-25T19:00:00,2025-07-25T19:54:30,Scheduled test,Low voltage,Battery alm,45.4,-71.2,64.4,22.0,VRLA12v_LeadAcid

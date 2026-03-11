@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+216316,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,39,2026-03-10T19:00:00,2026-03-10T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.4,-22.5,67.6,29.0,ESMU_Lithium
+159633,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,38,2026-03-07T19:00:00,2026-03-07T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.1,-25.3,75.9,24.0,ESMU_Lithium
+104309,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,37,2026-03-04T19:00:00,2026-03-04T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-25.3,75.9,16.0,ESMU_Lithium
+13850,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,1,2026-03-01T19:00:00,2026-03-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-23.6,70.9,18.0,ESMU_Lithium
+13851,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,2,2026-02-26T19:00:01,2026-02-26T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-22.6,67.8,14.0,ESMU_Lithium
+13852,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,3,2026-02-23T19:00:00,2026-02-23T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-23.2,69.5,16.0,ESMU_Lithium
+13853,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,4,2026-02-20T19:00:01,2026-02-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-26.6,79.9,21.0,ESMU_Lithium
+13854,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,5,2026-02-17T19:00:01,2026-02-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-24.4,73.1,23.0,ESMU_Lithium
+13855,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,6,2026-02-14T19:00:01,2026-02-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-25.0,75.0,13.0,ESMU_Lithium
+13856,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,7,2026-02-11T19:00:00,2026-02-11T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.3,-22.1,66.3,23.0,ESMU_Lithium
+13857,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,8,2026-02-08T19:00:01,2026-02-08T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-22.3,67.0,25.0,ESMU_Lithium
+13858,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,9,2026-02-05T19:00:01,2026-02-05T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-22.8,68.5,14.0,ESMU_Lithium
+13859,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,10,2026-02-02T19:00:00,2026-02-02T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.4,-21.8,65.5,25.0,ESMU_Lithium
+13860,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,11,2026-01-30T19:00:01,2026-01-30T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-22.7,68.2,18.0,ESMU_Lithium
+13861,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,12,2026-01-27T19:00:01,2026-01-27T20:05:04,Scheduled test,Fault alarm,Abnormal end,49.4,-20.5,22.2,18.0,ESMU_Lithium
+13862,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,13,2026-01-24T19:00:01,2026-01-24T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-25.6,76.9,16.0,ESMU_Lithium
+13863,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,14,2026-01-21T19:00:01,2026-01-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-22.9,68.7,15.0,ESMU_Lithium
+13864,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,15,2026-01-18T19:00:01,2026-01-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-25.0,75.1,14.0,ESMU_Lithium
+13865,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,16,2026-01-15T19:00:00,2026-01-15T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-24.1,72.2,14.0,ESMU_Lithium
+13866,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,17,2026-01-12T19:00:01,2026-01-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-24.9,74.8,17.0,ESMU_Lithium
+13867,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,18,2026-01-09T19:00:01,2026-01-09T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-27.7,83.1,15.0,ESMU_Lithium
+13868,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,19,2026-01-06T19:00:00,2026-01-06T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-26.5,79.6,18.0,ESMU_Lithium
+13869,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,20,2026-01-03T19:00:00,2026-01-03T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-28.8,86.4,15.0,ESMU_Lithium
+13870,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,21,2025-12-31T19:00:00,2025-12-31T20:01:49,Scheduled test,Fault alarm,Abnormal end,49.3,-28.6,29.4,18.0,ESMU_Lithium
+13871,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,22,2025-12-28T19:00:01,2025-12-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-26.4,79.1,17.0,ESMU_Lithium
+13872,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,23,2025-12-24T19:00:01,2025-12-24T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-26.0,78.0,15.0,ESMU_Lithium
+13873,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,24,2025-12-21T19:00:01,2025-12-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-26.0,78.0,17.0,ESMU_Lithium
+13874,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,25,2025-12-18T19:00:00,2025-12-18T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-25.0,75.1,18.0,ESMU_Lithium
+13875,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,26,2025-12-15T19:00:00,2025-12-15T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-25.3,75.8,20.0,ESMU_Lithium
+13876,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,27,2025-12-12T19:00:01,2025-12-12T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-23.8,71.4,14.0,ESMU_Lithium
+13877,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,28,2025-12-09T19:00:01,2025-12-09T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-24.6,73.8,16.0,ESMU_Lithium
+13878,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,29,2025-12-06T19:00:01,2025-12-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-28.1,84.4,18.0,ESMU_Lithium
+13879,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,30,2025-12-03T19:00:01,2025-12-03T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-24.0,72.0,16.0,ESMU_Lithium
+13880,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,31,2025-11-30T19:00:02,2025-11-30T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-24.1,72.4,14.0,ESMU_Lithium
+13881,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,32,2025-11-27T19:00:01,2025-11-27T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-23.2,69.5,21.0,ESMU_Lithium
+13882,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,33,2025-11-24T19:00:00,2025-11-24T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.9,-24.6,73.8,17.0,ESMU_Lithium
+13883,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,34,2025-11-21T19:00:01,2025-11-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-28.1,84.2,25.0,ESMU_Lithium
+13884,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,35,2025-11-18T19:00:01,2025-11-18T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-24.2,72.5,25.0,ESMU_Lithium
+13885,10.63.70.104,SHD._22hor_BayangoliinAm_SMP22_ULN,36,2025-11-15T19:00:01,2025-11-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-26.2,78.7,14.0,ESMU_Lithium

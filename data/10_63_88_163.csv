@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+16106,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,1,2026-02-06T19:00:01,2026-02-06T19:03:50,Timed Self-Check,Low temperature,Abnormal end,49.9,-46.7,3.0,5.0,VRLA12v_LeadAcid
+16107,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,2,2026-02-02T19:00:24,2026-02-02T19:04:06,Timed Self-Check,Low temperature,Abnormal end,50.0,-47.5,2.9,5.0,VRLA12v_LeadAcid
+16108,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,3,2026-01-26T19:00:03,2026-01-26T19:03:47,Timed Self-Check,Low temperature,Abnormal end,50.0,-55.5,3.5,5.0,VRLA12v_LeadAcid
+16109,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,4,2026-01-19T19:00:02,2026-01-19T19:18:28,Timed Self-Check,Low temperature,Abnormal end,49.9,-54.7,16.8,5.0,VRLA12v_LeadAcid
+16110,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,5,2026-01-16T19:00:02,2026-01-16T19:42:14,Timed Self-Check,Low temperature,Abnormal end,50.0,-55.3,38.8,5.0,VRLA12v_LeadAcid
+16111,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,6,2026-01-13T19:00:03,2026-01-13T19:04:44,Timed Self-Check,Low temperature,Abnormal end,49.7,-55.5,4.3,5.0,VRLA12v_LeadAcid
+16112,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,7,2026-01-10T19:00:03,2026-01-10T19:14:43,Timed Self-Check,Low temperature,Abnormal end,50.1,-56.4,13.8,5.0,VRLA12v_LeadAcid
+16113,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,8,2026-01-07T19:00:02,2026-01-07T19:03:24,Timed Self-Check,Low temperature,Abnormal end,49.5,-59.8,3.4,5.0,VRLA12v_LeadAcid
+16114,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,9,2026-01-03T19:00:02,2026-01-03T19:03:57,Timed Self-Check,Low temperature,Abnormal end,49.6,-54.9,3.6,5.0,VRLA12v_LeadAcid
+16115,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,10,2025-12-29T19:00:02,2025-12-29T19:10:48,Timed Self-Check,Low temperature,Abnormal end,50.2,-56.4,10.1,5.0,VRLA12v_LeadAcid
+16116,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,11,2025-12-25T19:00:02,2025-12-25T19:08:21,Timed Self-Check,Low temperature,Abnormal end,50.1,-56.0,7.7,5.0,VRLA12v_LeadAcid
+16117,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,12,2025-12-22T19:00:02,2025-12-22T19:07:53,Timed Self-Check,Low temperature,Abnormal end,50.1,-57.0,7.4,5.0,VRLA12v_LeadAcid
+16118,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,13,2025-12-08T19:00:03,2025-12-08T19:02:03,Timed Self-Check,Low temperature,Abnormal end,50.3,-45.9,1.5,5.0,VRLA12v_LeadAcid
+16119,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,14,2025-11-24T19:00:03,2025-11-24T19:06:23,Timed Self-Check,Low temperature,Abnormal end,50.2,-49.7,5.2,5.0,VRLA12v_LeadAcid
+16120,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,15,2025-11-19T19:00:02,2025-11-19T19:02:44,Timed Self-Check,Low temperature,Abnormal end,50.1,-46.0,2.1,5.0,VRLA12v_LeadAcid
+16121,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,16,2025-10-11T19:00:02,2025-10-11T21:42:55,Timed Self-Check,Low Capacity,Test Result Normal,47.0,-50.4,136.5,6.0,VRLA12v_LeadAcid
+16122,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,17,2025-10-08T19:00:02,2025-10-08T20:09:36,Timed Self-Check,Low temperature,Abnormal end,50.3,-49.7,57.5,5.0,VRLA12v_LeadAcid
+16123,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,18,2025-10-05T19:00:03,2025-10-05T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,47.5,-49.1,147.4,5.0,VRLA12v_LeadAcid
+16124,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,19,2025-10-02T19:00:02,2025-10-02T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,47.0,-52.3,157.0,15.0,VRLA12v_LeadAcid
+16125,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,20,2025-09-29T19:00:03,2025-09-29T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,47.1,-51.4,154.2,11.0,VRLA12v_LeadAcid
+16126,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,21,2025-09-26T19:00:02,2025-09-26T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,47.4,-52.1,156.5,12.0,VRLA12v_LeadAcid
+16127,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,22,2025-09-23T19:00:02,2025-09-23T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,46.6,-52.6,157.7,9.0,VRLA12v_LeadAcid
+16128,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,23,2025-09-20T19:00:02,2025-09-20T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,47.1,-51.4,154.2,14.0,VRLA12v_LeadAcid
+16129,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,24,2025-09-17T19:00:03,2025-09-17T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,47.5,-51.2,153.5,8.0,VRLA12v_LeadAcid
+16130,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,25,2025-09-14T19:00:02,2025-09-14T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,47.6,-50.8,152.3,9.0,VRLA12v_LeadAcid
+16131,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,26,2025-09-11T19:00:03,2025-09-11T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,47.9,-50.5,151.6,10.0,VRLA12v_LeadAcid
+16132,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,27,2025-09-08T19:00:02,2025-09-08T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.0,-52.2,156.5,10.0,VRLA12v_LeadAcid
+16133,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,28,2025-09-05T19:00:03,2025-09-05T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,48.3,-50.9,152.6,10.0,VRLA12v_LeadAcid
+16134,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,29,2025-09-02T19:00:03,2025-09-02T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.4,-51.9,155.6,14.0,VRLA12v_LeadAcid
+16135,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,30,2025-08-30T19:00:03,2025-08-30T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,48.1,-54.1,162.5,14.0,VRLA12v_LeadAcid
+16136,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,31,2025-08-27T19:00:02,2025-08-27T22:00:24,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-52.1,156.3,16.0,VRLA12v_LeadAcid
+16137,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,32,2025-08-24T19:00:03,2025-08-24T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,47.4,-59.0,177.1,16.0,VRLA12v_LeadAcid
+16138,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,33,2025-08-21T19:00:03,2025-08-21T22:00:26,Timed Self-Check,Exceeded time limit,Test Result Normal,47.9,-52.1,156.2,12.0,VRLA12v_LeadAcid
+16139,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,34,2025-08-18T19:00:03,2025-08-18T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.1,-51.6,155.0,16.0,VRLA12v_LeadAcid
+16140,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,35,2025-08-15T19:00:02,2025-08-15T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.5,-51.5,154.5,17.0,VRLA12v_LeadAcid
+16141,10.63.88.163,HUD._1hor_RapidTown8bair_ISS100_ULN,36,2025-08-12T19:00:02,2025-08-12T22:00:25,Timed Self-Check,Exceeded time limit,Test Result Normal,48.3,-52.6,157.8,13.0,VRLA12v_LeadAcid

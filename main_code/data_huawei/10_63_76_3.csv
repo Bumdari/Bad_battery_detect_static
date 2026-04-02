@@ -1,0 +1,42 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+651643,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,41,2026-03-30T19:00:02,2026-03-30T20:03:17,Scheduled test,Low capacity,Test normal,46.7,-113.7,119.5,14.0,VRLA12v_LeadAcid
+541484,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,40,2026-03-25T19:00:01,2026-03-25T19:56:10,Scheduled test,Low capacity,Test normal,47.0,-114.7,107.0,9.0,VRLA12v_LeadAcid
+477578,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,39,2026-03-22T19:00:00,2026-03-22T19:56:34,Scheduled test,Low capacity,Test normal,46.8,-114.9,108.0,11.0,VRLA12v_LeadAcid
+395170,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,38,2026-03-19T19:00:02,2026-03-19T19:52:54,Scheduled test,Low capacity,Test normal,46.4,-118.1,103.7,8.0,VRLA12v_LeadAcid
+198017,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,37,2026-03-09T19:00:01,2026-03-09T19:49:50,Scheduled test,Low capacity,Test normal,46.6,-131.3,108.7,8.0,VRLA12v_LeadAcid
+14581,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,1,2025-11-24T07:04:08,2025-11-24T07:09:11,Short test,Exceeded time limit,Test normal,48.3,-88.5,7.4,-10.0,VRLA12v_LeadAcid
+14582,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,2,2025-11-05T19:00:02,2025-11-05T19:42:15,Scheduled test,Low capacity,Test normal,46.8,-139.1,97.5,11.0,VRLA12v_LeadAcid
+14583,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,3,2025-11-02T19:00:00,2025-11-02T19:44:52,Scheduled test,Low capacity,Test normal,46.9,-134.2,100.0,13.0,VRLA12v_LeadAcid
+14584,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,4,2025-10-30T19:00:00,2025-10-30T19:45:35,Scheduled test,Low capacity,Test normal,47.1,-129.4,98.0,8.0,VRLA12v_LeadAcid
+14585,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,5,2025-10-27T19:00:02,2025-10-27T19:45:05,Scheduled test,Low capacity,Test normal,46.8,-130.0,97.3,9.0,VRLA12v_LeadAcid
+14586,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,6,2025-10-25T04:44:29,2025-10-25T04:49:31,Short test,Exceeded time limit,Test normal,50.0,-67.2,5.6,6.0,VRLA12v_LeadAcid
+14587,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,7,2025-10-24T19:00:00,2025-10-24T19:46:30,Scheduled test,Low capacity,Test normal,47.0,-126.6,97.9,6.0,VRLA12v_LeadAcid
+14588,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,8,2025-10-13T19:00:01,2025-10-13T19:44:10,Scheduled test,Low capacity,Test normal,46.8,-129.8,95.2,12.0,VRLA12v_LeadAcid
+14589,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,9,2025-10-09T19:00:00,2025-10-09T19:46:57,Scheduled test,Low capacity,Test normal,46.7,-127.7,99.6,16.0,VRLA12v_LeadAcid
+14590,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,10,2025-10-06T19:00:00,2025-10-06T19:43:24,Scheduled test,Low capacity,Test normal,46.6,-133.2,96.0,11.0,VRLA12v_LeadAcid
+14591,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,11,2025-10-03T19:00:01,2025-10-03T19:45:46,Scheduled test,Low capacity,Test normal,47.4,-129.6,98.5,18.0,VRLA12v_LeadAcid
+14592,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,12,2025-09-30T19:00:00,2025-09-30T19:46:39,Scheduled test,Low capacity,Test normal,47.0,-132.5,102.7,21.0,VRLA12v_LeadAcid
+14593,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,13,2025-09-27T19:00:01,2025-09-27T19:46:28,Scheduled test,Low capacity,Test normal,47.5,-130.6,100.8,22.0,VRLA12v_LeadAcid
+14594,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,14,2025-09-22T19:00:01,2025-09-22T19:47:31,Scheduled test,Low capacity,Test normal,47.1,-130.5,103.0,21.0,VRLA12v_LeadAcid
+14595,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,15,2025-09-19T19:00:01,2025-09-19T19:44:56,Scheduled test,Low capacity,Test normal,47.5,-129.4,96.6,20.0,VRLA12v_LeadAcid
+14596,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,16,2025-09-16T19:00:01,2025-09-16T19:45:34,Scheduled test,Low capacity,Test normal,47.2,-127.6,96.5,17.0,VRLA12v_LeadAcid
+14597,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,17,2025-09-13T19:00:00,2025-09-13T19:44:07,Scheduled test,Low capacity,Test normal,46.8,-132.8,97.4,18.0,VRLA12v_LeadAcid
+14598,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,18,2025-09-10T19:00:04,2025-09-10T19:44:05,Scheduled test,Low capacity,Test normal,47.2,-129.9,94.9,21.0,VRLA12v_LeadAcid
+14599,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,19,2025-09-07T19:00:01,2025-09-07T19:45:08,Scheduled test,Low capacity,Test normal,47.3,-128.3,96.2,19.0,VRLA12v_LeadAcid
+14600,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,20,2025-09-04T19:00:00,2025-09-04T19:46:13,Scheduled test,Low capacity,Test normal,47.3,-125.6,96.4,21.0,VRLA12v_LeadAcid
+14601,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,21,2025-09-02T07:01:59,2025-09-02T07:07:02,Short test,Exceeded time limit,Test normal,50.1,-92.2,7.7,23.0,VRLA12v_LeadAcid
+14602,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,22,2025-09-01T19:00:00,2025-09-01T19:50:48,Scheduled test,Low capacity,Test normal,47.2,-123.7,104.4,24.0,VRLA12v_LeadAcid
+14603,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,23,2025-08-29T19:00:01,2025-08-29T19:49:21,Scheduled test,Low capacity,Test normal,47.6,-120.2,98.6,22.0,VRLA12v_LeadAcid
+14604,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,24,2025-08-26T19:00:00,2025-08-26T19:55:56,Scheduled test,Low capacity,Test normal,47.1,-115.9,107.7,24.0,VRLA12v_LeadAcid
+14605,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,25,2025-08-23T19:00:01,2025-08-23T19:54:02,Scheduled test,Low capacity,Test normal,48.1,-116.3,104.4,24.0,VRLA12v_LeadAcid
+14606,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,26,2025-08-20T19:00:01,2025-08-20T19:46:47,Scheduled test,Low capacity,Test normal,47.3,-125.2,97.3,22.0,VRLA12v_LeadAcid
+14607,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,27,2025-08-17T19:00:01,2025-08-17T19:58:26,Scheduled test,Low capacity,Test normal,47.5,-112.4,109.1,24.0,VRLA12v_LeadAcid
+14608,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,28,2025-08-13T19:00:00,2025-08-13T19:57:05,Scheduled test,Low capacity,Test normal,47.4,-112.8,106.9,23.0,VRLA12v_LeadAcid
+14609,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,29,2025-08-10T19:00:01,2025-08-10T19:58:28,Scheduled test,Low capacity,Test normal,47.5,-112.2,109.0,24.0,VRLA12v_LeadAcid
+14610,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,30,2025-08-06T19:00:01,2025-08-06T19:58:18,Scheduled test,Low capacity,Test normal,47.6,-107.6,104.2,24.0,VRLA12v_LeadAcid
+14611,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,31,2025-08-03T19:00:01,2025-08-03T20:00:22,Scheduled test,Low capacity,Test normal,47.7,-111.0,111.3,25.0,VRLA12v_LeadAcid
+14612,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,32,2025-08-03T04:51:49,2025-08-03T04:56:52,Short test,Exceeded time limit,Test normal,50.0,-64.7,5.4,23.0,VRLA12v_LeadAcid
+14613,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,33,2025-07-31T19:00:00,2025-07-31T20:04:41,Scheduled test,Low capacity,Test normal,48.0,-103.5,111.3,25.0,VRLA12v_LeadAcid
+14614,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,34,2025-07-28T19:00:00,2025-07-28T19:58:38,Scheduled test,Low capacity,Test normal,48.0,-106.8,104.1,23.0,VRLA12v_LeadAcid
+14615,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,35,2025-07-25T19:00:01,2025-07-25T20:01:02,Scheduled test,Low capacity,Test normal,48.4,-105.0,106.5,27.0,VRLA12v_LeadAcid
+14616,10.63.76.3,BZD._5hor_AltanSanHothon_1bair_TPD_ULN,36,2025-07-22T19:00:01,2025-07-22T19:58:44,Scheduled test,Low capacity,Test normal,48.0,-109.2,106.5,24.0,VRLA12v_LeadAcid

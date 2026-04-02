@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+635294,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,39,2026-03-30T19:00:01,2026-03-30T20:59:38,Scheduled test,Low voltage,Test abnormal,45.7,-81.3,162.1,,UNKNOWN
+569078,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,38,2026-03-27T19:00:01,2026-03-27T20:50:25,Scheduled test,Low voltage,Test abnormal,45.8,-80.8,148.7,,UNKNOWN
+504317,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,37,2026-03-24T19:00:01,2026-03-24T20:42:11,Scheduled test,Low voltage,Test abnormal,46.0,-87.8,149.6,,UNKNOWN
+504281,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,1,2026-03-21T19:00:00,2026-03-21T20:54:50,Scheduled test,Low voltage,Test abnormal,45.7,-83.7,160.3,,UNKNOWN
+504282,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,2,2026-03-18T19:00:01,2026-03-18T19:25:53,Scheduled test,Fault alarm,No result,48.1,-80.9,34.9,,UNKNOWN
+504283,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,3,2026-03-15T19:00:01,2026-03-15T21:12:08,Scheduled test,Low capacity,Test normal,46.1,-81.4,179.2,,UNKNOWN
+504284,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,4,2026-03-12T03:51:46,2026-03-12T03:56:48,Short test,Exceeded time limit,No result,49.6,-60.1,5.0,,UNKNOWN
+504285,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,5,2026-03-11T19:00:00,2026-03-11T20:35:45,Scheduled test,Fault alarm,No result,47.0,-78.2,124.8,,UNKNOWN
+504286,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,6,2026-03-08T19:00:01,2026-03-08T20:52:12,Scheduled test,Low voltage,Test abnormal,46.0,-82.3,153.8,,UNKNOWN
+504287,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,7,2026-03-05T19:00:00,2026-03-05T20:25:46,Scheduled test,Fault alarm,No result,47.2,-77.6,111.0,,UNKNOWN
+504288,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,8,2026-03-02T19:00:00,2026-03-02T20:40:23,Scheduled test,Low voltage,Test abnormal,45.8,-81.3,135.9,,UNKNOWN
+504289,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,9,2026-02-27T19:00:01,2026-02-27T20:36:55,Scheduled test,Low voltage,Test abnormal,46.0,-79.0,127.6,,UNKNOWN
+504290,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,10,2026-02-24T19:00:00,2026-02-24T20:06:16,Scheduled test,Fault alarm,No result,47.9,-77.2,85.2,,UNKNOWN
+504291,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,11,2026-02-21T19:00:00,2026-02-21T20:40:35,Scheduled test,Low voltage,Test abnormal,45.9,-78.8,132.1,,UNKNOWN
+504292,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,12,2026-02-18T19:00:00,2026-02-18T20:36:35,Scheduled test,Low voltage,Test abnormal,45.8,-80.9,130.1,,UNKNOWN
+504293,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,13,2026-02-15T19:00:00,2026-02-15T20:39:41,Scheduled test,Low voltage,Test abnormal,46.0,-76.7,127.4,,UNKNOWN
+504294,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,14,2026-02-12T19:00:01,2026-02-12T20:49:32,Scheduled test,Low voltage,Test abnormal,45.8,-76.2,139.1,,UNKNOWN
+504295,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,15,2026-02-10T03:41:54,2026-02-10T03:46:57,Short test,Exceeded time limit,No result,49.5,-56.3,4.7,,UNKNOWN
+504296,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,16,2026-02-09T19:00:01,2026-02-09T20:37:36,Scheduled test,Low voltage,Test abnormal,45.9,-74.0,120.3,,UNKNOWN
+504297,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,17,2026-02-06T19:00:01,2026-02-06T20:34:15,Scheduled test,Low voltage,Test abnormal,46.0,-75.7,118.8,,UNKNOWN
+504298,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,18,2026-02-03T19:00:00,2026-02-03T20:36:11,Scheduled test,Low voltage,Test abnormal,45.9,-81.1,130.0,,UNKNOWN
+504299,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,19,2026-01-31T19:00:00,2026-01-31T20:45:11,Scheduled test,Low voltage,Test abnormal,45.9,-74.5,130.6,,UNKNOWN
+504300,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,20,2026-01-28T19:00:00,2026-01-28T20:28:38,Scheduled test,Low voltage,Test abnormal,45.6,-76.6,113.1,,UNKNOWN
+504301,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,21,2026-01-25T19:00:01,2026-01-25T20:25:36,Scheduled test,Low voltage,Test abnormal,45.7,-77.1,110.0,,UNKNOWN
+504302,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,22,2026-01-22T19:00:00,2026-01-22T20:20:26,Scheduled test,Low voltage,Test abnormal,45.9,-76.1,102.1,,UNKNOWN
+504303,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,23,2026-01-19T19:00:01,2026-01-19T20:26:04,Scheduled test,Low voltage,Test abnormal,45.9,-75.2,107.8,,UNKNOWN
+504304,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,24,2026-01-16T19:00:00,2026-01-16T20:38:02,Scheduled test,Low voltage,Test abnormal,45.9,-75.8,123.9,,UNKNOWN
+504305,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,25,2026-01-13T19:00:01,2026-01-13T20:55:47,Scheduled test,Low voltage,Test abnormal,45.9,-77.2,148.9,,UNKNOWN
+504306,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,26,2026-01-11T03:31:55,2026-01-11T03:36:57,Short test,Exceeded time limit,No result,49.4,-67.1,5.6,,UNKNOWN
+504307,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,27,2026-01-10T19:00:00,2026-01-10T20:38:17,Scheduled test,Low voltage,Test abnormal,45.8,-78.5,128.5,,UNKNOWN
+504308,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,28,2026-01-07T19:00:00,2026-01-07T20:48:48,Scheduled test,Low voltage,Test abnormal,45.9,-74.2,134.6,,UNKNOWN
+504309,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,29,2026-01-04T19:00:00,2026-01-04T20:35:42,Scheduled test,Low voltage,Test abnormal,45.9,-75.2,119.9,,UNKNOWN
+504310,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,30,2026-01-01T19:00:00,2026-01-01T20:34:22,Scheduled test,Low voltage,Test abnormal,45.7,-78.3,123.1,,UNKNOWN
+504311,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,31,2025-12-29T19:00:01,2025-12-29T20:46:54,Scheduled test,Low voltage,Test abnormal,46.0,-74.1,131.9,,UNKNOWN
+504312,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,32,2025-12-26T19:00:01,2025-12-26T20:49:36,Scheduled test,Low voltage,Test abnormal,45.8,-73.6,134.4,,UNKNOWN
+504313,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,33,2025-12-23T19:00:01,2025-12-23T20:51:40,Scheduled test,Low voltage,Test abnormal,46.0,-76.7,142.6,,UNKNOWN
+504314,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,34,2025-12-20T19:00:00,2025-12-20T20:58:49,Scheduled test,Low voltage,Test abnormal,45.7,-73.1,144.7,,UNKNOWN
+504315,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,35,2025-12-17T19:00:01,2025-12-17T21:08:18,Scheduled test,Low voltage,Test abnormal,45.9,-71.6,153.1,,UNKNOWN
+504316,10.61.42.140,BAU.Altantsugts_Holboo_NMD110,36,2025-12-14T19:00:00,2025-12-14T20:48:21,Scheduled test,Low voltage,Test abnormal,45.8,-76.8,138.6,,UNKNOWN

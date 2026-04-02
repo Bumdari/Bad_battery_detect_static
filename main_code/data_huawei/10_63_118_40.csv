@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+4194,10.63.118.40,NAD._MoiltiinTohoi_Mobi_MP24_ULN,1,2026-02-05T21:00:02,2026-02-06T05:00:22,Scheduled test,Exceeded time limit,Test normal,49.1,-15.4,123.2,8.0,VRLA12v_LeadAcid

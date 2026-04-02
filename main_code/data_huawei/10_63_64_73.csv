@@ -1,0 +1,45 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+672286,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,44,2026-03-31T19:00:00,2026-03-31T20:31:37,Scheduled test,Low capacity,Test normal,48.1,-61.6,93.8,10.0,VRLA12v_LeadAcid
+605220,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,43,2026-03-28T19:00:01,2026-03-28T20:34:53,Scheduled test,Low capacity,Test normal,48.0,-61.7,97.2,9.0,VRLA12v_LeadAcid
+539669,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,42,2026-03-25T19:00:01,2026-03-25T20:41:09,Scheduled test,Low capacity,Test normal,48.3,-58.4,98.2,10.0,VRLA12v_LeadAcid
+475801,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,41,2026-03-22T19:00:01,2026-03-22T20:30:40,Scheduled test,Low capacity,Test normal,48.2,-62.7,94.4,10.0,VRLA12v_LeadAcid
+393428,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,40,2026-03-19T19:00:00,2026-03-19T20:30:51,Scheduled test,Low capacity,Test normal,48.2,-62.6,94.6,8.0,VRLA12v_LeadAcid
+312869,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,39,2026-03-15T19:00:00,2026-03-15T20:30:39,Scheduled test,Low capacity,Test normal,48.1,-63.2,95.1,6.0,VRLA12v_LeadAcid
+253981,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,38,2026-03-12T19:00:01,2026-03-12T20:26:49,Scheduled test,Low capacity,Test normal,48.0,-65.4,94.3,6.0,VRLA12v_LeadAcid
+196389,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,37,2026-03-09T19:00:01,2026-03-09T20:34:34,Scheduled test,Low capacity,Test normal,48.2,-61.0,95.9,8.0,VRLA12v_LeadAcid
+13016,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,1,2026-02-20T19:00:01,2026-02-20T20:52:45,Scheduled test,Low capacity,Test normal,48.6,-51.2,96.0,6.0,VRLA12v_LeadAcid
+13017,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,2,2025-11-05T19:00:00,2025-11-05T20:53:10,Scheduled test,Low capacity,Test normal,47.6,-56.8,106.8,8.0,VRLA12v_LeadAcid
+13018,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,3,2025-11-02T19:00:01,2025-11-02T20:47:50,Scheduled test,Low capacity,Test normal,47.9,-59.1,105.9,10.0,VRLA12v_LeadAcid
+13019,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,4,2025-10-30T19:00:01,2025-10-30T20:53:24,Scheduled test,Low capacity,Test normal,47.9,-53.8,101.4,7.0,VRLA12v_LeadAcid
+13020,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,5,2025-10-27T19:00:00,2025-10-27T20:31:44,Scheduled test,Low capacity,Test normal,47.9,-55.4,84.5,7.0,VRLA12v_LeadAcid
+13021,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,6,2025-10-15T19:00:00,2025-10-15T20:43:06,Scheduled test,Low capacity,Test normal,47.7,-58.8,100.8,6.0,VRLA12v_LeadAcid
+13022,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,7,2025-10-12T19:00:01,2025-10-12T20:54:22,Scheduled test,Low capacity,Test normal,47.5,-55.8,106.1,10.0,VRLA12v_LeadAcid
+13023,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,8,2025-10-09T19:00:01,2025-10-09T20:47:44,Scheduled test,Low capacity,Test normal,47.9,-56.3,100.8,14.0,VRLA12v_LeadAcid
+13024,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,9,2025-10-06T19:00:01,2025-10-06T20:41:46,Scheduled test,Low capacity,Test normal,47.9,-59.7,101.0,10.0,VRLA12v_LeadAcid
+13025,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,10,2025-10-03T19:00:01,2025-10-03T20:52:35,Scheduled test,Low capacity,Test normal,48.1,-55.9,104.6,16.0,VRLA12v_LeadAcid
+13026,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,11,2025-09-30T19:00:01,2025-09-30T20:47:09,Scheduled test,Low capacity,Test normal,48.4,-56.3,100.3,19.0,VRLA12v_LeadAcid
+13027,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,12,2025-09-27T19:00:00,2025-09-27T20:52:37,Scheduled test,Low capacity,Test normal,48.5,-56.9,106.5,20.0,VRLA12v_LeadAcid
+13028,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,13,2025-09-24T19:00:01,2025-09-24T22:00:30,Scheduled test,Exceeded time limit,Test normal,48.4,-38.1,114.2,8.0,VRLA12v_LeadAcid
+13029,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,14,2025-09-21T19:00:00,2025-09-21T22:00:28,Scheduled test,Exceeded time limit,Test normal,48.6,-39.0,117.2,22.0,VRLA12v_LeadAcid
+13030,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,15,2025-09-18T19:00:00,2025-09-18T22:00:28,Scheduled test,Exceeded time limit,Test normal,48.5,-38.8,116.3,17.0,VRLA12v_LeadAcid
+13031,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,16,2025-09-15T19:00:00,2025-09-15T21:36:23,Scheduled test,Low capacity,Test normal,48.1,-43.2,112.2,12.0,VRLA12v_LeadAcid
+13032,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,17,2025-09-12T19:00:00,2025-09-12T22:00:29,Scheduled test,Exceeded time limit,Test normal,48.6,-37.4,112.1,18.0,VRLA12v_LeadAcid
+13033,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,18,2025-09-09T19:00:01,2025-09-09T21:49:26,Scheduled test,Low capacity,Test normal,48.6,-39.3,110.6,18.0,VRLA12v_LeadAcid
+13034,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,19,2025-09-06T19:00:00,2025-09-06T21:54:13,Scheduled test,Low capacity,Test normal,48.4,-37.4,108.2,16.0,VRLA12v_LeadAcid
+13035,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,20,2025-09-03T19:00:00,2025-09-03T21:54:16,Scheduled test,Low capacity,Test normal,48.7,-37.9,109.7,21.0,VRLA12v_LeadAcid
+13036,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,21,2025-08-31T19:00:00,2025-08-31T21:49:38,Scheduled test,Low capacity,Test normal,48.6,-38.4,108.2,21.0,VRLA12v_LeadAcid
+13037,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,22,2025-08-28T19:00:01,2025-08-28T22:00:30,Scheduled test,Exceeded time limit,Test normal,48.6,-38.2,114.7,22.0,VRLA12v_LeadAcid
+13038,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,23,2025-08-25T19:00:01,2025-08-25T21:58:18,Scheduled test,Low capacity,Test normal,48.8,-37.2,110.3,25.0,VRLA12v_LeadAcid
+13039,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,24,2025-08-22T19:00:01,2025-08-22T22:00:31,Scheduled test,Exceeded time limit,Test normal,48.8,-36.5,109.5,21.0,VRLA12v_LeadAcid
+13040,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,25,2025-08-19T19:00:01,2025-08-19T22:00:32,Scheduled test,Exceeded time limit,Test normal,48.8,-37.2,111.5,25.0,VRLA12v_LeadAcid
+13041,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,26,2025-08-16T19:00:01,2025-08-16T22:00:29,Scheduled test,Exceeded time limit,Test normal,48.6,-35.5,106.6,26.0,VRLA12v_LeadAcid
+13042,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,27,2025-08-13T19:00:01,2025-08-13T19:16:50,Scheduled test,Low voltage,Battery alm,45.1,-36.5,10.2,23.0,VRLA12v_LeadAcid
+13043,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,28,2025-08-10T19:00:00,2025-08-10T19:17:04,Scheduled test,Low voltage,Battery alm,45.2,-37.5,10.6,23.0,VRLA12v_LeadAcid
+13044,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,29,2025-08-07T19:00:00,2025-08-07T19:18:31,Scheduled test,Low voltage,Battery alm,45.8,-34.4,10.6,24.0,VRLA12v_LeadAcid
+13045,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,30,2025-08-04T19:00:01,2025-08-04T19:18:02,Scheduled test,Low voltage,Battery alm,45.2,-35.0,10.5,23.0,VRLA12v_LeadAcid
+13046,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,31,2025-08-01T19:00:00,2025-08-01T19:17:57,Scheduled test,Low voltage,Battery alm,45.2,-36.0,10.8,24.0,VRLA12v_LeadAcid
+13047,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,32,2025-07-29T19:00:00,2025-07-29T19:19:45,Scheduled test,Low voltage,Battery alm,45.6,-33.6,11.0,25.0,VRLA12v_LeadAcid
+13048,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,33,2025-07-26T19:00:01,2025-07-26T19:17:17,Scheduled test,Low voltage,Battery alm,45.8,-37.1,10.7,26.0,VRLA12v_LeadAcid
+13049,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,34,2025-07-23T19:00:01,2025-07-23T19:20:44,Scheduled test,Low voltage,Battery alm,45.9,-32.5,11.2,26.0,VRLA12v_LeadAcid
+13050,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,35,2025-07-18T19:00:00,2025-07-18T19:20:08,Scheduled test,Low voltage,Battery alm,45.7,-32.9,11.0,25.0,VRLA12v_LeadAcid
+13051,10.63.64.73,SBD._12hor_TusheeMeerenLLC_TPD55_ULN,36,2025-07-15T19:00:01,2025-07-15T19:18:40,Scheduled test,Low voltage,Battery alm,45.7,-34.6,10.7,26.0,VRLA12v_LeadAcid

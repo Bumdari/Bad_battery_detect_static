@@ -1,0 +1,44 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+639417,10.63.134.115,BUL.Bayannuur_Holboo_TPD,43,2026-03-30T19:00:04,2026-03-30T22:00:40,Scheduled test,Exceeded time limit,Test normal,46.8,-31.7,95.2,10.0,VRLA12v_LeadAcid
+573076,10.63.134.115,BUL.Bayannuur_Holboo_TPD,42,2026-03-27T19:00:02,2026-03-27T21:55:01,Scheduled test,Low capacity,Test normal,46.8,-32.3,93.8,13.0,VRLA12v_LeadAcid
+508227,10.63.134.115,BUL.Bayannuur_Holboo_TPD,41,2026-03-24T19:00:01,2026-03-24T22:00:26,Scheduled test,Low capacity,Test normal,47.1,-31.1,93.3,11.0,VRLA12v_LeadAcid
+445433,10.63.134.115,BUL.Bayannuur_Holboo_TPD,40,2026-03-21T19:00:02,2026-03-21T22:00:37,Scheduled test,Exceeded time limit,Test normal,47.1,-31.2,93.5,8.0,VRLA12v_LeadAcid
+363723,10.63.134.115,BUL.Bayannuur_Holboo_TPD,39,2026-03-18T19:00:03,2026-03-18T19:44:11,Scheduled test,Low temperature,Abnormal end,48.9,-29.8,21.9,5.0,VRLA12v_LeadAcid
+284017,10.63.134.115,BUL.Bayannuur_Holboo_TPD,38,2026-03-14T19:00:02,2026-03-14T19:16:14,Scheduled test,Low temperature,Abnormal end,49.1,-32.9,8.9,5.0,VRLA12v_LeadAcid
+206625,10.63.134.115,BUL.Bayannuur_Holboo_TPD,37,2026-03-10T19:00:02,2026-03-10T21:46:26,Scheduled test,Low capacity,Test normal,46.7,-33.9,93.8,6.0,VRLA12v_LeadAcid
+4688,10.63.134.115,BUL.Bayannuur_Holboo_TPD,1,2025-10-08T09:42:16,2025-10-08T09:47:19,Short test,Exceeded time limit,Test normal,48.1,-25.1,2.1,8.0,VRLA12v_LeadAcid
+4689,10.63.134.115,BUL.Bayannuur_Holboo_TPD,2,2025-09-07T22:30:34,2025-09-07T22:35:37,Short test,Exceeded time limit,Test normal,49.0,-27.9,2.3,18.0,VRLA12v_LeadAcid
+4690,10.63.134.115,BUL.Bayannuur_Holboo_TPD,3,2025-08-08T11:20:35,2025-08-08T11:25:37,Short test,Exceeded time limit,Test normal,49.2,-27.9,2.3,29.0,VRLA12v_LeadAcid
+4691,10.63.134.115,BUL.Bayannuur_Holboo_TPD,4,2025-06-08T22:10:40,2025-06-08T22:15:42,Short test,Exceeded time limit,Test normal,49.3,-29.7,2.5,24.0,VRLA12v_LeadAcid
+4692,10.63.134.115,BUL.Bayannuur_Holboo_TPD,5,2025-05-09T19:53:32,2025-05-09T19:58:35,Short test,Exceeded time limit,Test normal,49.3,-30.3,2.5,22.0,VRLA12v_LeadAcid
+4693,10.63.134.115,BUL.Bayannuur_Holboo_TPD,6,2025-04-09T08:40:56,2025-04-09T08:45:59,Short test,Exceeded time limit,Test normal,49.0,-24.6,2.1,16.0,VRLA12v_LeadAcid
+4694,10.63.134.115,BUL.Bayannuur_Holboo_TPD,7,2025-03-09T21:26:00,2025-03-09T21:31:03,Short test,Exceeded time limit,Test normal,48.8,-28.5,2.4,5.0,VRLA12v_LeadAcid
+4695,10.63.134.115,BUL.Bayannuur_Holboo_TPD,8,2025-02-07T10:15:56,2025-02-07T10:20:59,Short test,Exceeded time limit,Test normal,48.1,-24.4,2.0,-16.0,VRLA12v_LeadAcid
+4696,10.63.134.115,BUL.Bayannuur_Holboo_TPD,9,2024-11-15T10:50:53,2024-11-15T10:55:56,Short test,Exceeded time limit,Test normal,48.3,-25.1,2.1,1.0,VRLA12v_LeadAcid
+4697,10.63.134.115,BUL.Bayannuur_Holboo_TPD,10,2024-10-02T22:34:57,2024-10-02T22:40:00,Short test,Exceeded time limit,Test normal,49.1,-27.0,2.3,14.0,VRLA12v_LeadAcid
+4698,10.63.134.115,BUL.Bayannuur_Holboo_TPD,11,2024-09-02T20:16:43,2024-09-02T20:21:46,Short test,Exceeded time limit,Test normal,49.3,-27.0,2.3,26.0,VRLA12v_LeadAcid
+4699,10.63.134.115,BUL.Bayannuur_Holboo_TPD,12,2024-08-03T18:01:08,2024-08-03T18:06:12,Short test,Exceeded time limit,Test normal,49.1,-25.6,2.1,25.0,VRLA12v_LeadAcid
+4700,10.63.134.115,BUL.Bayannuur_Holboo_TPD,13,2024-07-04T15:45:27,2024-07-04T15:50:30,Short test,Exceeded time limit,Test normal,49.2,-26.8,2.2,29.0,VRLA12v_LeadAcid
+4701,10.63.134.115,BUL.Bayannuur_Holboo_TPD,14,2024-06-04T13:29:16,2024-06-04T13:34:19,Short test,Exceeded time limit,Test normal,49.4,-26.4,2.2,29.0,VRLA12v_LeadAcid
+4702,10.63.134.115,BUL.Bayannuur_Holboo_TPD,15,2024-05-05T11:13:16,2024-05-05T11:18:19,Short test,Exceeded time limit,Test normal,46.6,-29.6,2.5,27.0,VRLA12v_LeadAcid
+4703,10.63.134.115,BUL.Bayannuur_Holboo_TPD,16,2024-03-08T13:39:07,2024-03-08T13:44:11,Short test,Exceeded time limit,Test normal,48.3,-26.2,2.2,-4.0,VRLA12v_LeadAcid
+4704,10.63.134.115,BUL.Bayannuur_Holboo_TPD,17,2024-01-13T13:59:01,2024-01-13T14:04:04,Short test,Exceeded time limit,Test normal,48.3,-26.2,2.2,-5.0,VRLA12v_LeadAcid
+4705,10.63.134.115,BUL.Bayannuur_Holboo_TPD,18,2023-11-22T01:11:20,2023-11-22T01:16:23,Short test,Exceeded time limit,Test normal,48.7,-20.0,1.7,-3.0,VRLA12v_LeadAcid
+4706,10.63.134.115,BUL.Bayannuur_Holboo_TPD,19,2023-10-22T13:57:12,2023-10-22T14:02:14,Short test,Exceeded time limit,Test normal,48.8,-23.4,2.0,19.0,VRLA12v_LeadAcid
+4707,10.63.134.115,BUL.Bayannuur_Holboo_TPD,20,2023-09-07T19:08:42,2023-09-07T19:13:45,Short test,Exceeded time limit,Test normal,49.4,-22.2,1.9,25.0,VRLA12v_LeadAcid
+4708,10.63.134.115,BUL.Bayannuur_Holboo_TPD,21,2023-08-08T08:00:24,2023-08-08T08:05:27,Short test,Exceeded time limit,Test normal,49.2,-23.0,1.9,26.0,VRLA12v_LeadAcid
+4709,10.63.134.115,BUL.Bayannuur_Holboo_TPD,22,2023-06-19T00:58:51,2023-06-19T01:03:54,Short test,Exceeded time limit,Test normal,49.1,-21.1,1.8,21.0,VRLA12v_LeadAcid
+4710,10.63.134.115,BUL.Bayannuur_Holboo_TPD,23,2023-05-19T13:51:28,2023-05-19T13:56:31,Short test,Exceeded time limit,Test normal,48.9,-22.3,1.9,13.0,VRLA12v_LeadAcid
+4711,10.63.134.115,BUL.Bayannuur_Holboo_TPD,24,2023-03-31T16:52:13,2023-03-31T16:57:16,Short test,Exceeded time limit,Test normal,49.2,-23.4,2.0,21.0,VRLA12v_LeadAcid
+4712,10.63.134.115,BUL.Bayannuur_Holboo_TPD,25,2023-03-01T14:05:46,2023-03-01T14:10:49,Short test,Exceeded time limit,Test normal,48.4,-22.2,1.9,5.0,VRLA12v_LeadAcid
+4713,10.63.134.115,BUL.Bayannuur_Holboo_TPD,26,2023-01-19T12:28:16,2023-01-19T12:33:19,Short test,Exceeded time limit,Test normal,47.9,-22.7,1.9,-9.0,VRLA12v_LeadAcid
+4714,10.63.134.115,BUL.Bayannuur_Holboo_TPD,27,2022-12-20T01:13:21,2022-12-20T01:18:23,Short test,Exceeded time limit,Test normal,47.9,-20.5,1.7,-12.0,VRLA12v_LeadAcid
+4715,10.63.134.115,BUL.Bayannuur_Holboo_TPD,28,2022-11-19T13:58:32,2022-11-19T14:03:35,Short test,Exceeded time limit,Test normal,48.2,-21.7,1.8,-2.0,VRLA12v_LeadAcid
+4716,10.63.134.115,BUL.Bayannuur_Holboo_TPD,29,2022-09-27T16:14:00,2022-09-27T16:19:03,Short test,Exceeded time limit,Test normal,49.2,-22.4,1.9,27.0,VRLA12v_LeadAcid
+4717,10.63.134.115,BUL.Bayannuur_Holboo_TPD,30,2022-08-28T13:51:43,2022-08-28T13:56:46,Short test,Exceeded time limit,Test normal,49.3,-23.6,2.0,25.0,VRLA12v_LeadAcid
+4718,10.63.134.115,BUL.Bayannuur_Holboo_TPD,31,2022-07-28T09:58:17,2022-07-28T10:03:21,Short test,Exceeded time limit,Test normal,49.4,-24.7,2.1,20.0,VRLA12v_LeadAcid
+4719,10.63.134.115,BUL.Bayannuur_Holboo_TPD,32,2022-06-28T07:43:14,2022-06-28T07:48:16,Short test,Exceeded time limit,Test normal,49.3,-21.4,1.8,27.0,VRLA12v_LeadAcid
+4720,10.63.134.115,BUL.Bayannuur_Holboo_TPD,33,2022-05-29T05:27:45,2022-05-29T05:32:49,Short test,Exceeded time limit,Test normal,49.0,-19.6,1.6,10.0,VRLA12v_LeadAcid
+4721,10.63.134.115,BUL.Bayannuur_Holboo_TPD,34,2022-04-29T03:10:36,2022-04-29T03:15:39,Short test,Exceeded time limit,Test normal,49.2,-19.0,1.6,8.0,VRLA12v_LeadAcid
+4722,10.63.134.115,BUL.Bayannuur_Holboo_TPD,35,2022-03-30T00:53:40,2022-03-30T00:58:43,Short test,Exceeded time limit,Test normal,49.2,-20.0,1.7,3.0,VRLA12v_LeadAcid
+4723,10.63.134.115,BUL.Bayannuur_Holboo_TPD,36,2022-02-27T22:36:28,2022-02-27T22:41:31,Short test,Exceeded time limit,Test normal,48.9,-24.7,2.1,-5.0,VRLA12v_LeadAcid

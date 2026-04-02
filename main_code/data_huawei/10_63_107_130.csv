@@ -1,0 +1,40 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+224197,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,39,2026-03-11T19:00:03,2026-03-11T21:58:35,Scheduled test,Low capacity,Test normal,46.4,-41.5,123.3,22.0,VRLA12v_LeadAcid
+167323,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,38,2026-03-08T19:00:02,2026-03-08T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.4,-40.0,119.9,21.0,VRLA12v_LeadAcid
+111830,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,37,2026-03-05T19:00:02,2026-03-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.5,-40.4,121.3,20.0,VRLA12v_LeadAcid
+3231,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,1,2026-03-02T19:00:01,2026-03-02T21:54:06,Scheduled test,Low capacity,Test normal,46.8,-40.6,117.8,20.0,VRLA12v_LeadAcid
+3232,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,2,2026-02-27T19:00:02,2026-02-27T21:49:17,Scheduled test,Low capacity,Test normal,46.8,-41.9,118.2,20.0,VRLA12v_LeadAcid
+3233,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,3,2026-02-24T19:00:02,2026-02-24T21:46:03,Scheduled test,Low capacity,Test normal,46.5,-42.9,118.8,20.0,VRLA12v_LeadAcid
+3234,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,4,2026-02-21T19:00:02,2026-02-21T21:30:44,Scheduled test,Low capacity,Test normal,47.8,-41.4,103.9,23.0,VRLA12v_LeadAcid
+3235,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,5,2026-02-18T19:00:03,2026-02-18T21:47:08,Scheduled test,Low voltage,Battery alm,45.7,-46.2,128.7,23.0,VRLA12v_LeadAcid
+3236,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,6,2026-02-15T19:00:01,2026-02-15T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-40.0,119.9,22.0,VRLA12v_LeadAcid
+3237,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,7,2026-02-12T19:00:02,2026-02-12T21:54:21,Scheduled test,Low capacity,Test normal,46.9,-41.6,120.7,22.0,VRLA12v_LeadAcid
+3238,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,8,2026-02-09T19:00:03,2026-02-09T21:55:42,Scheduled test,Low voltage,Battery alm,46.0,-44.9,131.3,21.0,VRLA12v_LeadAcid
+3239,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,9,2026-02-06T19:00:02,2026-02-06T21:31:07,Scheduled test,Low capacity,Test normal,46.7,-45.1,113.5,19.0,VRLA12v_LeadAcid
+3240,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,10,2026-02-03T19:00:03,2026-02-03T21:55:28,Scheduled test,Low capacity,Test normal,46.2,-42.7,124.8,20.0,VRLA12v_LeadAcid
+3241,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,11,2026-01-31T19:00:02,2026-01-31T21:44:19,Scheduled test,Low capacity,Test normal,47.3,-40.6,111.0,19.0,VRLA12v_LeadAcid
+3242,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,12,2026-01-28T19:00:03,2026-01-28T21:51:01,Scheduled test,Low capacity,Test normal,46.0,-45.2,128.7,20.0,VRLA12v_LeadAcid
+3243,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,13,2026-01-25T19:00:03,2026-01-25T21:32:49,Scheduled test,Low capacity,Test normal,47.3,-41.5,105.7,17.0,VRLA12v_LeadAcid
+3244,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,14,2026-01-22T19:00:02,2026-01-22T21:36:41,Scheduled test,Low voltage,Battery alm,45.9,-44.3,115.6,16.0,VRLA12v_LeadAcid
+3245,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,15,2026-01-19T19:00:03,2026-01-19T21:47:33,Scheduled test,Low capacity,Test normal,46.8,-40.6,113.2,16.0,VRLA12v_LeadAcid
+3246,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,16,2026-01-16T19:00:02,2026-01-16T21:55:03,Scheduled test,Low capacity,Test normal,46.0,-42.2,122.9,18.0,VRLA12v_LeadAcid
+3247,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,17,2026-01-13T19:00:03,2026-01-13T21:59:20,Scheduled test,Low capacity,Test normal,46.0,-41.8,124.9,19.0,VRLA12v_LeadAcid
+3248,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,18,2026-01-10T19:00:02,2026-01-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.1,-39.9,119.7,20.0,VRLA12v_LeadAcid
+3249,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,19,2026-01-07T19:00:03,2026-01-07T21:49:04,Scheduled test,Low capacity,Test normal,47.0,-39.7,111.7,20.0,VRLA12v_LeadAcid
+3250,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,20,2026-01-04T19:00:02,2026-01-04T21:49:06,Scheduled test,Low capacity,Test normal,47.5,-37.7,106.0,19.0,VRLA12v_LeadAcid
+3251,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,21,2026-01-01T19:00:03,2026-01-01T21:33:47,Scheduled test,Low capacity,Test normal,47.2,-41.3,105.7,19.0,VRLA12v_LeadAcid
+3252,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,22,2025-12-29T19:00:03,2025-12-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.9,-38.4,115.3,20.0,VRLA12v_LeadAcid
+3253,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,23,2025-12-26T19:00:02,2025-12-26T21:46:14,Scheduled test,Low capacity,Test normal,47.1,-40.3,111.5,19.0,VRLA12v_LeadAcid
+3254,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,24,2025-12-23T19:00:02,2025-12-23T21:44:11,Scheduled test,Low capacity,Test normal,46.4,-42.5,116.3,19.0,VRLA12v_LeadAcid
+3255,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,25,2025-12-20T19:00:02,2025-12-20T21:47:24,Scheduled test,Low capacity,Test normal,46.8,-40.7,113.4,19.0,VRLA12v_LeadAcid
+3256,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,26,2025-12-17T19:00:02,2025-12-17T21:43:54,Scheduled test,Low capacity,Test normal,46.7,-42.5,116.1,19.0,VRLA12v_LeadAcid
+3257,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,27,2025-12-14T19:00:02,2025-12-14T21:55:01,Scheduled test,Low capacity,Test normal,46.2,-43.5,126.8,19.0,VRLA12v_LeadAcid
+3258,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,28,2025-12-11T19:00:01,2025-12-11T21:57:10,Scheduled test,Low capacity,Test normal,46.3,-41.9,123.8,19.0,VRLA12v_LeadAcid
+3259,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,29,2025-12-08T19:00:02,2025-12-08T21:55:01,Scheduled test,Low capacity,Test normal,45.8,-42.9,125.0,19.0,VRLA12v_LeadAcid
+3260,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,30,2025-12-05T19:00:02,2025-12-05T21:51:37,Scheduled test,Low voltage,Battery alm,45.7,-43.4,124.2,19.0,VRLA12v_LeadAcid
+3261,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,31,2025-12-02T19:00:02,2025-12-02T21:33:48,Scheduled test,Low capacity,Test normal,47.1,-41.9,107.4,18.0,VRLA12v_LeadAcid
+3262,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,32,2025-11-29T19:00:03,2025-11-29T21:51:23,Scheduled test,Low capacity,Test normal,46.6,-41.6,118.9,21.0,VRLA12v_LeadAcid
+3263,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,33,2025-11-26T19:00:03,2025-11-26T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.3,-41.3,124.1,20.0,VRLA12v_LeadAcid
+3264,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,34,2025-11-23T19:00:03,2025-11-23T21:44:19,Scheduled test,Low capacity,Test normal,46.8,-41.1,112.5,21.0,VRLA12v_LeadAcid
+3265,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,35,2025-11-20T19:00:02,2025-11-20T21:31:53,Scheduled test,Low capacity,Test normal,47.0,-42.6,107.7,20.0,VRLA12v_LeadAcid
+3266,10.63.107.130,HUD._4hor_BogdVilla_SMP21_ULN,36,2025-11-17T19:00:03,2025-11-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.9,-38.6,115.7,19.0,VRLA12v_LeadAcid

@@ -1,0 +1,43 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+685628,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,42,2026-04-01T19:00:00,2026-04-01T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.3,-7.6,22.7,,VRLA12v_LeadAcid
+618286,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,41,2026-03-29T19:00:01,2026-03-29T22:00:26,Scheduled test,Exceeded time limit,Test normal,50.1,-7.4,22.1,,VRLA12v_LeadAcid
+552426,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,40,2026-03-26T19:00:01,2026-03-26T22:00:26,Scheduled test,Exceeded time limit,Test normal,50.1,-7.3,22.0,,VRLA12v_LeadAcid
+488165,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,39,2026-03-23T19:00:01,2026-03-23T22:00:25,Scheduled test,Exceeded time limit,Test normal,50.4,-7.2,21.7,,VRLA12v_LeadAcid
+425918,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,38,2026-03-20T19:00:00,2026-03-20T22:00:25,Scheduled test,Exceeded time limit,Test normal,50.3,-7.4,22.2,,VRLA12v_LeadAcid
+344636,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,37,2026-03-17T19:00:00,2026-03-18T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.7,-7.5,37.3,,VRLA12v_LeadAcid
+285047,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,36,2026-03-14T19:00:01,2026-03-14T20:54:09,Scheduled test,Fault alarm,Abnormal end,50.4,-7.2,13.6,,VRLA12v_LeadAcid
+226748,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,35,2026-03-11T19:00:01,2026-03-12T00:00:40,Scheduled test,Exceeded time limit,Test normal,50.0,-7.5,37.7,,VRLA12v_LeadAcid
+169809,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,34,2026-03-08T19:00:01,2026-03-09T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.8,-7.5,37.4,,VRLA12v_LeadAcid
+114255,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,33,2026-03-05T19:00:00,2026-03-06T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.3,-7.7,38.5,,VRLA12v_LeadAcid
+5627,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,1,2026-03-02T19:00:00,2026-03-03T00:00:38,Scheduled test,Exceeded time limit,Test normal,48.9,-7.4,37.2,,VRLA12v_LeadAcid
+5628,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,2,2026-02-27T19:00:01,2026-02-28T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.0,-7.5,37.3,,VRLA12v_LeadAcid
+5629,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,3,2026-02-24T19:00:01,2026-02-25T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.4,-7.3,36.4,,VRLA12v_LeadAcid
+5630,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,4,2026-02-21T19:00:01,2026-02-22T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.4,-7.3,36.5,,VRLA12v_LeadAcid
+5631,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,5,2026-02-18T19:00:00,2026-02-19T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.2,-7.3,36.3,,VRLA12v_LeadAcid
+5632,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,6,2026-02-15T19:00:00,2026-02-16T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.1,-7.0,35.0,,VRLA12v_LeadAcid
+5633,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,7,2026-02-12T19:00:00,2026-02-13T00:00:38,Scheduled test,Exceeded time limit,Test normal,50.0,-7.4,37.0,,VRLA12v_LeadAcid
+5634,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,8,2026-02-09T19:00:01,2026-02-10T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.1,-7.4,37.1,,VRLA12v_LeadAcid
+5635,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,9,2026-02-06T19:00:01,2026-02-07T00:00:38,Scheduled test,Exceeded time limit,Test normal,48.8,-7.5,37.6,,VRLA12v_LeadAcid
+5636,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,10,2026-02-03T19:00:00,2026-02-04T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.3,-7.5,37.3,,VRLA12v_LeadAcid
+5637,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,11,2026-01-31T19:00:01,2026-02-01T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.3,-7.4,37.2,,VRLA12v_LeadAcid
+5638,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,12,2026-01-28T19:00:01,2026-01-29T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.6,-7.5,37.5,,VRLA12v_LeadAcid
+5639,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,13,2026-01-25T19:00:00,2026-01-26T00:00:37,Scheduled test,Exceeded time limit,Test normal,49.0,-7.7,38.6,,VRLA12v_LeadAcid
+5640,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,14,2026-01-22T19:00:01,2026-01-23T00:00:39,Scheduled test,Exceeded time limit,Test normal,48.8,-7.3,36.5,,VRLA12v_LeadAcid
+5641,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,15,2026-01-19T19:00:01,2026-01-20T00:00:42,Scheduled test,Exceeded time limit,Test normal,48.4,-7.5,37.4,,VRLA12v_LeadAcid
+5642,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,16,2026-01-16T19:00:01,2026-01-17T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.2,-7.3,36.5,,VRLA12v_LeadAcid
+5643,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,17,2026-01-13T19:00:00,2026-01-13T19:01:56,Scheduled test,Fault alarm,Abnormal end,51.8,-6.4,0.2,,VRLA12v_LeadAcid
+5644,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,18,2026-01-10T19:00:01,2026-01-11T00:00:42,Scheduled test,Exceeded time limit,Test normal,49.1,-7.4,37.0,,VRLA12v_LeadAcid
+5645,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,19,2026-01-07T19:00:01,2026-01-08T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.3,-7.4,37.3,,VRLA12v_LeadAcid
+5646,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,20,2026-01-04T19:00:01,2026-01-05T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.0,-7.5,37.3,,VRLA12v_LeadAcid
+5647,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,21,2026-01-01T19:00:01,2026-01-02T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.0,-7.3,36.5,,VRLA12v_LeadAcid
+5648,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,22,2025-12-29T19:00:00,2025-12-30T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.1,-7.4,36.9,,VRLA12v_LeadAcid
+5649,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,23,2025-12-26T19:00:01,2025-12-27T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.3,-7.6,38.0,,VRLA12v_LeadAcid
+5650,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,24,2025-12-23T19:00:01,2025-12-24T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.4,-7.3,36.6,,VRLA12v_LeadAcid
+5651,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,25,2025-12-20T19:00:02,2025-12-21T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.4,-7.4,36.9,,VRLA12v_LeadAcid
+5652,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,26,2025-12-17T19:00:00,2025-12-18T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.8,-7.5,37.3,,VRLA12v_LeadAcid
+5653,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,27,2025-12-14T19:00:00,2025-12-15T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.4,-7.8,39.2,,VRLA12v_LeadAcid
+5654,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,28,2025-12-11T19:00:01,2025-12-12T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.5,-7.2,36.1,,VRLA12v_LeadAcid
+5655,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,29,2025-12-08T19:00:01,2025-12-09T00:00:42,Scheduled test,Exceeded time limit,Test normal,49.6,-7.4,37.0,,VRLA12v_LeadAcid
+5656,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,30,2025-12-05T19:00:00,2025-12-06T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.7,-7.5,37.6,,VRLA12v_LeadAcid
+5657,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,31,2025-12-02T19:00:00,2025-12-03T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.4,-7.3,36.5,,VRLA12v_LeadAcid
+5658,10.63.143.226,HOV.Tsetseg_Hushuut_MonEnCo_Camp_ID150,32,2025-11-29T19:00:01,2025-11-30T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.7,-7.2,36.1,,VRLA12v_LeadAcid

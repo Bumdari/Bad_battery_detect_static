@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+640349,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,45,2026-03-30T19:00:02,2026-03-30T23:18:10,Scheduled test,Low capacity,Test normal,47.4,-39.6,170.2,40.0,VRLA12v_LeadAcid
+552208,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,44,2026-03-26T19:00:02,2026-03-26T23:05:21,Scheduled test,Low capacity,Test normal,47.4,-39.1,159.7,37.0,VRLA12v_LeadAcid
+467058,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,43,2026-03-22T19:00:03,2026-03-22T23:10:19,Scheduled test,Low capacity,Test normal,47.0,-37.0,154.1,22.0,VRLA12v_LeadAcid
+384878,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,42,2026-03-19T19:00:02,2026-03-19T19:56:09,Scheduled test,Fault alarm,Abnormal end,50.1,-35.5,33.2,30.0,VRLA12v_LeadAcid
+324426,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,41,2026-03-16T19:00:02,2026-03-16T19:58:25,Scheduled test,Fault alarm,Abnormal end,49.8,-37.0,36.0,24.0,VRLA12v_LeadAcid
+265282,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,40,2026-03-13T19:00:03,2026-03-13T19:54:01,Scheduled test,Fault alarm,Abnormal end,49.8,-36.7,33.0,23.0,VRLA12v_LeadAcid
+207429,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,39,2026-03-10T19:00:03,2026-03-10T19:42:22,Scheduled test,Fault alarm,Abnormal end,50.2,-35.9,25.3,30.0,VRLA12v_LeadAcid
+150949,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,38,2026-03-07T19:00:03,2026-03-07T19:40:39,Scheduled test,Fault alarm,Abnormal end,50.3,-35.8,24.2,34.0,VRLA12v_LeadAcid
+95850,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,37,2026-03-04T19:00:02,2026-03-04T19:31:27,Scheduled test,Fault alarm,Abnormal end,50.4,-35.5,18.6,29.0,VRLA12v_LeadAcid
+5445,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,1,2026-03-01T19:00:02,2026-03-01T23:15:17,Scheduled test,Low capacity,Test normal,46.8,-36.8,156.4,18.0,VRLA12v_LeadAcid
+5446,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,2,2026-02-26T19:00:03,2026-02-26T19:17:48,Scheduled test,Fault alarm,Abnormal end,50.3,-34.2,10.1,26.0,VRLA12v_LeadAcid
+5447,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,3,2026-02-23T19:00:03,2026-02-23T23:22:14,Scheduled test,Low capacity,Test normal,47.0,-37.4,163.2,17.0,VRLA12v_LeadAcid
+5448,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,4,2026-02-20T19:00:02,2026-02-20T23:12:32,Scheduled test,Low capacity,Test normal,47.0,-37.0,155.5,19.0,VRLA12v_LeadAcid
+5449,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,5,2026-02-17T19:00:02,2026-02-17T22:54:33,Scheduled test,Low capacity,Test normal,47.1,-39.9,155.8,27.0,VRLA12v_LeadAcid
+5450,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,6,2026-02-14T19:00:03,2026-02-14T23:09:35,Scheduled test,Low capacity,Test normal,46.9,-37.8,157.2,23.0,VRLA12v_LeadAcid
+5451,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,7,2026-02-11T19:00:02,2026-02-11T19:36:33,Scheduled test,Fault alarm,Abnormal end,50.3,-37.4,22.7,29.0,VRLA12v_LeadAcid
+5452,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,8,2026-02-08T19:00:03,2026-02-08T21:15:35,Scheduled test,Fault alarm,Abnormal end,49.4,-35.9,81.0,22.0,VRLA12v_LeadAcid
+5453,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,9,2026-02-05T19:00:03,2026-02-05T23:39:30,Scheduled test,Low capacity,Test normal,46.9,-35.8,166.7,21.0,VRLA12v_LeadAcid
+5454,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,10,2026-02-02T19:00:03,2026-02-02T23:18:13,Scheduled test,Low capacity,Test normal,47.4,-39.4,169.4,26.0,VRLA12v_LeadAcid
+5455,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,11,2026-01-30T19:00:03,2026-01-30T23:29:07,Scheduled test,Low capacity,Test normal,47.1,-38.2,171.2,25.0,VRLA12v_LeadAcid
+5456,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,12,2026-01-27T19:00:03,2026-01-27T23:32:13,Scheduled test,Low capacity,Test normal,46.9,-38.3,173.8,27.0,VRLA12v_LeadAcid
+5457,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,13,2026-01-24T19:00:02,2026-01-24T23:29:12,Scheduled test,Low capacity,Test normal,47.0,-37.5,168.3,23.0,VRLA12v_LeadAcid
+5458,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,14,2026-01-21T19:00:02,2026-01-21T19:15:00,Scheduled test,Fault alarm,Abnormal end,50.2,-33.7,8.4,25.0,VRLA12v_LeadAcid
+5459,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,15,2026-01-18T19:00:03,2026-01-18T19:22:39,Scheduled test,Fault alarm,Abnormal end,50.3,-32.0,12.1,19.0,VRLA12v_LeadAcid
+5460,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,16,2026-01-15T19:00:02,2026-01-15T23:39:19,Scheduled test,Low capacity,Test normal,47.0,-36.8,171.4,20.0,VRLA12v_LeadAcid
+5461,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,17,2026-01-12T19:00:03,2026-01-12T23:22:27,Scheduled test,Low capacity,Test normal,47.4,-38.5,168.1,20.0,VRLA12v_LeadAcid
+5462,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,18,2026-01-09T19:00:02,2026-01-10T00:00:15,Scheduled test,Exceeded time limit,Test normal,47.0,-35.3,176.7,22.0,VRLA12v_LeadAcid
+5463,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,19,2026-01-06T19:00:03,2026-01-06T23:45:52,Scheduled test,Low capacity,Test normal,47.0,-36.7,174.9,24.0,VRLA12v_LeadAcid
+5464,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,20,2026-01-03T19:00:02,2026-01-03T23:11:07,Scheduled test,Low capacity,Test normal,47.4,-38.9,162.6,24.0,VRLA12v_LeadAcid
+5465,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,21,2025-12-31T19:00:02,2025-12-31T23:42:31,Scheduled test,Low capacity,Test normal,47.4,-36.1,169.9,21.0,VRLA12v_LeadAcid
+5466,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,22,2025-12-28T19:00:03,2025-12-29T00:00:17,Scheduled test,Exceeded time limit,Test normal,47.0,-36.3,181.6,22.0,VRLA12v_LeadAcid
+5467,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,23,2025-12-25T19:00:02,2025-12-25T23:58:25,Scheduled test,Low capacity,Test normal,47.0,-37.2,185.0,24.0,VRLA12v_LeadAcid
+5468,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,24,2025-12-22T19:00:02,2025-12-22T19:10:17,Scheduled test,Fault alarm,Abnormal end,50.3,-34.5,5.9,25.0,VRLA12v_LeadAcid
+5469,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,25,2025-12-19T19:00:03,2025-12-19T23:54:09,Scheduled test,Low capacity,Test normal,47.0,-37.2,182.4,22.0,VRLA12v_LeadAcid
+5470,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,26,2025-12-16T19:00:01,2025-12-17T00:00:15,Scheduled test,Exceeded time limit,Test normal,47.1,-36.8,183.9,23.0,VRLA12v_LeadAcid
+5471,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,27,2025-12-13T19:00:02,2025-12-14T00:00:14,Scheduled test,Exceeded time limit,Test normal,47.1,-35.9,179.7,22.0,VRLA12v_LeadAcid
+5472,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,28,2025-12-10T19:00:03,2025-12-11T00:00:15,Scheduled test,Exceeded time limit,Test normal,47.2,-36.3,181.6,25.0,VRLA12v_LeadAcid
+5473,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,29,2025-12-07T19:00:02,2025-12-08T00:00:15,Scheduled test,Exceeded time limit,Test normal,47.4,-35.0,175.0,22.0,VRLA12v_LeadAcid
+5474,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,30,2025-12-04T19:00:11,2025-12-04T23:59:14,Scheduled test,Low capacity,Test normal,46.8,-39.0,194.2,20.0,VRLA12v_LeadAcid
+5475,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,31,2025-12-01T19:00:09,2025-12-01T23:40:09,Scheduled test,Low capacity,Test normal,46.9,-40.4,188.3,22.0,VRLA12v_LeadAcid
+5476,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,32,2025-11-28T19:00:03,2025-11-29T00:00:17,Scheduled test,Exceeded time limit,Test normal,46.8,-40.2,201.1,25.0,VRLA12v_LeadAcid
+5477,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,33,2025-11-25T19:00:03,2025-11-25T23:52:00,Scheduled test,Low capacity,Test normal,46.8,-40.3,196.1,23.0,VRLA12v_LeadAcid
+5478,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,34,2025-11-16T08:36:26,2025-11-16T08:36:50,AC fail test,Mains recovery,Abnormal end,52.0,-26.1,0.2,20.0,VRLA12v_LeadAcid
+5479,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,35,2025-11-02T01:24:49,2025-11-02T01:25:07,AC fail test,Mains recovery,Abnormal end,52.6,-16.9,0.1,23.0,VRLA12v_LeadAcid
+5480,10.63.142.130,BAU.Ulaanhus_HuhHutul_NMD110,36,2025-10-16T17:40:57,2025-10-16T17:41:33,AC fail test,Mains recovery,Abnormal end,52.6,-16.9,0.2,21.0,VRLA12v_LeadAcid

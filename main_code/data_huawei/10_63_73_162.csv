@@ -1,0 +1,13 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+673739,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,12,2026-03-31T21:00:03,2026-03-31T22:57:33,Scheduled test,Low capacity,Test normal,46.7,-52.2,102.1,20.0,VRLA12v_LeadAcid
+606644,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,11,2026-03-28T21:00:02,2026-03-28T23:00:56,Scheduled test,Low capacity,Test normal,47.0,-51.9,104.5,20.0,VRLA12v_LeadAcid
+541064,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,10,2026-03-25T21:00:01,2026-03-25T22:51:59,Scheduled test,Low capacity,Test normal,47.2,-54.2,101.2,20.0,VRLA12v_LeadAcid
+477167,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,9,2026-03-22T21:00:03,2026-03-22T22:51:27,Scheduled test,Low capacity,Test normal,46.7,-51.1,94.8,19.0,VRLA12v_LeadAcid
+394768,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,8,2026-03-19T21:00:01,2026-03-19T22:43:57,Scheduled test,Low capacity,Test normal,46.8,-54.0,93.6,18.0,VRLA12v_LeadAcid
+334117,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,7,2026-03-16T21:00:02,2026-03-16T22:48:42,Scheduled test,Low capacity,Test normal,46.4,-52.2,94.5,12.0,VRLA12v_LeadAcid
+274765,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,6,2026-03-13T21:00:03,2026-03-13T22:33:46,Scheduled test,Low capacity,Test normal,47.1,-57.0,88.9,10.0,VRLA12v_LeadAcid
+216702,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,5,2026-03-10T21:00:03,2026-03-10T22:40:47,Scheduled test,Low capacity,Test normal,46.7,-54.2,90.9,16.0,VRLA12v_LeadAcid
+160010,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,4,2026-03-07T21:00:01,2026-03-07T22:36:57,Scheduled test,Low capacity,Test normal,46.9,-55.0,88.8,10.0,VRLA12v_LeadAcid
+14251,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,1,2026-02-20T21:00:03,2026-02-20T23:18:58,Scheduled test,Low capacity,Test normal,46.9,-46.1,106.7,11.0,VRLA12v_LeadAcid
+14252,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,2,2026-02-17T21:00:03,2026-02-17T21:43:08,Scheduled test,Low temperature,Abnormal end,49.1,-41.7,30.0,5.0,VRLA12v_LeadAcid
+14253,10.63.73.162,BZD._15hor_SomangPlaza_MOS42_ULN,3,2026-02-12T21:00:03,2026-02-12T22:27:06,Scheduled test,Low capacity,Test normal,47.0,-52.8,76.5,6.0,VRLA12v_LeadAcid

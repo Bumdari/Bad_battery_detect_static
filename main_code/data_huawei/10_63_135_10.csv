@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+4868,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,1,2025-10-17T19:00:01,2025-10-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.2,-65.6,196.7,30.0,ESMU_Lithium
+4869,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,2,2025-10-02T19:00:00,2025-10-02T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-58.6,175.8,29.0,ESMU_Lithium
+4870,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,3,2025-09-19T19:00:00,2025-09-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.4,-57.5,172.5,28.0,ESMU_Lithium
+4871,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,4,2025-08-30T19:00:01,2025-08-30T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-55.9,167.6,29.0,ESMU_Lithium
+4872,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,5,2025-08-17T19:00:00,2025-08-17T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-56.9,170.8,29.0,ESMU_Lithium
+4873,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,6,2025-08-14T19:00:00,2025-08-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-56.3,168.8,29.0,ESMU_Lithium
+4874,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,7,2025-08-11T19:00:01,2025-08-11T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.5,-56.7,170.2,29.0,ESMU_Lithium
+4875,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,8,2025-08-08T19:00:01,2025-08-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-58.4,175.3,29.0,ESMU_Lithium
+4876,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,9,2025-08-05T19:00:01,2025-08-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.4,-58.1,174.3,29.0,ESMU_Lithium
+4877,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,10,2025-08-02T19:00:01,2025-08-02T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.4,-58.8,176.3,28.0,ESMU_Lithium
+4878,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,11,2025-07-30T19:00:02,2025-07-30T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.4,-58.4,175.2,28.0,ESMU_Lithium
+4879,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,12,2025-07-27T19:00:01,2025-07-27T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.4,-57.2,171.5,27.0,ESMU_Lithium
+4880,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,13,2025-07-24T19:00:00,2025-07-24T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-57.9,173.6,28.0,ESMU_Lithium
+4881,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,14,2025-07-21T19:00:01,2025-07-21T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-56.1,168.3,28.0,ESMU_Lithium
+4882,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,15,2025-07-18T19:00:00,2025-07-18T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-56.8,170.3,27.0,ESMU_Lithium
+4883,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,16,2025-07-15T19:00:01,2025-07-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.5,-57.4,172.1,27.0,ESMU_Lithium
+4884,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,17,2025-07-12T19:00:01,2025-07-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.4,-57.1,171.4,27.0,ESMU_Lithium
+4885,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,18,2025-07-09T19:00:00,2025-07-09T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-57.5,172.6,28.0,ESMU_Lithium
+4886,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,19,2025-07-06T19:00:01,2025-07-06T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-54.6,163.9,27.0,ESMU_Lithium
+4887,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,20,2025-07-03T19:00:00,2025-07-03T21:34:12,Scheduled test,Fault alarm,Abnormal end,48.6,-56.3,144.6,28.0,ESMU_Lithium
+4888,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,21,2025-06-30T19:00:00,2025-06-30T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-55.7,167.0,27.0,ESMU_Lithium
+4889,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,22,2025-06-26T19:00:01,2025-06-26T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.4,-57.1,171.3,27.0,ESMU_Lithium
+4890,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,23,2025-06-23T19:00:01,2025-06-23T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.5,-56.8,170.3,27.0,ESMU_Lithium
+4891,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,24,2025-06-20T19:00:01,2025-06-20T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.5,-54.8,164.3,26.0,ESMU_Lithium
+4892,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,25,2025-06-17T19:00:00,2025-06-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-54.7,164.2,27.0,ESMU_Lithium
+4893,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,26,2025-06-14T19:00:00,2025-06-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-48.5,145.5,27.0,ESMU_Lithium
+4894,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,27,2025-06-11T19:00:01,2025-06-11T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.7,-48.9,146.6,27.0,ESMU_Lithium
+4895,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,28,2025-06-08T19:00:01,2025-06-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-49.8,149.5,27.0,ESMU_Lithium
+4896,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,29,2025-06-05T19:00:02,2025-06-05T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.6,-49.3,147.8,27.0,ESMU_Lithium
+4897,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,30,2025-05-31T19:00:01,2025-05-31T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-49.0,147.0,29.0,ESMU_Lithium
+4898,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,31,2025-05-28T19:00:01,2025-05-28T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-48.0,144.0,29.0,ESMU_Lithium
+4899,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,32,2025-05-25T19:00:00,2025-05-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-50.5,151.6,27.0,ESMU_Lithium
+4900,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,33,2025-05-22T19:00:00,2025-05-22T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.6,-48.6,145.8,27.0,ESMU_Lithium
+4901,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,34,2025-05-19T19:00:01,2025-05-19T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-49.8,149.3,28.0,ESMU_Lithium
+4902,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,35,2025-05-16T19:00:01,2025-05-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-48.3,145.0,29.0,ESMU_Lithium
+4903,10.63.135.10,ORH.BayanUndur_21bag_Bayantal_SMP22,36,2025-05-13T19:00:00,2025-05-13T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-43.9,131.6,28.0,ESMU_Lithium

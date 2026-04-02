@@ -1,0 +1,12 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+636603,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,11,2026-03-30T19:00:01,2026-03-30T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-32.8,98.5,30.0,ESMU_Lithium
+570323,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,10,2026-03-27T19:00:00,2026-03-27T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-31.2,93.5,29.0,ESMU_Lithium
+505534,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,9,2026-03-24T19:00:01,2026-03-24T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-32.9,98.6,27.0,ESMU_Lithium
+442801,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,8,2026-03-21T19:00:01,2026-03-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-34.2,102.7,21.0,ESMU_Lithium
+361152,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,7,2026-03-18T19:00:01,2026-03-18T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-30.2,90.7,18.0,ESMU_Lithium
+281525,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,6,2026-03-14T19:00:00,2026-03-14T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-34.6,103.8,19.0,ESMU_Lithium
+204204,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,5,2026-03-10T19:00:00,2026-03-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-32.8,98.3,23.0,ESMU_Lithium
+147803,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,4,2026-03-07T19:00:00,2026-03-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-34.4,103.2,19.0,ESMU_Lithium
+2426,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,1,2026-02-20T19:00:00,2026-02-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-32.3,96.8,19.0,ESMU_Lithium
+2427,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,2,2026-02-17T19:00:00,2026-02-17T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.6,-31.4,94.2,16.0,ESMU_Lithium
+2428,10.63.101.174,CHD.GoodoiAm_SummerCamp_ULN,3,2026-02-12T19:00:01,2026-02-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-30.5,91.6,18.0,ESMU_Lithium

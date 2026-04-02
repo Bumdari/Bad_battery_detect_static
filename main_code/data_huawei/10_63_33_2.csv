@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+665469,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,45,2026-03-31T19:00:02,2026-03-31T20:44:34,Scheduled test,Low capacity,Test normal,49.8,-34.9,60.7,19.0,VRLA12v_LeadAcid
+598549,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,44,2026-03-28T19:00:03,2026-03-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-35.3,105.9,20.0,VRLA12v_LeadAcid
+533146,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,43,2026-03-25T19:00:03,2026-03-25T20:17:34,Scheduled test,Low capacity,Test normal,49.7,-36.0,46.5,19.0,VRLA12v_LeadAcid
+428147,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,42,2026-03-20T19:00:02,2026-03-20T21:05:33,Scheduled test,Low capacity,Test normal,49.3,-39.7,83.1,19.0,VRLA12v_LeadAcid
+346818,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,41,2026-03-17T19:00:02,2026-03-17T21:40:17,Scheduled test,Low capacity,Test normal,48.8,-38.5,102.8,20.0,VRLA12v_LeadAcid
+287187,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,40,2026-03-14T19:00:02,2026-03-14T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-40.3,120.8,20.0,VRLA12v_LeadAcid
+228844,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,39,2026-03-11T19:00:03,2026-03-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-41.9,125.6,21.0,VRLA12v_LeadAcid
+171854,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,38,2026-03-08T19:00:02,2026-03-08T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.1,-41.8,125.5,19.0,VRLA12v_LeadAcid
+116254,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,37,2026-03-05T19:00:03,2026-03-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.0,-42.3,126.8,19.0,VRLA12v_LeadAcid
+7595,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,1,2026-03-02T19:00:02,2026-03-02T21:20:41,Scheduled test,Low capacity,Test normal,49.0,-39.5,92.6,16.0,VRLA12v_LeadAcid
+7596,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,2,2026-02-27T19:00:02,2026-02-27T21:36:17,Scheduled test,Low capacity,Test normal,49.1,-37.3,97.1,16.0,VRLA12v_LeadAcid
+7597,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,3,2026-02-23T19:00:02,2026-02-23T21:57:51,Scheduled test,Low capacity,Test normal,48.3,-39.9,118.3,16.0,VRLA12v_LeadAcid
+7598,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,4,2026-02-20T19:00:03,2026-02-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-39.0,117.0,20.0,VRLA12v_LeadAcid
+7599,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,5,2026-02-17T19:00:03,2026-02-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-37.5,112.5,19.0,VRLA12v_LeadAcid
+7600,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,6,2026-02-14T19:00:02,2026-02-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-37.1,111.4,15.0,VRLA12v_LeadAcid
+7601,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,7,2026-02-11T19:00:03,2026-02-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-41.1,123.2,22.0,VRLA12v_LeadAcid
+7602,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,8,2026-02-07T19:00:03,2026-02-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-39.6,118.7,19.0,VRLA12v_LeadAcid
+7603,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,9,2026-02-04T19:00:02,2026-02-04T21:50:26,Scheduled test,Low capacity,Test normal,48.8,-39.1,110.9,15.0,VRLA12v_LeadAcid
+7604,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,10,2026-02-01T19:00:01,2026-02-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.2,-41.6,124.8,18.0,VRLA12v_LeadAcid
+7605,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,11,2026-01-28T19:00:03,2026-01-28T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-40.0,120.1,17.0,VRLA12v_LeadAcid
+7606,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,12,2026-01-25T19:00:02,2026-01-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-39.3,117.9,17.0,VRLA12v_LeadAcid
+7607,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,13,2026-01-22T19:00:02,2026-01-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-42.0,126.1,13.0,VRLA12v_LeadAcid
+7608,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,14,2026-01-19T19:00:03,2026-01-19T19:04:53,Scheduled test,Low temperature,Abnormal end,50.4,-32.0,2.6,5.0,VRLA12v_LeadAcid
+7609,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,15,2026-01-16T19:00:02,2026-01-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-38.2,114.6,10.0,VRLA12v_LeadAcid
+7610,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,16,2026-01-13T19:00:02,2026-01-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-41.6,124.9,19.0,VRLA12v_LeadAcid
+7611,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,17,2026-01-10T19:00:03,2026-01-10T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-39.0,117.1,16.0,VRLA12v_LeadAcid
+7612,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,18,2026-01-07T19:00:02,2026-01-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-41.1,123.3,17.0,VRLA12v_LeadAcid
+7613,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,19,2026-01-03T19:00:03,2026-01-03T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-42.4,127.1,15.0,VRLA12v_LeadAcid
+7614,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,20,2025-12-31T19:00:03,2025-12-31T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-39.3,117.8,14.0,VRLA12v_LeadAcid
+7615,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,21,2025-12-28T19:00:03,2025-12-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-39.0,116.9,13.0,VRLA12v_LeadAcid
+7616,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,22,2025-12-25T19:00:02,2025-12-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-39.6,118.8,15.0,VRLA12v_LeadAcid
+7617,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,23,2025-12-22T19:00:02,2025-12-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-40.7,122.1,12.0,VRLA12v_LeadAcid
+7618,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,24,2025-12-19T19:00:03,2025-12-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-39.5,118.5,9.0,VRLA12v_LeadAcid
+7619,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,25,2025-12-16T19:00:02,2025-12-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-41.9,125.6,15.0,VRLA12v_LeadAcid
+7620,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,26,2025-12-13T19:00:03,2025-12-13T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-40.3,121.0,11.0,VRLA12v_LeadAcid
+7621,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,27,2025-12-10T19:00:03,2025-12-10T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.9,-41.5,124.6,9.0,VRLA12v_LeadAcid
+7622,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,28,2025-12-07T19:00:03,2025-12-07T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-40.5,121.7,13.0,VRLA12v_LeadAcid
+7623,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,29,2025-12-04T19:00:02,2025-12-04T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.0,-42.1,126.2,13.0,VRLA12v_LeadAcid
+7624,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,30,2025-12-01T19:00:03,2025-12-01T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.0,-39.6,118.9,5.0,VRLA12v_LeadAcid
+7625,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,31,2025-11-28T19:00:02,2025-11-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-40.6,121.7,13.0,VRLA12v_LeadAcid
+7626,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,32,2025-11-25T19:00:02,2025-11-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-40.5,121.5,13.0,VRLA12v_LeadAcid
+7627,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,33,2025-11-22T19:00:02,2025-11-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-38.3,114.8,16.0,VRLA12v_LeadAcid
+7628,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,34,2025-11-19T19:00:03,2025-11-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-41.7,125.0,15.0,VRLA12v_LeadAcid
+7629,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,35,2025-11-16T19:00:02,2025-11-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-38.6,115.7,8.0,VRLA12v_LeadAcid
+7630,10.63.33.2,ARH.ErdeneBulgan_Tsagaandavaa_21_1toot_MP22,36,2025-11-13T19:00:02,2025-11-13T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.5,-41.7,125.2,16.0,VRLA12v_LeadAcid

@@ -1,0 +1,11 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+673076,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,10,2026-03-31T19:00:00,2026-03-31T23:24:36,Scheduled test,Low capacity,Test normal,48.2,-67.9,299.2,33.0,ESMU_Lithium
+605993,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,9,2026-03-28T19:00:01,2026-03-28T23:33:24,Scheduled test,Low capacity,Test normal,48.2,-65.3,297.6,33.0,ESMU_Lithium
+540426,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,8,2026-03-25T19:00:01,2026-03-25T23:25:25,Scheduled test,Low capacity,Test normal,48.2,-67.7,299.3,33.0,ESMU_Lithium
+476542,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,7,2026-03-22T19:00:01,2026-03-22T23:28:05,Scheduled test,Low capacity,Test normal,48.2,-67.0,299.2,33.0,ESMU_Lithium
+394156,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,6,2026-03-19T19:00:00,2026-03-19T23:22:19,Scheduled test,Low capacity,Test normal,48.1,-68.7,300.2,32.0,ESMU_Lithium
+313578,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,5,2026-03-15T19:00:01,2026-03-15T23:33:10,Scheduled test,Low capacity,Test normal,48.1,-65.7,299.1,31.0,ESMU_Lithium
+254675,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,4,2026-03-12T19:00:01,2026-03-12T23:23:03,Scheduled test,Low capacity,Test normal,48.1,-67.7,296.6,31.0,ESMU_Lithium
+197068,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,3,2026-03-09T19:00:00,2026-03-09T23:21:35,Scheduled test,Low capacity,Test normal,48.0,-68.6,299.0,31.0,ESMU_Lithium
+13703,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,1,2026-02-20T19:00:00,2026-02-20T23:35:29,Scheduled test,Low capacity,Test normal,48.1,-64.9,298.0,31.0,ESMU_Lithium
+13704,10.63.68.27,BZD._26hor_OlympVillage2_200bair_MOS42_ULN,2,2026-02-13T19:00:01,2026-02-13T23:21:03,Scheduled test,Low capacity,Test normal,47.7,-68.9,299.4,28.0,ESMU_Lithium

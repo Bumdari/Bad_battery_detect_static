@@ -1,0 +1,42 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+646239,10.63.44.163,BAH.Bumbugur_MW117_ISS100,41,2026-03-30T19:00:02,2026-03-30T20:19:35,Scheduled test,Low capacity,Test normal,47.3,-13.6,18.0,7.0,VRLA12v_LeadAcid
+557938,10.63.44.163,BAH.Bumbugur_MW117_ISS100,40,2026-03-26T19:00:02,2026-03-26T20:29:31,Scheduled test,Low capacity,Test normal,47.2,-13.6,20.2,8.0,VRLA12v_LeadAcid
+493446,10.63.44.163,BAH.Bumbugur_MW117_ISS100,39,2026-03-23T19:00:03,2026-03-23T20:36:25,Scheduled test,Low capacity,Test normal,47.2,-13.6,21.8,8.0,VRLA12v_LeadAcid
+431088,10.63.44.163,BAH.Bumbugur_MW117_ISS100,38,2026-03-20T19:00:03,2026-03-20T20:25:47,Scheduled test,Low temperature,Abnormal end,48.8,-13.5,19.3,5.0,VRLA12v_LeadAcid
+212431,10.63.44.163,BAH.Bumbugur_MW117_ISS100,37,2026-03-10T19:00:03,2026-03-10T20:44:31,Scheduled test,Low temperature,Abnormal end,48.6,-13.5,23.5,5.0,VRLA12v_LeadAcid
+10147,10.63.44.163,BAH.Bumbugur_MW117_ISS100,1,2025-11-05T19:00:02,2025-11-05T20:11:17,Scheduled test,Low temperature,Abnormal end,50.6,-13.2,15.7,5.0,VRLA12v_LeadAcid
+10148,10.63.44.163,BAH.Bumbugur_MW117_ISS100,2,2025-11-02T19:00:03,2025-11-02T21:27:05,Scheduled test,Low voltage,Battery alm,47.9,-13.4,32.8,8.0,VRLA12v_LeadAcid
+10149,10.63.44.163,BAH.Bumbugur_MW117_ISS100,3,2025-10-29T19:00:02,2025-10-29T21:21:08,Scheduled test,Fault alarm,Abnormal end,49.6,-13.4,31.5,6.0,VRLA12v_LeadAcid
+10150,10.63.44.163,BAH.Bumbugur_MW117_ISS100,4,2025-10-26T19:00:03,2025-10-26T21:52:50,Scheduled test,Low voltage,Battery alm,47.9,-13.4,38.6,6.0,VRLA12v_LeadAcid
+10151,10.63.44.163,BAH.Bumbugur_MW117_ISS100,5,2025-10-14T19:00:02,2025-10-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.3,-13.3,40.1,7.0,VRLA12v_LeadAcid
+10152,10.63.44.163,BAH.Bumbugur_MW117_ISS100,6,2025-10-11T19:00:03,2025-10-11T20:07:05,Scheduled test,Fault alarm,Abnormal end,50.6,-13.4,14.9,9.0,VRLA12v_LeadAcid
+10153,10.63.44.163,BAH.Bumbugur_MW117_ISS100,7,2025-10-08T19:00:01,2025-10-08T20:38:17,Scheduled test,Fault alarm,Abnormal end,50.5,-13.4,21.9,8.0,VRLA12v_LeadAcid
+10154,10.63.44.163,BAH.Bumbugur_MW117_ISS100,8,2025-10-04T19:00:03,2025-10-04T21:06:50,Scheduled test,Low voltage,Battery alm,47.9,-13.5,28.6,11.0,VRLA12v_LeadAcid
+10155,10.63.44.163,BAH.Bumbugur_MW117_ISS100,9,2025-10-01T19:00:02,2025-10-01T21:15:27,Scheduled test,Low voltage,Battery alm,48.0,-13.3,30.0,18.0,VRLA12v_LeadAcid
+10156,10.63.44.163,BAH.Bumbugur_MW117_ISS100,10,2025-09-28T19:00:03,2025-09-28T21:10:59,Scheduled test,Low voltage,Battery alm,48.0,-13.5,29.4,18.0,VRLA12v_LeadAcid
+10157,10.63.44.163,BAH.Bumbugur_MW117_ISS100,11,2025-09-25T19:00:03,2025-09-25T19:10:01,Scheduled test,Fault alarm,Abnormal end,50.9,-13.0,2.2,16.0,VRLA12v_LeadAcid
+10158,10.63.44.163,BAH.Bumbugur_MW117_ISS100,12,2025-09-22T19:00:03,2025-09-22T21:05:30,Scheduled test,Low voltage,Battery alm,47.9,-13.4,28.0,11.0,VRLA12v_LeadAcid
+10159,10.63.44.163,BAH.Bumbugur_MW117_ISS100,13,2025-09-19T19:00:02,2025-09-19T19:17:44,Scheduled test,Fault alarm,Abnormal end,51.1,-13.4,4.0,19.0,VRLA12v_LeadAcid
+10160,10.63.44.163,BAH.Bumbugur_MW117_ISS100,14,2025-09-16T19:00:02,2025-09-16T21:07:04,Scheduled test,Low voltage,Battery alm,47.9,-13.4,28.4,11.0,VRLA12v_LeadAcid
+10161,10.63.44.163,BAH.Bumbugur_MW117_ISS100,15,2025-09-13T19:00:03,2025-09-13T21:12:03,Scheduled test,Low voltage,Battery alm,47.9,-13.5,29.7,15.0,VRLA12v_LeadAcid
+10162,10.63.44.163,BAH.Bumbugur_MW117_ISS100,16,2025-09-09T19:00:03,2025-09-09T21:14:41,Scheduled test,Low voltage,Battery alm,47.9,-13.4,30.1,20.0,VRLA12v_LeadAcid
+10163,10.63.44.163,BAH.Bumbugur_MW117_ISS100,17,2025-09-06T19:00:03,2025-09-06T21:06:07,Scheduled test,Low voltage,Battery alm,48.0,-13.4,28.1,14.0,VRLA12v_LeadAcid
+10164,10.63.44.163,BAH.Bumbugur_MW117_ISS100,18,2025-09-03T19:00:02,2025-09-03T19:06:56,Scheduled test,Fault alarm,Abnormal end,50.9,-13.2,1.5,20.0,VRLA12v_LeadAcid
+10165,10.63.44.163,BAH.Bumbugur_MW117_ISS100,19,2025-08-31T19:00:03,2025-08-31T21:01:40,Scheduled test,Low voltage,Battery alm,48.0,-13.4,27.2,21.0,VRLA12v_LeadAcid
+10166,10.63.44.163,BAH.Bumbugur_MW117_ISS100,20,2025-08-28T19:00:03,2025-08-28T21:04:21,Scheduled test,Low voltage,Battery alm,48.0,-13.5,28.0,19.0,VRLA12v_LeadAcid
+10167,10.63.44.163,BAH.Bumbugur_MW117_ISS100,21,2025-08-25T19:00:03,2025-08-25T20:53:47,Scheduled test,Low voltage,Battery alm,47.9,-13.5,25.5,23.0,VRLA12v_LeadAcid
+10168,10.63.44.163,BAH.Bumbugur_MW117_ISS100,22,2025-08-21T19:00:02,2025-08-21T20:54:44,Scheduled test,Low voltage,Battery alm,47.9,-13.6,26.0,20.0,VRLA12v_LeadAcid
+10169,10.63.44.163,BAH.Bumbugur_MW117_ISS100,23,2025-08-18T19:00:02,2025-08-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.8,-10.0,30.1,24.0,VRLA12v_LeadAcid
+10170,10.63.44.163,BAH.Bumbugur_MW117_ISS100,24,2025-08-15T19:00:03,2025-08-15T22:00:12,Scheduled test,Exceeded time limit,Test normal,50.4,-10.1,30.2,23.0,VRLA12v_LeadAcid
+10171,10.63.44.163,BAH.Bumbugur_MW117_ISS100,25,2025-08-12T19:00:03,2025-08-12T22:00:13,Scheduled test,Exceeded time limit,Test normal,50.2,-13.4,40.4,24.0,VRLA12v_LeadAcid
+10172,10.63.44.163,BAH.Bumbugur_MW117_ISS100,26,2025-08-09T19:00:02,2025-08-09T21:06:29,Scheduled test,Low voltage,Battery alm,48.0,-13.5,28.4,24.0,VRLA12v_LeadAcid
+10173,10.63.44.163,BAH.Bumbugur_MW117_ISS100,27,2025-08-06T19:00:03,2025-08-06T21:04:34,Scheduled test,Low voltage,Battery alm,48.0,-13.5,28.0,24.0,VRLA12v_LeadAcid
+10174,10.63.44.163,BAH.Bumbugur_MW117_ISS100,28,2025-08-03T19:00:02,2025-08-03T21:04:08,Scheduled test,Low voltage,Battery alm,48.0,-13.6,28.2,23.0,VRLA12v_LeadAcid
+10175,10.63.44.163,BAH.Bumbugur_MW117_ISS100,29,2025-07-31T19:00:03,2025-07-31T21:03:43,Scheduled test,Low voltage,Battery alm,48.0,-13.7,28.2,27.0,VRLA12v_LeadAcid
+10176,10.63.44.163,BAH.Bumbugur_MW117_ISS100,30,2025-07-28T19:00:02,2025-07-28T21:17:44,Scheduled test,Low voltage,Battery alm,48.0,-13.6,31.1,29.0,VRLA12v_LeadAcid
+10177,10.63.44.163,BAH.Bumbugur_MW117_ISS100,31,2025-07-25T19:00:03,2025-07-25T21:11:49,Scheduled test,Low voltage,Battery alm,48.0,-13.6,29.8,24.0,VRLA12v_LeadAcid
+10178,10.63.44.163,BAH.Bumbugur_MW117_ISS100,32,2025-07-22T19:00:02,2025-07-22T21:12:53,Scheduled test,Low voltage,Battery alm,48.0,-13.5,29.9,21.0,VRLA12v_LeadAcid
+10179,10.63.44.163,BAH.Bumbugur_MW117_ISS100,33,2025-07-19T19:00:03,2025-07-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,51.8,-3.3,9.9,23.0,VRLA12v_LeadAcid
+10180,10.63.44.163,BAH.Bumbugur_MW117_ISS100,34,2025-07-16T19:00:02,2025-07-16T21:06:32,Scheduled test,Low voltage,Battery alm,47.9,-13.9,29.3,28.0,VRLA12v_LeadAcid
+10181,10.63.44.163,BAH.Bumbugur_MW117_ISS100,35,2025-07-13T19:00:03,2025-07-13T21:11:27,Scheduled test,Low voltage,Battery alm,48.0,-13.7,29.9,23.0,VRLA12v_LeadAcid
+10182,10.63.44.163,BAH.Bumbugur_MW117_ISS100,36,2025-07-10T19:00:03,2025-07-10T21:20:36,Scheduled test,Low voltage,Battery alm,48.0,-14.0,32.8,26.0,VRLA12v_LeadAcid

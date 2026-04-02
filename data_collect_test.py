@@ -10,6 +10,7 @@ url = "http://172.27.53.235:8000/ztebattery/latest"
 # "http://172.27.53.235:8000/hwbattery?page=1&limit=50" - HW buh data-g pagenation hiij harah
 # "http://172.27.53.235:8000/hwbattery/date/2026-3-7" - HW data -g date eer filter hiij harah
 
+# "http://172.27.53.235:8000/hwbattery/device/{ip}" 
 # "http://172.27.53.235:8000/ztebattery/device/{ip}" - zte dr ztebattery gd ard n bh endpoint uud adilhan
 
 headers = {

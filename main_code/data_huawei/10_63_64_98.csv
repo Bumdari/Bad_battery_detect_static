@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+695003,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,46,2026-04-01T19:00:02,2026-04-01T19:49:34,Scheduled test,Low capacity,Test normal,50.2,-22.7,18.8,17.0,VRLA12v_LeadAcid
+627468,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,45,2026-03-29T19:00:05,2026-03-29T21:29:46,Scheduled test,Low capacity,Test normal,47.1,-21.0,52.4,17.0,VRLA12v_LeadAcid
+561412,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,44,2026-03-26T19:00:02,2026-03-26T19:50:56,Scheduled test,Low capacity,Test normal,50.1,-21.3,18.0,17.0,VRLA12v_LeadAcid
+496807,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,43,2026-03-23T19:00:02,2026-03-23T22:09:44,Scheduled test,Low capacity,Test normal,47.0,-23.6,74.5,19.0,VRLA12v_LeadAcid
+373109,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,42,2026-03-18T19:00:03,2026-03-18T19:06:33,Scheduled test,Fault alarm,Abnormal end,49.9,-22.2,2.4,16.0,VRLA12v_LeadAcid
+312910,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,41,2026-03-15T19:00:04,2026-03-15T21:19:15,Scheduled test,Low capacity,Test normal,46.7,-22.1,51.2,19.0,VRLA12v_LeadAcid
+254021,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,40,2026-03-12T19:00:04,2026-03-12T21:22:40,Scheduled test,Low capacity,Test normal,46.5,-21.9,52.1,18.0,VRLA12v_LeadAcid
+196428,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,39,2026-03-09T19:00:03,2026-03-09T20:48:54,Scheduled test,Fault alarm,Abnormal end,49.6,-21.8,39.5,17.0,VRLA12v_LeadAcid
+140208,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,38,2026-03-06T19:00:02,2026-03-06T21:20:26,Scheduled test,Low capacity,Test normal,47.1,-24.1,56.4,18.0,VRLA12v_LeadAcid
+13088,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,37,2026-03-03T19:00:02,2026-03-03T19:31:32,Scheduled test,Fault alarm,Abnormal end,49.9,-24.0,12.6,16.0,VRLA12v_LeadAcid
+13052,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,1,2026-02-28T19:00:05,2026-02-28T21:05:08,Scheduled test,Low capacity,Test normal,46.8,-23.5,48.9,15.0,VRLA12v_LeadAcid
+13053,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,2,2026-02-25T19:00:04,2026-02-25T21:17:04,Scheduled test,Low capacity,Test normal,46.9,-21.2,48.5,11.0,VRLA12v_LeadAcid
+13054,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,3,2026-02-19T19:00:05,2026-02-19T21:01:43,Scheduled test,Low capacity,Test normal,46.2,-26.1,52.8,17.0,VRLA12v_LeadAcid
+13055,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,4,2026-02-16T19:00:03,2026-02-16T21:17:22,Scheduled test,Low capacity,Test normal,46.8,-24.6,56.3,16.0,VRLA12v_LeadAcid
+13056,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,5,2026-02-13T19:00:02,2026-02-13T20:00:02,Scheduled test,Low capacity,Test normal,49.9,-23.9,23.9,16.0,VRLA12v_LeadAcid
+13057,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,6,2026-02-10T19:00:03,2026-02-10T21:38:24,Scheduled test,Low capacity,Test normal,47.8,-23.4,61.6,17.0,VRLA12v_LeadAcid
+13058,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,7,2026-02-07T19:00:05,2026-02-07T19:46:38,Scheduled test,Low capacity,Test normal,50.2,-23.7,18.3,17.0,VRLA12v_LeadAcid
+13059,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,8,2026-02-04T19:00:04,2026-02-04T21:31:09,Scheduled test,Low capacity,Test normal,48.1,-24.9,62.6,16.0,VRLA12v_LeadAcid
+13060,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,9,2026-02-01T19:00:05,2026-02-01T21:27:32,Scheduled test,Low capacity,Test normal,46.5,-26.5,65.1,17.0,VRLA12v_LeadAcid
+13061,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,10,2026-01-29T19:00:03,2026-01-29T19:36:04,Scheduled test,Low capacity,Test normal,50.2,-21.3,12.8,17.0,VRLA12v_LeadAcid
+13062,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,11,2026-01-24T19:00:01,2026-01-24T19:42:05,Scheduled test,Low capacity,Test normal,50.1,-22.9,16.0,17.0,VRLA12v_LeadAcid
+13063,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,12,2026-01-19T19:00:05,2026-01-19T22:07:05,Scheduled test,Low capacity,Test normal,46.8,-22.7,70.7,17.0,VRLA12v_LeadAcid
+13064,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,13,2026-01-16T19:00:04,2026-01-16T22:05:48,Scheduled test,Low capacity,Test normal,47.4,-24.2,75.0,19.0,VRLA12v_LeadAcid
+13065,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,14,2026-01-13T19:00:05,2026-01-13T22:01:04,Scheduled test,Low capacity,Test normal,47.4,-25.3,76.2,20.0,VRLA12v_LeadAcid
+13066,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,15,2026-01-10T19:00:03,2026-01-10T22:18:42,Scheduled test,Low capacity,Test normal,47.2,-25.5,84.3,20.0,VRLA12v_LeadAcid
+13067,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,16,2026-01-07T19:00:03,2026-01-07T20:03:30,Scheduled test,Low capacity,Test normal,49.9,-24.7,26.1,21.0,VRLA12v_LeadAcid
+13068,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,17,2026-01-04T19:00:04,2026-01-04T22:12:14,Scheduled test,Low capacity,Test normal,46.7,-25.7,82.4,19.0,VRLA12v_LeadAcid
+13069,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,18,2026-01-01T19:00:05,2026-01-01T22:14:38,Scheduled test,Low capacity,Test normal,47.3,-24.5,79.5,19.0,VRLA12v_LeadAcid
+13070,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,19,2025-12-29T19:00:04,2025-12-29T22:45:25,Scheduled test,Low capacity,Test normal,46.8,-21.7,81.3,18.0,VRLA12v_LeadAcid
+13071,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,20,2025-12-26T19:00:02,2025-12-26T22:57:45,Scheduled test,Low capacity,Test normal,47.0,-22.7,89.7,15.0,VRLA12v_LeadAcid
+13072,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,21,2025-12-23T19:00:05,2025-12-23T22:28:44,Scheduled test,Low capacity,Test normal,46.6,-23.5,81.6,17.0,VRLA12v_LeadAcid
+13073,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,22,2025-12-20T19:00:04,2025-12-20T22:12:36,Scheduled test,Low capacity,Test normal,46.8,-26.4,84.6,16.0,VRLA12v_LeadAcid
+13074,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,23,2025-12-17T19:00:04,2025-12-17T22:28:28,Scheduled test,Low capacity,Test normal,47.9,-24.2,84.0,19.0,VRLA12v_LeadAcid
+13075,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,24,2025-12-14T19:00:05,2025-12-14T23:00:26,Scheduled test,Low capacity,Test normal,46.9,-23.2,92.9,18.0,VRLA12v_LeadAcid
+13076,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,25,2025-12-11T19:00:05,2025-12-11T23:10:48,Scheduled test,Low capacity,Test normal,47.1,-22.0,91.9,18.0,VRLA12v_LeadAcid
+13077,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,26,2025-12-08T19:00:03,2025-12-08T23:00:04,Scheduled test,Low capacity,Test normal,47.8,-23.3,93.2,18.0,VRLA12v_LeadAcid
+13078,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,27,2025-12-05T19:00:03,2025-12-05T19:49:21,Scheduled test,Low capacity,Test normal,50.1,-22.9,18.8,19.0,VRLA12v_LeadAcid
+13079,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,28,2025-12-02T19:00:04,2025-12-02T23:10:17,Scheduled test,Low capacity,Test normal,46.7,-23.5,97.8,20.0,VRLA12v_LeadAcid
+13080,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,29,2025-11-29T19:00:04,2025-11-29T23:12:15,Scheduled test,Low capacity,Test normal,46.9,-24.4,102.7,21.0,VRLA12v_LeadAcid
+13081,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,30,2025-11-26T19:00:04,2025-11-26T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.4,-22.9,68.8,20.0,VRLA12v_LeadAcid
+13082,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,31,2025-11-23T19:00:04,2025-11-23T22:00:14,Scheduled test,Exceeded time limit,Test normal,47.7,-26.0,78.2,21.0,VRLA12v_LeadAcid
+13083,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,32,2025-11-20T19:00:04,2025-11-20T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-23.2,69.5,20.0,VRLA12v_LeadAcid
+13084,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,33,2025-11-17T19:00:05,2025-11-17T22:00:16,Scheduled test,Exceeded time limit,Test normal,48.2,-23.2,69.7,18.0,VRLA12v_LeadAcid
+13085,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,34,2025-11-14T19:00:04,2025-11-14T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.5,-24.2,72.6,16.0,VRLA12v_LeadAcid
+13086,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,35,2025-11-11T19:00:05,2025-11-11T22:00:15,Scheduled test,Exceeded time limit,Test normal,48.2,-25.4,76.3,24.0,VRLA12v_LeadAcid
+13087,10.63.64.98,SHD._10hor_Bayanhoshuu_Jantsan_MP21_ULN,36,2025-11-08T19:00:04,2025-11-08T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.8,-24.1,72.4,21.0,VRLA12v_LeadAcid

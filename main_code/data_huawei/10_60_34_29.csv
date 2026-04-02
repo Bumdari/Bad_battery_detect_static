@@ -1,0 +1,12 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+503526,10.60.34.29,HUD.Sonsgolondenj_ULN,1,2019-06-22T15:52:06,2019-06-22T15:57:08,Short test,Exceeded time limit,No result,49.9,-37.6,3.2,,UNKNOWN
+503527,10.60.34.29,HUD.Sonsgolondenj_ULN,2,2019-05-21T03:54:31,2019-05-21T03:59:33,Short test,Exceeded time limit,No result,50.0,-28.0,2.3,,UNKNOWN
+503528,10.60.34.29,HUD.Sonsgolondenj_ULN,3,2019-04-03T14:46:36,2019-04-03T14:51:38,Short test,Exceeded time limit,No result,48.0,-5.9,0.5,,UNKNOWN
+503529,10.60.34.29,HUD.Sonsgolondenj_ULN,4,2019-03-04T03:10:34,2019-03-04T03:15:36,Short test,Exceeded time limit,No result,49.4,-28.5,2.4,,UNKNOWN
+503530,10.60.34.29,HUD.Sonsgolondenj_ULN,5,2019-01-19T23:34:24,2019-01-19T23:39:26,Short test,Exceeded time limit,No result,48.8,-32.4,2.7,,UNKNOWN
+503531,10.60.34.29,HUD.Sonsgolondenj_ULN,6,2018-12-19T05:51:51,2018-12-19T05:56:53,Short test,Exceeded time limit,No result,49.0,-30.9,2.6,,UNKNOWN
+503532,10.60.34.29,HUD.Sonsgolondenj_ULN,7,2018-11-05T11:54:21,2018-11-05T11:59:23,Short test,Exceeded time limit,No result,48.5,-33.3,2.8,,UNKNOWN
+503533,10.60.34.29,HUD.Sonsgolondenj_ULN,8,2018-10-06T11:45:47,2018-10-06T11:50:49,Short test,Exceeded time limit,No result,49.2,-35.0,2.9,,UNKNOWN
+503534,10.60.34.29,HUD.Sonsgolondenj_ULN,9,2018-09-06T11:37:17,2018-09-06T11:42:19,Short test,Exceeded time limit,No result,49.3,-33.4,2.8,,UNKNOWN
+503535,10.60.34.29,HUD.Sonsgolondenj_ULN,10,2017-09-26T11:20:41,2017-09-26T11:25:43,Short test,Exceeded time limit,No result,49.4,-16.6,1.4,,UNKNOWN
+503536,10.60.34.29,HUD.Sonsgolondenj_ULN,11,2017-08-27T11:11:39,2017-08-27T11:16:41,Short test,Exceeded time limit,No result,50.0,-18.2,1.5,,UNKNOWN

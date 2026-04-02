@@ -1,0 +1,7 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+659435,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,6,2026-03-31T21:00:00,2026-04-01T00:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-12.8,38.4,,VRLA12v_LeadAcid
+592638,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,5,2026-03-28T21:00:01,2026-03-29T00:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-13.6,40.9,,VRLA12v_LeadAcid
+527365,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,4,2026-03-25T21:00:01,2026-03-26T00:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-12.3,36.8,,VRLA12v_LeadAcid
+463906,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,3,2026-03-22T21:00:01,2026-03-23T00:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-12.7,38.0,,VRLA12v_LeadAcid
+381795,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,2,2026-03-19T21:00:01,2026-03-20T00:00:09,Scheduled test,Exceeded time limit,Test normal,49.6,-12.3,37.0,,VRLA12v_LeadAcid
+2758,10.63.102.90,CHD._19hor_Maihantolgoi2_Temprorary_TEMP_ULN,1,2026-02-05T21:00:00,2026-02-06T05:00:15,Scheduled test,Exceeded time limit,Test normal,46.6,-12.2,97.7,,VRLA12v_LeadAcid

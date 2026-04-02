@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+638236,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,45,2026-03-30T19:00:03,2026-03-30T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.9,-32.9,98.7,20.0,VRLA12v_LeadAcid
+571920,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,44,2026-03-27T19:00:02,2026-03-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-33.3,99.8,20.0,VRLA12v_LeadAcid
+465065,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,43,2026-03-22T19:00:03,2026-03-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-29.7,89.2,20.0,VRLA12v_LeadAcid
+382928,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,42,2026-03-19T19:00:02,2026-03-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-32.8,98.5,17.0,VRLA12v_LeadAcid
+322522,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,41,2026-03-16T19:00:03,2026-03-16T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.7,-31.0,92.9,13.0,VRLA12v_LeadAcid
+263418,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,40,2026-03-13T19:00:03,2026-03-13T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.8,-32.9,98.6,11.0,VRLA12v_LeadAcid
+205606,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,39,2026-03-10T19:00:03,2026-03-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-33.7,101.1,17.0,VRLA12v_LeadAcid
+149172,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,38,2026-03-07T19:00:02,2026-03-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-35.3,105.9,14.0,VRLA12v_LeadAcid
+94116,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,37,2026-03-04T19:00:02,2026-03-04T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-32.4,97.3,9.0,VRLA12v_LeadAcid
+3726,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,1,2026-03-01T19:00:02,2026-03-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-35.7,107.3,10.0,VRLA12v_LeadAcid
+3727,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,2,2026-02-25T19:00:02,2026-02-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-30.8,92.4,10.0,VRLA12v_LeadAcid
+3728,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,3,2026-02-22T19:00:02,2026-02-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-32.1,96.3,8.0,VRLA12v_LeadAcid
+3729,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,4,2026-02-19T19:00:02,2026-02-19T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.9,-30.1,90.3,15.0,VRLA12v_LeadAcid
+3730,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,5,2026-02-16T19:00:03,2026-02-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-31.3,93.8,10.0,VRLA12v_LeadAcid
+3731,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,6,2026-02-13T19:00:02,2026-02-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-32.4,97.2,11.0,VRLA12v_LeadAcid
+3732,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,7,2026-02-10T19:00:02,2026-02-10T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-31.6,94.8,10.0,VRLA12v_LeadAcid
+3733,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,8,2026-02-07T19:00:03,2026-02-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-32.5,97.4,9.0,VRLA12v_LeadAcid
+3734,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,9,2026-02-04T19:00:02,2026-02-04T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-30.8,92.5,8.0,VRLA12v_LeadAcid
+3735,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,10,2026-02-01T19:00:02,2026-02-01T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-33.4,100.1,10.0,VRLA12v_LeadAcid
+3736,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,11,2026-01-29T19:00:03,2026-01-29T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.5,-33.0,99.0,8.0,VRLA12v_LeadAcid
+3737,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,12,2026-01-26T19:00:03,2026-01-26T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.6,-31.3,94.0,9.0,VRLA12v_LeadAcid
+3738,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,13,2026-01-23T19:00:03,2026-01-23T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.3,-32.7,98.1,7.0,VRLA12v_LeadAcid
+3739,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,14,2026-01-20T19:00:01,2026-01-20T19:07:08,Scheduled test,Low temperature,Abnormal end,48.8,-30.7,3.6,5.0,VRLA12v_LeadAcid
+3740,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,15,2026-01-16T19:00:02,2026-01-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.1,-32.2,96.6,9.0,VRLA12v_LeadAcid
+3741,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,16,2026-01-13T19:00:02,2026-01-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-36.2,108.7,9.0,VRLA12v_LeadAcid
+3742,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,17,2026-01-10T19:00:03,2026-01-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-36.8,110.3,9.0,VRLA12v_LeadAcid
+3743,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,18,2026-01-07T19:00:02,2026-01-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-33.5,100.6,9.0,VRLA12v_LeadAcid
+3744,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,19,2026-01-04T19:00:03,2026-01-04T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-32.2,96.5,9.0,VRLA12v_LeadAcid
+3745,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,20,2026-01-01T19:00:03,2026-01-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-35.5,106.5,10.0,VRLA12v_LeadAcid
+3746,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,21,2025-12-29T19:00:03,2025-12-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-33.2,99.7,9.0,VRLA12v_LeadAcid
+3747,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,22,2025-12-26T19:00:03,2025-12-26T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-29.1,87.3,9.0,VRLA12v_LeadAcid
+3748,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,23,2025-12-23T19:00:02,2025-12-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-32.6,97.7,9.0,VRLA12v_LeadAcid
+3749,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,24,2025-12-20T19:00:03,2025-12-20T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-32.9,98.8,7.0,VRLA12v_LeadAcid
+3750,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,25,2025-12-17T19:00:02,2025-12-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-31.4,94.1,10.0,VRLA12v_LeadAcid
+3751,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,26,2025-12-14T19:00:02,2025-12-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-22.7,68.1,10.0,VRLA12v_LeadAcid
+3752,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,27,2025-12-11T19:00:03,2025-12-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-21.5,64.4,8.0,VRLA12v_LeadAcid
+3753,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,28,2025-12-08T19:00:02,2025-12-08T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-21.9,65.8,9.0,VRLA12v_LeadAcid
+3754,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,29,2025-12-05T19:00:02,2025-12-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.9,-22.4,67.3,10.0,VRLA12v_LeadAcid
+3755,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,30,2025-12-02T19:00:03,2025-12-02T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.8,-22.4,67.2,6.0,VRLA12v_LeadAcid
+3756,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,31,2025-11-29T19:00:03,2025-11-29T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.9,-22.1,66.3,10.0,VRLA12v_LeadAcid
+3757,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,32,2025-11-26T19:00:02,2025-11-26T22:00:10,Scheduled test,Exceeded time limit,Test normal,49.0,-22.5,67.5,10.0,VRLA12v_LeadAcid
+3758,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,33,2025-11-23T19:00:02,2025-11-23T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.9,-22.5,67.4,10.0,VRLA12v_LeadAcid
+3759,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,34,2025-11-20T19:00:02,2025-11-20T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.2,-21.6,64.9,10.0,VRLA12v_LeadAcid
+3760,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,35,2025-11-17T19:00:02,2025-11-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-22.3,66.9,10.0,VRLA12v_LeadAcid
+3761,10.63.113.2,HUD._14hor_Ulziit_5gudamj_123toot_ULN,36,2025-11-14T19:00:02,2025-11-14T21:52:33,Scheduled test,Fault alarm,Abnormal end,49.2,-24.7,70.9,12.0,VRLA12v_LeadAcid

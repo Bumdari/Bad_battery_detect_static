@@ -1,0 +1,45 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+503268,10.60.28.229,SEL.Suhbaatar_Urtaria,44,2026-03-24T19:00:00,2026-03-24T20:26:02,Scheduled test,Low capacity,Test normal,47.4,-115.5,165.5,18.0,VRLA12v_LeadAcid
+482266,10.60.28.229,SEL.Suhbaatar_Urtaria,43,2026-03-21T19:00:00,2026-03-21T20:25:36,Scheduled test,Low capacity,Test normal,47.4,-116.7,166.5,19.0,VRLA12v_LeadAcid
+359099,10.60.28.229,SEL.Suhbaatar_Urtaria,42,2026-03-18T19:00:00,2026-03-18T20:18:07,Scheduled test,Low capacity,Test normal,47.7,-123.1,160.1,18.0,VRLA12v_LeadAcid
+299200,10.60.28.229,SEL.Suhbaatar_Urtaria,41,2026-03-15T19:00:01,2026-03-15T20:13:27,Scheduled test,Low capacity,Test normal,47.6,-128.3,157.0,18.0,VRLA12v_LeadAcid
+240603,10.60.28.229,SEL.Suhbaatar_Urtaria,40,2026-03-12T19:00:01,2026-03-12T20:10:02,Scheduled test,Low capacity,Test normal,47.5,-131.2,153.1,18.0,VRLA12v_LeadAcid
+183329,10.60.28.229,SEL.Suhbaatar_Urtaria,39,2026-03-09T19:00:00,2026-03-09T20:14:50,Scheduled test,Low capacity,Test normal,47.4,-128.1,159.7,19.0,VRLA12v_LeadAcid
+127452,10.60.28.229,SEL.Suhbaatar_Urtaria,38,2026-03-06T19:00:00,2026-03-06T20:17:36,Scheduled test,Low capacity,Test normal,47.4,-130.0,168.0,17.0,VRLA12v_LeadAcid
+612,10.60.28.229,SEL.Suhbaatar_Urtaria,37,2026-03-03T19:00:01,2026-03-03T20:21:53,Scheduled test,Low capacity,Test normal,47.2,-125.7,171.5,17.0,VRLA12v_LeadAcid
+576,10.60.28.229,SEL.Suhbaatar_Urtaria,1,2026-02-28T19:00:00,2026-02-28T20:19:00,Scheduled test,Low capacity,Test normal,47.3,-125.9,165.7,16.0,VRLA12v_LeadAcid
+577,10.60.28.229,SEL.Suhbaatar_Urtaria,2,2026-02-25T19:00:01,2026-02-25T20:20:06,Scheduled test,Low capacity,Test normal,47.4,-123.8,165.2,17.0,VRLA12v_LeadAcid
+578,10.60.28.229,SEL.Suhbaatar_Urtaria,3,2026-02-22T19:00:01,2026-02-22T20:19:31,Scheduled test,Low capacity,Test normal,47.5,-124.4,164.8,18.0,VRLA12v_LeadAcid
+579,10.60.28.229,SEL.Suhbaatar_Urtaria,4,2026-02-19T19:00:00,2026-02-19T20:25:52,Scheduled test,Low capacity,Test normal,47.5,-120.6,172.5,19.0,VRLA12v_LeadAcid
+580,10.60.28.229,SEL.Suhbaatar_Urtaria,5,2026-02-16T19:00:00,2026-02-16T20:16:28,Scheduled test,Low capacity,Test normal,47.5,-129.7,165.2,18.0,VRLA12v_LeadAcid
+581,10.60.28.229,SEL.Suhbaatar_Urtaria,6,2026-02-13T19:00:01,2026-02-13T20:21:07,Scheduled test,Low capacity,Test normal,47.4,-126.0,170.3,18.0,VRLA12v_LeadAcid
+582,10.60.28.229,SEL.Suhbaatar_Urtaria,7,2026-02-10T19:00:00,2026-02-10T20:24:46,Scheduled test,Low capacity,Test normal,47.4,-121.8,172.0,17.0,VRLA12v_LeadAcid
+583,10.60.28.229,SEL.Suhbaatar_Urtaria,8,2026-02-07T19:00:00,2026-02-07T20:19:18,Scheduled test,Low capacity,Test normal,47.7,-126.3,166.9,13.0,VRLA12v_LeadAcid
+584,10.60.28.229,SEL.Suhbaatar_Urtaria,9,2026-02-04T19:00:01,2026-02-04T20:27:03,Scheduled test,Low capacity,Test normal,47.4,-123.2,178.6,16.0,VRLA12v_LeadAcid
+585,10.60.28.229,SEL.Suhbaatar_Urtaria,10,2026-02-01T19:00:01,2026-02-01T20:28:01,Scheduled test,Low capacity,Test normal,47.7,-122.3,179.3,16.0,VRLA12v_LeadAcid
+586,10.60.28.229,SEL.Suhbaatar_Urtaria,11,2026-01-29T19:00:02,2026-01-29T20:20:39,Scheduled test,Low capacity,Test normal,47.3,-120.5,161.9,7.0,VRLA12v_LeadAcid
+587,10.60.28.229,SEL.Suhbaatar_Urtaria,12,2026-01-24T19:00:01,2026-01-24T20:24:41,Scheduled test,Low capacity,Test normal,47.6,-124.6,175.8,6.0,VRLA12v_LeadAcid
+588,10.60.28.229,SEL.Suhbaatar_Urtaria,13,2026-01-14T19:00:00,2026-01-14T20:06:30,Scheduled test,Low capacity,Test normal,47.5,-124.7,138.1,7.0,VRLA12v_LeadAcid
+589,10.60.28.229,SEL.Suhbaatar_Urtaria,14,2026-01-10T19:00:01,2026-01-10T20:09:46,Scheduled test,Low capacity,Test normal,47.2,-124.6,144.9,7.0,VRLA12v_LeadAcid
+590,10.60.28.229,SEL.Suhbaatar_Urtaria,15,2026-01-07T19:00:01,2026-01-07T20:12:23,Scheduled test,Low capacity,Test normal,47.3,-122.5,147.7,8.0,VRLA12v_LeadAcid
+591,10.60.28.229,SEL.Suhbaatar_Urtaria,16,2026-01-04T19:00:01,2026-01-04T20:12:21,Scheduled test,Low capacity,Test normal,47.3,-123.5,148.9,7.0,VRLA12v_LeadAcid
+592,10.60.28.229,SEL.Suhbaatar_Urtaria,17,2025-12-27T19:00:00,2025-12-27T20:11:16,Scheduled test,Low capacity,Test normal,47.5,-121.5,144.2,7.0,VRLA12v_LeadAcid
+593,10.60.28.229,SEL.Suhbaatar_Urtaria,18,2025-12-18T19:00:01,2025-12-18T20:16:33,Scheduled test,Low capacity,Test normal,47.4,-119.8,152.7,14.0,VRLA12v_LeadAcid
+594,10.60.28.229,SEL.Suhbaatar_Urtaria,19,2025-11-27T21:42:39,2025-11-27T21:47:41,Short test,Exceeded time limit,No result,49.0,-115.7,9.7,12.0,VRLA12v_LeadAcid
+595,10.60.28.229,SEL.Suhbaatar_Urtaria,20,2025-10-28T12:28:10,2025-10-28T12:33:13,Short test,Exceeded time limit,No result,49.1,-109.2,9.2,18.0,VRLA12v_LeadAcid
+596,10.60.28.229,SEL.Suhbaatar_Urtaria,21,2025-09-28T03:13:38,2025-09-28T03:18:40,Short test,Exceeded time limit,No result,49.3,-89.2,7.5,19.0,VRLA12v_LeadAcid
+597,10.60.28.229,SEL.Suhbaatar_Urtaria,22,2025-08-29T00:19:59,2025-08-29T00:25:01,Short test,Exceeded time limit,No result,49.3,-98.0,8.2,20.0,VRLA12v_LeadAcid
+598,10.60.28.229,SEL.Suhbaatar_Urtaria,23,2025-07-30T00:00:48,2025-07-30T00:05:50,Short test,Exceeded time limit,No result,49.3,-106.1,8.9,19.0,VRLA12v_LeadAcid
+599,10.60.28.229,SEL.Suhbaatar_Urtaria,24,2025-06-29T23:41:38,2025-06-29T23:46:40,Short test,Exceeded time limit,No result,49.8,-114.8,9.6,23.0,VRLA12v_LeadAcid
+600,10.60.28.229,SEL.Suhbaatar_Urtaria,25,2025-05-30T23:22:25,2025-05-30T23:27:28,Short test,Exceeded time limit,No result,49.4,-109.2,9.2,19.0,VRLA12v_LeadAcid
+601,10.60.28.229,SEL.Suhbaatar_Urtaria,26,2025-04-30T23:03:18,2025-04-30T23:08:20,Short test,Exceeded time limit,No result,49.4,-104.1,8.7,21.0,VRLA12v_LeadAcid
+602,10.60.28.229,SEL.Suhbaatar_Urtaria,27,2025-03-31T22:44:00,2025-03-31T22:49:02,Short test,Exceeded time limit,No result,49.9,-92.2,7.7,21.0,VRLA12v_LeadAcid
+603,10.60.28.229,SEL.Suhbaatar_Urtaria,28,2025-03-01T22:24:41,2025-03-01T22:29:44,Short test,Exceeded time limit,No result,49.9,-92.6,7.8,14.0,VRLA12v_LeadAcid
+604,10.60.28.229,SEL.Suhbaatar_Urtaria,29,2025-01-30T22:04:46,2025-01-30T22:09:48,Short test,Exceeded time limit,No result,49.1,-86.7,7.3,-1.0,VRLA12v_LeadAcid
+605,10.60.28.229,SEL.Suhbaatar_Urtaria,30,2024-12-31T21:44:50,2024-12-31T21:49:52,Short test,Exceeded time limit,No result,49.9,-92.8,7.8,10.0,VRLA12v_LeadAcid
+606,10.60.28.229,SEL.Suhbaatar_Urtaria,31,2024-12-01T21:24:52,2024-12-01T21:29:54,Short test,Exceeded time limit,No result,49.1,-97.6,8.2,12.0,VRLA12v_LeadAcid
+607,10.60.28.229,SEL.Suhbaatar_Urtaria,32,2024-11-01T21:05:33,2024-11-01T21:10:36,Short test,Exceeded time limit,No result,49.2,-100.0,8.4,18.0,VRLA12v_LeadAcid
+608,10.60.28.229,SEL.Suhbaatar_Urtaria,33,2024-10-02T20:46:04,2024-10-02T20:51:06,Short test,Exceeded time limit,No result,49.3,-99.3,8.3,21.0,VRLA12v_LeadAcid
+609,10.60.28.229,SEL.Suhbaatar_Urtaria,34,2024-09-02T20:26:29,2024-09-02T20:31:31,Short test,Exceeded time limit,No result,49.3,-95.6,8.0,20.0,VRLA12v_LeadAcid
+610,10.60.28.229,SEL.Suhbaatar_Urtaria,35,2024-08-03T20:07:18,2024-08-03T20:12:20,Short test,Exceeded time limit,No result,49.5,-96.3,8.1,21.0,VRLA12v_LeadAcid
+611,10.60.28.229,SEL.Suhbaatar_Urtaria,36,2024-07-04T19:48:05,2024-07-04T19:53:07,Short test,Exceeded time limit,No result,49.5,-100.2,8.4,22.0,VRLA12v_LeadAcid

@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+6407,10.63.171.91,TUV.Bayanchandmani_52davaa,1,2022-05-03T19:00:31,2022-05-03T19:05:33,Short test,Exceeded time limit,No result,49.7,-29.4,2.5,26.0,VRLA12v_LeadAcid
+6408,10.63.171.91,TUV.Bayanchandmani_52davaa,2,2022-04-03T18:43:46,2022-04-03T18:48:48,Short test,Exceeded time limit,No result,49.2,-30.8,2.6,27.0,VRLA12v_LeadAcid
+6409,10.63.171.91,TUV.Bayanchandmani_52davaa,3,2022-03-04T18:27:12,2022-03-04T18:32:15,Short test,Exceeded time limit,No result,49.0,-29.5,2.5,19.0,VRLA12v_LeadAcid
+6410,10.63.171.91,TUV.Bayanchandmani_52davaa,4,2022-02-02T18:10:29,2022-02-02T18:15:31,Short test,Exceeded time limit,No result,49.0,-28.7,2.4,18.0,VRLA12v_LeadAcid
+6411,10.63.171.91,TUV.Bayanchandmani_52davaa,5,2022-01-03T17:53:36,2022-01-03T17:58:38,Short test,Exceeded time limit,No result,49.1,-28.3,2.4,19.0,VRLA12v_LeadAcid
+6412,10.63.171.91,TUV.Bayanchandmani_52davaa,6,2021-12-04T17:36:46,2021-12-04T17:41:48,Short test,Exceeded time limit,No result,49.3,-28.0,2.4,22.0,VRLA12v_LeadAcid
+6413,10.63.171.91,TUV.Bayanchandmani_52davaa,7,2021-11-04T17:20:15,2021-11-04T17:25:17,Short test,Exceeded time limit,No result,49.3,-31.1,2.6,21.0,VRLA12v_LeadAcid
+6414,10.63.171.91,TUV.Bayanchandmani_52davaa,8,2021-10-05T17:03:44,2021-10-05T17:08:46,Short test,Exceeded time limit,No result,49.3,-29.0,2.4,20.0,VRLA12v_LeadAcid
+6415,10.63.171.91,TUV.Bayanchandmani_52davaa,9,2021-09-05T16:46:46,2021-09-05T16:51:48,Short test,Exceeded time limit,No result,49.2,-32.8,2.8,12.0,VRLA12v_LeadAcid
+6416,10.63.171.91,TUV.Bayanchandmani_52davaa,10,2021-02-04T11:37:25,2021-02-04T11:44:03,Short test,Exceeded time limit,No result,56.4,0.0,0.0,20.0,VRLA12v_LeadAcid
+6417,10.63.171.91,TUV.Bayanchandmani_52davaa,11,2021-01-03T22:09:18,2021-01-03T22:14:20,Short test,Exceeded time limit,No result,49.0,-27.6,2.3,17.0,VRLA12v_LeadAcid
+6418,10.63.171.91,TUV.Bayanchandmani_52davaa,12,2020-09-26T01:28:10,2020-09-26T01:34:14,Short test,Exceeded time limit,No result,56.5,-1.1,0.1,20.0,VRLA12v_LeadAcid
+6419,10.63.171.91,TUV.Bayanchandmani_52davaa,13,2020-02-25T02:41:47,2020-02-25T02:47:01,Short test,Exceeded time limit,No result,49.2,-25.5,2.1,17.0,VRLA12v_LeadAcid
+6420,10.63.171.91,TUV.Bayanchandmani_52davaa,14,2020-01-25T03:53:20,2020-01-25T03:59:21,Short test,Exceeded time limit,No result,56.5,0.0,0.0,16.0,VRLA12v_LeadAcid
+6421,10.63.171.91,TUV.Bayanchandmani_52davaa,15,2019-05-19T10:30:45,2019-05-19T10:35:48,Short test,Exceeded time limit,No result,49.1,-29.3,2.5,16.0,VRLA12v_LeadAcid
+6422,10.63.171.91,TUV.Bayanchandmani_52davaa,16,2019-04-18T14:13:51,2019-04-18T14:19:15,Short test,Exceeded time limit,No result,49.0,-28.3,2.4,12.0,VRLA12v_LeadAcid
+6423,10.63.171.91,TUV.Bayanchandmani_52davaa,17,2019-03-18T05:24:26,2019-03-18T05:29:28,Short test,Exceeded time limit,No result,49.7,-26.4,2.2,21.0,VRLA12v_LeadAcid
+6424,10.63.171.91,TUV.Bayanchandmani_52davaa,18,2019-02-14T17:28:04,2019-02-14T17:33:20,Short test,Exceeded time limit,No result,49.4,-26.9,2.3,19.0,VRLA12v_LeadAcid
+6425,10.63.171.91,TUV.Bayanchandmani_52davaa,19,2018-11-16T02:21:34,2018-11-16T02:26:36,Short test,Exceeded time limit,No result,49.5,-25.8,2.2,15.0,VRLA12v_LeadAcid
+6426,10.63.171.91,TUV.Bayanchandmani_52davaa,20,2018-10-17T02:04:08,2018-10-17T02:09:10,Short test,Exceeded time limit,No result,49.7,-27.0,2.3,14.0,VRLA12v_LeadAcid
+6427,10.63.171.91,TUV.Bayanchandmani_52davaa,21,2018-09-17T01:46:36,2018-09-17T01:51:38,Short test,Exceeded time limit,No result,49.5,-25.8,2.2,14.0,VRLA12v_LeadAcid
+6428,10.63.171.91,TUV.Bayanchandmani_52davaa,22,2018-08-17T16:34:15,2018-08-17T16:39:17,Short test,Exceeded time limit,No result,49.6,-27.7,2.3,20.0,VRLA12v_LeadAcid
+6429,10.63.171.91,TUV.Bayanchandmani_52davaa,23,2018-07-18T07:22:12,2018-07-18T07:27:14,Short test,Exceeded time limit,No result,49.8,-26.1,2.2,22.0,VRLA12v_LeadAcid
+6430,10.63.171.91,TUV.Bayanchandmani_52davaa,24,2018-04-27T16:00:20,2018-04-27T16:05:50,Short test,Exceeded time limit,No result,50.0,-17.7,1.5,24.0,VRLA12v_LeadAcid
+6431,10.63.171.91,TUV.Bayanchandmani_52davaa,25,2018-03-06T08:29:09,2018-03-06T08:34:26,Short test,Exceeded time limit,No result,49.2,-25.7,2.2,4.0,VRLA12v_LeadAcid
+6432,10.63.171.91,TUV.Bayanchandmani_52davaa,26,2018-02-01T22:52:31,2018-02-01T22:57:33,Short test,Exceeded time limit,No result,49.9,-22.6,1.9,19.0,VRLA12v_LeadAcid
+6433,10.63.171.91,TUV.Bayanchandmani_52davaa,27,2017-12-21T15:20:17,2017-12-21T15:25:19,Short test,Exceeded time limit,No result,51.7,-14.5,1.2,15.0,VRLA12v_LeadAcid
+6434,10.63.171.91,TUV.Bayanchandmani_52davaa,28,2017-11-19T16:58:02,2017-11-19T17:03:04,Short test,Exceeded time limit,No result,51.6,-15.1,1.3,20.0,VRLA12v_LeadAcid
+6435,10.63.171.91,TUV.Bayanchandmani_52davaa,29,2017-07-11T07:07:36,2017-07-11T07:12:38,Short test,Exceeded time limit,No result,50.0,-15.8,1.3,21.0,VRLA12v_LeadAcid
+6436,10.63.171.91,TUV.Bayanchandmani_52davaa,30,2017-06-11T06:49:59,2017-06-11T06:55:01,Short test,Exceeded time limit,No result,50.3,-15.3,1.3,18.0,VRLA12v_LeadAcid
+6437,10.63.171.91,TUV.Bayanchandmani_52davaa,31,2017-05-12T07:32:05,2017-05-12T07:37:07,Short test,Exceeded time limit,No result,50.5,-15.4,1.3,6.0,VRLA12v_LeadAcid
+6438,10.63.171.91,TUV.Bayanchandmani_52davaa,32,2017-04-12T07:13:47,2017-04-12T07:18:50,Short test,Exceeded time limit,No result,51.6,-14.4,1.2,12.0,VRLA12v_LeadAcid
+6439,10.63.171.91,TUV.Bayanchandmani_52davaa,33,2017-03-12T22:00:29,2017-03-12T22:05:31,Short test,Exceeded time limit,No result,51.5,-14.6,1.2,13.0,VRLA12v_LeadAcid
+6440,10.63.171.91,TUV.Bayanchandmani_52davaa,34,2017-02-10T12:47:41,2017-02-10T12:48:48,Short test,Fault alarm,No result,52.8,-14.0,0.3,14.0,VRLA12v_LeadAcid
+6441,10.63.171.91,TUV.Bayanchandmani_52davaa,35,2016-11-19T03:52:47,2016-11-19T03:57:49,Short test,Exceeded time limit,No result,50.9,-14.6,1.2,16.0,VRLA12v_LeadAcid
+6442,10.63.171.91,TUV.Bayanchandmani_52davaa,36,2016-10-20T03:35:38,2016-10-20T03:40:40,Short test,Exceeded time limit,No result,50.3,-14.4,1.2,3.0,VRLA12v_LeadAcid

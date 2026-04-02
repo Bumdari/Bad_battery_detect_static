@@ -1,0 +1,41 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+690448,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,40,2026-04-01T19:00:00,2026-04-01T19:32:20,Scheduled test,Low voltage,Test abnormal,46.8,-90.5,48.8,,UNKNOWN
+645319,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,39,2026-03-30T17:44:43,2026-03-30T17:49:45,Short test,Exceeded time limit,No result,48.9,-77.8,6.5,,UNKNOWN
+623003,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,38,2026-03-29T19:00:00,2026-03-29T19:36:51,Scheduled test,Low voltage,Test abnormal,46.9,-82.6,50.7,,UNKNOWN
+557042,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,37,2026-03-26T19:00:00,2026-03-26T19:32:16,Scheduled test,Low voltage,Test abnormal,47.0,-88.0,47.3,,UNKNOWN
+513840,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,1,2026-03-23T19:00:01,2026-03-23T19:38:50,Scheduled test,Low voltage,Test abnormal,47.0,-84.3,54.5,,UNKNOWN
+513841,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,2,2026-03-20T19:00:01,2026-03-20T19:42:55,Scheduled test,Low voltage,Test abnormal,47.0,-75.2,53.8,,UNKNOWN
+513842,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,3,2026-03-17T19:00:01,2026-03-17T19:35:25,Scheduled test,Low voltage,Test abnormal,47.0,-81.7,48.2,,UNKNOWN
+513843,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,4,2026-03-14T19:00:00,2026-03-14T19:04:22,Scheduled test,Fault alarm,No result,48.4,-72.3,5.3,,UNKNOWN
+513844,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,5,2026-03-11T19:00:00,2026-03-11T19:43:33,Scheduled test,Low voltage,Test abnormal,46.9,-78.1,56.7,,UNKNOWN
+513845,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,6,2026-03-08T19:00:01,2026-03-08T19:24:55,Scheduled test,Low voltage,No result,46.9,-79.4,32.9,,UNKNOWN
+513846,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,7,2026-03-05T19:00:01,2026-03-05T19:19:45,Scheduled test,Low voltage,No result,46.8,-80.8,26.6,,UNKNOWN
+513847,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,8,2026-03-02T19:00:00,2026-03-02T19:13:56,Scheduled test,Low voltage,No result,46.9,-81.4,18.9,,UNKNOWN
+513848,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,9,2026-02-28T17:34:39,2026-02-28T17:39:41,Short test,Exceeded time limit,No result,48.0,-66.9,5.6,,UNKNOWN
+513849,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,10,2026-02-27T19:00:01,2026-02-27T19:15:59,Scheduled test,Low voltage,No result,46.8,-80.6,21.4,,UNKNOWN
+513850,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,11,2026-02-24T19:00:01,2026-02-24T19:24:37,Scheduled test,Low voltage,No result,46.8,-75.3,30.9,,UNKNOWN
+513851,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,12,2026-02-21T19:00:01,2026-02-21T19:16:33,Scheduled test,Low voltage,No result,46.6,-80.1,22.1,,UNKNOWN
+513852,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,13,2026-02-18T19:00:00,2026-02-18T19:16:22,Scheduled test,Low voltage,No result,46.9,-72.7,19.8,,UNKNOWN
+513853,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,14,2026-02-15T19:00:01,2026-02-15T19:14:53,Scheduled test,Low voltage,No result,46.8,-75.8,18.8,,UNKNOWN
+513854,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,15,2026-02-12T19:00:01,2026-02-12T19:21:43,Scheduled test,Low voltage,No result,46.9,-74.4,26.9,,UNKNOWN
+513855,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,16,2026-02-09T19:00:00,2026-02-09T19:07:18,Scheduled test,Low voltage,No result,46.8,-74.5,9.1,,UNKNOWN
+513856,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,17,2026-02-06T19:00:01,2026-02-06T19:09:37,Scheduled test,Low voltage,No result,46.9,-72.0,11.5,,UNKNOWN
+513857,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,18,2026-02-03T19:00:00,2026-02-03T19:12:16,Scheduled test,Low voltage,No result,46.8,-79.7,16.3,,UNKNOWN
+513858,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,19,2026-01-31T19:00:00,2026-01-31T19:15:07,Scheduled test,Low voltage,No result,46.9,-77.9,19.6,,UNKNOWN
+513859,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,20,2026-01-29T17:25:08,2026-01-29T17:30:10,Short test,Exceeded time limit,No result,47.3,-74.0,6.2,,UNKNOWN
+513860,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,21,2026-01-28T19:00:00,2026-01-28T19:03:56,Scheduled test,Low voltage,No result,46.8,-78.1,5.1,,UNKNOWN
+513861,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,22,2026-01-25T19:00:00,2026-01-25T19:03:34,Scheduled test,Low voltage,No result,47.0,-75.2,4.5,,UNKNOWN
+513862,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,23,2026-01-22T19:00:00,2026-01-22T19:01:04,Scheduled test,Low voltage,No result,46.8,-78.4,1.4,,UNKNOWN
+513863,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,24,2026-01-19T19:00:00,2026-01-19T19:04:24,Scheduled test,Low voltage,No result,46.8,-76.4,5.6,,UNKNOWN
+513864,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,25,2026-01-16T19:00:00,2026-01-16T19:06:10,Scheduled test,Low voltage,No result,46.9,-73.0,7.5,,UNKNOWN
+513865,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,26,2026-01-13T19:00:00,2026-01-13T19:28:00,Scheduled test,Low voltage,No result,46.8,-76.8,35.8,,UNKNOWN
+513866,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,27,2026-01-10T19:00:00,2026-01-10T19:11:24,Scheduled test,Low voltage,No result,46.8,-78.9,15.0,,UNKNOWN
+513867,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,28,2026-01-07T19:00:00,2026-01-07T19:12:04,Scheduled test,Low voltage,No result,46.9,-82.2,16.5,,UNKNOWN
+513868,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,29,2026-01-04T19:00:00,2026-01-04T19:04:08,Scheduled test,Low voltage,No result,47.0,-81.0,5.6,,UNKNOWN
+513869,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,30,2026-01-01T19:00:00,2026-01-01T19:04:44,Scheduled test,Low voltage,No result,46.8,-77.3,6.1,,UNKNOWN
+513870,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,31,2025-12-30T17:14:38,2025-12-30T17:19:40,Short test,Exceeded time limit,No result,47.2,-71.4,6.0,,UNKNOWN
+513871,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,32,2025-12-29T19:00:01,2025-12-29T19:08:57,Scheduled test,Low voltage,No result,46.9,-87.3,13.0,,UNKNOWN
+513872,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,33,2025-12-26T19:00:00,2025-12-26T19:08:50,Scheduled test,Low voltage,No result,46.9,-85.9,12.6,,UNKNOWN
+513873,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,34,2025-12-23T19:00:00,2025-12-23T19:16:28,Scheduled test,Low voltage,No result,46.8,-87.3,24.0,,UNKNOWN
+513874,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,35,2025-12-20T19:00:00,2025-12-20T19:16:42,Scheduled test,Low voltage,No result,46.8,-78.6,21.9,,UNKNOWN
+513875,10.63.42.178,BAU.Nogoonnuur_Mobi_NMD110,36,2025-12-17T19:00:01,2025-12-17T19:22:17,Scheduled test,Low voltage,No result,47.0,-82.5,30.6,,UNKNOWN

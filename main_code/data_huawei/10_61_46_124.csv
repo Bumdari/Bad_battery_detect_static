@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+680414,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,82,2026-04-01T19:00:01,2026-04-01T21:00:21,Scheduled test,Low capacity,Test normal,49.2,-32.3,64.8,20.0,VRLA12v_LeadAcid
+613184,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,81,2026-03-29T19:00:01,2026-03-29T21:01:01,Scheduled test,Low capacity,Test normal,49.0,-32.1,64.7,18.0,VRLA12v_LeadAcid
+547472,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,80,2026-03-26T19:00:00,2026-03-26T20:58:00,Scheduled test,Low capacity,Test normal,48.9,-33.0,64.8,12.0,VRLA12v_LeadAcid
+483356,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,79,2026-03-23T19:00:01,2026-03-23T20:59:49,Scheduled test,Low capacity,Test normal,49.1,-32.5,64.8,17.0,VRLA12v_LeadAcid
+421215,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,78,2026-03-20T19:00:01,2026-03-20T20:59:03,Scheduled test,Low capacity,Test normal,49.0,-32.6,64.7,15.0,VRLA12v_LeadAcid
+340041,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,77,2026-03-17T19:00:00,2026-03-17T20:57:10,Scheduled test,Low capacity,Test normal,49.0,-33.2,64.9,12.0,VRLA12v_LeadAcid
+280555,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,76,2026-03-14T19:00:01,2026-03-14T20:58:01,Scheduled test,Low capacity,Test normal,49.0,-33.0,64.8,13.0,VRLA12v_LeadAcid
+222363,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,75,2026-03-11T19:00:00,2026-03-11T20:55:08,Scheduled test,Low capacity,Test normal,49.2,-33.8,64.9,15.0,VRLA12v_LeadAcid
+165535,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,74,2026-03-08T19:00:01,2026-03-08T20:57:28,Scheduled test,Low capacity,Test normal,49.0,-33.2,65.0,10.0,VRLA12v_LeadAcid
+110085,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,73,2026-03-05T19:00:00,2026-03-05T20:53:02,Scheduled test,Low capacity,Test normal,48.9,-34.5,64.9,6.0,VRLA12v_LeadAcid
+1512,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,1,2026-03-02T19:00:01,2026-03-02T19:00:03,Scheduled test,Low temperature,No result,55.1,0.0,0.0,5.0,VRLA12v_LeadAcid
+1513,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,2,2026-02-23T19:00:00,2026-02-23T19:30:53,Scheduled test,Low temperature,No result,50.4,-32.4,16.7,5.0,VRLA12v_LeadAcid
+1514,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,3,2026-02-19T19:00:00,2026-02-19T20:52:22,Scheduled test,Low capacity,Test normal,48.8,-34.7,65.0,6.0,VRLA12v_LeadAcid
+1515,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,4,2026-02-11T19:00:01,2026-02-11T20:59:03,Scheduled test,Low capacity,Test normal,49.0,-32.7,64.8,8.0,VRLA12v_LeadAcid
+1516,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,5,2026-02-08T19:00:00,2026-02-08T20:59:03,Scheduled test,Low capacity,Test normal,48.8,-32.7,64.8,5.0,VRLA12v_LeadAcid
+1517,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,6,2026-01-28T19:00:00,2026-01-28T20:56:28,Scheduled test,Low capacity,Test normal,48.9,-33.5,65.0,5.0,VRLA12v_LeadAcid
+1518,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,7,2026-01-15T19:00:01,2026-01-15T19:00:27,Scheduled test,Low temperature,No result,51.8,-27.7,0.2,5.0,VRLA12v_LeadAcid
+1519,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,8,2026-01-12T19:00:00,2026-01-12T20:57:23,Scheduled test,Low capacity,Test normal,48.8,-33.1,64.7,6.0,VRLA12v_LeadAcid
+1520,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,9,2025-12-23T19:00:00,2025-12-23T20:59:36,Scheduled test,Low capacity,Test normal,49.2,-32.4,64.5,8.0,VRLA12v_LeadAcid
+1521,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,10,2025-12-20T19:00:00,2025-12-20T19:01:16,Scheduled test,Low temperature,No result,51.0,-29.6,0.6,5.0,VRLA12v_LeadAcid
+1522,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,11,2025-12-19T15:41:04,2025-12-19T15:46:06,Short test,Exceeded time limit,No result,50.5,-30.7,2.6,8.0,VRLA12v_LeadAcid
+1523,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,12,2025-12-17T19:00:01,2025-12-17T21:09:13,Scheduled test,Low capacity,Test normal,48.6,-34.5,74.3,10.0,VRLA12v_LeadAcid
+1524,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,13,2025-12-14T19:00:00,2025-12-14T21:09:28,Scheduled test,Low capacity,Test normal,48.5,-34.4,74.3,5.0,VRLA12v_LeadAcid
+1525,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,14,2025-12-09T19:00:01,2025-12-09T21:06:03,Scheduled test,Low capacity,Test normal,48.4,-35.3,74.2,9.0,VRLA12v_LeadAcid
+1526,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,15,2025-12-06T19:00:00,2025-12-06T21:06:46,Scheduled test,Low capacity,Test normal,48.4,-35.2,74.2,8.0,VRLA12v_LeadAcid
+1527,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,16,2025-12-03T19:00:01,2025-12-03T19:00:07,Scheduled test,Low temperature,No result,52.3,-10.1,0.0,5.0,VRLA12v_LeadAcid
+1528,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,17,2025-11-28T19:00:01,2025-11-28T21:12:00,Scheduled test,Low capacity,Test normal,48.6,-33.7,74.0,11.0,VRLA12v_LeadAcid
+1529,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,18,2025-11-25T19:00:00,2025-11-25T21:12:49,Scheduled test,Low capacity,Test normal,48.6,-33.5,74.0,9.0,VRLA12v_LeadAcid
+1530,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,19,2025-11-22T19:00:01,2025-11-22T21:16:06,Scheduled test,Low capacity,Test normal,48.5,-32.7,74.0,10.0,VRLA12v_LeadAcid
+1531,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,20,2025-11-19T19:00:01,2025-11-19T21:06:09,Scheduled test,Low capacity,Test normal,48.3,-35.0,73.6,6.0,VRLA12v_LeadAcid
+1532,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,21,2025-11-19T15:22:39,2025-11-19T15:27:42,Short test,Exceeded time limit,No result,50.1,-32.3,2.7,6.0,VRLA12v_LeadAcid
+1533,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,22,2025-11-13T19:00:00,2025-11-13T21:13:16,Scheduled test,Low capacity,Test normal,48.3,-33.3,74.0,10.0,VRLA12v_LeadAcid
+1534,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,23,2025-11-10T19:00:00,2025-11-10T21:11:57,Scheduled test,Low capacity,Test normal,48.4,-33.7,74.1,12.0,VRLA12v_LeadAcid
+1535,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,24,2025-11-07T19:00:00,2025-11-07T21:16:24,Scheduled test,Low capacity,Test normal,48.7,-32.6,74.1,14.0,VRLA12v_LeadAcid
+1536,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,25,2025-11-04T19:00:00,2025-11-04T21:09:59,Scheduled test,Low capacity,Test normal,48.7,-34.2,74.2,16.0,VRLA12v_LeadAcid
+1537,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,26,2025-11-01T19:00:00,2025-11-01T21:11:42,Scheduled test,Low capacity,Test normal,48.7,-33.6,73.8,16.0,VRLA12v_LeadAcid
+1538,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,27,2025-10-29T19:00:00,2025-10-29T21:13:15,Scheduled test,Low capacity,Test normal,48.6,-33.4,74.0,17.0,VRLA12v_LeadAcid
+1539,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,28,2025-10-26T19:00:00,2025-10-26T21:13:31,Scheduled test,Low capacity,Test normal,48.8,-33.3,74.0,16.0,VRLA12v_LeadAcid
+1540,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,29,2025-10-23T19:00:01,2025-10-23T21:07:25,Scheduled test,Low capacity,Test normal,48.8,-34.9,74.1,15.0,VRLA12v_LeadAcid
+1541,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,30,2025-10-20T19:00:01,2025-10-20T21:12:02,Scheduled test,Low capacity,Test normal,48.7,-33.4,73.4,13.0,VRLA12v_LeadAcid
+1542,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,31,2025-10-20T15:04:27,2025-10-20T15:09:29,Short test,Exceeded time limit,No result,50.5,-31.3,2.6,13.0,VRLA12v_LeadAcid
+1543,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,32,2025-10-17T19:00:01,2025-10-17T21:15:46,Scheduled test,Low capacity,Test normal,48.7,-32.7,74.0,13.0,VRLA12v_LeadAcid
+1544,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,33,2025-10-14T19:00:00,2025-10-14T21:09:38,Scheduled test,Low capacity,Test normal,48.7,-34.3,74.1,17.0,VRLA12v_LeadAcid
+1545,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,34,2025-10-11T19:00:01,2025-10-11T21:09:12,Scheduled test,Low capacity,Test normal,48.7,-34.4,74.1,18.0,VRLA12v_LeadAcid
+1546,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,35,2025-10-08T19:00:01,2025-10-08T21:11:26,Scheduled test,Low capacity,Test normal,48.1,-34.1,74.7,17.0,VRLA12v_LeadAcid
+1547,10.61.46.124,ZAV.Santmargats_Holboo_NMD110,36,2025-10-05T19:00:00,2025-10-05T20:14:07,Scheduled test,Low capacity,Test normal,47.0,-32.2,39.8,18.0,VRLA12v_LeadAcid

@@ -1,0 +1,43 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+656261,10.60.24.131,HUD._12hor_BioCombinat_ULN,42,2026-03-31T19:00:01,2026-03-31T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.7,-59.9,179.7,23.0,VRLA12v_LeadAcid
+589562,10.60.24.131,HUD._12hor_BioCombinat_ULN,41,2026-03-28T19:00:00,2026-03-28T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.9,-59.3,177.9,23.0,VRLA12v_LeadAcid
+524351,10.60.24.131,HUD._12hor_BioCombinat_ULN,40,2026-03-25T19:00:00,2026-03-25T22:00:33,Scheduled test,Exceeded time limit,Test normal,47.1,-57.8,173.4,22.0,VRLA12v_LeadAcid
+461073,10.60.24.131,HUD._12hor_BioCombinat_ULN,39,2026-03-22T19:00:02,2026-03-22T22:00:33,Scheduled test,Exceeded time limit,Test normal,47.0,-59.0,176.9,25.0,VRLA12v_LeadAcid
+379026,10.60.24.131,HUD._12hor_BioCombinat_ULN,38,2026-03-19T19:00:01,2026-03-19T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.9,-58.8,176.4,22.0,VRLA12v_LeadAcid
+318706,10.60.24.131,HUD._12hor_BioCombinat_ULN,37,2026-03-16T19:00:01,2026-03-16T22:00:34,Scheduled test,Exceeded time limit,Test normal,46.9,-57.6,172.9,14.0,VRLA12v_LeadAcid
+259690,10.60.24.131,HUD._12hor_BioCombinat_ULN,36,2026-03-13T19:00:01,2026-03-13T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.5,-59.8,179.4,14.0,VRLA12v_LeadAcid
+201968,10.60.24.131,HUD._12hor_BioCombinat_ULN,35,2026-03-10T19:00:01,2026-03-10T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.7,-59.8,179.5,23.0,VRLA12v_LeadAcid
+145620,10.60.24.131,HUD._12hor_BioCombinat_ULN,34,2026-03-07T19:00:00,2026-03-07T22:00:33,Scheduled test,Exceeded time limit,Test normal,47.9,-50.0,149.9,15.0,VRLA12v_LeadAcid
+90650,10.60.24.131,HUD._12hor_BioCombinat_ULN,33,2026-03-04T19:00:01,2026-03-04T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.6,-59.1,177.3,15.0,VRLA12v_LeadAcid
+290,10.60.24.131,HUD._12hor_BioCombinat_ULN,1,2026-03-01T19:00:00,2026-03-01T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.7,-59.2,177.7,14.0,VRLA12v_LeadAcid
+291,10.60.24.131,HUD._12hor_BioCombinat_ULN,2,2026-02-26T19:00:01,2026-02-26T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.9,-56.7,170.2,14.0,VRLA12v_LeadAcid
+292,10.60.24.131,HUD._12hor_BioCombinat_ULN,3,2026-02-23T19:00:00,2026-02-23T22:00:33,Scheduled test,Exceeded time limit,Test normal,47.1,-57.8,173.5,14.0,VRLA12v_LeadAcid
+293,10.60.24.131,HUD._12hor_BioCombinat_ULN,4,2026-02-20T19:00:01,2026-02-20T22:00:34,Scheduled test,Exceeded time limit,Test normal,46.1,-68.7,206.0,24.0,VRLA12v_LeadAcid
+294,10.60.24.131,HUD._12hor_BioCombinat_ULN,5,2026-02-17T19:00:01,2026-02-17T22:00:34,Scheduled test,Exceeded time limit,Test normal,45.8,-68.8,206.5,21.0,VRLA12v_LeadAcid
+295,10.60.24.131,HUD._12hor_BioCombinat_ULN,6,2026-02-14T19:00:01,2026-02-14T22:00:34,Scheduled test,Exceeded time limit,Test normal,45.4,-70.0,210.0,15.0,VRLA12v_LeadAcid
+296,10.60.24.131,HUD._12hor_BioCombinat_ULN,7,2026-02-11T19:00:01,2026-02-11T22:00:35,Scheduled test,Exceeded time limit,Test normal,46.0,-66.8,200.4,21.0,VRLA12v_LeadAcid
+297,10.60.24.131,HUD._12hor_BioCombinat_ULN,8,2026-02-08T19:00:01,2026-02-08T22:00:36,Scheduled test,Exceeded time limit,Test normal,45.5,-69.9,209.6,18.0,VRLA12v_LeadAcid
+298,10.60.24.131,HUD._12hor_BioCombinat_ULN,9,2026-02-05T19:00:00,2026-02-05T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.0,-66.0,198.0,16.0,VRLA12v_LeadAcid
+299,10.60.24.131,HUD._12hor_BioCombinat_ULN,10,2026-02-02T19:00:01,2026-02-02T22:00:33,Scheduled test,Exceeded time limit,Test normal,45.6,-69.4,208.3,18.0,VRLA12v_LeadAcid
+300,10.60.24.131,HUD._12hor_BioCombinat_ULN,11,2026-01-30T19:00:00,2026-01-30T22:00:35,Scheduled test,Exceeded time limit,Test normal,45.4,-69.0,207.0,14.0,VRLA12v_LeadAcid
+301,10.60.24.131,HUD._12hor_BioCombinat_ULN,12,2026-01-27T19:00:00,2026-01-27T21:48:32,Scheduled test,Fault alarm,Abnormal end,46.0,-68.0,190.4,14.0,VRLA12v_LeadAcid
+302,10.60.24.131,HUD._12hor_BioCombinat_ULN,13,2026-01-24T19:00:00,2026-01-24T22:00:32,Scheduled test,Exceeded time limit,Test normal,45.7,-67.1,201.3,14.0,VRLA12v_LeadAcid
+303,10.60.24.131,HUD._12hor_BioCombinat_ULN,14,2026-01-21T19:00:00,2026-01-21T20:05:23,Scheduled test,Fault alarm,Abnormal end,48.8,-64.9,70.5,15.0,VRLA12v_LeadAcid
+304,10.60.24.131,HUD._12hor_BioCombinat_ULN,15,2026-01-17T19:00:01,2026-01-17T22:00:35,Scheduled test,Exceeded time limit,Test normal,45.6,-67.4,202.1,16.0,VRLA12v_LeadAcid
+305,10.60.24.131,HUD._12hor_BioCombinat_ULN,16,2026-01-14T19:00:00,2026-01-14T22:00:31,Scheduled test,Exceeded time limit,Test normal,46.0,-65.8,197.3,14.0,VRLA12v_LeadAcid
+306,10.60.24.131,HUD._12hor_BioCombinat_ULN,17,2026-01-11T19:00:01,2026-01-11T22:00:35,Scheduled test,Exceeded time limit,Test normal,46.0,-66.4,199.3,15.0,VRLA12v_LeadAcid
+307,10.60.24.131,HUD._12hor_BioCombinat_ULN,18,2026-01-08T19:00:01,2026-01-08T22:00:32,Scheduled test,Exceeded time limit,Test normal,45.6,-68.5,205.6,15.0,VRLA12v_LeadAcid
+308,10.60.24.131,HUD._12hor_BioCombinat_ULN,19,2026-01-05T19:00:00,2026-01-05T22:00:33,Scheduled test,Exceeded time limit,Test normal,45.8,-67.4,202.2,15.0,VRLA12v_LeadAcid
+309,10.60.24.131,HUD._12hor_BioCombinat_ULN,20,2026-01-02T19:00:00,2026-01-02T22:00:29,Scheduled test,Exceeded time limit,Test normal,45.2,-69.8,209.4,15.0,VRLA12v_LeadAcid
+310,10.60.24.131,HUD._12hor_BioCombinat_ULN,21,2025-12-30T19:00:00,2025-12-30T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.0,-64.3,192.8,15.0,VRLA12v_LeadAcid
+311,10.60.24.131,HUD._12hor_BioCombinat_ULN,22,2025-12-27T19:00:01,2025-12-27T22:00:33,Scheduled test,Exceeded time limit,Test normal,45.8,-65.1,195.2,14.0,VRLA12v_LeadAcid
+312,10.60.24.131,HUD._12hor_BioCombinat_ULN,23,2025-12-24T19:00:01,2025-12-24T22:00:34,Scheduled test,Exceeded time limit,Test normal,46.1,-63.1,189.5,15.0,VRLA12v_LeadAcid
+313,10.60.24.131,HUD._12hor_BioCombinat_ULN,24,2025-12-21T19:00:00,2025-12-21T22:00:34,Scheduled test,Exceeded time limit,Test normal,46.0,-63.9,191.7,15.0,VRLA12v_LeadAcid
+314,10.60.24.131,HUD._12hor_BioCombinat_ULN,25,2025-12-18T19:00:01,2025-12-18T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.6,-61.5,184.6,13.0,VRLA12v_LeadAcid
+315,10.60.24.131,HUD._12hor_BioCombinat_ULN,26,2025-12-15T19:00:01,2025-12-15T22:00:31,Scheduled test,Exceeded time limit,Test normal,46.1,-63.1,189.4,14.0,VRLA12v_LeadAcid
+316,10.60.24.131,HUD._12hor_BioCombinat_ULN,27,2025-12-12T19:00:00,2025-12-12T22:00:34,Scheduled test,Exceeded time limit,Test normal,46.1,-63.6,191.0,15.0,VRLA12v_LeadAcid
+317,10.60.24.131,HUD._12hor_BioCombinat_ULN,28,2025-12-09T19:00:01,2025-12-09T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.6,-61.3,183.9,15.0,VRLA12v_LeadAcid
+318,10.60.24.131,HUD._12hor_BioCombinat_ULN,29,2025-12-06T19:00:00,2025-12-06T22:00:32,Scheduled test,Exceeded time limit,Test normal,46.0,-65.2,195.5,12.0,VRLA12v_LeadAcid
+319,10.60.24.131,HUD._12hor_BioCombinat_ULN,30,2025-12-03T19:00:01,2025-12-03T22:00:35,Scheduled test,Exceeded time limit,Test normal,46.0,-63.8,191.4,15.0,VRLA12v_LeadAcid
+320,10.60.24.131,HUD._12hor_BioCombinat_ULN,31,2025-11-30T19:00:01,2025-11-30T22:00:33,Scheduled test,Exceeded time limit,Test normal,46.0,-63.6,191.0,15.0,VRLA12v_LeadAcid
+321,10.60.24.131,HUD._12hor_BioCombinat_ULN,32,2025-11-27T19:00:01,2025-11-27T22:00:35,Scheduled test,Exceeded time limit,Test normal,45.9,-64.3,193.1,15.0,VRLA12v_LeadAcid

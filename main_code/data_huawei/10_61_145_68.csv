@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+657251,10.61.145.68,UVS.Sagil_Holboo_NMD110,46,2026-03-31T19:00:00,2026-03-31T19:57:56,Scheduled test,Fault alarm,Abnormal end,50.1,-29.0,28.0,17.0,VRLA12v_LeadAcid
+590536,10.61.145.68,UVS.Sagil_Holboo_NMD110,45,2026-03-28T19:00:00,2026-03-28T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.4,-32.1,96.3,14.0,VRLA12v_LeadAcid
+525309,10.61.145.68,UVS.Sagil_Holboo_NMD110,44,2026-03-25T19:00:01,2026-03-25T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.5,-31.3,94.0,12.0,VRLA12v_LeadAcid
+462000,10.61.145.68,UVS.Sagil_Holboo_NMD110,43,2026-03-22T19:00:00,2026-03-22T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.4,-31.2,93.7,10.0,VRLA12v_LeadAcid
+379933,10.61.145.68,UVS.Sagil_Holboo_NMD110,42,2026-03-19T19:00:01,2026-03-19T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.3,-30.8,92.5,9.0,VRLA12v_LeadAcid
+319593,10.61.145.68,UVS.Sagil_Holboo_NMD110,41,2026-03-16T19:00:00,2026-03-16T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.4,-30.0,90.1,10.0,VRLA12v_LeadAcid
+260557,10.61.145.68,UVS.Sagil_Holboo_NMD110,40,2026-03-13T19:00:01,2026-03-13T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.5,-29.9,89.8,8.0,VRLA12v_LeadAcid
+202812,10.61.145.68,UVS.Sagil_Holboo_NMD110,39,2026-03-10T19:00:01,2026-03-10T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.2,-31.2,93.7,7.0,VRLA12v_LeadAcid
+146447,10.61.145.68,UVS.Sagil_Holboo_NMD110,38,2026-03-07T19:00:01,2026-03-07T22:00:26,Scheduled test,Exceeded time limit,Test normal,48.2,-32.0,96.1,10.0,VRLA12v_LeadAcid
+91456,10.61.145.68,UVS.Sagil_Holboo_NMD110,37,2026-03-04T19:00:01,2026-03-04T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.4,-30.5,91.6,8.0,VRLA12v_LeadAcid
+1083,10.61.145.68,UVS.Sagil_Holboo_NMD110,1,2026-03-01T19:00:00,2026-03-01T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.3,-30.6,91.9,8.0,VRLA12v_LeadAcid
+1084,10.61.145.68,UVS.Sagil_Holboo_NMD110,2,2026-02-26T19:00:00,2026-02-26T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.5,-30.4,91.1,8.0,VRLA12v_LeadAcid
+1085,10.61.145.68,UVS.Sagil_Holboo_NMD110,3,2026-02-23T19:00:00,2026-02-23T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.6,-30.4,91.1,9.0,VRLA12v_LeadAcid
+1086,10.61.145.68,UVS.Sagil_Holboo_NMD110,4,2026-02-20T19:00:00,2026-02-20T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.2,-32.6,97.9,9.0,VRLA12v_LeadAcid
+1087,10.61.145.68,UVS.Sagil_Holboo_NMD110,5,2026-02-17T19:00:00,2026-02-17T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.2,-32.0,96.0,6.0,VRLA12v_LeadAcid
+1088,10.61.145.68,UVS.Sagil_Holboo_NMD110,6,2026-02-14T19:00:00,2026-02-14T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.3,-32.1,96.2,7.0,VRLA12v_LeadAcid
+1089,10.61.145.68,UVS.Sagil_Holboo_NMD110,7,2026-02-11T19:00:00,2026-02-11T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.2,-31.0,93.0,6.0,VRLA12v_LeadAcid
+1090,10.61.145.68,UVS.Sagil_Holboo_NMD110,8,2026-01-17T19:00:01,2026-01-17T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.1,-32.6,97.8,6.0,VRLA12v_LeadAcid
+1091,10.61.145.68,UVS.Sagil_Holboo_NMD110,9,2026-01-14T19:00:01,2026-01-14T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.3,-32.0,95.9,7.0,VRLA12v_LeadAcid
+1092,10.61.145.68,UVS.Sagil_Holboo_NMD110,10,2026-01-11T19:00:01,2026-01-11T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.1,-32.7,98.1,6.0,VRLA12v_LeadAcid
+1093,10.61.145.68,UVS.Sagil_Holboo_NMD110,11,2026-01-07T19:00:00,2026-01-07T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.0,-33.4,100.3,6.0,VRLA12v_LeadAcid
+1094,10.61.145.68,UVS.Sagil_Holboo_NMD110,12,2026-01-02T19:00:00,2026-01-02T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.1,-32.7,98.2,6.0,VRLA12v_LeadAcid
+1095,10.61.145.68,UVS.Sagil_Holboo_NMD110,13,2025-12-30T19:00:01,2025-12-30T22:00:25,Scheduled test,Exceeded time limit,Test normal,48.2,-32.2,96.6,6.0,VRLA12v_LeadAcid
+1096,10.61.145.68,UVS.Sagil_Holboo_NMD110,14,2025-12-27T19:00:00,2025-12-27T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.3,-31.4,94.1,7.0,VRLA12v_LeadAcid
+1097,10.61.145.68,UVS.Sagil_Holboo_NMD110,15,2025-12-24T19:00:01,2025-12-24T22:00:25,Scheduled test,Exceeded time limit,Test normal,48.2,-32.8,98.3,8.0,VRLA12v_LeadAcid
+1098,10.61.145.68,UVS.Sagil_Holboo_NMD110,16,2025-12-20T19:00:01,2025-12-20T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.1,-32.2,96.7,8.0,VRLA12v_LeadAcid
+1099,10.61.145.68,UVS.Sagil_Holboo_NMD110,17,2025-12-17T19:00:00,2025-12-17T22:00:23,Scheduled test,Exceeded time limit,Test normal,48.3,-30.2,90.7,6.0,VRLA12v_LeadAcid
+1100,10.61.145.68,UVS.Sagil_Holboo_NMD110,18,2025-12-14T19:00:00,2025-12-14T22:00:22,Scheduled test,Exceeded time limit,Test normal,48.3,-30.2,90.5,6.0,VRLA12v_LeadAcid
+1101,10.61.145.68,UVS.Sagil_Holboo_NMD110,19,2025-12-11T19:00:00,2025-12-11T22:00:25,Scheduled test,Exceeded time limit,Test normal,48.6,-30.7,92.0,11.0,VRLA12v_LeadAcid
+1102,10.61.145.68,UVS.Sagil_Holboo_NMD110,20,2025-12-08T19:00:01,2025-12-08T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.6,-30.4,91.4,8.0,VRLA12v_LeadAcid
+1103,10.61.145.68,UVS.Sagil_Holboo_NMD110,21,2025-12-05T19:00:01,2025-12-05T22:00:25,Scheduled test,Exceeded time limit,Test normal,48.6,-31.1,93.5,8.0,VRLA12v_LeadAcid
+1104,10.61.145.68,UVS.Sagil_Holboo_NMD110,22,2025-12-02T19:00:01,2025-12-02T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.3,-32.0,95.9,8.0,VRLA12v_LeadAcid
+1105,10.61.145.68,UVS.Sagil_Holboo_NMD110,23,2025-11-29T19:00:00,2025-11-29T19:25:57,Scheduled test,Low voltage,Battery alm,45.6,-30.8,13.3,13.0,VRLA12v_LeadAcid
+1106,10.61.145.68,UVS.Sagil_Holboo_NMD110,24,2025-11-26T19:00:01,2025-11-26T19:25:16,Scheduled test,Low voltage,Battery alm,45.7,-32.8,13.8,15.0,VRLA12v_LeadAcid
+1107,10.61.145.68,UVS.Sagil_Holboo_NMD110,25,2025-11-23T19:00:01,2025-11-23T19:27:34,Scheduled test,Low voltage,Battery alm,45.9,-30.8,14.1,15.0,VRLA12v_LeadAcid
+1108,10.61.145.68,UVS.Sagil_Holboo_NMD110,26,2025-11-20T19:00:00,2025-11-20T19:26:03,Scheduled test,Low voltage,Battery alm,45.5,-31.4,13.6,16.0,VRLA12v_LeadAcid
+1109,10.61.145.68,UVS.Sagil_Holboo_NMD110,27,2025-11-17T19:00:00,2025-11-17T19:25:05,Scheduled test,Low voltage,Battery alm,45.7,-30.4,12.7,15.0,VRLA12v_LeadAcid
+1110,10.61.145.68,UVS.Sagil_Holboo_NMD110,28,2025-11-14T19:00:00,2025-11-14T19:23:21,Scheduled test,Low voltage,Battery alm,45.8,-30.1,11.7,19.0,VRLA12v_LeadAcid
+1111,10.61.145.68,UVS.Sagil_Holboo_NMD110,29,2025-11-11T19:00:01,2025-11-11T19:20:19,Scheduled test,Low voltage,Battery alm,45.8,-31.3,10.6,21.0,VRLA12v_LeadAcid
+1112,10.61.145.68,UVS.Sagil_Holboo_NMD110,30,2025-11-08T19:00:01,2025-11-08T19:20:31,Scheduled test,Low voltage,Battery alm,45.3,-30.8,10.5,27.0,VRLA12v_LeadAcid
+1113,10.61.145.68,UVS.Sagil_Holboo_NMD110,31,2025-11-05T19:00:01,2025-11-05T19:21:39,Scheduled test,Low voltage,Battery alm,45.3,-31.6,11.4,29.0,VRLA12v_LeadAcid
+1114,10.61.145.68,UVS.Sagil_Holboo_NMD110,32,2025-11-02T19:00:00,2025-11-02T19:22:39,Scheduled test,Low voltage,Battery alm,45.6,-30.9,11.6,30.0,VRLA12v_LeadAcid
+1115,10.61.145.68,UVS.Sagil_Holboo_NMD110,33,2025-10-30T19:00:00,2025-10-30T19:21:39,Scheduled test,Low voltage,Battery alm,45.8,-31.2,11.2,30.0,VRLA12v_LeadAcid
+1116,10.61.145.68,UVS.Sagil_Holboo_NMD110,34,2025-10-27T19:00:00,2025-10-27T19:21:21,Scheduled test,Low voltage,Battery alm,45.4,-29.4,10.4,33.0,VRLA12v_LeadAcid
+1117,10.61.145.68,UVS.Sagil_Holboo_NMD110,35,2025-10-24T19:00:00,2025-10-24T19:20:27,Scheduled test,Low voltage,Battery alm,45.6,-30.6,10.4,31.0,VRLA12v_LeadAcid
+1118,10.61.145.68,UVS.Sagil_Holboo_NMD110,36,2025-10-21T19:00:01,2025-10-21T19:21:12,Scheduled test,Low voltage,Battery alm,45.7,-30.6,10.8,25.0,VRLA12v_LeadAcid

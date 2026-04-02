@@ -24,7 +24,7 @@ LEVEL_VERYGOOD = 180
 
 
 def duration_level(dur):
-    if dur <= LEVEL_CRITICAL:
+    if dur < LEVEL_CRITICAL:
         return 'CRITICAL'
     elif dur <= LEVEL_AVERAGE:
         return 'AVERAGE'
@@ -245,10 +245,24 @@ for filename in all_files:
             pred_to_critical = 'Өгөгдөл хүрэлцэхгүй'
 
         NEAR_CRITICAL_WINDOW = 10
-        NEAR_CRITICAL_COUNT  = 3
+        NEAR_CRITICAL_COUNT  = 2
         recent_10 = recent_df.tail(NEAR_CRITICAL_WINDOW)
         critical_hits = (recent_10['duration_min'] < LEVEL_CRITICAL).sum()
-        near_critical = critical_hits > NEAR_CRITICAL_COUNT
+        near_critical = critical_hits >= NEAR_CRITICAL_COUNT
+
+        if near_critical:
+            last_pred = recent_10['duration_min'].mean()
+            if wlr_slope is not None and wlr_slope < 0:
+                cycles_needed = (last_pred - LEVEL_CRITICAL) / abs(wlr_slope)
+                days_needed = cycles_needed * avg_days_cycle
+                if 0 < days_needed <= MAX_PRED_DAYS:
+                    near_critical_date = (today + timedelta(days=int(days_needed))).strftime('%Y-%m-%d')
+                else:
+                    near_critical_date = 'Тодорхойгүй'
+            else:
+                near_critical_date = (today + timedelta(days=int(avg_days_cycle * 3))).strftime('%Y-%m-%d')
+        else:
+            near_critical_date = None
 
         trend_arrow = '↘' if trend == 'DECLINING' else ('↗' if trend == 'IMPROVING' else '→')
 
@@ -268,7 +282,7 @@ for filename in all_files:
         if current_level == 'CRITICAL':
             forecast_str = 'CRITICAL ↘ Хурцадмал'
         elif near_critical:
-            forecast_str = f"{current_level} ↘ Аль хэдийн CRITICAL орчимд байна"
+            forecast_str = f"{current_level} ↘ Аль хэдийн CRITICAL орчимд байна ({near_critical_date})"
         elif next_level and next_date and next_date not in (
                 'Сайжирч байна', 'Доошилж эхэлсэн', '1 жилд буурахгүй',
                 'Муу', 'Одоогийн түвшин', 'Хурцадмал', 'Өгөгдөл хүрэлцэхгүй'):
@@ -292,6 +306,11 @@ for filename in all_files:
             'last stop cause'          : last_stop_cause,
             'critical degrading stable': status,
             'status & forecast'        : forecast_str,
+            'min duration'             : min_duration,
+            'min duration date'        : min_date,
+            'min stop cause'           : min_stop,
+            'last weak group'          : last_row['weak_group'],
+            'dominant weak 30d'        : dominant_weak,
             '_drop_level'              : drop_level,
         })
 
@@ -370,3 +389,64 @@ else:
 
     print(f"\n{'='*55}")
     print(f"ДУУСЛАА: {len(results)} IP → {OUTPUT_FILE}")
+
+    import smtplib
+    from email.mime.multipart import MIMEMultipart
+    from email.mime.base import MIMEBase
+    from email.mime.text import MIMEText
+    from email import encoders
+    from datetime import datetime
+
+    SMTP_HOST = "10.36.66.46"
+    SMTP_PORT = 25
+    FROM_EMAIL = "bumdari.b@mobicom.mn"            
+    TO_EMAILS  = ["tsogtbaatar.e@mobicom.mn"]      
+    CC_EMAILS  = []                            
+
+    today_str = datetime.today().strftime('%Y-%m-%d')
+    subject   = f"Баттерийн анализ тайлан — {today_str}"
+    body      = f"""Сайн байна уу,
+
+{today_str}-ны өдрийн UPS баттерийн анализ тайланг хавсаргав.
+
+• Баттерийн ерөнхий байдал (critical / degrading / stable)
+• Drop percent болон drop level
+• Status & Forecast — цаашдын таамаглал
+
+Хүндэтгэлтэй,
+Автомат мэдэгдэл"""
+
+    msg = MIMEMultipart()
+    msg['From']    = FROM_EMAIL
+    msg['To']      = ', '.join(TO_EMAILS)
+    if CC_EMAILS:
+        msg['CC']  = ', '.join(CC_EMAILS)
+    msg['Subject'] = subject
+    msg.attach(MIMEText(body, 'plain', 'utf-8'))
+
+    with open(OUTPUT_FILE, 'rb') as f:
+        part = MIMEBase('application', 'octet-stream')
+        part.set_payload(f.read())
+        encoders.encode_base64(part)
+        part.add_header('Content-Disposition', f'attachment; filename="battery_report_{today_str}.xlsx"')
+        msg.attach(part)
+
+    all_recipients = TO_EMAILS + CC_EMAILS
+    try:
+        server = smtplib.SMTP()
+        server.set_debuglevel(1)
+        code, msg_b = server.connect(SMTP_HOST, SMTP_PORT)
+        print(f"Connected: {code} {msg_b}")
+        server.ehlo()
+        print(f"EHLO response: {server.ehlo_resp}")
+        server.sendmail(FROM_EMAIL, all_recipients, msg.as_string())
+        server.quit()
+        print(f"✓ Имэйл амжилттай илгээгдлээ → {', '.join(TO_EMAILS)}")
+    except smtplib.SMTPConnectError as e:
+        print(f"✗ Холболт амжилтгүй: {e}")
+    except smtplib.SMTPException as e:
+        print(f"✗ SMTP алдаа: {e}")
+    except Exception as e:
+        print(f"✗ Алдаа: {type(e).__name__}: {e}")
+    except Exception as e:
+        print(f"✗ Имэйл илгээхэд алдаа гарлаа: {e}")

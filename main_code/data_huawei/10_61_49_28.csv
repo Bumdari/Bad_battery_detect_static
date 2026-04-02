@@ -1,0 +1,12 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+1798,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,1,2017-03-24T16:35:33,2017-03-24T16:40:36,Short test,Exceeded time limit,No result,50.2,-20.9,1.8,13.0,VRLA12v_LeadAcid
+1799,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,2,2016-10-23T13:16:56,2016-10-23T13:21:58,Short test,Exceeded time limit,No result,50.7,-10.5,0.9,18.0,VRLA12v_LeadAcid
+1800,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,3,2016-09-23T13:00:15,2016-09-23T13:05:17,Short test,Exceeded time limit,No result,50.9,-10.6,0.9,21.0,VRLA12v_LeadAcid
+1801,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,4,2016-08-24T12:43:46,2016-08-24T12:48:48,Short test,Exceeded time limit,No result,50.9,-11.2,0.9,24.0,VRLA12v_LeadAcid
+1802,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,5,2016-07-25T12:27:35,2016-07-25T12:32:37,Short test,Exceeded time limit,No result,50.7,-11.1,0.9,27.0,VRLA12v_LeadAcid
+1803,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,6,2016-06-25T12:11:32,2016-06-25T12:16:34,Short test,Exceeded time limit,No result,50.9,-10.7,0.9,27.0,VRLA12v_LeadAcid
+1804,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,7,2016-05-26T11:55:22,2016-05-26T12:00:24,Short test,Exceeded time limit,No result,51.0,-10.2,0.9,20.0,VRLA12v_LeadAcid
+1805,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,8,2016-04-26T11:38:55,2016-04-26T11:43:57,Short test,Exceeded time limit,No result,51.1,-10.6,0.9,17.0,VRLA12v_LeadAcid
+1806,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,9,2016-03-27T11:22:30,2016-03-27T11:27:32,Short test,Exceeded time limit,No result,51.5,-10.3,0.9,23.0,VRLA12v_LeadAcid
+1807,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,10,2016-02-26T11:05:55,2016-02-26T11:10:57,Short test,Exceeded time limit,No result,51.4,-10.1,0.8,7.0,VRLA12v_LeadAcid
+1808,10.61.49.28,SEL.SHAAMAR_MOBI_NMD,11,2016-01-27T01:54:21,2016-01-27T01:59:23,Short test,Exceeded time limit,No result,52.4,-5.6,0.5,-1.0,VRLA12v_LeadAcid

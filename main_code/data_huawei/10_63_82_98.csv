@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+675473,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,46,2026-03-31T19:00:01,2026-03-31T21:27:53,Scheduled test,Low capacity,Test normal,48.2,-63.8,156.8,27.0,VRLA12v_LeadAcid
+608339,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,45,2026-03-28T19:00:01,2026-03-28T21:24:32,Scheduled test,Low capacity,Test normal,48.1,-64.2,154.3,27.0,VRLA12v_LeadAcid
+542722,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,44,2026-03-25T19:00:00,2026-03-25T21:17:04,Scheduled test,Low capacity,Test normal,48.3,-66.6,151.9,27.0,VRLA12v_LeadAcid
+478787,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,43,2026-03-22T19:00:00,2026-03-22T21:31:00,Scheduled test,Low capacity,Test normal,48.1,-62.7,157.5,26.0,VRLA12v_LeadAcid
+396349,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,42,2026-03-19T19:00:01,2026-03-19T21:30:06,Scheduled test,Low capacity,Test normal,48.2,-62.1,154.9,25.0,VRLA12v_LeadAcid
+335663,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,41,2026-03-16T19:00:00,2026-03-16T21:27:42,Scheduled test,Low capacity,Test normal,48.2,-63.8,156.8,26.0,VRLA12v_LeadAcid
+276272,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,40,2026-03-13T19:00:01,2026-03-13T21:32:40,Scheduled test,Low capacity,Test normal,48.2,-62.9,159.8,26.0,VRLA12v_LeadAcid
+218175,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,39,2026-03-10T19:00:00,2026-03-10T21:12:36,Scheduled test,Low capacity,Test normal,48.4,-66.7,147.1,25.0,VRLA12v_LeadAcid
+161444,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,38,2026-03-07T19:00:00,2026-03-07T21:14:51,Scheduled test,Low capacity,Test normal,47.7,-69.1,155.1,23.0,VRLA12v_LeadAcid
+106081,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,37,2026-03-04T19:00:01,2026-03-04T21:19:05,Scheduled test,Low capacity,Test normal,47.9,-64.9,150.0,23.0,VRLA12v_LeadAcid
+15612,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,1,2026-03-01T19:00:00,2026-03-01T21:15:24,Scheduled test,Low capacity,Test normal,48.2,-66.9,150.8,23.0,VRLA12v_LeadAcid
+15613,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,2,2026-02-26T19:00:01,2026-02-26T21:27:58,Scheduled test,Low capacity,Test normal,48.2,-61.5,151.2,23.0,VRLA12v_LeadAcid
+15614,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,3,2026-02-23T19:00:01,2026-02-23T21:26:24,Scheduled test,Low capacity,Test normal,48.2,-62.4,151.9,24.0,VRLA12v_LeadAcid
+15615,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,4,2026-02-20T19:00:01,2026-02-20T21:20:31,Scheduled test,Low capacity,Test normal,48.2,-63.4,148.1,25.0,VRLA12v_LeadAcid
+15616,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,5,2026-02-17T19:00:01,2026-02-17T21:42:27,Scheduled test,Low capacity,Test normal,48.4,-56.0,151.2,24.0,VRLA12v_LeadAcid
+15617,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,6,2026-02-14T19:00:00,2026-02-14T21:20:08,Scheduled test,Low capacity,Test normal,48.3,-66.0,153.9,24.0,VRLA12v_LeadAcid
+15618,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,7,2026-02-11T19:00:00,2026-02-11T21:20:52,Scheduled test,Low capacity,Test normal,48.0,-66.4,155.7,23.0,VRLA12v_LeadAcid
+15619,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,8,2026-02-08T19:00:01,2026-02-08T21:17:28,Scheduled test,Low capacity,Test normal,48.2,-65.8,150.4,22.0,VRLA12v_LeadAcid
+15620,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,9,2026-02-05T19:00:01,2026-02-05T21:23:01,Scheduled test,Low capacity,Test normal,48.4,-64.6,153.7,23.0,VRLA12v_LeadAcid
+15621,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,10,2026-02-02T19:00:00,2026-02-02T21:26:55,Scheduled test,Low capacity,Test normal,48.2,-63.7,155.6,23.0,VRLA12v_LeadAcid
+15622,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,11,2026-01-30T19:00:01,2026-01-30T21:39:05,Scheduled test,Low capacity,Test normal,48.0,-61.0,161.4,22.0,VRLA12v_LeadAcid
+15623,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,12,2026-01-27T19:00:01,2026-01-27T21:03:37,Scheduled test,Low capacity,Test normal,48.0,-73.7,151.5,21.0,VRLA12v_LeadAcid
+15624,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,13,2026-01-24T19:00:00,2026-01-24T21:12:22,Scheduled test,Low capacity,Test normal,48.4,-66.6,146.5,19.0,VRLA12v_LeadAcid
+15625,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,14,2026-01-21T19:00:00,2026-01-21T21:25:37,Scheduled test,Low capacity,Test normal,48.6,-62.3,151.0,19.0,VRLA12v_LeadAcid
+15626,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,15,2026-01-18T19:00:01,2026-01-18T21:56:10,Scheduled test,Low capacity,Test normal,48.3,-57.2,167.6,21.0,VRLA12v_LeadAcid
+15627,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,16,2026-01-15T19:00:00,2026-01-15T21:49:31,Scheduled test,Low capacity,Test normal,48.2,-59.9,168.8,23.0,VRLA12v_LeadAcid
+15628,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,17,2026-01-12T19:00:00,2026-01-12T21:41:33,Scheduled test,Low capacity,Test normal,48.3,-59.7,160.3,23.0,VRLA12v_LeadAcid
+15629,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,18,2026-01-09T19:00:00,2026-01-09T21:39:14,Scheduled test,Low capacity,Test normal,48.3,-60.0,158.9,24.0,VRLA12v_LeadAcid
+15630,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,19,2026-01-06T19:00:01,2026-01-06T21:44:24,Scheduled test,Low capacity,Test normal,48.5,-57.8,157.9,23.0,VRLA12v_LeadAcid
+15631,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,20,2026-01-03T19:00:00,2026-01-03T21:41:11,Scheduled test,Low capacity,Test normal,48.7,-58.4,156.6,24.0,VRLA12v_LeadAcid
+15632,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,21,2025-12-31T19:00:00,2025-12-31T22:04:19,Scheduled test,Low capacity,Test normal,48.4,-54.1,165.8,23.0,VRLA12v_LeadAcid
+15633,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,22,2025-12-28T19:00:01,2025-12-28T21:47:23,Scheduled test,Low capacity,Test normal,48.2,-58.8,163.6,24.0,VRLA12v_LeadAcid
+15634,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,23,2025-12-25T19:00:00,2025-12-25T21:37:03,Scheduled test,Low capacity,Test normal,48.3,-61.0,159.4,24.0,VRLA12v_LeadAcid
+15635,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,24,2025-12-22T19:00:00,2025-12-22T21:34:36,Scheduled test,Low capacity,Test normal,48.7,-59.9,154.1,24.0,VRLA12v_LeadAcid
+15636,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,25,2025-12-19T19:00:01,2025-12-19T21:37:07,Scheduled test,Low capacity,Test normal,48.3,-62.7,163.9,25.0,VRLA12v_LeadAcid
+15637,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,26,2025-12-16T19:00:01,2025-12-16T21:32:50,Scheduled test,Low capacity,Test normal,48.7,-61.1,155.4,24.0,VRLA12v_LeadAcid
+15638,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,27,2025-12-13T19:00:00,2025-12-13T21:39:47,Scheduled test,Low capacity,Test normal,48.3,-61.9,164.4,24.0,VRLA12v_LeadAcid
+15639,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,28,2025-12-10T19:00:00,2025-12-10T21:47:07,Scheduled test,Low capacity,Test normal,48.5,-60.3,167.6,25.0,VRLA12v_LeadAcid
+15640,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,29,2025-12-07T19:00:01,2025-12-07T21:34:47,Scheduled test,Low capacity,Test normal,48.5,-65.0,167.3,24.0,VRLA12v_LeadAcid
+15641,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,30,2025-12-04T19:00:00,2025-12-04T21:44:24,Scheduled test,Low capacity,Test normal,48.3,-63.5,173.5,23.0,VRLA12v_LeadAcid
+15642,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,31,2025-12-01T19:00:00,2025-12-01T21:37:05,Scheduled test,Low capacity,Test normal,48.5,-62.4,163.0,24.0,VRLA12v_LeadAcid
+15643,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,32,2025-11-28T19:00:00,2025-11-28T21:56:03,Scheduled test,Low capacity,Test normal,48.2,-59.4,173.9,24.0,VRLA12v_LeadAcid
+15644,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,33,2025-11-25T19:00:01,2025-11-25T21:39:31,Scheduled test,Low capacity,Test normal,48.4,-61.6,163.3,25.0,VRLA12v_LeadAcid
+15645,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,34,2025-11-22T19:00:01,2025-11-22T22:00:25,Scheduled test,Exceeded time limit,Test normal,48.5,-56.9,170.7,25.0,VRLA12v_LeadAcid
+15646,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,35,2025-11-19T19:00:00,2025-11-19T22:00:24,Scheduled test,Exceeded time limit,Test normal,48.5,-57.5,172.4,24.0,VRLA12v_LeadAcid
+15647,10.63.82.98,HUD._4hor_BelmonteResidence_1228bair_TPD55_ULN,36,2025-11-16T19:00:01,2025-11-16T22:00:26,Scheduled test,Exceeded time limit,Test normal,48.7,-55.5,166.5,25.0,VRLA12v_LeadAcid

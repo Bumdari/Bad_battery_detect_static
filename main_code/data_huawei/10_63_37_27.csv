@@ -1,0 +1,9 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+667105,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,8,2026-03-31T19:00:02,2026-03-31T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-34.2,102.7,14.0,VRLA12v_LeadAcid
+600148,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,7,2026-03-28T19:00:03,2026-03-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-36.0,107.9,15.0,VRLA12v_LeadAcid
+534708,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,6,2026-03-25T19:00:02,2026-03-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-33.2,99.8,13.0,VRLA12v_LeadAcid
+471053,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,5,2026-03-22T19:00:02,2026-03-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-34.2,102.6,16.0,VRLA12v_LeadAcid
+368454,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,4,2026-03-18T19:00:03,2026-03-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-29.9,89.8,11.0,VRLA12v_LeadAcid
+308350,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,3,2026-03-15T19:00:03,2026-03-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.6,-31.0,93.2,12.0,VRLA12v_LeadAcid
+249553,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,2,2026-03-12T19:00:02,2026-03-12T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.6,-30.5,91.6,8.0,VRLA12v_LeadAcid
+192063,10.63.37.27,DAR.Hongor_ShohoitoiTolgoiMobi,1,2026-03-09T19:00:03,2026-03-09T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-29.8,89.3,9.0,VRLA12v_LeadAcid

@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+651072,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,45,2026-03-30T19:00:02,2026-03-30T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-93.7,281.3,14.0,VRLA12v_LeadAcid
+584482,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,44,2026-03-27T19:00:02,2026-03-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.6,-101.5,304.4,14.0,VRLA12v_LeadAcid
+519384,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,43,2026-03-24T19:00:03,2026-03-24T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.6,-100.8,302.4,13.0,VRLA12v_LeadAcid
+456212,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,42,2026-03-21T19:00:02,2026-03-21T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-90.9,272.8,10.0,VRLA12v_LeadAcid
+374271,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,41,2026-03-18T19:00:03,2026-03-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.9,-92.9,278.7,10.0,VRLA12v_LeadAcid
+314051,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,40,2026-03-15T19:00:03,2026-03-15T22:00:14,Scheduled test,Exceeded time limit,Test normal,48.0,-95.5,286.4,11.0,VRLA12v_LeadAcid
+255139,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,39,2026-03-12T19:00:02,2026-03-12T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-92.4,277.2,8.0,VRLA12v_LeadAcid
+197522,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,38,2026-03-09T19:00:03,2026-03-09T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.6,-99.2,297.5,10.0,VRLA12v_LeadAcid
+14141,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,37,2026-03-03T19:00:02,2026-03-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-94.3,283.1,9.0,VRLA12v_LeadAcid
+14105,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,1,2026-02-28T19:00:02,2026-02-28T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.0,-88.8,266.6,6.0,VRLA12v_LeadAcid
+14106,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,2,2026-02-25T19:00:03,2026-02-25T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.1,-90.5,271.7,6.0,VRLA12v_LeadAcid
+14107,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,3,2026-02-22T19:00:02,2026-02-22T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.2,-98.0,294.2,5.0,VRLA12v_LeadAcid
+14108,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,4,2026-02-19T19:00:03,2026-02-19T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-85.5,256.5,11.0,VRLA12v_LeadAcid
+14109,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,5,2026-02-16T19:00:03,2026-02-16T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-82.6,247.7,5.0,VRLA12v_LeadAcid
+14110,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,6,2026-02-13T19:00:02,2026-02-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-95.2,285.7,6.0,VRLA12v_LeadAcid
+14111,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,7,2026-02-10T19:00:03,2026-02-10T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.0,-91.5,274.5,5.0,VRLA12v_LeadAcid
+14112,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,8,2026-02-07T19:00:02,2026-02-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-86.7,260.2,5.0,VRLA12v_LeadAcid
+14113,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,9,2026-02-04T19:00:02,2026-02-04T22:14:42,Scheduled test,Low capacity,Test normal,47.7,-90.2,292.6,7.0,VRLA12v_LeadAcid
+14114,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,10,2026-02-01T19:00:02,2026-02-01T22:08:36,Scheduled test,Low capacity,Test normal,47.5,-95.5,300.0,7.0,VRLA12v_LeadAcid
+14115,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,11,2026-01-29T19:00:03,2026-01-29T22:24:30,Scheduled test,Low capacity,Test normal,48.0,-85.8,292.1,5.0,VRLA12v_LeadAcid
+14116,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,12,2026-01-24T19:00:02,2026-01-24T22:11:38,Scheduled test,Low capacity,Test normal,47.4,-90.4,288.4,5.0,VRLA12v_LeadAcid
+14117,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,13,2026-01-17T19:00:02,2026-01-17T19:09:24,Scheduled test,Low temperature,Abnormal end,50.2,-89.9,14.0,5.0,VRLA12v_LeadAcid
+14118,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,14,2026-01-14T19:00:02,2026-01-14T22:15:12,Scheduled test,Low capacity,Test normal,47.7,-89.8,291.8,5.0,VRLA12v_LeadAcid
+14119,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,15,2026-01-11T19:00:03,2026-01-11T22:06:09,Scheduled test,Low capacity,Test normal,47.8,-90.2,279.7,6.0,VRLA12v_LeadAcid
+14120,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,16,2026-01-08T19:00:03,2026-01-08T21:58:13,Scheduled test,Low capacity,Test normal,47.8,-90.8,269.6,10.0,VRLA12v_LeadAcid
+14121,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,17,2026-01-05T19:00:02,2026-01-05T22:04:44,Scheduled test,Low capacity,Test normal,47.9,-89.2,274.4,5.0,VRLA12v_LeadAcid
+14122,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,18,2026-01-02T19:00:03,2026-01-02T22:08:02,Scheduled test,Low capacity,Test normal,47.8,-88.7,277.8,6.0,VRLA12v_LeadAcid
+14123,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,19,2025-12-30T19:00:02,2025-12-30T20:48:24,Scheduled test,Fault alarm,Abnormal end,49.3,-87.1,157.2,8.0,VRLA12v_LeadAcid
+14124,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,20,2025-12-27T19:00:01,2025-12-27T22:20:20,Scheduled test,Low capacity,Test normal,47.7,-87.9,293.4,7.0,VRLA12v_LeadAcid
+14125,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,21,2025-12-24T19:00:02,2025-12-24T22:23:38,Scheduled test,Low capacity,Test normal,47.5,-84.4,286.4,9.0,VRLA12v_LeadAcid
+14126,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,22,2025-12-21T19:00:02,2025-12-21T22:20:18,Scheduled test,Low capacity,Test normal,48.0,-79.4,264.8,6.0,VRLA12v_LeadAcid
+14127,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,23,2025-12-18T19:00:02,2025-12-18T22:22:19,Scheduled test,Low capacity,Test normal,47.6,-86.6,291.8,5.0,VRLA12v_LeadAcid
+14128,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,24,2025-12-15T19:00:03,2025-12-15T22:26:40,Scheduled test,Low capacity,Test normal,47.5,-86.5,297.6,8.0,VRLA12v_LeadAcid
+14129,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,25,2025-12-12T19:00:03,2025-12-12T20:16:37,Scheduled test,Low temperature,Abnormal end,49.7,-88.9,113.3,5.0,VRLA12v_LeadAcid
+14130,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,26,2025-12-09T19:00:03,2025-12-09T22:08:46,Scheduled test,Low capacity,Test normal,47.5,-91.4,287.2,9.0,VRLA12v_LeadAcid
+14131,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,27,2025-12-06T19:00:03,2025-12-06T22:09:05,Scheduled test,Low capacity,Test normal,47.8,-84.3,265.5,5.0,VRLA12v_LeadAcid
+14132,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,28,2025-12-03T19:00:02,2025-12-03T22:00:04,Scheduled test,Low temperature,Abnormal end,47.8,-86.1,258.1,5.0,VRLA12v_LeadAcid
+14133,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,29,2025-11-30T19:00:02,2025-11-30T19:05:56,Scheduled test,Low temperature,Abnormal end,50.4,-78.5,7.7,5.0,VRLA12v_LeadAcid
+14134,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,30,2025-11-27T19:00:03,2025-11-27T22:11:12,Scheduled test,Low capacity,Test normal,47.7,-84.3,268.4,10.0,VRLA12v_LeadAcid
+14135,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,31,2025-11-24T19:00:02,2025-11-24T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-83.0,249.0,9.0,VRLA12v_LeadAcid
+14136,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,32,2025-11-21T19:00:02,2025-11-21T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-75.3,225.8,10.0,VRLA12v_LeadAcid
+14137,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,33,2025-11-18T19:00:02,2025-11-18T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-79.2,237.6,10.0,VRLA12v_LeadAcid
+14138,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,34,2025-11-15T19:00:02,2025-11-15T20:09:35,Scheduled test,Low temperature,Abnormal end,50.3,-76.9,89.1,5.0,VRLA12v_LeadAcid
+14139,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,35,2025-11-12T19:00:02,2025-11-12T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-80.9,242.8,7.0,VRLA12v_LeadAcid
+14140,10.63.71.2,SHD._19hor_HamagMongol39Bair_MP22_ULN,36,2025-11-09T19:00:03,2025-11-09T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-88.6,266.0,6.0,VRLA12v_LeadAcid

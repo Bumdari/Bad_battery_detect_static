@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+659792,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,46,2026-03-31T19:00:02,2026-03-31T21:22:33,Scheduled test,Low capacity,Test normal,47.0,-15.8,37.5,35.0,VRLA12v_LeadAcid
+592988,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,45,2026-03-28T19:00:02,2026-03-28T21:04:37,Scheduled test,Low capacity,Test normal,47.0,-15.8,32.7,35.0,VRLA12v_LeadAcid
+527708,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,44,2026-03-25T19:00:02,2026-03-25T20:50:27,Scheduled test,Low capacity,Test normal,47.0,-15.8,29.0,35.0,VRLA12v_LeadAcid
+464242,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,43,2026-03-22T19:00:02,2026-03-22T20:28:49,Scheduled test,Low capacity,Test normal,47.0,-15.8,23.3,34.0,VRLA12v_LeadAcid
+382124,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,42,2026-03-19T19:00:03,2026-03-19T20:02:54,Scheduled test,Low capacity,Test normal,47.1,-15.9,16.6,34.0,VRLA12v_LeadAcid
+321736,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,41,2026-03-16T19:00:02,2026-03-16T20:13:32,Scheduled test,Low capacity,Test normal,47.0,-15.8,19.4,35.0,VRLA12v_LeadAcid
+262650,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,40,2026-03-13T19:00:03,2026-03-13T20:12:09,Scheduled test,Low capacity,Test normal,47.0,-15.8,19.0,35.0,VRLA12v_LeadAcid
+204857,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,39,2026-03-10T19:00:03,2026-03-10T21:01:39,Scheduled test,Low capacity,Test normal,47.0,-15.6,31.6,35.0,VRLA12v_LeadAcid
+148442,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,38,2026-03-07T19:00:02,2026-03-07T21:11:03,Scheduled test,Low capacity,Test normal,47.1,-15.7,34.2,34.0,VRLA12v_LeadAcid
+93402,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,37,2026-03-04T19:00:03,2026-03-04T20:31:22,Scheduled test,Low capacity,Test normal,47.0,-15.6,23.7,34.0,VRLA12v_LeadAcid
+3014,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,1,2026-03-01T19:00:02,2026-03-01T20:43:48,Scheduled test,Low capacity,Test normal,47.1,-15.7,27.2,34.0,VRLA12v_LeadAcid
+3015,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,2,2026-02-26T19:00:02,2026-02-26T20:47:36,Scheduled test,Low capacity,Test normal,47.1,-15.7,28.2,34.0,VRLA12v_LeadAcid
+3016,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,3,2026-02-23T19:00:03,2026-02-23T20:48:19,Scheduled test,Low capacity,Test normal,47.1,-15.8,28.5,34.0,VRLA12v_LeadAcid
+3017,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,4,2026-02-20T19:00:02,2026-02-20T21:01:14,Scheduled test,Low capacity,Test normal,47.0,-15.7,31.8,34.0,VRLA12v_LeadAcid
+3018,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,5,2026-02-17T19:00:03,2026-02-17T21:12:04,Scheduled test,Low capacity,Test normal,47.0,-15.7,34.5,33.0,VRLA12v_LeadAcid
+3019,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,6,2026-02-14T19:00:03,2026-02-14T21:25:00,Scheduled test,Low capacity,Test normal,47.1,-15.6,37.8,33.0,VRLA12v_LeadAcid
+3020,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,7,2026-02-11T19:00:02,2026-02-11T21:25:58,Scheduled test,Low capacity,Test normal,47.1,-15.6,37.9,32.0,VRLA12v_LeadAcid
+3021,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,8,2026-02-08T19:00:03,2026-02-08T21:24:41,Scheduled test,Low capacity,Test normal,47.1,-15.5,37.3,31.0,VRLA12v_LeadAcid
+3022,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,9,2026-02-05T19:00:03,2026-02-05T21:17:21,Scheduled test,Low capacity,Test normal,47.3,-15.5,35.4,32.0,VRLA12v_LeadAcid
+3023,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,10,2026-02-02T19:00:03,2026-02-02T21:24:08,Scheduled test,Low capacity,Test normal,47.0,-15.5,37.2,31.0,VRLA12v_LeadAcid
+3024,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,11,2026-01-30T19:00:02,2026-01-30T21:14:51,Scheduled test,Low capacity,Test normal,47.1,-15.4,34.7,31.0,VRLA12v_LeadAcid
+3025,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,12,2026-01-27T19:00:03,2026-01-27T21:08:31,Scheduled test,Low capacity,Test normal,47.2,-15.4,32.9,30.0,VRLA12v_LeadAcid
+3026,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,13,2026-01-24T19:00:02,2026-01-24T21:08:02,Scheduled test,Low capacity,Test normal,47.2,-15.4,32.9,30.0,VRLA12v_LeadAcid
+3027,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,14,2026-01-21T19:00:01,2026-01-21T21:08:55,Scheduled test,Low capacity,Test normal,47.1,-15.5,33.3,30.0,VRLA12v_LeadAcid
+3028,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,15,2026-01-18T19:00:02,2026-01-18T21:05:20,Scheduled test,Low capacity,Test normal,47.0,-15.5,32.4,31.0,VRLA12v_LeadAcid
+3029,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,16,2026-01-15T19:00:03,2026-01-15T21:12:25,Scheduled test,Low capacity,Test normal,47.1,-15.6,34.4,32.0,VRLA12v_LeadAcid
+3030,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,17,2026-01-12T19:00:02,2026-01-12T20:58:38,Scheduled test,Low capacity,Test normal,47.0,-15.5,30.7,31.0,VRLA12v_LeadAcid
+3031,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,18,2026-01-09T19:00:02,2026-01-09T21:06:03,Scheduled test,Low capacity,Test normal,47.2,-15.5,32.6,31.0,VRLA12v_LeadAcid
+3032,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,19,2026-01-06T19:00:02,2026-01-06T21:13:27,Scheduled test,Low capacity,Test normal,47.3,-15.5,34.3,31.0,VRLA12v_LeadAcid
+3033,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,20,2026-01-03T19:00:02,2026-01-03T21:20:59,Scheduled test,Low capacity,Test normal,47.3,-15.4,36.3,31.0,VRLA12v_LeadAcid
+3034,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,21,2025-12-31T19:00:02,2025-12-31T21:25:59,Scheduled test,Low capacity,Test normal,47.3,-15.5,37.6,31.0,VRLA12v_LeadAcid
+3035,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,22,2025-12-28T19:00:03,2025-12-28T22:31:08,Scheduled test,Low capacity,Test normal,47.3,-15.6,54.7,31.0,VRLA12v_LeadAcid
+3036,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,23,2025-12-25T19:00:03,2025-12-25T22:17:06,Scheduled test,Low capacity,Test normal,47.3,-15.5,50.9,31.0,VRLA12v_LeadAcid
+3037,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,24,2025-12-22T19:00:03,2025-12-22T22:36:30,Scheduled test,Low capacity,Test normal,47.3,-15.5,55.8,31.0,VRLA12v_LeadAcid
+3038,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,25,2025-12-19T19:00:03,2025-12-19T22:42:47,Scheduled test,Low capacity,Test normal,47.3,-15.5,57.6,32.0,VRLA12v_LeadAcid
+3039,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,26,2025-12-16T19:00:02,2025-12-16T22:29:32,Scheduled test,Low capacity,Test normal,47.3,-15.5,54.2,31.0,VRLA12v_LeadAcid
+3040,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,27,2025-12-13T19:00:02,2025-12-13T22:31:47,Scheduled test,Low capacity,Test normal,47.3,-15.5,54.8,31.0,VRLA12v_LeadAcid
+3041,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,28,2025-12-10T19:00:02,2025-12-10T22:57:56,Scheduled test,Low capacity,Test normal,47.3,-15.5,61.5,32.0,VRLA12v_LeadAcid
+3042,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,29,2025-12-07T19:00:03,2025-12-08T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.1,-14.0,70.0,32.0,VRLA12v_LeadAcid
+3043,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,30,2025-12-04T19:00:03,2025-12-04T21:23:44,Scheduled test,Low capacity,Test normal,47.3,-15.6,37.4,32.0,VRLA12v_LeadAcid
+3044,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,31,2025-12-01T19:00:01,2025-12-01T22:05:50,Scheduled test,Low capacity,Test normal,47.3,-15.5,48.0,32.0,VRLA12v_LeadAcid
+3045,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,32,2025-11-28T19:00:03,2025-11-28T22:27:22,Scheduled test,Low capacity,Test normal,47.3,-15.5,53.5,32.0,VRLA12v_LeadAcid
+3046,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,33,2025-11-25T19:00:03,2025-11-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-15.5,46.4,33.0,VRLA12v_LeadAcid
+3047,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,34,2025-11-22T19:00:02,2025-11-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-15.5,46.4,32.0,VRLA12v_LeadAcid
+3048,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,35,2025-11-19T19:00:02,2025-11-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.4,-15.5,46.5,31.0,VRLA12v_LeadAcid
+3049,10.63.105.162,HUD._4Hor_NZDTG_Indoor_ULN,36,2025-11-16T19:00:03,2025-11-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.5,-15.4,46.3,32.0,VRLA12v_LeadAcid

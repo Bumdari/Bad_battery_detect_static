@@ -1,0 +1,44 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+645111,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,79,2026-03-30T19:00:01,2026-03-30T20:47:35,Scheduled test,Low capacity,Test normal,47.3,-57.0,102.1,12.0,VRLA12v_LeadAcid
+578646,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,78,2026-03-27T19:00:00,2026-03-27T20:43:51,Scheduled test,Low capacity,Test normal,47.7,-59.1,102.2,11.0,VRLA12v_LeadAcid
+513675,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,77,2026-03-24T19:00:01,2026-03-24T20:41:52,Scheduled test,Low capacity,Test normal,47.6,-62.9,106.8,10.0,VRLA12v_LeadAcid
+450729,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,76,2026-03-21T19:00:00,2026-03-21T21:08:11,Scheduled test,Low capacity,Test normal,47.7,-54.8,117.0,8.0,VRLA12v_LeadAcid
+368904,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,75,2026-03-18T19:00:01,2026-03-18T21:04:28,Scheduled test,Low capacity,Test normal,47.4,-58.6,121.6,7.0,VRLA12v_LeadAcid
+308790,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,74,2026-03-15T19:00:00,2026-03-15T21:11:05,Scheduled test,Low capacity,Test normal,47.6,-59.3,129.5,7.0,VRLA12v_LeadAcid
+249982,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,73,2026-03-12T19:00:01,2026-03-12T21:17:58,Scheduled test,Low capacity,Test normal,47.8,-63.0,144.9,6.0,VRLA12v_LeadAcid
+9315,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,1,2025-12-13T19:00:01,2025-12-13T20:20:33,Scheduled test,Low capacity,Test normal,47.5,-68.2,91.4,6.0,VRLA12v_LeadAcid
+9316,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,2,2025-12-10T19:00:00,2025-12-10T20:33:12,Scheduled test,Low capacity,Test normal,47.6,-60.8,94.4,6.0,VRLA12v_LeadAcid
+9317,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,3,2025-12-07T19:00:01,2025-12-07T20:35:04,Scheduled test,Low capacity,Test normal,47.5,-61.0,96.6,7.0,VRLA12v_LeadAcid
+9318,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,4,2025-12-04T19:00:01,2025-12-04T20:34:29,Scheduled test,Low capacity,Test normal,47.5,-62.4,98.1,7.0,VRLA12v_LeadAcid
+9319,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,5,2025-12-01T19:00:02,2025-12-01T20:35:25,Scheduled test,Low capacity,Test normal,47.4,-62.9,100.0,8.0,VRLA12v_LeadAcid
+9320,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,6,2025-11-28T19:00:00,2025-11-28T20:55:59,Scheduled test,Low capacity,Test normal,47.6,-57.3,110.6,9.0,VRLA12v_LeadAcid
+9321,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,7,2025-11-25T19:00:01,2025-11-25T20:50:01,Scheduled test,Low capacity,Test normal,47.7,-62.0,113.6,10.0,VRLA12v_LeadAcid
+9322,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,8,2025-11-22T19:00:01,2025-11-22T21:02:16,Scheduled test,Low capacity,Test normal,47.6,-60.2,122.5,10.0,VRLA12v_LeadAcid
+9323,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,9,2025-11-19T19:00:01,2025-11-19T21:21:03,Scheduled test,Low capacity,Test normal,47.8,-58.1,136.6,11.0,VRLA12v_LeadAcid
+9324,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,10,2025-11-16T19:00:00,2025-11-16T21:48:02,Scheduled test,Low capacity,Test normal,48.1,-54.7,153.0,11.0,VRLA12v_LeadAcid
+9325,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,11,2025-11-13T19:00:00,2025-11-13T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.5,-53.5,160.5,11.0,VRLA12v_LeadAcid
+9326,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,12,2025-11-06T19:00:01,2025-11-06T20:13:51,Scheduled test,Low capacity,Test normal,47.6,-60.3,74.1,15.0,VRLA12v_LeadAcid
+9327,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,13,2025-11-03T19:00:00,2025-11-03T20:58:18,Scheduled test,Low capacity,Test normal,47.8,-58.1,114.6,14.0,VRLA12v_LeadAcid
+9328,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,14,2025-10-31T19:00:01,2025-10-31T21:11:04,Scheduled test,Low capacity,Test normal,47.3,-55.8,121.8,14.0,VRLA12v_LeadAcid
+9329,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,15,2025-10-28T19:00:00,2025-10-28T21:18:55,Scheduled test,Low capacity,Test normal,47.3,-54.8,126.9,14.0,VRLA12v_LeadAcid
+9330,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,16,2025-10-25T19:00:00,2025-10-25T21:17:27,Scheduled test,Low capacity,Test normal,47.3,-56.4,129.2,14.0,VRLA12v_LeadAcid
+9331,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,17,2025-10-22T19:00:01,2025-10-22T21:14:44,Scheduled test,Low capacity,Test normal,47.3,-57.6,129.2,15.0,VRLA12v_LeadAcid
+9332,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,18,2025-10-19T19:00:00,2025-10-19T21:04:25,Scheduled test,Low capacity,Test normal,47.4,-62.7,129.9,17.0,VRLA12v_LeadAcid
+9333,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,19,2025-10-16T19:00:01,2025-10-16T20:36:26,Scheduled test,Low capacity,Test normal,47.4,-57.9,92.9,20.0,VRLA12v_LeadAcid
+9334,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,20,2025-10-16T18:09:41,2025-10-16T18:14:43,Short test,Exceeded time limit,No result,50.7,-61.3,5.1,20.0,VRLA12v_LeadAcid
+9335,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,21,2025-10-13T19:00:01,2025-10-13T21:12:06,Scheduled test,Low capacity,Test normal,47.6,-61.2,134.6,20.0,VRLA12v_LeadAcid
+9336,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,22,2025-10-10T19:00:01,2025-10-10T21:18:02,Scheduled test,Low capacity,Test normal,47.3,-60.2,138.5,21.0,VRLA12v_LeadAcid
+9337,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,23,2025-10-07T19:00:00,2025-10-07T21:22:07,Scheduled test,Low capacity,Test normal,47.6,-59.6,141.1,23.0,VRLA12v_LeadAcid
+9338,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,24,2025-10-04T19:00:00,2025-10-04T21:15:26,Scheduled test,Low capacity,Test normal,47.5,-63.2,142.5,25.0,VRLA12v_LeadAcid
+9339,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,25,2025-10-01T19:00:01,2025-10-01T21:33:14,Scheduled test,Low capacity,Test normal,47.6,-57.7,147.2,25.0,VRLA12v_LeadAcid
+9340,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,26,2025-09-28T19:00:01,2025-09-28T21:29:02,Scheduled test,Low capacity,Test normal,47.5,-59.0,146.4,25.0,VRLA12v_LeadAcid
+9341,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,27,2025-09-25T19:00:01,2025-09-25T21:33:58,Scheduled test,Low capacity,Test normal,47.5,-57.9,148.5,25.0,VRLA12v_LeadAcid
+9342,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,28,2025-09-22T19:00:01,2025-09-22T21:46:19,Scheduled test,Low capacity,Test normal,47.6,-55.2,152.8,25.0,VRLA12v_LeadAcid
+9343,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,29,2025-09-19T19:00:00,2025-09-19T21:39:10,Scheduled test,Low capacity,Test normal,47.6,-56.1,148.8,25.0,VRLA12v_LeadAcid
+9344,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,30,2025-09-16T19:00:00,2025-09-16T21:31:39,Scheduled test,Low capacity,Test normal,47.8,-57.0,144.1,25.0,VRLA12v_LeadAcid
+9345,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,31,2025-09-16T17:06:49,2025-09-16T17:11:51,Short test,Exceeded time limit,No result,50.4,-59.2,5.0,25.0,VRLA12v_LeadAcid
+9346,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,32,2025-09-13T19:00:01,2025-09-13T21:33:45,Scheduled test,Low capacity,Test normal,47.6,-59.2,151.5,26.0,VRLA12v_LeadAcid
+9347,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,33,2025-09-10T19:00:01,2025-09-10T21:35:18,Scheduled test,Low capacity,Test normal,47.6,-59.4,153.8,27.0,VRLA12v_LeadAcid
+9348,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,34,2025-09-07T19:00:01,2025-09-07T21:40:13,Scheduled test,Low capacity,Test normal,47.7,-59.4,158.6,28.0,VRLA12v_LeadAcid
+9349,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,35,2025-09-04T19:00:00,2025-09-04T21:31:35,Scheduled test,Low capacity,Test normal,47.7,-62.7,158.4,29.0,VRLA12v_LeadAcid
+9350,10.63.4.131,BZD._17hor_DaHureeZah_DiamondTuv_NMD110_ULN,36,2025-09-01T19:00:01,2025-09-01T21:44:52,Scheduled test,Low capacity,Test normal,47.8,-59.1,162.2,30.0,VRLA12v_LeadAcid

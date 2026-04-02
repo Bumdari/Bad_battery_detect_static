@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+638115,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,46,2026-03-30T19:00:03,2026-03-30T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-27.2,81.7,25.0,VRLA12v_LeadAcid
+571802,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,45,2026-03-27T19:00:03,2026-03-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-27.2,81.7,25.0,VRLA12v_LeadAcid
+506982,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,44,2026-03-24T19:00:03,2026-03-24T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-26.8,80.4,23.0,VRLA12v_LeadAcid
+444216,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,43,2026-03-21T19:00:02,2026-03-21T21:36:51,Scheduled test,Low capacity,Test normal,48.2,-29.9,78.0,20.0,VRLA12v_LeadAcid
+362534,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,42,2026-03-18T19:00:02,2026-03-18T21:58:43,Scheduled test,Low capacity,Test normal,47.9,-25.4,75.7,14.0,VRLA12v_LeadAcid
+302560,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,41,2026-03-15T19:00:03,2026-03-15T20:27:52,Scheduled test,Fault alarm,Abnormal end,49.8,-26.8,39.3,17.0,VRLA12v_LeadAcid
+243886,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,40,2026-03-12T19:00:03,2026-03-12T21:51:14,Scheduled test,Low capacity,Test normal,48.2,-26.4,75.4,16.0,VRLA12v_LeadAcid
+186529,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,39,2026-03-09T19:00:02,2026-03-09T21:50:25,Scheduled test,Low capacity,Test normal,48.3,-26.4,74.9,18.0,VRLA12v_LeadAcid
+130574,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,38,2026-03-06T19:00:03,2026-03-06T21:36:47,Scheduled test,Low capacity,Test normal,48.3,-26.4,68.8,13.0,VRLA12v_LeadAcid
+3666,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,37,2026-03-03T19:00:02,2026-03-03T19:29:17,Scheduled test,Low temperature,Abnormal end,50.1,-25.6,12.5,5.0,VRLA12v_LeadAcid
+3630,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,1,2026-02-28T19:00:03,2026-02-28T21:31:53,Scheduled test,Low capacity,Test normal,48.0,-26.6,67.3,6.0,VRLA12v_LeadAcid
+3631,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,2,2026-02-25T19:00:02,2026-02-25T21:42:14,Scheduled test,Low capacity,Test normal,48.1,-25.8,69.7,7.0,VRLA12v_LeadAcid
+3632,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,3,2026-02-22T19:00:02,2026-02-22T21:49:27,Scheduled test,Low capacity,Test normal,48.0,-25.8,72.7,6.0,VRLA12v_LeadAcid
+3633,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,4,2026-02-19T19:00:02,2026-02-19T21:42:16,Scheduled test,Low capacity,Test normal,48.2,-28.1,75.9,18.0,VRLA12v_LeadAcid
+3634,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,5,2026-02-16T19:00:02,2026-02-16T21:50:43,Scheduled test,Low capacity,Test normal,48.1,-26.3,74.8,11.0,VRLA12v_LeadAcid
+3635,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,6,2026-02-13T19:00:02,2026-02-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-25.0,75.0,12.0,VRLA12v_LeadAcid
+3636,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,7,2026-02-10T19:00:02,2026-02-10T21:56:45,Scheduled test,Low capacity,Test normal,48.1,-25.8,76.1,12.0,VRLA12v_LeadAcid
+3637,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,8,2026-02-07T19:00:03,2026-02-07T21:29:11,Scheduled test,Low capacity,Test normal,48.1,-27.9,69.3,9.0,VRLA12v_LeadAcid
+3638,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,9,2026-02-04T19:00:02,2026-02-04T21:25:39,Scheduled test,Low temperature,Abnormal end,48.9,-25.1,60.9,5.0,VRLA12v_LeadAcid
+3639,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,10,2026-02-01T19:00:02,2026-02-01T21:59:15,Scheduled test,Low capacity,Test normal,48.2,-26.1,77.8,11.0,VRLA12v_LeadAcid
+3640,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,11,2026-01-29T19:00:03,2026-01-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-25.2,75.5,8.0,VRLA12v_LeadAcid
+3641,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,12,2026-01-24T19:00:03,2026-01-24T21:15:15,Scheduled test,Low temperature,Abnormal end,48.7,-26.1,58.7,5.0,VRLA12v_LeadAcid
+3642,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,13,2026-01-15T19:00:02,2026-01-15T21:43:36,Scheduled test,Low capacity,Test normal,48.0,-26.0,70.8,7.0,VRLA12v_LeadAcid
+3643,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,14,2026-01-12T19:00:02,2026-01-12T21:44:34,Scheduled test,Low capacity,Test normal,48.1,-26.1,71.7,7.0,VRLA12v_LeadAcid
+3644,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,15,2026-01-09T19:00:03,2026-01-09T21:52:29,Scheduled test,Low capacity,Test normal,48.1,-26.2,75.2,7.0,VRLA12v_LeadAcid
+3645,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,16,2026-01-06T19:00:02,2026-01-06T21:51:23,Scheduled test,Low capacity,Test normal,48.1,-27.0,76.9,10.0,VRLA12v_LeadAcid
+3646,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,17,2026-01-03T19:00:03,2026-01-03T21:28:27,Scheduled test,Low capacity,Test normal,47.9,-29.8,73.7,10.0,VRLA12v_LeadAcid
+3647,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,18,2025-12-31T19:00:03,2025-12-31T21:39:28,Scheduled test,Low capacity,Test normal,47.9,-29.9,79.4,10.0,VRLA12v_LeadAcid
+3648,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,19,2025-12-28T19:00:03,2025-12-28T21:42:11,Scheduled test,Low capacity,Test normal,48.1,-28.2,76.3,8.0,VRLA12v_LeadAcid
+3649,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,20,2025-12-25T19:00:01,2025-12-25T21:58:48,Scheduled test,Low capacity,Test normal,48.0,-28.1,83.7,9.0,VRLA12v_LeadAcid
+3650,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,21,2025-12-22T19:00:01,2025-12-22T21:53:08,Scheduled test,Low capacity,Test normal,48.2,-28.5,82.1,7.0,VRLA12v_LeadAcid
+3651,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,22,2025-12-19T19:00:02,2025-12-19T19:36:59,Scheduled test,Low temperature,Abnormal end,49.9,-26.9,16.6,5.0,VRLA12v_LeadAcid
+3652,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,23,2025-12-16T19:00:02,2025-12-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-28.2,84.5,14.0,VRLA12v_LeadAcid
+3653,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,24,2025-12-13T19:00:02,2025-12-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.3,-28.8,86.5,9.0,VRLA12v_LeadAcid
+3654,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,25,2025-12-10T19:00:02,2025-12-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-27.1,81.5,8.0,VRLA12v_LeadAcid
+3655,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,26,2025-12-06T19:00:02,2025-12-06T21:32:36,Scheduled test,Low capacity,Test normal,48.0,-29.4,74.7,12.0,VRLA12v_LeadAcid
+3656,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,27,2025-12-03T19:00:03,2025-12-03T21:40:35,Scheduled test,Low capacity,Test normal,48.0,-27.1,72.5,7.0,VRLA12v_LeadAcid
+3657,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,28,2025-11-28T19:00:03,2025-11-28T21:58:26,Scheduled test,Low capacity,Test normal,48.2,-26.9,80.1,14.0,VRLA12v_LeadAcid
+3658,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,29,2025-11-25T19:00:02,2025-11-25T21:59:20,Scheduled test,Low capacity,Test normal,48.0,-26.9,80.4,13.0,VRLA12v_LeadAcid
+3659,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,30,2025-11-22T19:00:02,2025-11-22T21:50:46,Scheduled test,Low capacity,Test normal,48.1,-30.5,86.7,19.0,VRLA12v_LeadAcid
+3660,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,31,2025-11-19T19:00:03,2025-11-19T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-27.0,81.1,14.0,VRLA12v_LeadAcid
+3661,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,32,2025-11-16T19:00:02,2025-11-16T21:42:47,Scheduled test,Low capacity,Test normal,48.3,-26.8,72.7,8.0,VRLA12v_LeadAcid
+3662,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,33,2025-11-13T19:00:02,2025-11-13T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-27.2,81.6,20.0,VRLA12v_LeadAcid
+3663,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,34,2025-11-10T19:00:03,2025-11-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-26.8,80.5,20.0,VRLA12v_LeadAcid
+3664,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,35,2025-11-07T19:00:02,2025-11-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-27.3,82.0,21.0,VRLA12v_LeadAcid
+3665,10.63.111.34,SBD._20hor_HadatVilla2_DU_SMP22_ULN,36,2025-11-04T19:00:03,2025-11-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.5,-27.1,81.3,24.0,VRLA12v_LeadAcid

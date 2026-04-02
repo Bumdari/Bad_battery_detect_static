@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+660451,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,45,2026-03-31T19:00:01,2026-03-31T22:00:33,Scheduled test,Exceeded time limit,Test normal,48.2,-42.3,127.0,24.0,VRLA12v_LeadAcid
+593635,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,44,2026-03-28T19:00:01,2026-03-28T22:00:33,Scheduled test,Exceeded time limit,Test normal,47.9,-44.5,133.5,24.0,VRLA12v_LeadAcid
+528342,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,43,2026-03-25T19:00:01,2026-03-25T22:00:34,Scheduled test,Exceeded time limit,Test normal,48.2,-43.7,131.1,25.0,VRLA12v_LeadAcid
+464863,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,42,2026-03-22T19:00:01,2026-03-22T21:50:44,Scheduled test,Low capacity,Test normal,47.7,-46.5,131.9,19.0,VRLA12v_LeadAcid
+382732,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,41,2026-03-19T19:00:01,2026-03-19T21:45:33,Scheduled test,Low capacity,Test normal,48.0,-43.6,120.0,13.0,VRLA12v_LeadAcid
+322331,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,40,2026-03-16T19:00:02,2026-03-16T21:58:27,Scheduled test,Low capacity,Test normal,48.1,-42.6,126.2,13.0,VRLA12v_LeadAcid
+263232,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,39,2026-03-13T19:00:00,2026-03-13T22:00:32,Scheduled test,Exceeded time limit,Test normal,47.6,-44.4,133.1,11.0,VRLA12v_LeadAcid
+205426,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,38,2026-03-10T19:00:01,2026-03-10T21:46:58,Scheduled test,Low capacity,Test normal,48.0,-44.4,123.3,12.0,VRLA12v_LeadAcid
+167658,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,37,2026-03-07T19:00:00,2026-03-07T22:00:34,Scheduled test,Exceeded time limit,Test normal,47.6,-45.3,136.0,7.0,VRLA12v_LeadAcid
+3558,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,1,2026-02-19T19:00:01,2026-02-19T21:56:14,Scheduled test,Low capacity,Test normal,48.1,-39.0,114.2,8.0,VRLA12v_LeadAcid
+3559,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,2,2026-02-13T19:00:01,2026-02-13T21:40:37,Scheduled test,Low capacity,Test normal,48.3,-42.0,112.0,6.0,VRLA12v_LeadAcid
+3560,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,3,2025-12-18T19:00:01,2025-12-18T22:00:35,Scheduled test,Exceeded time limit,Test normal,47.8,-38.3,115.0,6.0,VRLA12v_LeadAcid
+3561,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,4,2025-11-29T19:00:01,2025-11-29T21:58:48,Scheduled test,Low capacity,Test normal,47.6,-40.1,119.0,8.0,VRLA12v_LeadAcid
+3562,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,5,2025-11-26T19:00:01,2025-11-26T22:00:38,Scheduled test,Exceeded time limit,Test normal,47.9,-38.8,116.4,8.0,VRLA12v_LeadAcid
+3563,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,6,2025-11-21T19:00:00,2025-11-21T22:00:34,Scheduled test,Exceeded time limit,Test normal,47.7,-39.5,118.6,9.0,VRLA12v_LeadAcid
+3564,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,7,2025-11-18T19:00:01,2025-11-18T21:56:13,Scheduled test,Low capacity,Test normal,47.7,-39.5,115.6,7.0,VRLA12v_LeadAcid
+3565,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,8,2025-11-15T19:00:00,2025-11-15T22:00:34,Scheduled test,Exceeded time limit,Test normal,47.9,-40.5,121.6,10.0,VRLA12v_LeadAcid
+3566,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,9,2025-11-12T19:00:02,2025-11-12T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.0,-38.7,116.0,14.0,VRLA12v_LeadAcid
+3567,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,10,2025-11-09T19:00:01,2025-11-09T22:00:35,Scheduled test,Exceeded time limit,Test normal,48.3,-37.4,112.1,14.0,VRLA12v_LeadAcid
+3568,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,11,2025-11-06T19:00:01,2025-11-06T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.3,-38.8,116.4,20.0,VRLA12v_LeadAcid
+3569,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,12,2025-11-03T19:00:01,2025-11-03T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.2,-39.9,119.7,21.0,VRLA12v_LeadAcid
+3570,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,13,2025-10-31T19:00:00,2025-10-31T21:52:26,Scheduled test,Low capacity,Test normal,48.2,-38.5,110.4,17.0,VRLA12v_LeadAcid
+3571,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,14,2025-10-28T19:00:02,2025-10-28T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.3,-37.7,113.2,17.0,VRLA12v_LeadAcid
+3572,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,15,2025-10-25T19:00:00,2025-10-25T21:50:37,Scheduled test,Low capacity,Test normal,48.0,-40.8,115.7,14.0,VRLA12v_LeadAcid
+3573,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,16,2025-10-22T19:00:00,2025-10-22T21:50:54,Scheduled test,Low capacity,Test normal,48.1,-39.3,111.7,12.0,VRLA12v_LeadAcid
+3574,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,17,2025-10-19T19:00:01,2025-10-19T21:55:26,Scheduled test,Low capacity,Test normal,48.0,-39.2,114.4,12.0,VRLA12v_LeadAcid
+3575,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,18,2025-10-16T19:00:00,2025-10-16T21:04:54,Scheduled test,Low capacity,Test normal,48.5,-40.4,83.9,20.0,VRLA12v_LeadAcid
+3576,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,19,2025-10-13T19:00:01,2025-10-13T22:00:34,Scheduled test,Exceeded time limit,Test normal,48.6,-38.6,115.7,29.0,VRLA12v_LeadAcid
+3577,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,20,2025-10-10T19:00:00,2025-10-10T22:00:34,Scheduled test,Exceeded time limit,Test normal,48.6,-39.5,118.5,30.0,VRLA12v_LeadAcid
+3578,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,21,2025-10-07T19:00:01,2025-10-07T21:44:22,Scheduled test,Low capacity,Test normal,48.4,-42.1,115.0,31.0,VRLA12v_LeadAcid
+3579,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,22,2025-10-04T19:00:00,2025-10-04T21:57:55,Scheduled test,Low capacity,Test normal,48.1,-42.2,124.7,37.0,VRLA12v_LeadAcid
+3580,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,23,2025-10-01T19:00:00,2025-10-01T21:54:48,Scheduled test,Low capacity,Test normal,47.9,-41.6,120.8,40.0,VRLA12v_LeadAcid
+3581,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,24,2025-09-28T19:00:01,2025-09-28T21:46:46,Scheduled test,Low capacity,Test normal,48.2,-43.0,119.1,40.0,VRLA12v_LeadAcid
+3582,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,25,2025-09-25T19:00:00,2025-09-25T21:58:26,Scheduled test,Low capacity,Test normal,48.5,-41.2,122.3,38.0,VRLA12v_LeadAcid
+3583,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,26,2025-09-22T19:00:01,2025-09-22T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.3,-39.9,119.6,38.0,VRLA12v_LeadAcid
+3584,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,27,2025-09-19T19:00:01,2025-09-19T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.4,-41.1,123.5,39.0,VRLA12v_LeadAcid
+3585,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,28,2025-09-16T19:00:01,2025-09-16T22:00:35,Scheduled test,Exceeded time limit,Test normal,48.3,-40.2,120.5,35.0,VRLA12v_LeadAcid
+3586,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,29,2025-09-13T19:00:00,2025-09-13T22:00:33,Scheduled test,Exceeded time limit,Test normal,48.3,-39.9,119.8,36.0,VRLA12v_LeadAcid
+3587,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,30,2025-09-10T19:00:02,2025-09-10T22:00:34,Scheduled test,Exceeded time limit,Test normal,48.2,-40.8,122.5,39.0,VRLA12v_LeadAcid
+3588,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,31,2025-09-07T19:00:01,2025-09-07T22:00:36,Scheduled test,Exceeded time limit,Test normal,48.4,-40.4,121.3,36.0,VRLA12v_LeadAcid
+3589,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,32,2025-09-04T19:00:01,2025-09-04T22:00:37,Scheduled test,Exceeded time limit,Test normal,48.2,-41.0,123.0,40.0,VRLA12v_LeadAcid
+3590,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,33,2025-09-01T19:00:01,2025-09-01T22:00:17,Scheduled test,Low capacity,Test normal,48.2,-40.5,121.4,43.0,VRLA12v_LeadAcid
+3591,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,34,2025-08-29T19:00:01,2025-08-29T22:00:34,Scheduled test,Exceeded time limit,Test normal,47.8,-41.5,124.6,43.0,VRLA12v_LeadAcid
+3592,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,35,2025-08-26T19:00:01,2025-08-26T22:00:35,Scheduled test,Exceeded time limit,Test normal,48.1,-42.1,126.4,45.0,VRLA12v_LeadAcid
+3593,10.63.110.52,HUD._10hor_NisehHoidTolgoi_TPD40_ULN,36,2025-08-23T19:00:01,2025-08-23T22:00:39,Scheduled test,Exceeded time limit,Test normal,47.9,-43.6,130.7,41.0,VRLA12v_LeadAcid

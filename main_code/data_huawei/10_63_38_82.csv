@@ -1,0 +1,45 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+667466,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,44,2026-03-31T19:00:01,2026-03-31T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.5,-18.9,56.6,21.0,ESMU_Lithium
+600501,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,43,2026-03-28T19:00:00,2026-03-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.4,-18.6,55.7,21.0,ESMU_Lithium
+535054,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,42,2026-03-25T19:00:00,2026-03-25T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.4,-19.2,57.7,19.0,ESMU_Lithium
+471391,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,41,2026-03-22T19:00:01,2026-03-22T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.5,-18.6,55.7,21.0,ESMU_Lithium
+389114,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,40,2026-03-19T19:00:01,2026-03-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-18.1,54.4,16.0,ESMU_Lithium
+308672,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,39,2026-03-15T19:00:01,2026-03-15T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.3,-18.0,54.0,15.0,ESMU_Lithium
+192371,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,38,2026-03-09T19:00:00,2026-03-09T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.4,-16.9,50.7,16.0,ESMU_Lithium
+136278,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,37,2026-03-06T19:00:00,2026-03-06T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.3,-17.2,51.5,14.0,ESMU_Lithium
+9206,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,1,2026-02-20T19:00:01,2026-02-20T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.3,-18.1,54.4,12.0,ESMU_Lithium
+9207,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,2,2026-02-12T19:00:00,2026-02-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-18.0,53.9,13.0,ESMU_Lithium
+9208,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,3,2025-11-11T19:00:01,2025-11-11T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-17.9,53.7,12.0,ESMU_Lithium
+9209,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,4,2025-11-07T19:00:00,2025-11-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.4,-17.3,52.0,14.0,ESMU_Lithium
+9210,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,5,2025-11-04T19:00:01,2025-11-04T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.5,-16.1,48.2,19.0,ESMU_Lithium
+9211,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,6,2025-11-01T19:00:00,2025-11-01T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.5,-17.6,52.7,20.0,ESMU_Lithium
+9212,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,7,2025-10-11T19:00:01,2025-10-11T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-19.5,58.4,13.0,ESMU_Lithium
+9213,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,8,2025-10-08T19:00:00,2025-10-08T20:27:50,Scheduled test,Fault alarm,Abnormal end,49.4,-17.8,26.1,14.0,ESMU_Lithium
+9214,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,9,2025-10-05T19:00:01,2025-10-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-16.2,48.6,21.0,ESMU_Lithium
+9215,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,10,2025-10-02T19:00:01,2025-10-02T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.5,-17.4,52.3,23.0,ESMU_Lithium
+9216,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,11,2025-09-29T19:00:01,2025-09-29T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-18.0,54.1,31.0,ESMU_Lithium
+9217,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,12,2025-09-26T19:00:00,2025-09-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-18.3,54.8,29.0,ESMU_Lithium
+9218,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,13,2025-09-23T19:00:00,2025-09-23T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.6,-17.7,53.0,29.0,ESMU_Lithium
+9219,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,14,2025-09-20T19:00:00,2025-09-20T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-19.2,57.5,30.0,ESMU_Lithium
+9220,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,15,2025-09-17T19:00:00,2025-09-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-17.3,51.9,29.0,ESMU_Lithium
+9221,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,16,2025-09-14T19:00:00,2025-09-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-17.4,52.2,30.0,ESMU_Lithium
+9222,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,17,2025-09-11T19:00:01,2025-09-11T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-18.2,54.5,29.0,ESMU_Lithium
+9223,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,18,2025-09-08T19:00:01,2025-09-08T20:25:02,Scheduled test,Fault alarm,Abnormal end,49.6,-15.9,22.5,29.0,ESMU_Lithium
+9224,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,19,2025-09-05T19:00:01,2025-09-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-16.8,50.4,28.0,ESMU_Lithium
+9225,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,20,2025-09-02T19:00:01,2025-09-02T22:00:09,Scheduled test,Exceeded time limit,Test normal,49.6,-16.0,48.1,29.0,ESMU_Lithium
+9226,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,21,2025-08-30T19:00:01,2025-08-30T20:45:47,Scheduled test,Fault alarm,Abnormal end,49.6,-15.5,27.3,30.0,ESMU_Lithium
+9227,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,22,2025-08-27T19:00:01,2025-08-27T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-16.9,50.6,31.0,ESMU_Lithium
+9228,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,23,2025-08-24T19:00:01,2025-08-24T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-16.8,50.5,29.0,ESMU_Lithium
+9229,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,24,2025-08-19T19:00:00,2025-08-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.6,-18.2,54.6,29.0,ESMU_Lithium
+9230,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,25,2025-08-16T19:00:01,2025-08-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-15.6,46.8,30.0,ESMU_Lithium
+9231,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,26,2025-08-13T19:00:00,2025-08-13T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-15.2,45.7,30.0,ESMU_Lithium
+9232,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,27,2025-08-10T19:00:01,2025-08-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.6,-13.7,41.2,31.0,ESMU_Lithium
+9233,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,28,2025-08-04T19:00:00,2025-08-04T19:28:39,Scheduled test,Fault alarm,Abnormal end,49.6,-12.6,6.0,28.0,ESMU_Lithium
+9234,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,29,2025-08-01T19:00:01,2025-08-01T21:53:09,Scheduled test,Fault alarm,Abnormal end,49.7,-13.1,37.9,29.0,ESMU_Lithium
+9235,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,30,2025-07-29T19:00:01,2025-07-29T22:00:09,Scheduled test,Exceeded time limit,Test normal,49.6,-13.5,40.4,29.0,ESMU_Lithium
+9236,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,31,2025-07-26T19:00:00,2025-07-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.7,-13.2,39.6,30.0,ESMU_Lithium
+9237,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,32,2025-07-23T19:00:00,2025-07-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.7,-13.7,41.1,31.0,ESMU_Lithium
+9238,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,33,2025-07-20T19:00:01,2025-07-20T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.7,-13.2,39.5,29.0,ESMU_Lithium
+9239,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,34,2025-07-17T19:00:00,2025-07-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.7,-13.3,39.8,30.0,ESMU_Lithium
+9240,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,35,2025-07-14T19:00:01,2025-07-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.7,-13.3,39.8,29.0,ESMU_Lithium
+9241,10.63.38.82,HUV.TsagaanUul_tosonbag_TosonUul_MP24,36,2025-07-08T19:00:00,2025-07-08T20:28:27,Scheduled test,Fault alarm,Abnormal end,49.7,-13.3,19.6,29.0,ESMU_Lithium

@@ -1,0 +1,45 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+621976,10.63.37.10,DAR.ParkTown_106bair,44,2026-03-29T19:00:03,2026-03-29T21:18:43,Scheduled test,Low capacity,Test normal,47.9,-32.9,75.9,18.0,VRLA12v_LeadAcid
+556036,10.63.37.10,DAR.ParkTown_106bair,43,2026-03-26T19:00:02,2026-03-26T21:35:26,Scheduled test,Low capacity,Test normal,46.9,-31.5,81.6,18.0,VRLA12v_LeadAcid
+491661,10.63.37.10,DAR.ParkTown_106bair,42,2026-03-23T19:00:03,2026-03-23T20:59:16,Scheduled test,Low capacity,Test normal,48.0,-36.3,72.1,18.0,VRLA12v_LeadAcid
+429339,10.63.37.10,DAR.ParkTown_106bair,41,2026-03-20T19:00:02,2026-03-20T21:18:54,Scheduled test,Low capacity,Test normal,48.2,-31.8,73.6,18.0,VRLA12v_LeadAcid
+347984,10.63.37.10,DAR.ParkTown_106bair,40,2026-03-17T19:00:03,2026-03-17T21:21:56,Scheduled test,Low capacity,Test normal,47.3,-30.3,71.5,12.0,VRLA12v_LeadAcid
+288328,10.63.37.10,DAR.ParkTown_106bair,39,2026-03-14T19:00:03,2026-03-14T21:03:21,Scheduled test,Low capacity,Test normal,48.0,-31.9,65.5,14.0,VRLA12v_LeadAcid
+229960,10.63.37.10,DAR.ParkTown_106bair,38,2026-03-11T19:00:03,2026-03-11T20:51:10,Scheduled test,Low capacity,Test normal,48.7,-33.4,61.9,16.0,VRLA12v_LeadAcid
+172942,10.63.37.10,DAR.ParkTown_106bair,37,2026-03-08T19:00:02,2026-03-08T21:10:13,Scheduled test,Low capacity,Test normal,47.0,-33.3,72.2,15.0,VRLA12v_LeadAcid
+8641,10.63.37.10,DAR.ParkTown_106bair,1,2026-02-25T19:00:01,2026-02-25T20:10:34,Scheduled test,Low temperature,Abnormal end,49.7,-30.5,35.8,5.0,VRLA12v_LeadAcid
+8642,10.63.37.10,DAR.ParkTown_106bair,2,2026-02-20T19:00:03,2026-02-20T21:07:35,Scheduled test,Low capacity,Test normal,47.6,-35.0,74.4,10.0,VRLA12v_LeadAcid
+8643,10.63.37.10,DAR.ParkTown_106bair,3,2026-02-17T19:00:02,2026-02-17T21:36:58,Scheduled test,Low capacity,Test normal,47.6,-30.3,79.2,13.0,VRLA12v_LeadAcid
+8644,10.63.37.10,DAR.ParkTown_106bair,4,2026-02-14T19:00:02,2026-02-14T21:32:08,Scheduled test,Low capacity,Test normal,47.2,-32.7,82.8,6.0,VRLA12v_LeadAcid
+8645,10.63.37.10,DAR.ParkTown_106bair,5,2026-02-11T19:00:02,2026-02-11T21:42:59,Scheduled test,Low capacity,Test normal,46.9,-31.9,86.6,8.0,VRLA12v_LeadAcid
+8646,10.63.37.10,DAR.ParkTown_106bair,6,2026-02-02T19:00:02,2026-02-02T21:42:15,Scheduled test,Low capacity,Test normal,47.2,-33.3,90.0,7.0,VRLA12v_LeadAcid
+8647,10.63.37.10,DAR.ParkTown_106bair,7,2026-01-14T19:00:03,2026-01-14T20:04:52,Scheduled test,Low temperature,Abnormal end,49.8,-30.8,33.2,5.0,VRLA12v_LeadAcid
+8648,10.63.37.10,DAR.ParkTown_106bair,8,2026-01-11T19:00:02,2026-01-11T21:51:24,Scheduled test,Low capacity,Test normal,47.1,-30.6,87.3,6.0,VRLA12v_LeadAcid
+8649,10.63.37.10,DAR.ParkTown_106bair,9,2026-01-07T19:00:02,2026-01-07T20:19:42,Scheduled test,Low temperature,Abnormal end,49.6,-31.2,41.4,5.0,VRLA12v_LeadAcid
+8650,10.63.37.10,DAR.ParkTown_106bair,10,2025-12-27T19:00:03,2025-12-27T21:54:34,Scheduled test,Low capacity,Test normal,47.2,-31.0,90.0,6.0,VRLA12v_LeadAcid
+8651,10.63.37.10,DAR.ParkTown_106bair,11,2025-12-17T19:00:03,2025-12-17T21:36:25,Scheduled test,Low capacity,Test normal,46.9,-34.8,90.7,5.0,VRLA12v_LeadAcid
+8652,10.63.37.10,DAR.ParkTown_106bair,12,2025-12-07T19:00:02,2025-12-07T21:47:01,Scheduled test,Low capacity,Test normal,46.9,-34.4,95.6,9.0,VRLA12v_LeadAcid
+8653,10.63.37.10,DAR.ParkTown_106bair,13,2025-12-04T19:00:02,2025-12-04T21:49:13,Scheduled test,Low capacity,Test normal,46.9,-33.8,95.2,8.0,VRLA12v_LeadAcid
+8654,10.63.37.10,DAR.ParkTown_106bair,14,2025-11-29T19:00:03,2025-11-29T21:52:41,Scheduled test,Low capacity,Test normal,46.9,-34.6,99.5,9.0,VRLA12v_LeadAcid
+8655,10.63.37.10,DAR.ParkTown_106bair,15,2025-11-24T19:00:03,2025-11-24T21:49:27,Scheduled test,Low capacity,Test normal,46.9,-35.2,99.3,10.0,VRLA12v_LeadAcid
+8656,10.63.37.10,DAR.ParkTown_106bair,16,2025-11-21T19:00:03,2025-11-21T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-33.8,101.3,14.0,VRLA12v_LeadAcid
+8657,10.63.37.10,DAR.ParkTown_106bair,17,2025-11-18T19:00:02,2025-11-18T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.3,-34.7,104.1,9.0,VRLA12v_LeadAcid
+8658,10.63.37.10,DAR.ParkTown_106bair,18,2025-11-15T19:00:02,2025-11-15T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.7,-35.1,105.2,10.0,VRLA12v_LeadAcid
+8659,10.63.37.10,DAR.ParkTown_106bair,19,2025-11-12T19:00:03,2025-11-12T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.8,-35.7,107.1,14.0,VRLA12v_LeadAcid
+8660,10.63.37.10,DAR.ParkTown_106bair,20,2025-11-09T19:00:03,2025-11-09T22:00:14,Scheduled test,Exceeded time limit,Test normal,47.0,-34.9,104.6,13.0,VRLA12v_LeadAcid
+8661,10.63.37.10,DAR.ParkTown_106bair,21,2025-11-05T19:00:02,2025-11-05T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.0,-35.8,107.3,18.0,VRLA12v_LeadAcid
+8662,10.63.37.10,DAR.ParkTown_106bair,22,2025-11-02T19:00:03,2025-11-02T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.2,-35.4,106.2,17.0,VRLA12v_LeadAcid
+8663,10.63.37.10,DAR.ParkTown_106bair,23,2025-10-30T19:00:01,2025-10-30T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.6,-34.3,102.9,18.0,VRLA12v_LeadAcid
+8664,10.63.37.10,DAR.ParkTown_106bair,24,2025-10-27T19:00:03,2025-10-27T22:00:14,Scheduled test,Exceeded time limit,Test normal,46.7,-36.0,107.9,16.0,VRLA12v_LeadAcid
+8665,10.63.37.10,DAR.ParkTown_106bair,25,2025-10-24T19:00:02,2025-10-24T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.0,-35.9,107.7,17.0,VRLA12v_LeadAcid
+8666,10.63.37.10,DAR.ParkTown_106bair,26,2025-10-21T19:00:03,2025-10-21T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-34.1,102.4,13.0,VRLA12v_LeadAcid
+8667,10.63.37.10,DAR.ParkTown_106bair,27,2025-10-18T19:00:02,2025-10-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.2,-35.2,105.7,13.0,VRLA12v_LeadAcid
+8668,10.63.37.10,DAR.ParkTown_106bair,28,2025-10-15T19:00:03,2025-10-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.9,-31.9,95.7,14.0,VRLA12v_LeadAcid
+8669,10.63.37.10,DAR.ParkTown_106bair,29,2025-10-12T19:00:02,2025-10-12T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.1,-31.6,94.7,16.0,VRLA12v_LeadAcid
+8670,10.63.37.10,DAR.ParkTown_106bair,30,2025-10-09T19:00:03,2025-10-09T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.9,-32.6,97.8,17.0,VRLA12v_LeadAcid
+8671,10.63.37.10,DAR.ParkTown_106bair,31,2025-10-06T19:00:03,2025-10-06T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.7,-33.3,100.0,17.0,VRLA12v_LeadAcid
+8672,10.63.37.10,DAR.ParkTown_106bair,32,2025-10-03T19:00:02,2025-10-03T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.0,-32.4,97.2,16.0,VRLA12v_LeadAcid
+8673,10.63.37.10,DAR.ParkTown_106bair,33,2025-09-30T19:00:03,2025-09-30T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.2,-32.4,97.2,18.0,VRLA12v_LeadAcid
+8674,10.63.37.10,DAR.ParkTown_106bair,34,2025-09-27T19:00:02,2025-09-27T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-34.7,104.2,18.0,VRLA12v_LeadAcid
+8675,10.63.37.10,DAR.ParkTown_106bair,35,2025-09-24T19:00:02,2025-09-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-34.9,104.6,16.0,VRLA12v_LeadAcid
+8676,10.63.37.10,DAR.ParkTown_106bair,36,2025-09-21T19:00:03,2025-09-21T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.8,-34.4,103.3,16.0,VRLA12v_LeadAcid

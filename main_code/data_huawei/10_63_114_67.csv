@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+660760,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,82,2026-03-31T19:00:00,2026-03-31T21:46:09,Scheduled test,Low voltage,Test abnormal,45.8,-76.5,211.8,19.0,VRLA12v_LeadAcid
+593936,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,81,2026-03-28T19:00:01,2026-03-28T22:00:08,Scheduled test,Exceeded time limit,Test normal,47.0,-62.0,186.1,21.0,VRLA12v_LeadAcid
+528635,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,80,2026-03-25T19:00:00,2026-03-25T22:00:06,Scheduled test,Exceeded time limit,Test normal,47.1,-60.7,182.2,20.0,VRLA12v_LeadAcid
+507183,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,79,2026-03-22T19:00:00,2026-03-22T22:00:06,Scheduled test,Exceeded time limit,Test normal,47.0,-61.3,183.8,16.0,VRLA12v_LeadAcid
+383011,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,78,2026-03-19T19:00:01,2026-03-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,46.7,-62.8,188.6,20.0,VRLA12v_LeadAcid
+322603,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,77,2026-03-16T19:00:00,2026-03-16T22:00:06,Scheduled test,Exceeded time limit,Test normal,47.0,-62.2,186.6,16.0,VRLA12v_LeadAcid
+263497,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,76,2026-03-13T19:00:00,2026-03-13T22:00:05,Scheduled test,Exceeded time limit,Test normal,46.9,-63.1,189.3,19.0,VRLA12v_LeadAcid
+205683,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,75,2026-03-10T19:00:01,2026-03-10T22:00:07,Scheduled test,Exceeded time limit,Test normal,47.3,-61.1,183.4,16.0,VRLA12v_LeadAcid
+149247,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,74,2026-03-07T19:00:00,2026-03-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,46.4,-66.5,199.4,17.0,VRLA12v_LeadAcid
+94189,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,73,2026-03-04T19:00:00,2026-03-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,46.8,-60.7,182.1,16.0,VRLA12v_LeadAcid
+3798,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,1,2026-03-01T19:00:01,2026-03-01T19:25:04,Scheduled test,Low capacity,No result,49.1,-64.8,27.1,13.0,VRLA12v_LeadAcid
+3799,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,2,2026-02-26T19:00:00,2026-02-26T19:26:16,Scheduled test,Low capacity,No result,48.8,-61.0,26.7,11.0,VRLA12v_LeadAcid
+3800,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,3,2026-02-23T19:00:01,2026-02-23T19:25:26,Scheduled test,Low capacity,No result,49.3,-61.7,26.1,17.0,VRLA12v_LeadAcid
+3801,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,4,2026-02-20T19:00:00,2026-02-20T19:23:44,Scheduled test,Low capacity,No result,49.1,-66.9,26.5,21.0,VRLA12v_LeadAcid
+3802,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,5,2026-02-17T19:00:01,2026-02-17T19:26:14,Scheduled test,Low capacity,No result,49.4,-59.3,25.9,21.0,VRLA12v_LeadAcid
+3803,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,6,2026-02-14T19:00:00,2026-02-14T19:22:19,Scheduled test,Low capacity,No result,49.1,-70.2,26.1,19.0,VRLA12v_LeadAcid
+3804,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,7,2026-02-11T19:00:01,2026-02-11T19:24:28,Scheduled test,Low capacity,No result,49.0,-66.2,27.0,18.0,VRLA12v_LeadAcid
+3805,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,8,2026-02-08T19:00:01,2026-02-08T19:24:18,Scheduled test,Low capacity,No result,49.0,-66.2,26.8,20.0,VRLA12v_LeadAcid
+3806,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,9,2026-02-05T19:00:01,2026-02-05T19:26:40,Scheduled test,Low capacity,No result,49.2,-61.1,27.1,17.0,VRLA12v_LeadAcid
+3807,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,10,2026-02-02T19:00:01,2026-02-02T19:26:13,Scheduled test,Low capacity,No result,49.3,-62.1,27.1,17.0,VRLA12v_LeadAcid
+3808,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,11,2026-01-30T19:00:00,2026-01-30T19:23:51,Scheduled test,Low temperature,No result,48.7,-65.4,26.0,5.0,VRLA12v_LeadAcid
+3809,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,12,2026-01-26T19:00:00,2026-01-26T19:11:36,Scheduled test,Low capacity,No result,46.8,-58.2,11.3,16.0,VRLA12v_LeadAcid
+3810,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,13,2026-01-23T19:00:00,2026-01-23T19:07:44,Scheduled test,Low capacity,No result,46.8,-65.7,8.5,8.0,VRLA12v_LeadAcid
+3811,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,14,2026-01-20T19:00:02,2026-01-20T19:07:26,Scheduled test,Low capacity,No result,46.7,-65.3,8.0,17.0,VRLA12v_LeadAcid
+3812,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,15,2026-01-17T19:00:01,2026-01-17T19:09:05,Scheduled test,Low capacity,No result,46.8,-63.4,9.6,12.0,VRLA12v_LeadAcid
+3813,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,16,2026-01-14T19:00:00,2026-01-14T19:09:18,Scheduled test,Low capacity,No result,47.0,-64.8,10.0,20.0,VRLA12v_LeadAcid
+3814,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,17,2026-01-11T19:00:00,2026-01-11T19:09:26,Scheduled test,Low capacity,No result,47.1,-62.7,9.9,20.0,VRLA12v_LeadAcid
+3815,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,18,2026-01-08T19:00:00,2026-01-08T19:09:22,Scheduled test,Low capacity,No result,47.6,-59.8,9.3,16.0,VRLA12v_LeadAcid
+3816,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,19,2026-01-05T19:00:01,2026-01-05T19:08:44,Scheduled test,Low capacity,No result,47.5,-62.7,9.1,16.0,VRLA12v_LeadAcid
+3817,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,20,2026-01-02T19:00:01,2026-01-02T19:08:23,Scheduled test,Low capacity,No result,47.2,-67.8,9.5,19.0,VRLA12v_LeadAcid
+3818,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,21,2025-12-30T19:00:01,2025-12-30T19:08:39,Scheduled test,Low capacity,No result,47.2,-68.3,9.8,18.0,VRLA12v_LeadAcid
+3819,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,22,2025-12-27T19:00:00,2025-12-27T19:09:19,Scheduled test,Low capacity,No result,47.1,-66.6,10.3,21.0,VRLA12v_LeadAcid
+3820,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,23,2025-12-24T19:00:00,2025-12-24T19:09:14,Scheduled test,Low capacity,No result,46.9,-71.6,11.0,20.0,VRLA12v_LeadAcid
+3821,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,24,2025-12-21T19:00:01,2025-12-21T19:09:03,Scheduled test,Low capacity,No result,46.9,-68.6,10.3,17.0,VRLA12v_LeadAcid
+3822,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,25,2025-12-18T19:00:01,2025-12-18T19:09:30,Scheduled test,Low capacity,No result,47.4,-69.5,11.0,19.0,VRLA12v_LeadAcid
+3823,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,26,2025-12-15T19:00:01,2025-12-15T19:10:25,Scheduled test,Low capacity,No result,47.1,-62.2,10.8,16.0,VRLA12v_LeadAcid
+3824,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,27,2025-12-12T19:00:00,2025-12-12T19:11:08,Scheduled test,Low capacity,No result,47.2,-64.7,12.0,16.0,VRLA12v_LeadAcid
+3825,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,28,2025-12-09T19:00:01,2025-12-09T19:12:21,Scheduled test,Low capacity,No result,47.6,-61.6,12.7,20.0,VRLA12v_LeadAcid
+3826,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,29,2025-12-06T19:00:00,2025-12-06T19:12:04,Scheduled test,Low capacity,No result,47.5,-64.1,12.9,15.0,VRLA12v_LeadAcid
+3827,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,30,2025-12-03T19:00:00,2025-12-03T19:14:05,Scheduled test,Low capacity,No result,46.9,-61.0,14.3,20.0,VRLA12v_LeadAcid
+3828,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,31,2025-11-30T19:00:00,2025-11-30T19:14:52,Scheduled test,Low capacity,No result,47.0,-59.5,14.7,20.0,VRLA12v_LeadAcid
+3829,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,32,2025-11-27T19:00:01,2025-11-27T19:16:42,Scheduled test,Low capacity,No result,47.3,-57.3,15.9,21.0,VRLA12v_LeadAcid
+3830,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,33,2025-11-24T19:00:00,2025-11-24T19:16:09,Scheduled test,Low capacity,No result,47.5,-57.6,15.5,21.0,VRLA12v_LeadAcid
+3831,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,34,2025-11-21T19:00:01,2025-11-21T19:14:04,Scheduled test,Low capacity,No result,47.2,-65.3,15.3,17.0,VRLA12v_LeadAcid
+3832,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,35,2025-11-18T19:00:01,2025-11-18T19:15:35,Scheduled test,Low capacity,No result,47.6,-59.1,15.3,14.0,VRLA12v_LeadAcid
+3833,10.63.114.67,BZD._11hor_Hureltogoot_Skyresort_ULN,36,2025-11-15T19:00:01,2025-11-15T19:16:13,Scheduled test,Low capacity,No result,47.8,-58.4,15.8,16.0,VRLA12v_LeadAcid

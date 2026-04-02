@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+647894,10.63.51.242,DOR.Matad_Holboo_ID150,46,2026-03-30T19:00:01,2026-03-30T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.2,-18.1,54.4,24.0,VRLA12v_LeadAcid
+581371,10.63.51.242,DOR.Matad_Holboo_ID150,45,2026-03-27T19:00:01,2026-03-27T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.9,-18.3,55.0,25.0,VRLA12v_LeadAcid
+516341,10.63.51.242,DOR.Matad_Holboo_ID150,44,2026-03-24T19:00:00,2026-03-24T22:00:20,Scheduled test,Exceeded time limit,Test normal,49.9,-18.4,55.2,25.0,VRLA12v_LeadAcid
+453270,10.63.51.242,DOR.Matad_Holboo_ID150,43,2026-03-21T19:00:00,2026-03-21T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.0,-17.9,53.6,24.0,VRLA12v_LeadAcid
+371390,10.63.51.242,DOR.Matad_Holboo_ID150,42,2026-03-18T19:00:01,2026-03-18T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-18.1,54.4,19.0,VRLA12v_LeadAcid
+311225,10.63.51.242,DOR.Matad_Holboo_ID150,41,2026-03-15T19:00:00,2026-03-15T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-18.4,55.3,21.0,VRLA12v_LeadAcid
+252370,10.63.51.242,DOR.Matad_Holboo_ID150,40,2026-03-12T19:00:00,2026-03-12T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-18.4,55.2,24.0,VRLA12v_LeadAcid
+194817,10.63.51.242,DOR.Matad_Holboo_ID150,39,2026-03-09T19:00:00,2026-03-09T22:00:22,Scheduled test,Exceeded time limit,Test normal,50.0,-17.9,53.7,23.0,VRLA12v_LeadAcid
+138633,10.63.51.242,DOR.Matad_Holboo_ID150,38,2026-03-06T19:00:00,2026-03-06T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-18.3,55.0,19.0,VRLA12v_LeadAcid
+11538,10.63.51.242,DOR.Matad_Holboo_ID150,37,2026-03-03T19:00:01,2026-03-03T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.6,-17.4,52.2,11.0,VRLA12v_LeadAcid
+11502,10.63.51.242,DOR.Matad_Holboo_ID150,1,2026-02-28T19:00:00,2026-02-28T22:00:22,Scheduled test,Exceeded time limit,Test normal,49.4,-17.7,53.0,6.0,VRLA12v_LeadAcid
+11503,10.63.51.242,DOR.Matad_Holboo_ID150,2,2026-02-25T19:00:01,2026-02-25T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.7,-17.8,53.5,12.0,VRLA12v_LeadAcid
+11504,10.63.51.242,DOR.Matad_Holboo_ID150,3,2026-02-22T19:00:01,2026-02-22T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.6,-17.7,53.0,11.0,VRLA12v_LeadAcid
+11505,10.63.51.242,DOR.Matad_Holboo_ID150,4,2026-02-19T19:00:00,2026-02-19T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-18.0,54.1,19.0,VRLA12v_LeadAcid
+11506,10.63.51.242,DOR.Matad_Holboo_ID150,5,2026-02-16T19:00:00,2026-02-16T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.8,-18.0,54.0,14.0,VRLA12v_LeadAcid
+11507,10.63.51.242,DOR.Matad_Holboo_ID150,6,2026-02-13T19:00:01,2026-02-13T22:00:25,Scheduled test,Exceeded time limit,Test normal,50.0,-17.2,51.6,18.0,VRLA12v_LeadAcid
+11508,10.63.51.242,DOR.Matad_Holboo_ID150,7,2026-02-10T19:00:00,2026-02-10T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.9,-17.6,52.7,13.0,VRLA12v_LeadAcid
+11509,10.63.51.242,DOR.Matad_Holboo_ID150,8,2026-02-07T19:00:01,2026-02-07T22:00:27,Scheduled test,Exceeded time limit,Test normal,49.5,-17.4,52.3,6.0,VRLA12v_LeadAcid
+11510,10.63.51.242,DOR.Matad_Holboo_ID150,9,2026-02-02T19:00:01,2026-02-02T20:26:06,Scheduled test,Low temperature,Abnormal end,50.5,-17.5,25.1,5.0,VRLA12v_LeadAcid
+11511,10.63.51.242,DOR.Matad_Holboo_ID150,10,2026-01-26T19:00:00,2026-01-26T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.5,-18.3,54.9,8.0,VRLA12v_LeadAcid
+11512,10.63.51.242,DOR.Matad_Holboo_ID150,11,2026-01-23T19:00:01,2026-01-23T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.3,-19.0,56.9,5.0,VRLA12v_LeadAcid
+11513,10.63.51.242,DOR.Matad_Holboo_ID150,12,2026-01-17T19:00:01,2026-01-17T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.5,-18.5,55.5,6.0,VRLA12v_LeadAcid
+11514,10.63.51.242,DOR.Matad_Holboo_ID150,13,2026-01-14T19:00:01,2026-01-14T22:00:23,Scheduled test,Exceeded time limit,Test normal,49.5,-18.3,54.8,8.0,VRLA12v_LeadAcid
+11515,10.63.51.242,DOR.Matad_Holboo_ID150,14,2026-01-11T19:00:01,2026-01-11T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.5,-18.2,54.6,8.0,VRLA12v_LeadAcid
+11516,10.63.51.242,DOR.Matad_Holboo_ID150,15,2026-01-08T19:00:01,2026-01-08T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.7,-19.7,59.1,14.0,VRLA12v_LeadAcid
+11517,10.63.51.242,DOR.Matad_Holboo_ID150,16,2026-01-06T12:50:01,2026-01-06T13:00:04,Scheduled test,Exceeded time limit,Test normal,50.0,-16.8,2.8,14.0,VRLA12v_LeadAcid
+11518,10.63.51.242,DOR.Matad_Holboo_ID150,17,2026-01-03T12:50:00,2026-01-03T13:00:03,Scheduled test,Exceeded time limit,Test normal,49.9,-17.5,2.9,14.0,VRLA12v_LeadAcid
+11519,10.63.51.242,DOR.Matad_Holboo_ID150,18,2025-12-31T12:50:01,2025-12-31T13:00:04,Scheduled test,Exceeded time limit,Test normal,49.8,-16.6,2.8,11.0,VRLA12v_LeadAcid
+11520,10.63.51.242,DOR.Matad_Holboo_ID150,19,2025-12-28T12:50:01,2025-12-28T13:00:04,Scheduled test,Exceeded time limit,Test normal,49.9,-17.0,2.9,13.0,VRLA12v_LeadAcid
+11521,10.63.51.242,DOR.Matad_Holboo_ID150,20,2025-12-25T12:50:01,2025-12-25T13:00:04,Scheduled test,Exceeded time limit,Test normal,50.0,-17.1,2.9,13.0,VRLA12v_LeadAcid
+11522,10.63.51.242,DOR.Matad_Holboo_ID150,21,2025-03-14T12:40:56,2025-03-14T12:41:20,Scheduled test,Low voltage,Battery alm,46.0,-9.0,0.1,21.0,VRLA12v_LeadAcid
+11523,10.63.51.242,DOR.Matad_Holboo_ID150,22,2025-03-14T12:35:57,2025-03-14T12:36:24,Scheduled test,Low voltage,Battery alm,49.0,-8.1,0.1,21.0,VRLA12v_LeadAcid
+11524,10.63.51.242,DOR.Matad_Holboo_ID150,23,2025-03-12T19:00:00,2025-03-12T19:00:30,Scheduled test,Low voltage,Battery alm,45.0,-12.4,0.1,21.0,VRLA12v_LeadAcid
+11525,10.63.51.242,DOR.Matad_Holboo_ID150,24,2025-03-09T19:00:01,2025-03-09T19:00:27,Scheduled test,Low voltage,Battery alm,45.0,-11.2,0.1,26.0,VRLA12v_LeadAcid
+11526,10.63.51.242,DOR.Matad_Holboo_ID150,25,2025-03-06T19:00:00,2025-03-06T19:00:26,Scheduled test,Low voltage,Battery alm,45.0,-10.4,0.1,25.0,VRLA12v_LeadAcid
+11527,10.63.51.242,DOR.Matad_Holboo_ID150,26,2025-03-03T19:00:00,2025-03-03T19:00:27,Scheduled test,Low voltage,Battery alm,45.0,-11.0,0.1,24.0,VRLA12v_LeadAcid
+11528,10.63.51.242,DOR.Matad_Holboo_ID150,27,2025-02-28T19:00:01,2025-02-28T20:10:55,Scheduled test,Low voltage,Battery alm,45.0,-20.2,23.8,25.0,VRLA12v_LeadAcid
+11529,10.63.51.242,DOR.Matad_Holboo_ID150,28,2025-02-25T19:00:02,2025-02-25T21:54:21,Scheduled test,Low voltage,Battery alm,45.9,-20.3,58.8,19.0,VRLA12v_LeadAcid
+11530,10.63.51.242,DOR.Matad_Holboo_ID150,29,2025-02-22T19:00:01,2025-02-22T21:56:20,Scheduled test,Low voltage,Battery alm,45.9,-20.4,59.9,15.0,VRLA12v_LeadAcid
+11531,10.63.51.242,DOR.Matad_Holboo_ID150,30,2025-02-19T19:00:00,2025-02-19T21:54:45,Scheduled test,Low voltage,Battery alm,45.9,-20.6,59.8,20.0,VRLA12v_LeadAcid
+11532,10.63.51.242,DOR.Matad_Holboo_ID150,31,2025-02-16T19:00:01,2025-02-16T21:25:00,Scheduled test,Low voltage,Battery alm,45.9,-20.7,49.9,18.0,VRLA12v_LeadAcid
+11533,10.63.51.242,DOR.Matad_Holboo_ID150,32,2025-02-13T19:00:01,2025-02-13T21:36:11,Scheduled test,Low voltage,Battery alm,46.0,-20.4,53.0,18.0,VRLA12v_LeadAcid
+11534,10.63.51.242,DOR.Matad_Holboo_ID150,33,2025-02-10T19:00:00,2025-02-10T21:22:54,Scheduled test,Low voltage,Battery alm,45.9,-21.5,51.1,13.0,VRLA12v_LeadAcid
+11535,10.63.51.242,DOR.Matad_Holboo_ID150,34,2025-02-07T19:00:01,2025-02-07T21:24:46,Scheduled test,Low voltage,Battery alm,46.0,-21.0,50.5,9.0,VRLA12v_LeadAcid
+11536,10.63.51.242,DOR.Matad_Holboo_ID150,35,2025-02-04T19:00:02,2025-02-04T21:20:33,Scheduled test,Low voltage,Battery alm,45.9,-21.2,49.6,11.0,VRLA12v_LeadAcid
+11537,10.63.51.242,DOR.Matad_Holboo_ID150,36,2025-02-01T19:00:00,2025-02-01T22:00:21,Scheduled test,Exceeded time limit,Test normal,48.3,-17.4,52.1,14.0,VRLA12v_LeadAcid

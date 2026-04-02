@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+636548,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,46,2026-03-30T19:00:00,2026-03-30T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.3,-23.6,70.7,25.0,VRLA12v_LeadAcid
+570270,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,45,2026-03-27T19:00:00,2026-03-27T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.5,-21.7,65.2,25.0,VRLA12v_LeadAcid
+505483,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,44,2026-03-24T19:00:00,2026-03-24T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.7,-21.4,64.1,25.0,VRLA12v_LeadAcid
+442751,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,43,2026-03-21T19:00:00,2026-03-21T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.7,-23.4,70.1,21.0,VRLA12v_LeadAcid
+361104,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,42,2026-03-18T19:00:01,2026-03-19T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.7,-21.7,108.3,17.0,VRLA12v_LeadAcid
+301160,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,41,2026-03-15T19:00:01,2026-03-16T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.8,-21.5,107.6,17.0,VRLA12v_LeadAcid
+242518,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,40,2026-03-12T19:00:00,2026-03-13T00:00:37,Scheduled test,Exceeded time limit,Test normal,50.0,-20.9,104.3,17.0,VRLA12v_LeadAcid
+185196,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,39,2026-03-09T19:00:00,2026-03-10T00:00:37,Scheduled test,Exceeded time limit,Test normal,49.8,-22.6,113.1,19.0,VRLA12v_LeadAcid
+129273,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,38,2026-03-06T19:00:01,2026-03-07T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.5,-21.9,109.3,13.0,VRLA12v_LeadAcid
+2389,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,37,2026-03-03T19:00:00,2026-03-04T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.5,-21.1,105.5,6.0,VRLA12v_LeadAcid
+2353,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,1,2026-02-28T19:00:00,2026-03-01T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.5,-21.7,108.3,9.0,VRLA12v_LeadAcid
+2354,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,2,2026-02-25T19:00:01,2026-02-26T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.6,-21.8,109.0,8.0,VRLA12v_LeadAcid
+2355,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,3,2026-02-22T19:00:00,2026-02-23T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.6,-22.3,111.3,9.0,VRLA12v_LeadAcid
+2356,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,4,2026-02-19T19:00:01,2026-02-20T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.7,-23.6,117.8,20.0,VRLA12v_LeadAcid
+2357,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,5,2026-02-16T19:00:01,2026-02-17T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.5,-23.5,117.6,12.0,VRLA12v_LeadAcid
+2358,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,6,2026-02-13T19:00:00,2026-02-14T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.7,-21.6,108.2,14.0,VRLA12v_LeadAcid
+2359,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,7,2026-02-10T19:00:00,2026-02-11T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.9,-21.7,108.7,14.0,VRLA12v_LeadAcid
+2360,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,8,2026-02-07T19:00:01,2026-02-08T00:00:42,Scheduled test,Exceeded time limit,Test normal,49.5,-22.7,113.3,10.0,VRLA12v_LeadAcid
+2361,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,9,2026-02-04T19:00:01,2026-02-05T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.7,-21.6,107.8,8.0,VRLA12v_LeadAcid
+2362,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,10,2026-02-01T19:00:01,2026-02-02T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.9,-21.4,107.1,12.0,VRLA12v_LeadAcid
+2363,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,11,2026-01-29T19:00:01,2026-01-30T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.9,-21.3,106.6,9.0,VRLA12v_LeadAcid
+2364,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,12,2026-01-26T19:00:01,2026-01-27T00:00:41,Scheduled test,Exceeded time limit,Test normal,50.1,-20.9,104.7,6.0,VRLA12v_LeadAcid
+2365,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,13,2026-01-23T19:00:00,2026-01-24T00:00:38,Scheduled test,Exceeded time limit,Test normal,48.9,-23.4,116.9,6.0,VRLA12v_LeadAcid
+2366,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,14,2026-01-15T19:00:01,2026-01-16T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.3,-24.2,121.2,7.0,VRLA12v_LeadAcid
+2367,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,15,2026-01-12T19:00:00,2026-01-13T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.5,-23.9,119.4,10.0,VRLA12v_LeadAcid
+2368,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,16,2026-01-09T19:00:00,2026-01-10T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.4,-24.8,123.8,10.0,VRLA12v_LeadAcid
+2369,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,17,2026-01-06T19:00:00,2026-01-07T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.5,-25.1,125.7,12.0,VRLA12v_LeadAcid
+2370,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,18,2026-01-03T19:00:00,2026-01-04T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.2,-26.8,134.2,13.0,VRLA12v_LeadAcid
+2371,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,19,2025-12-31T19:00:01,2026-01-01T00:00:39,Scheduled test,Exceeded time limit,Test normal,49.3,-25.3,126.5,11.0,VRLA12v_LeadAcid
+2372,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,20,2025-12-28T19:00:01,2025-12-29T00:00:38,Scheduled test,Exceeded time limit,Test normal,49.4,-25.0,125.2,11.0,VRLA12v_LeadAcid
+2373,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,21,2025-12-25T19:00:01,2025-12-26T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.3,-25.1,125.3,11.0,VRLA12v_LeadAcid
+2374,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,22,2025-12-22T19:00:00,2025-12-23T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.3,-23.8,118.8,9.0,VRLA12v_LeadAcid
+2375,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,23,2025-12-19T19:00:00,2025-12-20T00:00:40,Scheduled test,Exceeded time limit,Test normal,49.5,-23.5,117.7,9.0,VRLA12v_LeadAcid
+2376,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,24,2025-12-16T19:00:00,2025-12-17T00:00:37,Scheduled test,Exceeded time limit,Test normal,49.6,-23.9,119.4,15.0,VRLA12v_LeadAcid
+2377,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,25,2025-12-13T19:00:01,2025-12-14T00:00:41,Scheduled test,Exceeded time limit,Test normal,49.2,-25.1,125.7,9.0,VRLA12v_LeadAcid
+2378,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,26,2025-12-10T19:00:00,2025-12-10T21:09:12,Scheduled test,Low temperature,Abnormal end,50.3,-23.5,50.5,5.0,VRLA12v_LeadAcid
+2379,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,27,2025-11-14T19:00:01,2025-11-14T19:52:45,Scheduled test,Low temperature,Abnormal end,51.1,-23.5,20.6,5.0,VRLA12v_LeadAcid
+2380,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,28,2025-11-11T19:00:00,2025-11-11T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.7,-22.6,67.7,7.0,VRLA12v_LeadAcid
+2381,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,29,2025-11-05T19:00:01,2025-11-05T22:00:26,Scheduled test,Exceeded time limit,Test normal,49.9,-22.5,67.4,10.0,VRLA12v_LeadAcid
+2382,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,30,2025-11-02T19:00:00,2025-11-02T22:00:23,Scheduled test,Exceeded time limit,Test normal,50.0,-22.7,68.3,11.0,VRLA12v_LeadAcid
+2383,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,31,2025-10-30T19:00:00,2025-10-30T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.8,-22.6,68.0,7.0,VRLA12v_LeadAcid
+2384,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,32,2025-10-27T19:00:01,2025-10-27T22:00:25,Scheduled test,Exceeded time limit,Test normal,49.7,-23.4,70.4,7.0,VRLA12v_LeadAcid
+2385,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,33,2025-10-23T19:00:00,2025-10-23T21:09:00,Scheduled test,Low temperature,Abnormal end,50.2,-23.0,49.3,5.0,VRLA12v_LeadAcid
+2386,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,34,2025-10-14T19:00:00,2025-10-14T22:00:24,Scheduled test,Exceeded time limit,Test normal,50.2,-22.3,66.9,6.0,VRLA12v_LeadAcid
+2387,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,35,2025-10-11T19:00:00,2025-10-11T22:00:24,Scheduled test,Exceeded time limit,Test normal,49.7,-25.0,74.9,13.0,VRLA12v_LeadAcid
+2388,10.63.101.104,SBD._20hor_SelhiinAm_IronTowerLLC_TPD55_ULN,36,2025-10-08T19:00:01,2025-10-08T20:18:39,Scheduled test,Fault alarm,Abnormal end,51.0,-22.1,29.0,12.0,VRLA12v_LeadAcid

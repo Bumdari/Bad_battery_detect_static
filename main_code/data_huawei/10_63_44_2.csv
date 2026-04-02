@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+646328,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,45,2026-03-30T19:00:03,2026-03-30T20:35:11,Scheduled test,Low capacity,Test normal,45.5,-12.1,19.1,14.0,VRLA12v_LeadAcid
+579838,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,44,2026-03-27T19:00:02,2026-03-27T20:36:44,Scheduled test,Low capacity,Test normal,45.6,-12.2,19.7,16.0,VRLA12v_LeadAcid
+514839,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,43,2026-03-24T19:00:02,2026-03-24T20:38:47,Scheduled test,Low capacity,Test normal,45.5,-12.3,20.3,14.0,VRLA12v_LeadAcid
+451800,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,42,2026-03-21T19:00:03,2026-03-21T20:46:45,Scheduled test,Low capacity,Test normal,45.2,-12.3,21.8,12.0,VRLA12v_LeadAcid
+369953,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,41,2026-03-18T19:00:02,2026-03-18T20:54:52,Scheduled test,Low capacity,Test normal,45.3,-11.5,22.0,9.0,VRLA12v_LeadAcid
+309818,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,40,2026-03-15T19:00:02,2026-03-15T20:49:44,Scheduled test,Low capacity,Test normal,45.5,-12.1,22.2,7.0,VRLA12v_LeadAcid
+250993,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,39,2026-03-12T19:00:02,2026-03-12T20:05:13,Scheduled test,Low temperature,Abnormal end,46.8,-11.5,12.5,5.0,VRLA12v_LeadAcid
+193472,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,38,2026-03-09T19:00:03,2026-03-09T20:57:20,Scheduled test,Low capacity,Test normal,45.7,-12.0,23.4,11.0,VRLA12v_LeadAcid
+137320,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,37,2026-03-06T19:00:02,2026-03-06T21:04:22,Scheduled test,Low capacity,Test normal,45.2,-12.1,25.1,5.0,VRLA12v_LeadAcid
+10219,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,1,2026-02-20T19:00:02,2026-02-20T21:09:10,Scheduled test,Low capacity,Test normal,45.0,-12.6,27.1,5.0,VRLA12v_LeadAcid
+10220,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,2,2026-02-17T19:00:02,2026-02-17T21:03:02,Scheduled test,Low capacity,Test normal,45.5,-13.1,26.9,8.0,VRLA12v_LeadAcid
+10221,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,3,2026-02-13T19:00:02,2026-02-13T19:04:04,Scheduled test,Low temperature,Abnormal end,51.2,-10.9,0.7,5.0,VRLA12v_LeadAcid
+10222,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,4,2026-02-10T19:00:03,2026-02-10T19:33:05,Scheduled test,Low temperature,Abnormal end,50.3,-11.4,6.2,5.0,VRLA12v_LeadAcid
+10223,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,5,2026-02-07T19:00:02,2026-02-07T21:37:25,Scheduled test,Low capacity,Test normal,45.2,-12.9,33.9,7.0,VRLA12v_LeadAcid
+10224,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,6,2026-02-03T19:00:02,2026-02-03T21:19:37,Scheduled test,Low temperature,Abnormal end,46.3,-12.1,28.1,5.0,VRLA12v_LeadAcid
+10225,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,7,2026-01-31T19:00:02,2026-01-31T21:00:36,Scheduled test,Low temperature,Abnormal end,46.9,-11.6,23.2,5.0,VRLA12v_LeadAcid
+10226,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,8,2026-01-28T19:00:02,2026-01-28T20:13:56,Scheduled test,Low temperature,Abnormal end,47.5,-13.7,16.8,5.0,VRLA12v_LeadAcid
+10227,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,9,2026-01-12T19:00:02,2026-01-12T19:54:46,Scheduled test,Low temperature,Abnormal end,47.0,-13.1,11.9,5.0,VRLA12v_LeadAcid
+10228,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,10,2026-01-01T19:00:03,2026-01-01T21:03:45,Scheduled test,Low temperature,Abnormal end,46.2,-12.5,25.7,5.0,VRLA12v_LeadAcid
+10229,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,11,2025-12-17T19:00:03,2025-12-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,45.7,-11.6,34.7,11.0,VRLA12v_LeadAcid
+10230,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,12,2025-12-14T19:00:02,2025-12-14T21:59:06,Scheduled test,Low capacity,Test normal,45.6,-12.6,37.6,10.0,VRLA12v_LeadAcid
+10231,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,13,2025-12-11T19:00:03,2025-12-11T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.2,-12.2,36.5,7.0,VRLA12v_LeadAcid
+10232,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,14,2025-12-08T19:00:03,2025-12-08T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.6,-12.0,36.0,8.0,VRLA12v_LeadAcid
+10233,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,15,2025-12-05T19:00:03,2025-12-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.7,-12.6,37.7,7.0,VRLA12v_LeadAcid
+10234,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,16,2025-12-02T19:00:02,2025-12-02T22:00:11,Scheduled test,Exceeded time limit,Test normal,45.9,-12.2,36.6,6.0,VRLA12v_LeadAcid
+10235,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,17,2025-11-29T19:00:02,2025-11-29T22:00:11,Scheduled test,Exceeded time limit,Test normal,45.3,-12.1,36.3,10.0,VRLA12v_LeadAcid
+10236,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,18,2025-11-26T19:00:02,2025-11-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.1,-12.4,37.2,8.0,VRLA12v_LeadAcid
+10237,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,19,2025-11-23T19:00:03,2025-11-23T20:13:39,Scheduled test,Low voltage,Battery alm,47.4,-11.3,13.9,11.0,VRLA12v_LeadAcid
+10238,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,20,2025-11-20T19:00:03,2025-11-20T20:29:17,Scheduled test,Low voltage,Battery alm,47.1,-11.4,16.9,16.0,VRLA12v_LeadAcid
+10239,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,21,2025-11-17T19:00:03,2025-11-17T20:21:00,Scheduled test,Low voltage,Battery alm,47.1,-12.7,17.1,11.0,VRLA12v_LeadAcid
+10240,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,22,2025-11-14T19:00:02,2025-11-14T20:25:49,Scheduled test,Low voltage,Battery alm,47.1,-12.6,17.9,10.0,VRLA12v_LeadAcid
+10241,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,23,2025-11-11T19:00:02,2025-11-11T20:39:36,Scheduled test,Low voltage,Battery alm,47.1,-12.1,20.0,7.0,VRLA12v_LeadAcid
+10242,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,24,2025-11-08T19:00:03,2025-11-08T20:49:51,Scheduled test,Low voltage,Battery alm,47.1,-12.0,22.0,8.0,VRLA12v_LeadAcid
+10243,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,25,2025-11-05T19:00:02,2025-11-05T21:13:15,Scheduled test,Low voltage,Battery alm,47.1,-11.5,25.6,14.0,VRLA12v_LeadAcid
+10244,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,26,2025-11-02T19:00:02,2025-11-02T21:01:57,Scheduled test,Low voltage,Battery alm,47.1,-13.2,26.8,18.0,VRLA12v_LeadAcid
+10245,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,27,2025-10-29T19:00:02,2025-10-29T21:08:19,Scheduled test,Fault alarm,Abnormal end,49.4,-12.5,26.8,17.0,VRLA12v_LeadAcid
+10246,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,28,2025-10-26T19:00:02,2025-10-26T21:51:51,Scheduled test,Low voltage,Battery alm,47.4,-12.2,34.9,15.0,VRLA12v_LeadAcid
+10247,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,29,2025-10-23T19:00:03,2025-10-23T21:19:40,Scheduled test,Low voltage,Battery alm,47.3,-12.7,29.5,15.0,VRLA12v_LeadAcid
+10248,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,30,2025-10-20T19:00:03,2025-10-20T21:35:15,Scheduled test,Low voltage,Battery alm,47.1,-12.1,31.2,10.0,VRLA12v_LeadAcid
+10249,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,31,2025-10-17T19:00:02,2025-10-17T21:41:28,Scheduled test,Low voltage,Battery alm,47.5,-12.0,32.4,6.0,VRLA12v_LeadAcid
+10250,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,32,2025-10-13T19:00:03,2025-10-13T22:00:14,Scheduled test,Exceeded time limit,Test normal,49.3,-11.9,35.7,15.0,VRLA12v_LeadAcid
+10251,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,33,2025-10-10T19:00:02,2025-10-10T21:38:53,Scheduled test,Low voltage,Battery alm,47.1,-12.6,33.3,18.0,VRLA12v_LeadAcid
+10252,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,34,2025-10-07T19:00:02,2025-10-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.2,-11.8,35.5,12.0,VRLA12v_LeadAcid
+10253,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,35,2025-10-04T19:00:03,2025-10-04T20:43:53,Scheduled test,Low voltage,Battery alm,47.2,-13.2,22.9,20.0,VRLA12v_LeadAcid
+10254,10.63.44.2,BAH.Buutsagaan_BayanburdBag_MP22,36,2025-10-01T19:00:03,2025-10-01T21:08:23,Scheduled test,Low voltage,Battery alm,47.2,-11.9,25.4,23.0,VRLA12v_LeadAcid

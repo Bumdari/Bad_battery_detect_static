@@ -1,0 +1,44 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+699073,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,43,2026-04-01T19:00:03,2026-04-01T22:00:42,Scheduled test,Exceeded time limit,Test normal,53.5,0.0,0.0,6.0,VRLA12v_LeadAcid
+631450,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,42,2026-03-29T19:00:03,2026-03-29T20:09:25,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+565310,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,41,2026-03-26T19:00:02,2026-03-26T22:00:42,Scheduled test,Exceeded time limit,Test normal,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+500627,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,40,2026-03-23T19:00:03,2026-03-23T22:00:41,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,9.0,VRLA12v_LeadAcid
+438114,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,39,2026-03-20T19:00:03,2026-03-20T19:00:09,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+238181,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,38,2026-03-11T19:00:02,2026-03-11T22:00:41,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,8.0,VRLA12v_LeadAcid
+125139,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,37,2026-03-05T19:00:03,2026-03-05T19:19:19,Scheduled test,Low temperature,Abnormal end,53.4,0.0,0.0,5.0,VRLA12v_LeadAcid
+16360,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,1,2026-03-02T19:00:03,2026-03-02T19:34:21,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16361,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,2,2026-02-27T19:00:03,2026-02-27T19:22:27,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16362,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,3,2026-02-23T19:00:02,2026-02-23T19:06:59,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16363,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,4,2026-02-13T19:00:02,2026-02-13T19:01:20,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16364,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,5,2026-02-06T19:00:02,2026-02-06T19:45:47,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16365,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,6,2026-02-03T19:00:02,2026-02-03T19:22:17,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16366,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,7,2026-01-31T19:00:03,2026-01-31T19:38:15,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16367,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,8,2026-01-28T19:00:03,2026-01-28T20:14:36,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16368,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,9,2026-01-21T19:00:00,2026-01-21T20:56:42,Scheduled test,Low temperature,Abnormal end,53.5,-0.1,0.3,5.0,VRLA12v_LeadAcid
+16369,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,10,2026-01-18T19:00:03,2026-01-18T20:01:10,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16370,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,11,2026-01-15T19:00:02,2026-01-15T19:54:42,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16371,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,12,2026-01-12T19:00:02,2026-01-12T19:13:13,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16372,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,13,2026-01-07T19:00:02,2026-01-07T19:32:50,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16373,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,14,2026-01-03T19:00:02,2026-01-03T19:35:27,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16374,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,15,2025-12-30T19:00:03,2025-12-30T19:28:06,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16375,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,16,2025-12-24T19:00:02,2025-12-24T20:11:29,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16376,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,17,2025-12-19T19:00:02,2025-12-19T19:49:58,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16377,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,18,2025-12-16T19:00:02,2025-12-16T19:28:52,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16378,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,19,2025-12-12T19:00:03,2025-12-12T19:37:28,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16379,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,20,2025-12-03T19:00:03,2025-12-03T19:07:56,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16380,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,21,2025-11-30T19:00:03,2025-11-30T19:21:13,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16381,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,22,2025-11-24T19:00:03,2025-11-24T19:25:16,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16382,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,23,2025-11-20T19:00:03,2025-11-20T19:32:42,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16383,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,24,2025-11-02T19:00:01,2025-11-02T20:24:32,Scheduled test,Low temperature,Abnormal end,53.5,-0.3,0.4,5.0,VRLA12v_LeadAcid
+16384,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,25,2025-10-25T19:00:02,2025-10-25T19:40:09,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16385,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,26,2025-10-19T19:00:03,2025-10-19T19:52:14,Scheduled test,Low temperature,Abnormal end,53.5,0.0,0.0,5.0,VRLA12v_LeadAcid
+16386,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,27,2025-10-11T19:00:03,2025-10-11T22:00:43,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,9.0,VRLA12v_LeadAcid
+16387,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,28,2025-10-10T11:35:29,2025-10-10T11:40:32,Short test,Exceeded time limit,Test normal,53.4,-7.0,0.6,10.0,VRLA12v_LeadAcid
+16388,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,29,2025-10-08T19:00:02,2025-10-08T22:00:40,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,5.0,VRLA12v_LeadAcid
+16389,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,30,2025-10-04T19:00:03,2025-10-04T22:00:43,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,8.0,VRLA12v_LeadAcid
+16390,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,31,2025-10-01T19:00:03,2025-10-01T22:00:41,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,16.0,VRLA12v_LeadAcid
+16391,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,32,2025-09-28T19:00:01,2025-09-28T22:00:39,Scheduled test,Exceeded time limit,Test normal,53.4,-0.1,0.2,16.0,VRLA12v_LeadAcid
+16392,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,33,2025-09-25T19:00:02,2025-09-25T22:00:40,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,15.0,VRLA12v_LeadAcid
+16393,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,34,2025-09-22T19:00:03,2025-09-22T22:00:42,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,17.0,VRLA12v_LeadAcid
+16394,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,35,2025-09-19T19:00:02,2025-09-19T22:00:39,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,13.0,VRLA12v_LeadAcid
+16395,10.63.90.116,HUD._4hor_HuushiinAm_Temprory_IOMD150_ULN,36,2025-09-16T19:00:02,2025-09-16T22:00:41,Scheduled test,Exceeded time limit,Test normal,53.4,0.0,0.0,9.0,VRLA12v_LeadAcid

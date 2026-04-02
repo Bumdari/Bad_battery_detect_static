@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+691605,10.63.45.10,UVS.Tes_SharsuuriBoomt,46,2026-04-01T19:00:03,2026-04-01T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.2,-13.0,39.0,19.0,VRLA12v_LeadAcid
+624139,10.63.45.10,UVS.Tes_SharsuuriBoomt,45,2026-03-29T19:00:02,2026-03-29T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.1,-12.8,38.4,13.0,VRLA12v_LeadAcid
+558156,10.63.45.10,UVS.Tes_SharsuuriBoomt,44,2026-03-26T19:00:02,2026-03-26T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.1,-12.8,38.4,10.0,VRLA12v_LeadAcid
+493659,10.63.45.10,UVS.Tes_SharsuuriBoomt,43,2026-03-23T19:00:03,2026-03-23T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.2,-12.8,38.3,10.0,VRLA12v_LeadAcid
+431296,10.63.45.10,UVS.Tes_SharsuuriBoomt,42,2026-03-20T19:00:02,2026-03-20T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.1,-12.8,38.5,7.0,VRLA12v_LeadAcid
+349897,10.63.45.10,UVS.Tes_SharsuuriBoomt,41,2026-03-17T19:00:02,2026-03-17T21:02:51,Scheduled test,Low temperature,Abnormal end,49.5,-12.8,26.2,5.0,VRLA12v_LeadAcid
+290198,10.63.45.10,UVS.Tes_SharsuuriBoomt,40,2026-03-14T19:00:02,2026-03-14T20:20:14,Scheduled test,Low temperature,Abnormal end,49.5,-12.7,16.9,5.0,VRLA12v_LeadAcid
+231793,10.63.45.10,UVS.Tes_SharsuuriBoomt,39,2026-03-11T19:00:03,2026-03-11T20:40:29,Scheduled test,Low temperature,Abnormal end,49.7,-12.8,21.4,5.0,VRLA12v_LeadAcid
+174735,10.63.45.10,UVS.Tes_SharsuuriBoomt,38,2026-03-08T19:00:03,2026-03-08T19:14:02,Scheduled test,Low temperature,Abnormal end,49.8,-12.5,2.9,5.0,VRLA12v_LeadAcid
+100767,10.63.45.10,UVS.Tes_SharsuuriBoomt,37,2026-03-04T19:00:02,2026-03-04T19:29:43,Scheduled test,Low temperature,Abnormal end,49.7,-12.7,6.3,5.0,VRLA12v_LeadAcid
+10328,10.63.45.10,UVS.Tes_SharsuuriBoomt,1,2026-02-28T19:00:03,2026-02-28T19:10:56,Scheduled test,Low temperature,Abnormal end,49.8,-12.5,2.3,5.0,VRLA12v_LeadAcid
+10329,10.63.45.10,UVS.Tes_SharsuuriBoomt,2,2026-02-25T19:00:02,2026-02-25T19:26:18,Scheduled test,Low temperature,Abnormal end,49.8,-12.8,5.6,5.0,VRLA12v_LeadAcid
+10330,10.63.45.10,UVS.Tes_SharsuuriBoomt,3,2026-02-19T19:00:02,2026-02-19T19:16:31,Scheduled test,Low temperature,Abnormal end,49.9,-12.5,3.4,5.0,VRLA12v_LeadAcid
+10331,10.63.45.10,UVS.Tes_SharsuuriBoomt,4,2026-02-15T19:00:02,2026-02-15T19:08:01,Scheduled test,Low temperature,Abnormal end,49.6,-12.5,1.7,5.0,VRLA12v_LeadAcid
+10332,10.63.45.10,UVS.Tes_SharsuuriBoomt,5,2026-02-12T19:00:02,2026-02-12T19:17:26,Scheduled test,Low temperature,Abnormal end,50.0,-12.6,3.7,5.0,VRLA12v_LeadAcid
+10333,10.63.45.10,UVS.Tes_SharsuuriBoomt,6,2026-02-09T19:00:02,2026-02-09T19:04:02,Scheduled test,Low temperature,Abnormal end,50.3,-12.3,0.8,5.0,VRLA12v_LeadAcid
+10334,10.63.45.10,UVS.Tes_SharsuuriBoomt,7,2026-02-01T19:00:02,2026-02-01T19:05:20,Scheduled test,Low temperature,Abnormal end,49.7,-12.4,1.1,5.0,VRLA12v_LeadAcid
+10335,10.63.45.10,UVS.Tes_SharsuuriBoomt,8,2026-01-29T19:00:14,2026-01-29T19:00:53,Scheduled test,Low temperature,Abnormal end,53.1,-10.7,0.1,5.0,VRLA12v_LeadAcid
+10336,10.63.45.10,UVS.Tes_SharsuuriBoomt,9,2026-01-24T19:00:02,2026-01-24T19:06:25,Scheduled test,Low temperature,Abnormal end,49.7,-12.6,1.3,5.0,VRLA12v_LeadAcid
+10337,10.63.45.10,UVS.Tes_SharsuuriBoomt,10,2026-01-14T19:00:02,2026-01-14T19:07:08,Scheduled test,Low temperature,Abnormal end,49.9,-12.6,1.5,5.0,VRLA12v_LeadAcid
+10338,10.63.45.10,UVS.Tes_SharsuuriBoomt,11,2026-01-04T19:00:03,2026-01-04T19:05:04,Scheduled test,Low temperature,Abnormal end,49.7,-13.9,1.2,5.0,VRLA12v_LeadAcid
+10339,10.63.45.10,UVS.Tes_SharsuuriBoomt,12,2025-12-31T19:00:03,2025-12-31T19:11:47,Scheduled test,Low temperature,Abnormal end,50.0,-13.9,2.7,5.0,VRLA12v_LeadAcid
+10340,10.63.45.10,UVS.Tes_SharsuuriBoomt,13,2025-12-28T19:00:03,2025-12-28T19:52:27,Scheduled test,Low temperature,Abnormal end,48.9,-14.1,12.3,5.0,VRLA12v_LeadAcid
+10341,10.63.45.10,UVS.Tes_SharsuuriBoomt,14,2025-12-25T19:00:02,2025-12-25T19:07:54,Scheduled test,Low temperature,Abnormal end,49.9,-13.7,1.8,5.0,VRLA12v_LeadAcid
+10342,10.63.45.10,UVS.Tes_SharsuuriBoomt,15,2025-12-22T19:00:03,2025-12-22T19:04:29,Scheduled test,Low temperature,Abnormal end,49.8,-13.5,1.0,5.0,VRLA12v_LeadAcid
+10343,10.63.45.10,UVS.Tes_SharsuuriBoomt,16,2025-12-18T19:00:02,2025-12-18T20:15:27,Scheduled test,Low temperature,Abnormal end,48.9,-14.2,17.8,5.0,VRLA12v_LeadAcid
+10344,10.63.45.10,UVS.Tes_SharsuuriBoomt,17,2025-12-15T19:00:03,2025-12-15T20:35:21,Scheduled test,Low temperature,Abnormal end,48.9,-14.2,22.5,5.0,VRLA12v_LeadAcid
+10345,10.63.45.10,UVS.Tes_SharsuuriBoomt,18,2025-12-12T19:00:02,2025-12-12T19:08:36,Scheduled test,Low temperature,Abnormal end,49.7,-13.7,2.0,5.0,VRLA12v_LeadAcid
+10346,10.63.45.10,UVS.Tes_SharsuuriBoomt,19,2025-12-09T19:00:02,2025-12-09T19:00:04,Scheduled test,Low temperature,Abnormal end,54.1,0.0,0.0,5.0,VRLA12v_LeadAcid
+10347,10.63.45.10,UVS.Tes_SharsuuriBoomt,20,2025-12-06T19:00:02,2025-12-06T19:27:16,Scheduled test,Low temperature,Abnormal end,49.8,-13.9,6.3,5.0,VRLA12v_LeadAcid
+10348,10.63.45.10,UVS.Tes_SharsuuriBoomt,21,2025-12-02T19:00:02,2025-12-02T19:09:45,Scheduled test,Low temperature,Abnormal end,49.7,-13.6,2.2,5.0,VRLA12v_LeadAcid
+10349,10.63.45.10,UVS.Tes_SharsuuriBoomt,22,2025-11-27T19:00:03,2025-11-27T19:28:05,Scheduled test,Low temperature,Abnormal end,50.0,-15.7,7.3,5.0,VRLA12v_LeadAcid
+10350,10.63.45.10,UVS.Tes_SharsuuriBoomt,23,2025-11-24T19:00:03,2025-11-24T19:57:34,Scheduled test,Low temperature,Abnormal end,49.7,-15.6,14.9,5.0,VRLA12v_LeadAcid
+10351,10.63.45.10,UVS.Tes_SharsuuriBoomt,24,2025-11-20T19:00:02,2025-11-20T19:54:29,Scheduled test,Low temperature,Abnormal end,50.0,-15.9,14.4,5.0,VRLA12v_LeadAcid
+10352,10.63.45.10,UVS.Tes_SharsuuriBoomt,25,2025-11-17T19:00:03,2025-11-17T19:02:52,Scheduled test,Low temperature,Abnormal end,50.7,-14.3,0.7,5.0,VRLA12v_LeadAcid
+10353,10.63.45.10,UVS.Tes_SharsuuriBoomt,26,2025-11-13T19:00:02,2025-11-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-16.3,49.0,11.0,VRLA12v_LeadAcid
+10354,10.63.45.10,UVS.Tes_SharsuuriBoomt,27,2025-11-10T19:00:03,2025-11-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-16.7,50.2,11.0,VRLA12v_LeadAcid
+10355,10.63.45.10,UVS.Tes_SharsuuriBoomt,28,2025-11-07T19:00:03,2025-11-07T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.6,-16.4,49.3,13.0,VRLA12v_LeadAcid
+10356,10.63.45.10,UVS.Tes_SharsuuriBoomt,29,2025-11-04T19:00:03,2025-11-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.8,-15.6,46.9,14.0,VRLA12v_LeadAcid
+10357,10.63.45.10,UVS.Tes_SharsuuriBoomt,30,2025-11-01T19:00:02,2025-11-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.8,-16.1,48.3,15.0,VRLA12v_LeadAcid
+10358,10.63.45.10,UVS.Tes_SharsuuriBoomt,31,2025-10-29T19:00:03,2025-10-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-16.0,47.9,17.0,VRLA12v_LeadAcid
+10359,10.63.45.10,UVS.Tes_SharsuuriBoomt,32,2025-10-26T19:00:03,2025-10-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.8,-15.7,47.0,14.0,VRLA12v_LeadAcid
+10360,10.63.45.10,UVS.Tes_SharsuuriBoomt,33,2025-10-23T19:00:03,2025-10-23T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-15.7,47.1,15.0,VRLA12v_LeadAcid
+10361,10.63.45.10,UVS.Tes_SharsuuriBoomt,34,2025-10-20T19:00:01,2025-10-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-15.6,46.8,14.0,VRLA12v_LeadAcid
+10362,10.63.45.10,UVS.Tes_SharsuuriBoomt,35,2025-10-17T19:00:03,2025-10-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.9,-16.1,48.4,12.0,VRLA12v_LeadAcid
+10363,10.63.45.10,UVS.Tes_SharsuuriBoomt,36,2025-10-14T19:00:02,2025-10-14T19:21:44,Scheduled test,Fault alarm,Abnormal end,50.4,-15.6,5.6,17.0,VRLA12v_LeadAcid

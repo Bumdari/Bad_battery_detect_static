@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+5842,10.63.151.226,SUH.Suhbaatar_MW214_ID150,1,2026-02-12T21:00:30,2026-02-12T21:00:40,Scheduled test,Low temperature,Abnormal end,53.7,-10.7,0.0,5.0,VRLA12v_LeadAcid

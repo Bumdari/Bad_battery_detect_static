@@ -1,0 +1,41 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+686749,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,40,2026-04-01T19:00:01,2026-04-01T20:58:10,Scheduled test,Low voltage,Test abnormal,46.0,-61.8,121.7,,UNKNOWN
+619385,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,39,2026-03-29T19:00:00,2026-03-29T20:53:07,Scheduled test,Low voltage,Test abnormal,45.9,-60.9,114.9,,UNKNOWN
+553503,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,37,2026-03-26T19:00:00,2026-03-26T20:53:57,Scheduled test,Low voltage,Test abnormal,45.9,-63.7,121.0,,UNKNOWN
+553504,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,38,2026-03-26T04:42:27,2026-03-26T04:47:29,Short test,Exceeded time limit,No result,49.4,-46.4,3.9,,UNKNOWN
+510363,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,1,2026-03-23T19:00:00,2026-03-23T20:53:08,Scheduled test,Low voltage,Test abnormal,45.9,-62.2,117.4,,UNKNOWN
+510364,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,2,2026-03-20T19:00:01,2026-03-20T20:58:24,Scheduled test,Low voltage,Test abnormal,45.9,-58.9,116.3,,UNKNOWN
+510365,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,3,2026-03-17T19:00:01,2026-03-17T20:54:00,Scheduled test,Low voltage,Test abnormal,45.8,-57.2,108.7,,UNKNOWN
+510366,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,4,2026-03-14T19:00:01,2026-03-14T20:51:29,Scheduled test,Low voltage,Test abnormal,45.9,-58.4,108.5,,UNKNOWN
+510367,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,5,2026-03-11T19:00:01,2026-03-11T21:05:42,Scheduled test,Low voltage,Test abnormal,45.7,-58.7,123.0,,UNKNOWN
+510368,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,6,2026-03-08T19:00:01,2026-03-08T20:57:12,Scheduled test,Low voltage,Test abnormal,45.9,-57.2,111.7,,UNKNOWN
+510369,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,7,2026-03-05T19:00:00,2026-03-05T20:34:01,Scheduled test,Low voltage,Test abnormal,45.9,-62.1,97.3,,UNKNOWN
+510370,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,8,2026-03-02T19:00:01,2026-03-02T20:49:08,Scheduled test,Low voltage,Test abnormal,45.9,-55.6,101.2,,UNKNOWN
+510371,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,9,2026-02-27T19:00:01,2026-02-27T20:47:10,Scheduled test,Low voltage,Test abnormal,45.9,-57.6,102.9,,UNKNOWN
+510372,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,10,2026-02-24T19:00:01,2026-02-24T20:51:02,Scheduled test,Low voltage,Test abnormal,46.0,-56.4,104.4,,UNKNOWN
+510373,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,11,2026-02-24T04:32:36,2026-02-24T04:37:38,Short test,Exceeded time limit,No result,49.1,-41.9,3.5,,UNKNOWN
+510374,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,12,2026-02-21T19:00:01,2026-02-21T20:49:40,Scheduled test,Low voltage,Test abnormal,46.0,-54.8,100.1,,UNKNOWN
+510375,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,13,2026-02-18T19:00:00,2026-02-18T20:35:37,Scheduled test,Low voltage,Test abnormal,45.9,-57.9,92.3,,UNKNOWN
+510376,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,14,2026-02-15T19:00:01,2026-02-15T20:32:13,Scheduled test,Low voltage,Test abnormal,45.9,-57.4,88.3,,UNKNOWN
+510377,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,15,2026-02-12T19:00:01,2026-02-12T20:40:14,Scheduled test,Low voltage,Test abnormal,45.8,-58.2,97.1,,UNKNOWN
+510378,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,16,2026-02-09T19:00:00,2026-02-09T20:30:37,Scheduled test,Low voltage,Test abnormal,45.8,-58.7,88.6,,UNKNOWN
+510379,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,17,2026-02-06T19:00:01,2026-02-06T20:29:51,Scheduled test,Low voltage,Test abnormal,45.9,-57.3,85.8,,UNKNOWN
+510380,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,18,2026-02-03T19:00:00,2026-02-03T20:35:38,Scheduled test,Low voltage,Test abnormal,45.9,-57.5,91.6,,UNKNOWN
+510381,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,19,2026-01-31T19:00:00,2026-01-31T20:32:50,Scheduled test,Low voltage,Test abnormal,45.9,-57.3,88.6,,UNKNOWN
+510382,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,20,2026-01-28T19:00:00,2026-01-28T20:36:53,Scheduled test,Low voltage,Test abnormal,45.8,-56.7,91.6,,UNKNOWN
+510383,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,21,2026-01-25T19:00:01,2026-01-25T20:26:08,Scheduled test,Low voltage,Test abnormal,45.9,-58.9,84.5,,UNKNOWN
+510384,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,22,2026-01-25T04:22:06,2026-01-25T04:27:08,Short test,Exceeded time limit,No result,49.0,-42.5,3.6,,UNKNOWN
+510385,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,23,2026-01-22T19:00:00,2026-01-22T20:17:11,Scheduled test,Low voltage,Test abnormal,45.7,-57.7,74.2,,UNKNOWN
+510386,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,24,2026-01-19T19:00:01,2026-01-19T20:04:26,Scheduled test,Low voltage,Test abnormal,46.0,-59.6,64.0,,UNKNOWN
+510387,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,25,2026-01-16T19:00:01,2026-01-16T20:24:06,Scheduled test,Low voltage,Test abnormal,45.8,-60.0,84.0,,UNKNOWN
+510388,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,26,2026-01-13T19:00:01,2026-01-13T20:34:39,Scheduled test,Low voltage,Test abnormal,45.9,-59.9,94.5,,UNKNOWN
+510389,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,27,2026-01-10T19:00:01,2026-01-10T20:26:44,Scheduled test,Low voltage,Test abnormal,45.9,-59.2,85.5,,UNKNOWN
+510390,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,28,2026-01-07T19:00:00,2026-01-07T20:27:33,Scheduled test,Low voltage,Test abnormal,46.0,-58.1,84.7,,UNKNOWN
+510391,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,29,2026-01-04T19:00:00,2026-01-04T20:28:26,Scheduled test,Low voltage,Test abnormal,45.8,-57.3,84.4,,UNKNOWN
+510392,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,30,2026-01-01T19:00:01,2026-01-01T20:29:20,Scheduled test,Low voltage,Test abnormal,45.8,-57.4,85.4,,UNKNOWN
+510393,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,31,2025-12-29T19:00:01,2025-12-29T20:31:27,Scheduled test,Low voltage,Test abnormal,46.0,-57.9,88.3,,UNKNOWN
+510394,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,32,2025-12-26T19:00:00,2025-12-26T20:31:00,Scheduled test,Low voltage,Test abnormal,45.7,-56.6,85.8,,UNKNOWN
+510395,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,33,2025-12-26T04:11:29,2025-12-26T04:16:31,Short test,Exceeded time limit,No result,48.8,-42.6,3.6,,UNKNOWN
+510396,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,34,2025-12-23T19:00:01,2025-12-23T20:29:57,Scheduled test,Low voltage,Test abnormal,45.8,-56.3,84.4,,UNKNOWN
+510397,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,35,2025-12-20T19:00:00,2025-12-20T20:30:20,Scheduled test,Low voltage,Test abnormal,45.9,-58.0,87.4,,UNKNOWN
+510398,10.63.193.234,UMG.Gurvantes_NariinSuhaitiinUurhai_ID150,36,2025-12-17T19:00:01,2025-12-17T20:37:54,Scheduled test,Low voltage,Test abnormal,45.8,-56.9,92.8,,UNKNOWN

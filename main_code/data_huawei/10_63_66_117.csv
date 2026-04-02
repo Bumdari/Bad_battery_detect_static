@@ -1,0 +1,41 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+650023,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,40,2026-03-30T19:00:03,2026-03-30T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.7,-54.4,163.2,6.0,VRLA12v_LeadAcid
+561617,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,39,2026-03-26T19:00:03,2026-03-26T20:18:43,Scheduled test,Low temperature,Abnormal end,49.6,-51.7,67.7,5.0,VRLA12v_LeadAcid
+497008,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,38,2026-03-23T19:00:03,2026-03-23T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-56.9,170.8,6.0,VRLA12v_LeadAcid
+234863,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,37,2026-03-11T19:00:03,2026-03-11T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.1,-57.1,171.3,7.0,VRLA12v_LeadAcid
+13235,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,1,2025-10-11T19:00:02,2025-10-11T21:35:00,Scheduled test,Low capacity,Test normal,47.3,-57.9,149.5,7.0,VRLA12v_LeadAcid
+13236,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,2,2025-10-08T19:00:03,2025-10-08T19:15:29,Scheduled test,Low temperature,Abnormal end,50.2,-55.0,14.1,5.0,VRLA12v_LeadAcid
+13237,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,3,2025-10-04T19:00:03,2025-10-04T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.8,-56.9,170.8,7.0,VRLA12v_LeadAcid
+13238,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,4,2025-10-01T19:00:02,2025-10-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.0,-58.9,176.8,12.0,VRLA12v_LeadAcid
+13239,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,5,2025-09-28T19:00:03,2025-09-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.5,-55.4,166.3,13.0,VRLA12v_LeadAcid
+13240,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,6,2025-09-25T19:00:03,2025-09-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.2,-54.0,162.1,11.0,VRLA12v_LeadAcid
+13241,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,7,2025-09-22T19:00:02,2025-09-22T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.5,-54.1,162.4,14.0,VRLA12v_LeadAcid
+13242,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,8,2025-09-19T19:00:03,2025-09-19T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.9,-52.3,157.0,11.0,VRLA12v_LeadAcid
+13243,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,9,2025-09-16T19:00:02,2025-09-16T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.9,-56.9,170.8,8.0,VRLA12v_LeadAcid
+13244,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,10,2025-09-13T19:00:02,2025-09-13T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.9,-55.8,167.3,10.0,VRLA12v_LeadAcid
+13245,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,11,2025-09-10T19:00:03,2025-09-10T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.2,-55.4,166.3,14.0,VRLA12v_LeadAcid
+13246,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,12,2025-09-07T19:00:03,2025-09-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.5,-52.1,156.2,10.0,VRLA12v_LeadAcid
+13247,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,13,2025-09-04T19:00:02,2025-09-04T21:55:35,Scheduled test,Low capacity,Test normal,47.4,-55.7,162.8,13.0,VRLA12v_LeadAcid
+13248,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,14,2025-09-01T19:00:02,2025-09-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.4,-56.4,169.3,21.0,VRLA12v_LeadAcid
+13249,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,15,2025-08-29T19:00:03,2025-08-29T21:05:41,Scheduled test,Fault alarm,Abnormal end,48.9,-52.7,110.4,13.0,VRLA12v_LeadAcid
+13250,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,16,2025-08-26T19:00:02,2025-08-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-54.2,162.6,18.0,VRLA12v_LeadAcid
+13251,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,17,2025-08-23T19:00:03,2025-08-23T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.4,-51.7,155.0,16.0,VRLA12v_LeadAcid
+13252,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,18,2025-08-20T19:00:02,2025-08-20T22:00:09,Scheduled test,Exceeded time limit,Test normal,46.9,-57.4,172.1,17.0,VRLA12v_LeadAcid
+13253,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,19,2025-08-17T19:00:03,2025-08-17T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.5,-51.7,155.3,18.0,VRLA12v_LeadAcid
+13254,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,20,2025-08-14T19:00:02,2025-08-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-52.6,157.7,18.0,VRLA12v_LeadAcid
+13255,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,21,2025-08-11T19:00:03,2025-08-11T22:00:13,Scheduled test,Exceeded time limit,Test normal,47.5,-51.7,155.1,15.0,VRLA12v_LeadAcid
+13256,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,22,2025-08-08T19:00:02,2025-08-08T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.3,-52.7,158.0,19.0,VRLA12v_LeadAcid
+13257,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,23,2025-08-05T19:00:03,2025-08-05T22:00:00,Scheduled test,Low capacity,Test normal,47.3,-53.6,160.6,19.0,VRLA12v_LeadAcid
+13258,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,24,2025-08-02T19:00:03,2025-08-02T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.1,-54.5,163.7,20.0,VRLA12v_LeadAcid
+13259,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,25,2025-07-30T19:00:03,2025-07-30T19:06:42,Scheduled test,Low voltage,Battery alm,45.1,-50.5,5.6,20.0,VRLA12v_LeadAcid
+13260,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,26,2025-07-27T19:00:03,2025-07-27T19:06:19,Scheduled test,Low capacity,Test normal,45.1,-53.7,5.6,22.0,VRLA12v_LeadAcid
+13261,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,27,2025-07-24T19:00:02,2025-07-24T19:06:32,Scheduled test,Low capacity,Test normal,45.0,-51.3,5.6,22.0,VRLA12v_LeadAcid
+13262,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,28,2025-07-21T19:00:03,2025-07-21T19:06:57,Scheduled test,Low voltage,Battery alm,45.1,-48.6,5.6,22.0,VRLA12v_LeadAcid
+13263,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,29,2025-07-18T19:00:02,2025-07-18T19:06:29,Scheduled test,Low voltage,Battery alm,45.1,-52.0,5.6,21.0,VRLA12v_LeadAcid
+13264,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,30,2025-07-15T19:00:02,2025-07-15T19:06:32,Scheduled test,Low voltage,Battery alm,45.1,-50.6,5.5,23.0,VRLA12v_LeadAcid
+13265,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,31,2025-07-12T19:00:03,2025-07-12T19:05:53,Scheduled test,Low voltage,Battery alm,45.1,-55.4,5.4,23.0,VRLA12v_LeadAcid
+13266,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,32,2025-07-09T19:00:03,2025-07-09T19:06:02,Scheduled test,Low voltage,Battery alm,45.1,-55.9,5.6,21.0,VRLA12v_LeadAcid
+13267,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,33,2025-07-06T19:00:03,2025-07-06T19:06:07,Scheduled test,Low voltage,Battery alm,45.3,-55.1,5.6,23.0,VRLA12v_LeadAcid
+13268,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,34,2025-07-03T19:00:03,2025-07-03T19:06:29,Scheduled test,Low voltage,Battery alm,45.1,-53.4,5.7,22.0,VRLA12v_LeadAcid
+13269,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,35,2025-06-30T19:00:03,2025-06-30T19:06:18,Scheduled test,Low voltage,Battery alm,45.1,-53.7,5.6,21.0,VRLA12v_LeadAcid
+13270,10.63.66.117,SHD._7hor_HilchinHothon_7bair_TPD_ULN,36,2025-06-27T19:00:03,2025-06-27T19:06:23,Scheduled test,Low voltage,Battery alm,45.1,-53.2,5.6,22.0,VRLA12v_LeadAcid

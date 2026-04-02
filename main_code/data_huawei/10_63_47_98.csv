@@ -1,0 +1,5 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+10942,10.63.47.98,UMG.Tsogttsetsii_SumDundiinEmneleg,1,2026-02-23T17:27:50,2026-02-23T18:07:09,AC fail test,Mains recovery,Abnormal end,49.8,-30.0,19.7,,VRLA12v_LeadAcid
+10943,10.63.47.98,UMG.Tsogttsetsii_SumDundiinEmneleg,2,2026-02-05T17:13:27,2026-02-05T17:47:07,AC fail test,Mains recovery,Abnormal end,49.7,-31.6,17.7,,VRLA12v_LeadAcid
+10944,10.63.47.98,UMG.Tsogttsetsii_SumDundiinEmneleg,3,2025-12-29T10:33:39,2025-12-29T12:23:09,AC fail test,Mains recovery,Abnormal end,49.6,-30.3,55.3,,VRLA12v_LeadAcid
+10945,10.63.47.98,UMG.Tsogttsetsii_SumDundiinEmneleg,4,2025-12-04T10:40:42,2025-12-04T10:54:03,AC fail test,Mains recovery,Abnormal end,49.2,-33.3,7.4,,VRLA12v_LeadAcid

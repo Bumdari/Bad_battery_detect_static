@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+514040,10.63.42.243,BAU.Buyant_Mobi_NMD110,1,2026-03-23T21:24:56,2026-03-23T21:29:58,Short test,Exceeded time limit,No result,48.8,-63.2,5.3,,UNKNOWN
+514041,10.63.42.243,BAU.Buyant_Mobi_NMD110,2,2026-02-21T21:14:06,2026-02-21T21:19:08,Short test,Exceeded time limit,No result,48.2,-54.1,4.5,,UNKNOWN
+514042,10.63.42.243,BAU.Buyant_Mobi_NMD110,3,2026-01-22T21:02:58,2026-01-22T21:08:00,Short test,Exceeded time limit,No result,48.5,-50.7,4.3,,UNKNOWN
+514043,10.63.42.243,BAU.Buyant_Mobi_NMD110,4,2025-12-23T20:28:28,2025-12-23T20:33:31,Short test,Exceeded time limit,No result,48.6,-50.2,4.2,,UNKNOWN
+514044,10.63.42.243,BAU.Buyant_Mobi_NMD110,5,2025-11-23T20:17:21,2025-11-23T20:22:23,Short test,Exceeded time limit,No result,48.9,-44.4,3.7,,UNKNOWN
+514045,10.63.42.243,BAU.Buyant_Mobi_NMD110,6,2025-10-24T20:06:00,2025-10-24T20:11:02,Short test,Exceeded time limit,No result,49.0,-23.6,2.0,,UNKNOWN
+514046,10.63.42.243,BAU.Buyant_Mobi_NMD110,7,2025-09-24T18:21:51,2025-09-24T18:26:53,Short test,Exceeded time limit,No result,49.7,-23.1,1.9,,UNKNOWN
+514047,10.63.42.243,BAU.Buyant_Mobi_NMD110,8,2025-08-25T18:10:36,2025-08-25T18:15:38,Short test,Exceeded time limit,No result,49.8,-24.5,2.1,,UNKNOWN
+514048,10.63.42.243,BAU.Buyant_Mobi_NMD110,9,2025-07-26T09:04:40,2025-07-26T09:09:42,Short test,Exceeded time limit,No result,50.1,-18.7,1.6,,UNKNOWN
+514049,10.63.42.243,BAU.Buyant_Mobi_NMD110,10,2025-06-25T23:58:48,2025-06-26T00:03:50,Short test,Exceeded time limit,No result,50.0,-22.5,1.9,,UNKNOWN
+514050,10.63.42.243,BAU.Buyant_Mobi_NMD110,11,2025-05-26T14:53:04,2025-05-26T14:53:54,Short test,Fault alarm,No result,50.7,-21.3,0.3,,UNKNOWN
+514051,10.63.42.243,BAU.Buyant_Mobi_NMD110,12,2025-04-26T11:09:57,2025-04-26T11:14:59,Short test,Exceeded time limit,No result,49.6,-22.8,1.9,,UNKNOWN
+514052,10.63.42.243,BAU.Buyant_Mobi_NMD110,13,2025-03-27T05:46:09,2025-03-27T05:51:11,Short test,Exceeded time limit,No result,48.9,-14.8,1.2,,UNKNOWN
+514053,10.63.42.243,BAU.Buyant_Mobi_NMD110,14,2025-02-24T20:41:25,2025-02-24T20:46:27,Short test,Exceeded time limit,No result,48.9,-20.7,1.7,,UNKNOWN
+514054,10.63.42.243,BAU.Buyant_Mobi_NMD110,15,2025-01-25T20:28:45,2025-01-25T20:33:47,Short test,Exceeded time limit,No result,48.4,-18.8,1.6,,UNKNOWN
+514055,10.63.42.243,BAU.Buyant_Mobi_NMD110,16,2024-12-26T11:22:19,2024-12-26T11:27:21,Short test,Exceeded time limit,No result,47.3,-19.0,1.6,,UNKNOWN
+514056,10.63.42.243,BAU.Buyant_Mobi_NMD110,17,2024-11-26T02:15:57,2024-11-26T02:20:59,Short test,Exceeded time limit,No result,49.1,-15.5,1.3,,UNKNOWN
+514057,10.63.42.243,BAU.Buyant_Mobi_NMD110,18,2024-10-26T17:09:23,2024-10-26T17:14:25,Short test,Exceeded time limit,No result,49.4,-19.0,1.6,,UNKNOWN
+514058,10.63.42.243,BAU.Buyant_Mobi_NMD110,19,2024-09-26T08:03:56,2024-09-26T08:08:58,Short test,Exceeded time limit,No result,48.6,-15.3,1.3,,UNKNOWN
+514059,10.63.42.243,BAU.Buyant_Mobi_NMD110,20,2024-07-16T19:10:11,2024-07-16T19:15:13,Short test,Exceeded time limit,No result,48.7,-22.8,1.9,,UNKNOWN
+514060,10.63.42.243,BAU.Buyant_Mobi_NMD110,21,2024-06-16T18:59:33,2024-06-16T19:04:35,Short test,Exceeded time limit,No result,49.0,-17.9,1.5,,UNKNOWN
+514061,10.63.42.243,BAU.Buyant_Mobi_NMD110,22,2024-05-17T18:50:24,2024-05-17T18:55:26,Short test,Exceeded time limit,No result,48.9,-20.9,1.8,,UNKNOWN
+514062,10.63.42.243,BAU.Buyant_Mobi_NMD110,23,2024-04-17T18:41:09,2024-04-17T18:46:11,Short test,Exceeded time limit,No result,48.8,-19.1,1.6,,UNKNOWN
+514063,10.63.42.243,BAU.Buyant_Mobi_NMD110,24,2024-03-18T17:23:25,2024-03-18T17:28:27,Short test,Exceeded time limit,No result,47.6,-34.7,2.9,,UNKNOWN
+514064,10.63.42.243,BAU.Buyant_Mobi_NMD110,25,2024-02-17T08:18:44,2024-02-17T08:23:45,Short test,Exceeded time limit,No result,47.4,-24.8,2.1,,UNKNOWN
+514065,10.63.42.243,BAU.Buyant_Mobi_NMD110,26,2024-01-17T23:14:10,2024-01-17T23:19:12,Short test,Exceeded time limit,No result,47.4,-32.1,2.7,,UNKNOWN
+514066,10.63.42.243,BAU.Buyant_Mobi_NMD110,27,2023-12-10T03:14:13,2023-12-10T03:19:15,Short test,Exceeded time limit,No result,46.5,-27.6,2.3,,UNKNOWN
+514067,10.63.42.243,BAU.Buyant_Mobi_NMD110,28,2023-11-10T03:04:38,2023-11-10T03:09:40,Short test,Exceeded time limit,No result,47.4,-26.8,2.2,,UNKNOWN
+514068,10.63.42.243,BAU.Buyant_Mobi_NMD110,29,2023-10-11T02:55:16,2023-10-11T03:00:18,Short test,Exceeded time limit,No result,48.2,-25.1,2.1,,UNKNOWN
+514069,10.63.42.243,BAU.Buyant_Mobi_NMD110,30,2023-09-11T02:46:06,2023-09-11T02:51:08,Short test,Exceeded time limit,No result,48.6,-26.1,2.2,,UNKNOWN
+514070,10.63.42.243,BAU.Buyant_Mobi_NMD110,31,2023-08-12T02:37:11,2023-08-12T02:42:13,Short test,Exceeded time limit,No result,48.6,-28.5,2.4,,UNKNOWN
+514071,10.63.42.243,BAU.Buyant_Mobi_NMD110,32,2023-07-13T02:28:21,2023-07-13T02:33:23,Short test,Exceeded time limit,No result,48.5,-29.7,2.5,,UNKNOWN
+514072,10.63.42.243,BAU.Buyant_Mobi_NMD110,33,2023-06-13T02:19:26,2023-06-13T02:24:28,Short test,Exceeded time limit,No result,48.8,-28.3,2.4,,UNKNOWN
+514073,10.63.42.243,BAU.Buyant_Mobi_NMD110,34,2023-05-14T02:10:20,2023-05-14T02:15:22,Short test,Exceeded time limit,No result,48.9,-27.4,2.3,,UNKNOWN
+514074,10.63.42.243,BAU.Buyant_Mobi_NMD110,35,2023-04-14T02:00:53,2023-04-14T02:05:55,Short test,Exceeded time limit,No result,47.9,-26.5,2.2,,UNKNOWN
+514075,10.63.42.243,BAU.Buyant_Mobi_NMD110,36,2023-03-15T01:51:23,2023-03-15T01:56:25,Short test,Exceeded time limit,No result,48.2,-28.1,2.4,,UNKNOWN

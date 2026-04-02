@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+697922,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,46,2026-04-01T19:00:00,2026-04-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-30.3,91.0,29.0,ESMU_Lithium
+630322,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,45,2026-03-29T19:00:00,2026-03-29T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-31.5,94.4,29.0,ESMU_Lithium
+564205,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,44,2026-03-26T19:00:01,2026-03-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-26.2,78.6,29.0,ESMU_Lithium
+499544,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,43,2026-03-23T19:00:00,2026-03-23T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.3,-26.6,79.8,28.0,ESMU_Lithium
+437054,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,42,2026-03-20T19:00:01,2026-03-20T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.1,-28.7,86.2,29.0,ESMU_Lithium
+355530,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,41,2026-03-17T19:00:00,2026-03-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-25.0,75.0,17.0,ESMU_Lithium
+295705,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,40,2026-03-14T19:00:00,2026-03-14T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-35.6,106.7,26.0,ESMU_Lithium
+237181,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,39,2026-03-11T19:00:01,2026-03-11T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-26.6,79.8,28.0,ESMU_Lithium
+179990,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,38,2026-03-08T19:00:01,2026-03-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-29.4,88.3,27.0,ESMU_Lithium
+124181,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,37,2026-03-05T19:00:02,2026-03-05T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-26.8,80.4,19.0,ESMU_Lithium
+15417,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,1,2026-03-02T19:00:01,2026-03-02T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-26.0,78.0,13.0,ESMU_Lithium
+15418,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,2,2026-02-27T19:00:01,2026-02-27T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-25.8,77.5,19.0,ESMU_Lithium
+15419,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,3,2026-02-24T19:00:01,2026-02-24T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-27.3,81.8,22.0,ESMU_Lithium
+15420,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,4,2026-02-21T19:00:01,2026-02-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.7,-32.8,98.5,19.0,ESMU_Lithium
+15421,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,5,2026-02-18T19:00:01,2026-02-18T22:00:09,Scheduled test,Exceeded time limit,Test normal,49.0,-31.2,93.7,26.0,ESMU_Lithium
+15422,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,6,2026-02-15T19:00:01,2026-02-15T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-30.9,92.7,19.0,ESMU_Lithium
+15423,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,7,2026-02-12T19:00:00,2026-02-12T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-26.5,79.5,28.0,ESMU_Lithium
+15424,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,8,2026-02-09T19:00:00,2026-02-09T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.0,-27.3,81.9,21.0,ESMU_Lithium
+15425,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,9,2026-02-06T19:00:00,2026-02-06T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-28.2,84.7,14.0,ESMU_Lithium
+15426,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,10,2026-02-03T19:00:01,2026-02-03T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-26.4,79.3,22.0,ESMU_Lithium
+15427,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,11,2026-01-31T19:00:00,2026-01-31T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-33.9,101.7,18.0,ESMU_Lithium
+15428,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,12,2026-01-28T19:00:01,2026-01-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-25.5,76.6,18.0,ESMU_Lithium
+15429,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,13,2026-01-25T19:00:01,2026-01-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-26.8,80.3,14.0,ESMU_Lithium
+15430,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,14,2026-01-22T19:00:00,2026-01-22T20:15:13,Scheduled test,Fault alarm,Abnormal end,49.2,-28.4,35.6,12.0,ESMU_Lithium
+15431,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,15,2026-01-18T19:00:00,2026-01-18T21:27:42,Scheduled test,Fault alarm,Abnormal end,48.9,-30.6,75.3,15.0,ESMU_Lithium
+15432,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,16,2026-01-14T19:00:01,2026-01-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-30.0,90.1,18.0,ESMU_Lithium
+15433,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,17,2026-01-11T19:00:01,2026-01-11T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-37.7,113.1,18.0,ESMU_Lithium
+15434,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,18,2026-01-07T19:00:00,2026-01-07T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-28.1,84.4,19.0,ESMU_Lithium
+15435,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,19,2026-01-04T19:00:01,2026-01-04T21:29:38,Scheduled test,Fault alarm,Abnormal end,48.9,-32.6,81.1,20.0,ESMU_Lithium
+15436,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,20,2025-12-26T19:00:01,2025-12-26T19:10:02,Scheduled test,Fault alarm,Abnormal end,49.4,-28.0,4.7,21.0,ESMU_Lithium
+15437,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,21,2025-12-23T19:00:01,2025-12-23T21:25:41,Scheduled test,Fault alarm,Abnormal end,48.9,-30.1,73.1,15.0,ESMU_Lithium
+15438,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,22,2025-12-20T19:00:01,2025-12-20T19:39:10,Scheduled test,Fault alarm,Abnormal end,49.3,-27.7,18.1,14.0,ESMU_Lithium
+15439,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,23,2025-12-17T19:00:00,2025-12-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-26.2,78.7,24.0,ESMU_Lithium
+15440,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,24,2025-12-14T19:00:01,2025-12-14T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-28.7,86.0,21.0,ESMU_Lithium
+15441,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,25,2025-12-10T19:00:01,2025-12-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-27.3,81.9,15.0,ESMU_Lithium
+15442,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,26,2025-12-07T19:00:00,2025-12-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.7,-29.1,87.4,15.0,ESMU_Lithium
+15443,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,27,2025-12-04T19:00:00,2025-12-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.1,-27.3,81.9,23.0,ESMU_Lithium
+15444,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,28,2025-12-01T19:00:00,2025-12-01T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.7,-28.6,85.9,13.0,ESMU_Lithium
+15445,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,29,2025-11-28T19:00:01,2025-11-28T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-29.9,89.7,22.0,ESMU_Lithium
+15446,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,30,2025-11-25T19:00:00,2025-11-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-28.2,84.7,22.0,ESMU_Lithium
+15447,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,31,2025-11-22T19:00:01,2025-11-22T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-34.1,102.2,27.0,ESMU_Lithium
+15448,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,32,2025-11-19T19:00:00,2025-11-19T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-26.8,80.5,25.0,ESMU_Lithium
+15449,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,33,2025-11-16T19:00:00,2025-11-16T22:00:06,Scheduled test,Exceeded time limit,Test normal,48.8,-27.5,82.6,15.0,ESMU_Lithium
+15450,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,34,2025-11-13T19:00:01,2025-11-13T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.2,-27.2,81.5,26.0,ESMU_Lithium
+15451,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,35,2025-11-10T19:00:01,2025-11-10T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.2,-27.8,83.3,27.0,ESMU_Lithium
+15452,10.63.81.8,BZD._20hor_BagaSharHooloi_ULN,36,2025-11-07T19:00:00,2025-11-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-30.6,91.8,24.0,ESMU_Lithium

@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+678779,10.60.23.28,DUG.Erdenedalai_Mobi,46,2026-04-01T19:00:03,2026-04-01T20:23:42,Scheduled test,Low voltage,Battery alm,45.7,-32.3,45.0,28.0,VRLA12v_LeadAcid
+611578,10.60.23.28,DUG.Erdenedalai_Mobi,45,2026-03-29T19:00:03,2026-03-29T20:24:41,Scheduled test,Low capacity,Test normal,46.1,-32.6,45.9,28.0,VRLA12v_LeadAcid
+545893,10.60.23.28,DUG.Erdenedalai_Mobi,44,2026-03-26T19:00:02,2026-03-26T20:22:27,Scheduled test,Low capacity,Test normal,45.9,-33.9,46.5,28.0,VRLA12v_LeadAcid
+481891,10.60.23.28,DUG.Erdenedalai_Mobi,43,2026-03-23T19:00:02,2026-03-23T20:25:31,Scheduled test,Low voltage,Battery alm,46.0,-33.3,47.5,28.0,VRLA12v_LeadAcid
+419780,10.60.23.28,DUG.Erdenedalai_Mobi,42,2026-03-20T19:00:02,2026-03-20T20:16:15,Scheduled test,Low voltage,Battery alm,45.6,-35.7,45.3,28.0,VRLA12v_LeadAcid
+338636,10.60.23.28,DUG.Erdenedalai_Mobi,41,2026-03-17T19:00:02,2026-03-17T20:37:40,Scheduled test,Low capacity,Test normal,45.9,-30.7,49.9,28.0,VRLA12v_LeadAcid
+279182,10.60.23.28,DUG.Erdenedalai_Mobi,40,2026-03-14T19:00:03,2026-03-14T20:33:54,Scheduled test,Low voltage,Battery alm,45.8,-32.6,50.9,27.0,VRLA12v_LeadAcid
+221019,10.60.23.28,DUG.Erdenedalai_Mobi,39,2026-03-11T19:00:01,2026-03-11T20:37:36,Scheduled test,Low voltage,Battery alm,45.7,-31.8,51.8,28.0,VRLA12v_LeadAcid
+164224,10.60.23.28,DUG.Erdenedalai_Mobi,38,2026-03-08T19:00:03,2026-03-08T20:42:49,Scheduled test,Low capacity,Test normal,45.9,-33.7,57.7,42.0,VRLA12v_LeadAcid
+108805,10.60.23.28,DUG.Erdenedalai_Mobi,37,2026-03-05T19:00:03,2026-03-05T20:29:55,Scheduled test,Low voltage,Battery alm,46.0,-33.1,49.5,34.0,VRLA12v_LeadAcid
+254,10.60.23.28,DUG.Erdenedalai_Mobi,1,2026-03-02T19:00:03,2026-03-02T20:29:37,Scheduled test,Low voltage,Battery alm,45.7,-32.1,47.9,27.0,VRLA12v_LeadAcid
+255,10.60.23.28,DUG.Erdenedalai_Mobi,2,2026-02-27T19:00:02,2026-02-27T20:32:11,Scheduled test,Low capacity,Test normal,45.9,-31.5,48.3,27.0,VRLA12v_LeadAcid
+256,10.60.23.28,DUG.Erdenedalai_Mobi,3,2026-02-24T19:00:03,2026-02-24T20:36:42,Scheduled test,Low voltage,Battery alm,45.6,-32.1,51.6,30.0,VRLA12v_LeadAcid
+257,10.60.23.28,DUG.Erdenedalai_Mobi,4,2026-02-21T19:00:03,2026-02-21T20:28:20,Scheduled test,Low voltage,Battery alm,45.8,-32.6,47.9,30.0,VRLA12v_LeadAcid
+258,10.60.23.28,DUG.Erdenedalai_Mobi,5,2026-02-18T19:00:02,2026-02-18T20:40:44,Scheduled test,Low voltage,Battery alm,45.8,-31.8,53.3,36.0,VRLA12v_LeadAcid
+259,10.60.23.28,DUG.Erdenedalai_Mobi,6,2026-02-15T19:00:02,2026-02-15T20:38:13,Scheduled test,Low voltage,Battery alm,46.0,-33.0,54.0,31.0,VRLA12v_LeadAcid
+260,10.60.23.28,DUG.Erdenedalai_Mobi,7,2026-02-12T19:00:02,2026-02-12T20:31:21,Scheduled test,Low voltage,Battery alm,45.9,-31.5,47.9,16.0,VRLA12v_LeadAcid
+261,10.60.23.28,DUG.Erdenedalai_Mobi,8,2026-02-09T19:00:03,2026-02-09T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.0,-18.7,56.1,24.0,VRLA12v_LeadAcid
+262,10.60.23.28,DUG.Erdenedalai_Mobi,9,2026-02-06T19:00:02,2026-02-06T21:49:39,Scheduled test,Low capacity,Test normal,46.3,-18.5,52.4,13.0,VRLA12v_LeadAcid
+263,10.60.23.28,DUG.Erdenedalai_Mobi,10,2026-02-03T19:00:02,2026-02-03T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.5,-18.9,56.8,22.0,VRLA12v_LeadAcid
+264,10.60.23.28,DUG.Erdenedalai_Mobi,11,2026-01-31T19:00:03,2026-01-31T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-18.5,55.6,26.0,VRLA12v_LeadAcid
+265,10.60.23.28,DUG.Erdenedalai_Mobi,12,2026-01-28T19:00:02,2026-01-28T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.3,-19.0,57.1,28.0,VRLA12v_LeadAcid
+266,10.60.23.28,DUG.Erdenedalai_Mobi,13,2026-01-25T19:00:02,2026-01-25T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.6,-18.8,56.5,18.0,VRLA12v_LeadAcid
+267,10.60.23.28,DUG.Erdenedalai_Mobi,14,2026-01-22T19:00:03,2026-01-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.7,-18.6,55.9,21.0,VRLA12v_LeadAcid
+268,10.60.23.28,DUG.Erdenedalai_Mobi,15,2026-01-19T19:00:02,2026-01-19T21:40:59,Scheduled test,Low capacity,Test normal,46.2,-18.9,50.8,5.0,VRLA12v_LeadAcid
+269,10.60.23.28,DUG.Erdenedalai_Mobi,16,2026-01-14T19:00:02,2026-01-14T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.4,-18.9,56.7,27.0,VRLA12v_LeadAcid
+270,10.60.23.28,DUG.Erdenedalai_Mobi,17,2026-01-11T19:00:02,2026-01-11T21:42:20,Scheduled test,Low capacity,Test normal,46.3,-18.7,50.5,14.0,VRLA12v_LeadAcid
+271,10.60.23.28,DUG.Erdenedalai_Mobi,18,2026-01-08T19:00:02,2026-01-08T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-18.7,56.1,28.0,VRLA12v_LeadAcid
+272,10.60.23.28,DUG.Erdenedalai_Mobi,19,2026-01-05T19:00:03,2026-01-05T21:51:20,Scheduled test,Low capacity,Test normal,46.3,-18.9,53.9,17.0,VRLA12v_LeadAcid
+273,10.60.23.28,DUG.Erdenedalai_Mobi,20,2026-01-02T19:00:03,2026-01-02T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.9,-18.6,55.9,22.0,VRLA12v_LeadAcid
+274,10.60.23.28,DUG.Erdenedalai_Mobi,21,2025-12-30T19:00:03,2025-12-30T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.2,-18.7,56.0,25.0,VRLA12v_LeadAcid
+275,10.60.23.28,DUG.Erdenedalai_Mobi,22,2025-12-27T19:00:02,2025-12-27T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.8,-18.9,56.7,24.0,VRLA12v_LeadAcid
+276,10.60.23.28,DUG.Erdenedalai_Mobi,23,2025-12-24T19:00:02,2025-12-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.6,-18.7,56.0,16.0,VRLA12v_LeadAcid
+277,10.60.23.28,DUG.Erdenedalai_Mobi,24,2025-12-21T19:00:03,2025-12-21T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.5,-18.7,56.2,19.0,VRLA12v_LeadAcid
+278,10.60.23.28,DUG.Erdenedalai_Mobi,25,2025-12-18T19:00:01,2025-12-18T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.0,-18.6,55.7,20.0,VRLA12v_LeadAcid
+279,10.60.23.28,DUG.Erdenedalai_Mobi,26,2025-12-15T19:00:03,2025-12-15T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.4,-18.9,56.6,28.0,VRLA12v_LeadAcid
+280,10.60.23.28,DUG.Erdenedalai_Mobi,27,2025-12-12T19:00:03,2025-12-12T22:00:12,Scheduled test,Exceeded time limit,Test normal,46.8,-18.7,56.1,19.0,VRLA12v_LeadAcid
+281,10.60.23.28,DUG.Erdenedalai_Mobi,28,2025-12-09T19:00:03,2025-12-09T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.3,-18.8,56.4,28.0,VRLA12v_LeadAcid
+282,10.60.23.28,DUG.Erdenedalai_Mobi,29,2025-12-06T19:00:02,2025-12-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.9,-18.6,55.7,19.0,VRLA12v_LeadAcid
+283,10.60.23.28,DUG.Erdenedalai_Mobi,30,2025-12-03T19:00:02,2025-12-03T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.5,-19.0,57.1,25.0,VRLA12v_LeadAcid
+284,10.60.23.28,DUG.Erdenedalai_Mobi,31,2025-11-30T19:00:02,2025-11-30T21:57:59,Scheduled test,Low capacity,Test normal,46.2,-18.8,55.7,22.0,VRLA12v_LeadAcid
+285,10.60.23.28,DUG.Erdenedalai_Mobi,32,2025-11-27T19:00:02,2025-11-27T21:57:38,Scheduled test,Low capacity,Test normal,46.2,-18.8,55.7,22.0,VRLA12v_LeadAcid
+286,10.60.23.28,DUG.Erdenedalai_Mobi,33,2025-11-24T19:00:02,2025-11-24T21:48:20,Scheduled test,Low capacity,Test normal,46.3,-19.3,54.1,18.0,VRLA12v_LeadAcid
+287,10.60.23.28,DUG.Erdenedalai_Mobi,34,2025-11-21T19:00:02,2025-11-21T22:00:10,Scheduled test,Exceeded time limit,Test normal,46.5,-19.0,57.1,23.0,VRLA12v_LeadAcid
+288,10.60.23.28,DUG.Erdenedalai_Mobi,35,2025-11-18T19:00:03,2025-11-18T21:59:16,Scheduled test,Low capacity,Test normal,46.2,-18.9,56.5,21.0,VRLA12v_LeadAcid
+289,10.60.23.28,DUG.Erdenedalai_Mobi,36,2025-11-15T19:00:02,2025-11-15T21:55:14,Scheduled test,Low capacity,Test normal,46.2,-18.6,54.3,18.0,VRLA12v_LeadAcid

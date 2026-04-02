@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+698725,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,46,2026-04-01T19:00:01,2026-04-01T19:00:29,Scheduled test,Low voltage,Battery alm,45.0,-74.3,0.6,30.0,VRLA12v_LeadAcid
+631109,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,45,2026-03-29T19:00:02,2026-03-29T19:00:34,Scheduled test,Low voltage,Battery alm,45.8,-72.9,0.6,31.0,VRLA12v_LeadAcid
+564976,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,44,2026-03-26T19:00:00,2026-03-26T19:00:40,Scheduled test,Low voltage,Battery alm,45.1,-82.5,0.9,29.0,VRLA12v_LeadAcid
+500300,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,43,2026-03-23T19:00:00,2026-03-23T19:00:34,Scheduled test,Low voltage,Battery alm,45.1,-75.8,0.7,29.0,VRLA12v_LeadAcid
+437794,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,42,2026-03-20T19:00:00,2026-03-20T19:00:39,Scheduled test,Low voltage,Battery alm,45.1,-85.1,0.9,28.0,VRLA12v_LeadAcid
+356255,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,41,2026-03-17T19:00:01,2026-03-17T19:00:47,Scheduled test,Low voltage,Battery alm,45.1,-93.8,1.2,28.0,VRLA12v_LeadAcid
+296415,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,40,2026-03-14T19:00:00,2026-03-14T19:01:01,Scheduled test,Low voltage,Battery alm,45.7,-91.0,1.5,28.0,VRLA12v_LeadAcid
+237876,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,39,2026-03-11T19:00:01,2026-03-11T19:02:21,Scheduled test,Low voltage,Battery alm,45.8,-92.9,3.6,28.0,VRLA12v_LeadAcid
+180669,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,38,2026-03-08T19:00:02,2026-03-08T19:04:51,Scheduled test,Low voltage,Battery alm,45.9,-89.0,7.1,28.0,VRLA12v_LeadAcid
+124845,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,37,2026-03-05T19:00:00,2026-03-05T19:04:21,Scheduled test,Low voltage,Battery alm,45.9,-100.0,7.2,27.0,VRLA12v_LeadAcid
+16070,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,1,2026-03-02T19:00:00,2026-03-02T19:07:14,Scheduled test,Low voltage,Battery alm,45.8,-101.3,12.2,27.0,VRLA12v_LeadAcid
+16071,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,2,2026-02-27T19:00:01,2026-02-27T19:04:00,Scheduled test,Low voltage,Battery alm,45.8,-100.2,6.6,28.0,VRLA12v_LeadAcid
+16072,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,3,2026-02-24T19:00:00,2026-02-24T19:03:12,Scheduled test,Low voltage,Battery alm,45.6,-99.7,5.3,28.0,VRLA12v_LeadAcid
+16073,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,4,2026-02-21T19:00:01,2026-02-21T19:06:33,Scheduled test,Low voltage,Battery alm,45.8,-82.9,9.0,28.0,VRLA12v_LeadAcid
+16074,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,5,2026-02-18T19:00:01,2026-02-18T19:05:41,Scheduled test,Low voltage,Battery alm,45.4,-87.1,8.2,28.0,VRLA12v_LeadAcid
+16075,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,6,2026-02-15T19:00:01,2026-02-15T19:05:58,Scheduled test,Low voltage,Battery alm,45.9,-93.2,9.2,28.0,VRLA12v_LeadAcid
+16076,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,7,2026-02-12T19:00:01,2026-02-12T19:05:46,Scheduled test,Low voltage,Battery alm,45.8,-90.1,8.6,27.0,VRLA12v_LeadAcid
+16077,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,8,2026-02-09T19:00:01,2026-02-09T19:01:52,Scheduled test,Low voltage,Battery alm,46.0,-112.3,3.4,26.0,VRLA12v_LeadAcid
+16078,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,9,2026-02-06T19:00:00,2026-02-06T19:04:33,Scheduled test,Low voltage,Battery alm,45.7,-101.6,7.7,26.0,VRLA12v_LeadAcid
+16079,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,10,2026-02-06T02:13:55,2026-02-06T02:18:58,Short test,Exceeded time limit,Test normal,47.3,-69.3,5.8,26.0,VRLA12v_LeadAcid
+16080,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,11,2026-02-05T02:03:40,2026-02-05T02:08:43,Short test,Exceeded time limit,Test normal,47.3,-67.1,5.6,26.0,VRLA12v_LeadAcid
+16081,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,12,2026-02-04T01:53:21,2026-02-04T01:58:24,Short test,Exceeded time limit,Test normal,47.4,-67.0,5.6,26.0,VRLA12v_LeadAcid
+16082,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,13,2026-02-03T19:00:01,2026-02-03T19:05:22,Scheduled test,Low voltage,Battery alm,45.5,-103.1,9.2,26.0,VRLA12v_LeadAcid
+16083,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,14,2026-02-03T01:43:10,2026-02-03T01:48:13,Short test,Exceeded time limit,Test normal,47.3,-66.8,5.6,26.0,VRLA12v_LeadAcid
+16084,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,15,2026-02-02T01:32:50,2026-02-02T01:37:53,Short test,Exceeded time limit,Test normal,46.7,-74.3,6.2,26.0,VRLA12v_LeadAcid
+16085,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,16,2026-02-01T01:22:42,2026-02-01T01:27:45,Short test,Exceeded time limit,Test normal,47.6,-71.1,6.0,26.0,VRLA12v_LeadAcid
+16086,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,17,2026-01-31T19:00:00,2026-01-31T19:10:40,Scheduled test,Low voltage,Battery alm,45.7,-92.4,16.4,26.0,VRLA12v_LeadAcid
+16087,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,18,2026-01-31T01:12:45,2026-01-31T01:17:48,Short test,Exceeded time limit,Test normal,47.0,-80.4,6.7,26.0,VRLA12v_LeadAcid
+16088,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,19,2026-01-30T01:02:44,2026-01-30T01:07:47,Short test,Exceeded time limit,Test normal,47.4,-69.8,5.9,26.0,VRLA12v_LeadAcid
+16089,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,20,2026-01-29T00:52:41,2026-01-29T00:57:44,Short test,Exceeded time limit,Test normal,47.8,-76.3,6.4,26.0,VRLA12v_LeadAcid
+16090,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,21,2026-01-28T19:00:01,2026-01-28T19:15:26,Scheduled test,Low voltage,Battery alm,45.7,-102.9,26.4,26.0,VRLA12v_LeadAcid
+16091,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,22,2026-01-28T00:42:48,2026-01-28T00:47:51,Short test,Exceeded time limit,Test normal,47.6,-80.1,6.7,26.0,VRLA12v_LeadAcid
+16092,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,23,2026-01-27T00:33:02,2026-01-27T00:38:06,Short test,Exceeded time limit,Test normal,47.7,-74.8,6.3,27.0,VRLA12v_LeadAcid
+16093,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,24,2026-01-26T00:23:01,2026-01-26T00:28:04,Short test,Exceeded time limit,Test normal,48.3,-77.6,6.5,28.0,VRLA12v_LeadAcid
+16094,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,25,2026-01-25T19:00:01,2026-01-25T19:29:40,Scheduled test,Low voltage,Battery alm,45.7,-90.6,44.6,27.0,VRLA12v_LeadAcid
+16095,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,26,2026-01-25T00:13:00,2026-01-25T00:18:03,Short test,Exceeded time limit,Test normal,47.8,-81.1,6.8,28.0,VRLA12v_LeadAcid
+16096,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,27,2026-01-24T00:03:02,2026-01-24T00:08:06,Short test,Exceeded time limit,Test normal,48.0,-78.3,6.6,31.0,VRLA12v_LeadAcid
+16097,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,28,2026-01-22T23:53:13,2026-01-22T23:58:17,Short test,Exceeded time limit,Test normal,48.0,-76.1,6.4,31.0,VRLA12v_LeadAcid
+16098,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,29,2026-01-22T19:00:00,2026-01-22T19:11:25,Scheduled test,Low voltage,Battery alm,45.9,-98.4,18.6,30.0,VRLA12v_LeadAcid
+16099,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,30,2026-01-21T23:45:02,2026-01-21T23:48:22,Short test,Low voltage,Battery alm,44.1,-26.5,1.5,29.0,VRLA12v_LeadAcid
+16100,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,31,2026-01-20T22:32:31,2026-01-20T22:37:34,Short test,Exceeded time limit,Test normal,48.3,-88.5,7.4,25.0,VRLA12v_LeadAcid
+16101,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,32,2026-01-19T22:22:37,2026-01-19T22:27:40,Short test,Exceeded time limit,Test normal,48.7,-83.6,7.0,26.0,VRLA12v_LeadAcid
+16102,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,33,2026-01-19T19:00:01,2026-01-19T19:29:29,Scheduled test,Low voltage,Battery alm,46.0,-88.9,43.5,25.0,VRLA12v_LeadAcid
+16103,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,34,2026-01-18T22:12:35,2026-01-18T22:17:39,Short test,Exceeded time limit,Test normal,48.3,-86.1,7.2,28.0,VRLA12v_LeadAcid
+16104,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,35,2026-01-17T22:02:33,2026-01-17T22:07:36,Short test,Exceeded time limit,Test normal,48.2,-84.3,7.1,33.0,VRLA12v_LeadAcid
+16105,10.63.87.2,HUD._3hor_Altargana44Vbair_ISS100_ULN,36,2026-01-16T21:52:45,2026-01-16T21:57:49,Short test,Exceeded time limit,Test normal,48.6,-87.1,7.3,27.0,VRLA12v_LeadAcid

@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+641764,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,45,2026-03-30T19:00:02,2026-03-31T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.7,-22.2,111.1,18.0,VRLA12v_LeadAcid
+575375,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,44,2026-03-27T19:00:02,2026-03-28T00:00:18,Scheduled test,Exceeded time limit,Test normal,48.6,-22.8,113.9,20.0,VRLA12v_LeadAcid
+510478,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,43,2026-03-24T19:00:02,2026-03-25T00:00:17,Scheduled test,Exceeded time limit,Test normal,49.0,-20.5,102.4,19.0,VRLA12v_LeadAcid
+447600,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,42,2026-03-21T19:00:02,2026-03-21T21:49:45,Scheduled test,Low capacity,Test normal,50.0,-21.6,61.1,16.0,VRLA12v_LeadAcid
+365844,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,41,2026-03-18T19:00:03,2026-03-19T00:00:18,Scheduled test,Exceeded time limit,Test normal,48.5,-21.0,104.8,7.0,VRLA12v_LeadAcid
+286084,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,40,2026-03-14T19:00:02,2026-03-15T00:00:15,Scheduled test,Exceeded time limit,Test normal,48.3,-22.8,114.0,9.0,VRLA12v_LeadAcid
+227764,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,39,2026-03-11T19:00:02,2026-03-12T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.6,-21.9,109.7,13.0,VRLA12v_LeadAcid
+170801,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,38,2026-03-08T19:00:02,2026-03-09T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.5,-21.8,109.0,7.0,VRLA12v_LeadAcid
+115226,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,37,2026-03-05T19:00:03,2026-03-05T20:59:56,Scheduled test,Low temperature,Abnormal end,50.0,-21.6,43.1,5.0,VRLA12v_LeadAcid
+6581,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,1,2026-02-28T19:00:27,2026-02-28T19:00:29,Scheduled test,Low temperature,Abnormal end,55.1,0.0,0.0,5.0,VRLA12v_LeadAcid
+6582,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,2,2026-02-19T19:00:03,2026-02-20T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.6,-21.5,107.4,10.0,VRLA12v_LeadAcid
+6583,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,3,2026-02-11T19:00:02,2026-02-12T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.7,-20.7,103.4,9.0,VRLA12v_LeadAcid
+6584,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,4,2026-02-08T19:00:03,2026-02-08T20:35:50,Scheduled test,Low temperature,Abnormal end,50.1,-20.9,33.4,5.0,VRLA12v_LeadAcid
+6585,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,5,2026-02-02T19:00:03,2026-02-02T19:03:50,Scheduled test,Low temperature,Abnormal end,50.1,-19.1,1.2,5.0,VRLA12v_LeadAcid
+6586,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,6,2026-01-14T19:00:03,2026-01-15T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.7,-21.6,107.8,6.0,VRLA12v_LeadAcid
+6587,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,7,2026-01-02T19:00:02,2026-01-03T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.6,-22.5,112.4,6.0,VRLA12v_LeadAcid
+6588,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,8,2025-12-26T19:00:03,2025-12-26T21:09:18,Scheduled test,Low temperature,Abnormal end,49.7,-20.5,44.2,5.0,VRLA12v_LeadAcid
+6589,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,9,2025-12-18T19:00:03,2025-12-18T20:59:31,Scheduled test,Low temperature,Abnormal end,49.9,-20.7,41.1,5.0,VRLA12v_LeadAcid
+6590,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,10,2025-12-15T19:00:03,2025-12-16T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.7,-21.0,105.0,6.0,VRLA12v_LeadAcid
+6591,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,11,2025-11-28T19:00:03,2025-11-28T19:36:37,Scheduled test,Low temperature,Abnormal end,50.3,-20.4,12.5,5.0,VRLA12v_LeadAcid
+6592,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,12,2025-11-21T19:00:03,2025-11-21T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.2,-23.9,71.7,10.0,VRLA12v_LeadAcid
+6593,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,13,2025-11-18T19:00:02,2025-11-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.1,-24.5,73.6,6.0,VRLA12v_LeadAcid
+6594,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,14,2025-11-14T19:00:03,2025-11-14T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.3,-24.4,73.3,7.0,VRLA12v_LeadAcid
+6595,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,15,2025-11-11T19:00:03,2025-11-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-27.1,81.5,11.0,VRLA12v_LeadAcid
+6596,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,16,2025-11-06T19:00:01,2025-11-06T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.6,-24.5,73.4,19.0,VRLA12v_LeadAcid
+6597,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,17,2025-11-03T19:00:02,2025-11-03T22:00:10,Scheduled test,Exceeded time limit,Test normal,49.3,-26.2,78.5,18.0,VRLA12v_LeadAcid
+6598,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,18,2025-10-31T19:00:02,2025-10-31T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.4,-24.5,73.5,16.0,VRLA12v_LeadAcid
+6599,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,19,2025-10-28T19:00:03,2025-10-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.5,-25.7,77.2,15.0,VRLA12v_LeadAcid
+6600,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,20,2025-10-25T19:00:03,2025-10-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.5,-25.3,75.9,8.0,VRLA12v_LeadAcid
+6601,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,21,2025-10-22T19:00:02,2025-10-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.7,-26.7,80.2,14.0,VRLA12v_LeadAcid
+6602,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,22,2025-10-18T19:00:03,2025-10-18T21:56:57,Scheduled test,Low temperature,Abnormal end,48.9,-25.4,75.0,5.0,VRLA12v_LeadAcid
+6603,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,23,2025-10-15T19:00:02,2025-10-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.0,-27.4,82.2,17.0,VRLA12v_LeadAcid
+6604,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,24,2025-10-11T19:00:02,2025-10-11T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.1,-27.9,83.7,22.0,VRLA12v_LeadAcid
+6605,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,25,2025-10-07T19:00:03,2025-10-07T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.0,-26.2,78.7,19.0,VRLA12v_LeadAcid
+6606,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,26,2025-10-04T19:00:02,2025-10-04T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-28.3,84.9,25.0,VRLA12v_LeadAcid
+6607,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,27,2025-10-01T19:00:03,2025-10-01T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-25.4,76.2,29.0,VRLA12v_LeadAcid
+6608,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,28,2025-09-28T19:00:03,2025-09-28T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.2,-25.0,75.1,31.0,VRLA12v_LeadAcid
+6609,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,29,2025-09-25T19:00:02,2025-09-25T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.6,-24.1,72.3,30.0,VRLA12v_LeadAcid
+6610,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,30,2025-09-22T19:00:02,2025-09-22T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.2,-25.0,75.2,26.0,VRLA12v_LeadAcid
+6611,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,31,2025-09-19T19:00:03,2025-09-19T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.1,-25.4,76.1,29.0,VRLA12v_LeadAcid
+6612,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,32,2025-09-16T19:00:02,2025-09-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-25.3,75.8,25.0,VRLA12v_LeadAcid
+6613,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,33,2025-09-13T19:00:03,2025-09-13T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.0,-26.4,79.2,24.0,VRLA12v_LeadAcid
+6614,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,34,2025-09-10T19:00:03,2025-09-10T22:00:12,Scheduled test,Exceeded time limit,Test normal,49.3,-24.6,73.9,29.0,VRLA12v_LeadAcid
+6615,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,35,2025-09-07T19:00:03,2025-09-07T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.0,-24.9,74.8,25.0,VRLA12v_LeadAcid
+6616,10.63.21.18,TUV.Bayan_BuuruljuutMining_SMP64,36,2025-09-04T19:00:03,2025-09-04T22:00:13,Scheduled test,Exceeded time limit,Test normal,49.3,-24.1,72.2,29.0,VRLA12v_LeadAcid

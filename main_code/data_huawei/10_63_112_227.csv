@@ -1,0 +1,7 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+3684,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,1,2024-05-30T19:00:03,2024-05-30T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-40.7,122.2,,VRLA12v_LeadAcid
+3685,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,2,2024-05-27T19:00:02,2024-05-27T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-42.0,125.9,,VRLA12v_LeadAcid
+3686,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,3,2024-05-24T19:00:02,2024-05-24T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-44.3,132.9,,VRLA12v_LeadAcid
+3687,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,4,2024-05-21T19:00:03,2024-05-21T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-42.9,128.8,,VRLA12v_LeadAcid
+3688,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,5,2024-05-18T19:00:03,2024-05-18T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-44.1,132.3,,VRLA12v_LeadAcid
+3689,10.63.112.227,HUD._UlziitHor_59Surguuli_R1_ULN,6,2024-05-15T19:00:03,2024-05-15T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-42.5,127.6,,VRLA12v_LeadAcid

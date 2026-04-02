@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+14254,10.63.73.3,HUD.RiverGarden_TPD_ULN,1,2025-06-11T19:00:05,2025-06-11T21:27:27,Scheduled test,Low capacity,Test normal,46.3,-64.2,157.6,22.0,VRLA12v_LeadAcid
+14255,10.63.73.3,HUD.RiverGarden_TPD_ULN,2,2025-06-08T19:00:05,2025-06-08T21:50:13,Scheduled test,Low capacity,Test normal,46.3,-58.9,166.8,23.0,VRLA12v_LeadAcid
+14256,10.63.73.3,HUD.RiverGarden_TPD_ULN,3,2025-06-06T22:00:44,2025-06-06T22:05:47,Short test,Exceeded time limit,Test normal,50.3,-57.0,4.8,24.0,VRLA12v_LeadAcid
+14257,10.63.73.3,HUD.RiverGarden_TPD_ULN,4,2025-06-05T19:00:04,2025-06-05T21:43:21,Scheduled test,Low capacity,Test normal,46.5,-62.2,169.1,21.0,VRLA12v_LeadAcid
+14258,10.63.73.3,HUD.RiverGarden_TPD_ULN,5,2025-06-02T19:00:05,2025-06-02T21:43:04,Scheduled test,Low capacity,Test normal,46.3,-59.8,162.4,20.0,VRLA12v_LeadAcid
+14259,10.63.73.3,HUD.RiverGarden_TPD_ULN,6,2025-05-30T19:00:05,2025-05-30T21:43:02,Scheduled test,Low capacity,Test normal,46.2,-62.3,169.2,19.0,VRLA12v_LeadAcid
+14260,10.63.73.3,HUD.RiverGarden_TPD_ULN,7,2025-05-27T19:00:04,2025-05-27T21:47:18,Scheduled test,Low capacity,Test normal,46.1,-63.9,177.9,25.0,VRLA12v_LeadAcid
+14261,10.63.73.3,HUD.RiverGarden_TPD_ULN,8,2025-05-24T19:00:04,2025-05-24T21:39:07,Scheduled test,Low capacity,Test normal,46.5,-64.2,170.0,23.0,VRLA12v_LeadAcid
+14262,10.63.73.3,HUD.RiverGarden_TPD_ULN,9,2025-05-21T19:00:05,2025-05-21T22:00:14,Scheduled test,Exceeded time limit,Test normal,46.5,-59.9,179.7,22.0,VRLA12v_LeadAcid
+14263,10.63.73.3,HUD.RiverGarden_TPD_ULN,10,2025-05-18T19:00:04,2025-05-18T21:53:09,Scheduled test,Low capacity,Test normal,46.0,-59.9,172.6,20.0,VRLA12v_LeadAcid
+14264,10.63.73.3,HUD.RiverGarden_TPD_ULN,11,2025-05-15T19:00:05,2025-05-15T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.4,-58.0,174.0,20.0,VRLA12v_LeadAcid
+14265,10.63.73.3,HUD.RiverGarden_TPD_ULN,12,2025-05-12T19:00:05,2025-05-12T22:00:13,Scheduled test,Exceeded time limit,Test normal,46.8,-59.2,177.5,27.0,VRLA12v_LeadAcid
+14266,10.63.73.3,HUD.RiverGarden_TPD_ULN,13,2025-05-09T19:00:02,2025-05-09T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.2,-58.6,175.9,23.0,VRLA12v_LeadAcid
+14267,10.63.73.3,HUD.RiverGarden_TPD_ULN,14,2025-05-07T21:27:17,2025-05-07T21:32:19,Short test,Exceeded time limit,Test normal,50.5,-47.9,4.0,23.0,VRLA12v_LeadAcid
+14268,10.63.73.3,HUD.RiverGarden_TPD_ULN,15,2025-05-06T19:00:05,2025-05-06T22:00:16,Scheduled test,Exceeded time limit,Test normal,46.8,-56.2,168.6,22.0,VRLA12v_LeadAcid
+14269,10.63.73.3,HUD.RiverGarden_TPD_ULN,16,2025-05-03T19:00:05,2025-05-03T21:42:11,Scheduled test,Low capacity,Test normal,46.2,-63.6,171.8,20.0,VRLA12v_LeadAcid
+14270,10.63.73.3,HUD.RiverGarden_TPD_ULN,17,2025-04-30T19:00:04,2025-04-30T22:00:14,Scheduled test,Exceeded time limit,Test normal,46.1,-56.8,170.5,15.0,VRLA12v_LeadAcid
+14271,10.63.73.3,HUD.RiverGarden_TPD_ULN,18,2025-04-27T19:00:05,2025-04-27T20:31:45,Scheduled test,Low capacity,Test normal,46.1,-50.6,77.2,22.0,VRLA12v_LeadAcid
+14272,10.63.73.3,HUD.RiverGarden_TPD_ULN,19,2025-04-24T19:00:02,2025-04-24T20:36:29,Scheduled test,Low capacity,Test normal,45.7,-51.6,82.9,19.0,VRLA12v_LeadAcid
+14273,10.63.73.3,HUD.RiverGarden_TPD_ULN,20,2025-04-21T19:00:05,2025-04-21T20:36:58,Scheduled test,Low capacity,Test normal,45.6,-50.8,82.0,18.0,VRLA12v_LeadAcid
+14274,10.63.73.3,HUD.RiverGarden_TPD_ULN,21,2025-04-18T19:00:05,2025-04-18T20:34:09,Scheduled test,Low capacity,Test normal,46.0,-52.6,82.4,21.0,VRLA12v_LeadAcid
+14275,10.63.73.3,HUD.RiverGarden_TPD_ULN,22,2025-04-15T19:00:05,2025-04-15T20:33:07,Scheduled test,Low capacity,Test normal,46.2,-54.8,84.9,26.0,VRLA12v_LeadAcid
+14276,10.63.73.3,HUD.RiverGarden_TPD_ULN,23,2025-04-12T19:00:02,2025-04-12T20:55:15,Scheduled test,Low capacity,Test normal,46.0,-49.1,94.2,13.0,VRLA12v_LeadAcid
+14277,10.63.73.3,HUD.RiverGarden_TPD_ULN,24,2025-04-08T19:00:02,2025-04-08T20:38:31,Scheduled test,Low capacity,Test normal,46.2,-52.4,85.9,20.0,VRLA12v_LeadAcid
+14278,10.63.73.3,HUD.RiverGarden_TPD_ULN,25,2025-04-07T20:54:02,2025-04-07T20:59:04,Short test,Exceeded time limit,Test normal,49.4,-45.4,3.8,17.0,VRLA12v_LeadAcid
+14279,10.63.73.3,HUD.RiverGarden_TPD_ULN,26,2025-04-05T19:00:05,2025-04-05T20:15:19,Scheduled test,Low capacity,Test normal,45.9,-55.5,69.6,18.0,VRLA12v_LeadAcid
+14280,10.63.73.3,HUD.RiverGarden_TPD_ULN,27,2025-04-02T19:00:04,2025-04-02T20:16:23,Scheduled test,Low capacity,Test normal,45.9,-54.2,68.8,19.0,VRLA12v_LeadAcid
+14281,10.63.73.3,HUD.RiverGarden_TPD_ULN,28,2025-03-30T19:00:04,2025-03-30T20:24:24,Scheduled test,Low voltage,Battery alm,45.9,-50.0,70.2,11.0,VRLA12v_LeadAcid
+14282,10.63.73.3,HUD.RiverGarden_TPD_ULN,29,2025-03-27T19:00:05,2025-03-27T20:25:23,Scheduled test,Low capacity,Test normal,46.4,-53.9,76.6,5.0,VRLA12v_LeadAcid
+14283,10.63.73.3,HUD.RiverGarden_TPD_ULN,30,2025-03-24T19:00:05,2025-03-24T20:32:01,Scheduled test,Low voltage,Battery alm,46.0,-50.5,77.3,11.0,VRLA12v_LeadAcid
+14284,10.63.73.3,HUD.RiverGarden_TPD_ULN,31,2025-03-21T19:00:05,2025-03-21T20:25:18,Scheduled test,Low capacity,Test normal,46.2,-54.4,77.2,19.0,VRLA12v_LeadAcid
+14285,10.63.73.3,HUD.RiverGarden_TPD_ULN,32,2025-03-18T19:00:04,2025-03-18T20:21:59,Scheduled test,Low capacity,Test normal,46.0,-54.3,74.0,13.0,VRLA12v_LeadAcid
+14286,10.63.73.3,HUD.RiverGarden_TPD_ULN,33,2025-03-15T19:00:04,2025-03-15T20:19:10,Scheduled test,Low voltage,Battery alm,45.8,-52.6,69.3,6.0,VRLA12v_LeadAcid
+14287,10.63.73.3,HUD.RiverGarden_TPD_ULN,34,2025-03-11T19:00:05,2025-03-11T20:33:19,Scheduled test,Low voltage,Battery alm,45.8,-50.7,78.7,9.0,VRLA12v_LeadAcid
+14288,10.63.73.3,HUD.RiverGarden_TPD_ULN,35,2025-03-08T20:24:18,2025-03-08T20:25:52,Short test,Low voltage,Battery alm,45.9,-55.1,1.4,10.0,VRLA12v_LeadAcid
+14289,10.63.73.3,HUD.RiverGarden_TPD_ULN,36,2025-03-08T19:00:05,2025-03-08T20:24:16,Scheduled test,Low capacity,Test normal,46.0,-55.3,77.5,10.0,VRLA12v_LeadAcid

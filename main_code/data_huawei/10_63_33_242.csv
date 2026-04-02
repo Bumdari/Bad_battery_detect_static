@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+643089,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,45,2026-03-30T19:00:03,2026-03-30T22:32:36,Scheduled test,Low capacity,Test normal,47.3,-29.1,103.1,16.0,VRLA12v_LeadAcid
+576670,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,44,2026-03-27T19:00:03,2026-03-27T22:26:15,Scheduled test,Low capacity,Test normal,47.3,-29.7,101.9,17.0,VRLA12v_LeadAcid
+511745,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,43,2026-03-24T19:00:02,2026-03-24T22:34:47,Scheduled test,Low capacity,Test normal,47.2,-28.4,101.5,16.0,VRLA12v_LeadAcid
+448843,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,42,2026-03-21T19:00:02,2026-03-21T22:27:37,Scheduled test,Low capacity,Test normal,47.2,-28.7,99.2,14.0,VRLA12v_LeadAcid
+367058,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,41,2026-03-18T19:00:03,2026-03-18T22:26:24,Scheduled test,Low capacity,Test normal,47.3,-28.3,97.4,11.0,VRLA12v_LeadAcid
+306984,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,40,2026-03-15T19:00:03,2026-03-15T21:07:07,Scheduled test,Fault alarm,Abnormal end,49.9,-27.8,58.8,12.0,VRLA12v_LeadAcid
+248217,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,39,2026-03-12T19:00:02,2026-03-12T22:37:47,Scheduled test,Low capacity,Test normal,47.3,-28.3,102.6,15.0,VRLA12v_LeadAcid
+190760,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,38,2026-03-09T19:00:02,2026-03-09T22:31:28,Scheduled test,Low capacity,Test normal,47.3,-28.6,100.7,11.0,VRLA12v_LeadAcid
+134704,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,37,2026-03-06T19:00:03,2026-03-06T22:39:06,Scheduled test,Low capacity,Test normal,47.0,-28.5,103.9,7.0,VRLA12v_LeadAcid
+7667,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,1,2026-02-25T19:00:02,2026-02-25T22:44:50,Scheduled test,Low capacity,Test normal,46.9,-28.8,107.8,6.0,VRLA12v_LeadAcid
+7668,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,2,2026-02-22T19:00:02,2026-02-22T22:47:18,Scheduled test,Low capacity,Test normal,46.9,-28.9,109.5,7.0,VRLA12v_LeadAcid
+7669,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,3,2026-02-19T19:00:02,2026-02-19T22:52:48,Scheduled test,Low capacity,Test normal,46.9,-29.0,112.4,7.0,VRLA12v_LeadAcid
+7670,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,4,2026-02-13T19:00:02,2026-02-13T22:58:04,Scheduled test,Low capacity,Test normal,46.9,-28.5,113.1,7.0,VRLA12v_LeadAcid
+7671,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,5,2026-01-13T19:00:03,2026-01-13T23:10:10,Scheduled test,Low capacity,Test normal,46.8,-28.3,117.8,7.0,VRLA12v_LeadAcid
+7672,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,6,2025-12-16T19:00:47,2025-12-16T19:00:53,Scheduled test,Low temperature,Abnormal end,53.8,-8.6,0.0,5.0,VRLA12v_LeadAcid
+7673,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,7,2025-12-09T19:00:02,2025-12-09T23:17:01,Scheduled test,Low capacity,Test normal,46.9,-28.2,120.8,7.0,VRLA12v_LeadAcid
+7674,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,8,2025-12-06T19:00:02,2025-12-06T23:23:15,Scheduled test,Low capacity,Test normal,46.9,-28.5,124.9,7.0,VRLA12v_LeadAcid
+7675,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,9,2025-11-29T19:00:02,2025-11-29T23:07:27,Scheduled test,Low capacity,Test normal,47.3,-29.0,119.7,10.0,VRLA12v_LeadAcid
+7676,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,10,2025-11-26T19:00:02,2025-11-26T22:00:12,Scheduled test,Exceeded time limit,Test normal,47.9,-28.8,86.4,8.0,VRLA12v_LeadAcid
+7677,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,11,2025-11-23T19:00:03,2025-11-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-28.8,86.3,10.0,VRLA12v_LeadAcid
+7678,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,12,2025-11-20T19:00:02,2025-11-20T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-29.0,87.0,6.0,VRLA12v_LeadAcid
+7679,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,13,2025-11-16T19:00:02,2025-11-16T19:13:14,Scheduled test,Fault alarm,Abnormal end,50.3,-28.9,6.4,6.0,VRLA12v_LeadAcid
+7680,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,14,2025-11-13T19:00:03,2025-11-13T19:13:33,Scheduled test,Fault alarm,Abnormal end,50.6,-28.5,6.4,12.0,VRLA12v_LeadAcid
+7681,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,15,2025-11-10T19:00:03,2025-11-10T19:07:42,Scheduled test,Fault alarm,Abnormal end,50.6,-27.9,3.5,11.0,VRLA12v_LeadAcid
+7682,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,16,2025-11-07T19:00:03,2025-11-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.7,-28.8,86.4,14.0,VRLA12v_LeadAcid
+7683,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,17,2025-11-04T19:00:03,2025-11-04T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.8,-29.1,87.3,15.0,VRLA12v_LeadAcid
+7684,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,18,2025-11-01T19:00:03,2025-11-01T19:09:37,Scheduled test,Fault alarm,Abnormal end,50.8,-27.4,4.4,14.0,VRLA12v_LeadAcid
+7685,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,19,2025-10-29T19:00:02,2025-10-29T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.8,-28.6,85.9,14.0,VRLA12v_LeadAcid
+7686,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,20,2025-10-26T19:00:03,2025-10-26T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-28.7,86.1,9.0,VRLA12v_LeadAcid
+7687,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,21,2025-10-10T19:00:02,2025-10-10T20:54:32,Scheduled test,Fault alarm,Abnormal end,49.6,-28.3,54.0,7.0,VRLA12v_LeadAcid
+7688,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,22,2025-10-05T19:00:03,2025-10-05T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.6,-28.0,84.1,9.0,VRLA12v_LeadAcid
+7689,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,23,2025-10-02T19:00:02,2025-10-02T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.8,-28.4,85.3,14.0,VRLA12v_LeadAcid
+7690,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,24,2025-09-29T19:00:03,2025-09-29T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.7,-28.5,85.5,13.0,VRLA12v_LeadAcid
+7691,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,25,2025-09-26T19:00:03,2025-09-26T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.7,-28.5,85.5,12.0,VRLA12v_LeadAcid
+7692,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,26,2025-09-23T19:00:02,2025-09-23T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.7,-28.6,85.7,12.0,VRLA12v_LeadAcid
+7693,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,27,2025-09-20T19:00:03,2025-09-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-29.1,87.5,12.0,VRLA12v_LeadAcid
+7694,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,28,2025-09-17T19:00:03,2025-09-17T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.5,-28.6,85.9,11.0,VRLA12v_LeadAcid
+7695,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,29,2025-09-14T19:00:03,2025-09-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-28.6,85.8,11.0,VRLA12v_LeadAcid
+7696,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,30,2025-09-11T19:00:02,2025-09-11T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.6,-29.1,87.4,13.0,VRLA12v_LeadAcid
+7697,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,31,2025-09-08T19:00:02,2025-09-08T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.6,-29.0,86.9,11.0,VRLA12v_LeadAcid
+7698,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,32,2025-09-05T19:00:03,2025-09-05T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.6,-29.1,87.4,12.0,VRLA12v_LeadAcid
+7699,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,33,2025-09-02T19:00:03,2025-09-02T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.9,-28.7,86.1,15.0,VRLA12v_LeadAcid
+7700,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,34,2025-08-30T19:00:03,2025-08-30T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.9,-29.3,88.0,16.0,VRLA12v_LeadAcid
+7701,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,35,2025-08-27T19:00:02,2025-08-27T22:00:10,Scheduled test,Exceeded time limit,Test normal,49.1,-29.2,87.7,18.0,VRLA12v_LeadAcid
+7702,10.63.33.242,ARH.Tariat_TerhiinTsagaanNuur_ISS100,36,2025-08-24T19:00:03,2025-08-24T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.9,-30.3,90.8,17.0,VRLA12v_LeadAcid

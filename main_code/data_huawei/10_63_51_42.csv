@@ -1,0 +1,44 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+693099,10.63.51.42,DOR.Halhgol_WaterTank_MA73,43,2026-04-01T19:00:01,2026-04-01T22:34:31,Scheduled test,Low capacity,Test normal,46.4,-33.1,118.0,12.0,VRLA12v_LeadAcid
+625603,10.63.51.42,DOR.Halhgol_WaterTank_MA73,42,2026-03-29T19:00:01,2026-03-29T22:07:52,Scheduled test,Low capacity,Test normal,46.9,-35.2,110.0,12.0,VRLA12v_LeadAcid
+559589,10.63.51.42,DOR.Halhgol_WaterTank_MA73,41,2026-03-26T19:00:01,2026-03-26T22:27:57,Scheduled test,Low capacity,Test normal,46.6,-33.4,115.4,10.0,VRLA12v_LeadAcid
+495062,10.63.51.42,DOR.Halhgol_WaterTank_MA73,40,2026-03-23T19:00:00,2026-03-23T22:32:22,Scheduled test,Low capacity,Test normal,46.3,-33.7,118.9,12.0,VRLA12v_LeadAcid
+432670,10.63.51.42,DOR.Halhgol_WaterTank_MA73,39,2026-03-20T19:00:00,2026-03-20T20:14:01,Scheduled test,Low temperature,Abnormal end,49.6,-33.5,41.2,5.0,VRLA12v_LeadAcid
+331184,10.63.51.42,DOR.Halhgol_WaterTank_MA73,38,2026-03-16T19:00:01,2026-03-16T22:40:44,Scheduled test,Low capacity,Test normal,46.0,-33.0,121.3,6.0,VRLA12v_LeadAcid
+252407,10.63.51.42,DOR.Halhgol_WaterTank_MA73,37,2026-03-12T19:00:01,2026-03-12T22:20:18,Scheduled test,Low capacity,Test normal,46.5,-33.6,111.9,9.0,VRLA12v_LeadAcid
+11539,10.63.51.42,DOR.Halhgol_WaterTank_MA73,1,2026-02-20T19:00:01,2026-02-20T22:42:45,Scheduled test,Low capacity,Test normal,45.7,-33.1,122.7,6.0,VRLA12v_LeadAcid
+11540,10.63.51.42,DOR.Halhgol_WaterTank_MA73,2,2025-11-21T19:00:01,2025-11-21T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.7,-33.1,99.2,6.0,VRLA12v_LeadAcid
+11541,10.63.51.42,DOR.Halhgol_WaterTank_MA73,3,2025-11-06T19:00:02,2025-11-06T22:00:26,Scheduled test,Exceeded time limit,Test normal,47.0,-33.0,99.1,7.0,VRLA12v_LeadAcid
+11542,10.63.51.42,DOR.Halhgol_WaterTank_MA73,4,2025-11-03T19:00:01,2025-11-03T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.8,-33.5,100.4,8.0,VRLA12v_LeadAcid
+11543,10.63.51.42,DOR.Halhgol_WaterTank_MA73,5,2025-10-29T19:00:01,2025-10-29T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.7,-33.7,101.1,7.0,VRLA12v_LeadAcid
+11544,10.63.51.42,DOR.Halhgol_WaterTank_MA73,6,2025-10-24T19:00:01,2025-10-24T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.9,-32.8,98.5,6.0,VRLA12v_LeadAcid
+11545,10.63.51.42,DOR.Halhgol_WaterTank_MA73,7,2025-10-20T19:00:05,2025-10-20T19:00:07,Scheduled test,Low temperature,Abnormal end,55.1,0.0,0.0,5.0,VRLA12v_LeadAcid
+11546,10.63.51.42,DOR.Halhgol_WaterTank_MA73,8,2025-10-16T19:00:00,2025-10-16T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.1,-32.3,97.0,7.0,VRLA12v_LeadAcid
+11547,10.63.51.42,DOR.Halhgol_WaterTank_MA73,9,2025-10-13T19:00:01,2025-10-13T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.0,-32.8,98.3,9.0,VRLA12v_LeadAcid
+11548,10.63.51.42,DOR.Halhgol_WaterTank_MA73,10,2025-10-10T19:00:00,2025-10-10T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.2,-33.0,98.9,14.0,VRLA12v_LeadAcid
+11549,10.63.51.42,DOR.Halhgol_WaterTank_MA73,11,2025-10-07T19:00:00,2025-10-07T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.2,-33.3,100.0,11.0,VRLA12v_LeadAcid
+11550,10.63.51.42,DOR.Halhgol_WaterTank_MA73,12,2025-10-04T19:00:01,2025-10-04T22:00:25,Scheduled test,Exceeded time limit,Test normal,47.1,-34.1,102.4,13.0,VRLA12v_LeadAcid
+11551,10.63.51.42,DOR.Halhgol_WaterTank_MA73,13,2025-10-01T19:00:01,2025-10-01T22:00:24,Scheduled test,Exceeded time limit,Test normal,47.2,-34.3,102.8,17.0,VRLA12v_LeadAcid
+11552,10.63.51.42,DOR.Halhgol_WaterTank_MA73,14,2025-09-28T19:00:00,2025-09-28T22:00:25,Scheduled test,Exceeded time limit,Test normal,47.1,-34.0,102.2,18.0,VRLA12v_LeadAcid
+11553,10.63.51.42,DOR.Halhgol_WaterTank_MA73,15,2025-09-25T19:00:01,2025-09-25T22:00:25,Scheduled test,Exceeded time limit,Test normal,46.8,-33.7,101.0,18.0,VRLA12v_LeadAcid
+11554,10.63.51.42,DOR.Halhgol_WaterTank_MA73,16,2025-09-22T19:00:00,2025-09-22T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.6,-32.9,98.7,18.0,VRLA12v_LeadAcid
+11555,10.63.51.42,DOR.Halhgol_WaterTank_MA73,17,2025-09-19T19:00:01,2025-09-19T19:19:19,Scheduled test,Low voltage,Battery alm,45.7,-34.7,11.1,19.0,VRLA12v_LeadAcid
+11556,10.63.51.42,DOR.Halhgol_WaterTank_MA73,18,2025-09-16T19:00:00,2025-09-16T19:19:08,Scheduled test,Low voltage,Battery alm,45.1,-33.1,10.5,17.0,VRLA12v_LeadAcid
+11557,10.63.51.42,DOR.Halhgol_WaterTank_MA73,19,2025-09-13T19:00:00,2025-09-13T19:16:50,Scheduled test,Low voltage,Battery alm,45.1,-38.6,10.8,20.0,VRLA12v_LeadAcid
+11558,10.63.51.42,DOR.Halhgol_WaterTank_MA73,20,2025-09-10T19:00:01,2025-09-10T19:17:09,Scheduled test,Low voltage,Battery alm,45.5,-39.6,11.3,21.0,VRLA12v_LeadAcid
+11559,10.63.51.42,DOR.Halhgol_WaterTank_MA73,21,2025-09-07T19:00:01,2025-09-07T19:17:57,Scheduled test,Low voltage,Battery alm,45.5,-38.5,11.5,19.0,VRLA12v_LeadAcid
+11560,10.63.51.42,DOR.Halhgol_WaterTank_MA73,22,2025-09-04T19:00:01,2025-09-04T19:17:27,Scheduled test,Low voltage,Battery alm,45.7,-39.5,11.5,25.0,VRLA12v_LeadAcid
+11561,10.63.51.42,DOR.Halhgol_WaterTank_MA73,23,2025-09-01T19:00:01,2025-09-01T19:19:21,Scheduled test,Low voltage,Battery alm,45.9,-38.2,12.3,23.0,VRLA12v_LeadAcid
+11562,10.63.51.42,DOR.Halhgol_WaterTank_MA73,24,2025-08-29T19:00:00,2025-08-29T19:15:58,Scheduled test,Low voltage,Battery alm,45.4,-39.8,10.6,25.0,VRLA12v_LeadAcid
+11563,10.63.51.42,DOR.Halhgol_WaterTank_MA73,25,2025-08-26T19:00:01,2025-08-26T19:16:55,Scheduled test,Low voltage,Battery alm,45.6,-37.5,10.6,25.0,VRLA12v_LeadAcid
+11564,10.63.51.42,DOR.Halhgol_WaterTank_MA73,26,2025-08-23T19:00:01,2025-08-23T19:16:19,Scheduled test,Low voltage,Battery alm,45.5,-39.4,10.7,25.0,VRLA12v_LeadAcid
+11565,10.63.51.42,DOR.Halhgol_WaterTank_MA73,27,2025-08-20T19:00:02,2025-08-20T19:17:18,Scheduled test,Low voltage,Battery alm,45.6,-37.3,10.7,26.0,VRLA12v_LeadAcid
+11566,10.63.51.42,DOR.Halhgol_WaterTank_MA73,28,2025-08-17T19:00:01,2025-08-17T19:17:23,Scheduled test,Low voltage,Battery alm,45.8,-38.3,11.1,26.0,VRLA12v_LeadAcid
+11567,10.63.51.42,DOR.Halhgol_WaterTank_MA73,29,2025-08-14T19:00:00,2025-08-14T19:17:08,Scheduled test,Low voltage,Battery alm,45.7,-39.1,11.1,25.0,VRLA12v_LeadAcid
+11568,10.63.51.42,DOR.Halhgol_WaterTank_MA73,30,2025-08-11T19:00:01,2025-08-11T19:15:59,Scheduled test,Low voltage,Battery alm,45.5,-40.4,10.7,21.0,VRLA12v_LeadAcid
+11569,10.63.51.42,DOR.Halhgol_WaterTank_MA73,31,2025-08-08T19:00:01,2025-08-08T19:16:59,Scheduled test,Low voltage,Battery alm,45.7,-38.7,10.9,25.0,VRLA12v_LeadAcid
+11570,10.63.51.42,DOR.Halhgol_WaterTank_MA73,32,2025-08-05T19:00:00,2025-08-05T19:18:02,Scheduled test,Low voltage,Battery alm,45.5,-37.9,11.4,25.0,VRLA12v_LeadAcid
+11571,10.63.51.42,DOR.Halhgol_WaterTank_MA73,33,2025-08-02T19:00:01,2025-08-02T19:17:32,Scheduled test,Low voltage,Battery alm,45.6,-38.9,11.3,25.0,VRLA12v_LeadAcid
+11572,10.63.51.42,DOR.Halhgol_WaterTank_MA73,34,2025-07-30T19:00:01,2025-07-30T19:18:21,Scheduled test,Low voltage,Battery alm,45.6,-38.0,11.6,26.0,VRLA12v_LeadAcid
+11573,10.63.51.42,DOR.Halhgol_WaterTank_MA73,35,2025-07-27T19:00:00,2025-07-27T19:17:26,Scheduled test,Low voltage,Battery alm,45.5,-39.3,11.4,27.0,VRLA12v_LeadAcid
+11574,10.63.51.42,DOR.Halhgol_WaterTank_MA73,36,2025-07-24T19:00:00,2025-07-24T19:18:12,Scheduled test,Low voltage,Battery alm,45.4,-38.3,11.6,26.0,VRLA12v_LeadAcid

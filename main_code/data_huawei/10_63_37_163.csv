@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+689641,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,46,2026-04-01T19:00:03,2026-04-02T00:00:17,Scheduled test,Exceeded time limit,Test normal,47.6,-36.9,184.7,21.0,VRLA12v_LeadAcid
+622215,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,45,2026-03-29T19:00:02,2026-03-30T00:00:16,Scheduled test,Exceeded time limit,Test normal,48.2,-35.4,177.0,23.0,VRLA12v_LeadAcid
+556270,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,44,2026-03-26T19:00:02,2026-03-27T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.0,-36.8,184.1,24.0,VRLA12v_LeadAcid
+491890,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,43,2026-03-23T19:00:03,2026-03-24T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.1,-36.8,184.2,23.0,VRLA12v_LeadAcid
+429563,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,42,2026-03-20T19:00:03,2026-03-21T00:00:18,Scheduled test,Exceeded time limit,Test normal,47.9,-37.2,185.9,21.0,VRLA12v_LeadAcid
+348203,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,41,2026-03-17T19:00:02,2026-03-18T00:00:17,Scheduled test,Exceeded time limit,Test normal,47.5,-37.4,187.2,11.0,VRLA12v_LeadAcid
+288542,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,40,2026-03-14T19:00:02,2026-03-15T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.0,-36.0,180.1,13.0,VRLA12v_LeadAcid
+230169,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,39,2026-03-11T19:00:02,2026-03-12T00:00:17,Scheduled test,Exceeded time limit,Test normal,48.0,-36.5,182.3,22.0,VRLA12v_LeadAcid
+135904,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,38,2026-03-06T19:00:02,2026-03-07T00:00:16,Scheduled test,Exceeded time limit,Test normal,47.5,-37.5,187.4,10.0,VRLA12v_LeadAcid
+8877,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,37,2026-03-03T19:00:02,2026-03-04T00:00:17,Scheduled test,Exceeded time limit,Test normal,47.2,-36.9,184.6,6.0,VRLA12v_LeadAcid
+8841,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,1,2026-02-28T19:00:03,2026-02-28T23:58:00,Scheduled test,Low capacity,Test normal,47.3,-36.8,182.8,6.0,VRLA12v_LeadAcid
+8842,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,2,2026-02-25T19:00:02,2026-02-25T23:40:04,Scheduled test,Low capacity,Test normal,46.9,-37.4,174.5,9.0,VRLA12v_LeadAcid
+8843,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,3,2026-02-22T19:00:03,2026-02-22T19:15:43,Scheduled test,Low capacity,Test normal,46.9,-35.7,9.3,7.0,VRLA12v_LeadAcid
+8844,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,4,2026-02-19T19:00:03,2026-02-19T19:14:13,Scheduled test,Low capacity,Test normal,46.9,-38.6,9.1,20.0,VRLA12v_LeadAcid
+8845,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,5,2026-02-16T19:00:02,2026-02-16T19:15:27,Scheduled test,Low capacity,Test normal,46.6,-36.8,9.4,16.0,VRLA12v_LeadAcid
+8846,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,6,2026-02-13T19:00:03,2026-02-13T19:17:40,Scheduled test,Low capacity,Test normal,46.8,-34.0,10.0,9.0,VRLA12v_LeadAcid
+8847,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,7,2026-02-08T19:00:03,2026-02-08T19:15:20,Scheduled test,Low capacity,Test normal,46.4,-37.6,9.6,7.0,VRLA12v_LeadAcid
+8848,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,8,2026-02-05T19:00:03,2026-02-05T19:16:07,Scheduled test,Low temperature,Abnormal end,47.2,-35.0,9.4,5.0,VRLA12v_LeadAcid
+8849,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,9,2026-02-02T19:00:02,2026-02-02T19:15:41,Scheduled test,Low capacity,Test normal,46.8,-36.7,9.6,13.0,VRLA12v_LeadAcid
+8850,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,10,2026-01-30T19:00:02,2026-01-30T19:03:02,Scheduled test,Low temperature,Abnormal end,49.9,-35.2,1.8,5.0,VRLA12v_LeadAcid
+8851,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,11,2026-01-25T19:00:03,2026-01-25T19:15:08,Scheduled test,Low capacity,Test normal,46.9,-38.6,9.7,6.0,VRLA12v_LeadAcid
+8852,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,12,2026-01-15T19:00:03,2026-01-15T19:14:56,Scheduled test,Low capacity,Test normal,46.9,-37.4,9.3,6.0,VRLA12v_LeadAcid
+8853,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,13,2026-01-12T19:00:01,2026-01-12T19:15:09,Scheduled test,Low capacity,Test normal,46.9,-37.8,9.5,6.0,VRLA12v_LeadAcid
+8854,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,14,2026-01-09T19:00:02,2026-01-09T19:15:29,Scheduled test,Low capacity,Test normal,46.8,-37.0,9.5,8.0,VRLA12v_LeadAcid
+8855,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,15,2026-01-06T19:00:03,2026-01-06T19:15:15,Scheduled test,Low capacity,Test normal,46.8,-37.7,9.6,7.0,VRLA12v_LeadAcid
+8856,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,16,2026-01-03T19:00:03,2026-01-03T19:14:46,Scheduled test,Low capacity,Test normal,46.8,-39.0,9.6,7.0,VRLA12v_LeadAcid
+8857,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,17,2025-12-31T19:00:03,2025-12-31T19:14:45,Scheduled test,Low capacity,Test normal,46.7,-38.9,9.5,6.0,VRLA12v_LeadAcid
+8858,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,18,2025-12-25T19:00:03,2025-12-25T19:15:38,Scheduled test,Low capacity,Test normal,47.3,-37.0,9.6,6.0,VRLA12v_LeadAcid
+8859,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,19,2025-12-22T19:00:02,2025-12-22T19:14:47,Scheduled test,Low capacity,Test normal,46.4,-38.5,9.4,6.0,VRLA12v_LeadAcid
+8860,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,20,2025-12-19T19:00:02,2025-12-19T19:15:32,Scheduled test,Low capacity,Test normal,47.1,-36.5,9.4,6.0,VRLA12v_LeadAcid
+8861,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,21,2025-12-16T19:00:01,2025-12-16T19:15:42,Scheduled test,Low capacity,Test normal,46.8,-36.6,9.6,8.0,VRLA12v_LeadAcid
+8862,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,22,2025-12-13T19:00:03,2025-12-13T19:14:27,Scheduled test,Low capacity,Test normal,46.8,-38.3,9.2,7.0,VRLA12v_LeadAcid
+8863,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,23,2025-12-09T19:00:03,2025-12-09T19:14:50,Scheduled test,Low capacity,Test normal,46.6,-37.3,9.2,6.0,VRLA12v_LeadAcid
+8864,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,24,2025-12-06T19:00:01,2025-12-06T19:13:34,Scheduled test,Low capacity,Test normal,47.0,-40.6,9.1,12.0,VRLA12v_LeadAcid
+8865,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,25,2025-12-03T19:00:01,2025-12-03T19:14:28,Scheduled test,Low capacity,Test normal,46.6,-38.4,9.2,6.0,VRLA12v_LeadAcid
+8866,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,26,2025-11-29T19:00:02,2025-11-29T19:15:17,Scheduled test,Low capacity,Test normal,46.3,-37.1,9.4,10.0,VRLA12v_LeadAcid
+8867,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,27,2025-11-26T19:00:02,2025-11-26T19:15:53,Scheduled test,Low capacity,Test normal,45.5,-36.3,9.6,7.0,VRLA12v_LeadAcid
+8868,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,28,2025-11-23T19:00:03,2025-11-23T19:15:16,Scheduled test,Low capacity,Test normal,45.9,-38.2,9.7,10.0,VRLA12v_LeadAcid
+8869,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,29,2025-11-20T19:00:02,2025-11-20T19:13:15,Scheduled test,Low capacity,Test normal,45.9,-38.0,8.4,16.0,VRLA12v_LeadAcid
+8870,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,30,2025-11-17T19:00:01,2025-11-17T19:13:31,Scheduled test,Low capacity,Test normal,45.5,-37.5,8.4,11.0,VRLA12v_LeadAcid
+8871,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,31,2025-11-14T19:00:03,2025-11-14T19:12:18,Scheduled test,Low capacity,Test normal,45.7,-40.8,8.3,12.0,VRLA12v_LeadAcid
+8872,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,32,2025-11-11T19:00:03,2025-11-11T19:14:04,Scheduled test,Low capacity,Test normal,46.1,-35.3,8.2,19.0,VRLA12v_LeadAcid
+8873,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,33,2025-11-08T19:00:03,2025-11-08T19:13:55,Scheduled test,Low capacity,Test normal,45.9,-35.6,8.2,19.0,VRLA12v_LeadAcid
+8874,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,34,2025-11-05T19:00:02,2025-11-05T19:12:57,Scheduled test,Low capacity,Test normal,46.3,-37.3,8.0,20.0,VRLA12v_LeadAcid
+8875,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,35,2025-11-02T19:00:02,2025-11-02T19:13:17,Scheduled test,Low capacity,Test normal,46.1,-38.0,8.4,20.0,VRLA12v_LeadAcid
+8876,10.63.37.163,SEL.Saihan_Hutul_SuvragaTolgoi,36,2025-10-30T19:00:02,2025-10-30T19:14:31,Scheduled test,Low capacity,Test normal,46.5,-36.6,8.9,19.0,VRLA12v_LeadAcid

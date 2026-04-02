@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+4599,10.63.132.242,BUL.Rashaant_UnegtTolgoi,1,2025-09-17T19:00:03,2025-09-17T19:35:51,Scheduled test,Fault alarm,Abnormal end,48.8,-49.2,29.3,,VRLA12v_LeadAcid
+4600,10.63.132.242,BUL.Rashaant_UnegtTolgoi,2,2025-09-14T19:00:02,2025-09-14T21:53:39,Scheduled test,Low voltage,Battery alm,45.9,-48.5,140.2,,VRLA12v_LeadAcid
+4601,10.63.132.242,BUL.Rashaant_UnegtTolgoi,3,2025-09-11T19:00:03,2025-09-11T21:41:26,Scheduled test,Low voltage,Battery alm,45.9,-50.7,136.2,,VRLA12v_LeadAcid
+4602,10.63.132.242,BUL.Rashaant_UnegtTolgoi,4,2025-09-08T19:00:03,2025-09-08T21:31:05,Scheduled test,Low voltage,Battery alm,45.9,-53.5,134.7,,VRLA12v_LeadAcid
+4603,10.63.132.242,BUL.Rashaant_UnegtTolgoi,5,2025-09-05T19:00:02,2025-09-05T21:31:58,Scheduled test,Low voltage,Battery alm,45.9,-53.4,135.2,,VRLA12v_LeadAcid
+4604,10.63.132.242,BUL.Rashaant_UnegtTolgoi,6,2025-09-02T19:00:02,2025-09-02T21:35:15,Scheduled test,Low voltage,Battery alm,45.7,-51.8,133.9,,VRLA12v_LeadAcid
+4605,10.63.132.242,BUL.Rashaant_UnegtTolgoi,7,2025-08-30T19:00:02,2025-08-30T21:25:18,Scheduled test,Low voltage,Battery alm,45.9,-55.0,133.0,,VRLA12v_LeadAcid
+4606,10.63.132.242,BUL.Rashaant_UnegtTolgoi,8,2025-08-27T19:00:02,2025-08-27T21:26:46,Scheduled test,Low voltage,Battery alm,45.9,-54.8,133.9,,VRLA12v_LeadAcid
+4607,10.63.132.242,BUL.Rashaant_UnegtTolgoi,9,2025-08-24T19:00:02,2025-08-24T21:19:14,Scheduled test,Low voltage,Battery alm,45.9,-56.8,131.7,,VRLA12v_LeadAcid
+4608,10.63.132.242,BUL.Rashaant_UnegtTolgoi,10,2025-08-21T19:00:03,2025-08-21T21:24:43,Scheduled test,Low voltage,Battery alm,45.9,-56.3,135.5,,VRLA12v_LeadAcid
+4609,10.63.132.242,BUL.Rashaant_UnegtTolgoi,11,2025-08-18T19:00:02,2025-08-18T21:23:47,Scheduled test,Low voltage,Battery alm,45.9,-56.0,134.0,,VRLA12v_LeadAcid
+4610,10.63.132.242,BUL.Rashaant_UnegtTolgoi,12,2025-08-15T19:00:03,2025-08-15T21:19:21,Scheduled test,Low voltage,Battery alm,45.9,-57.9,134.2,,VRLA12v_LeadAcid
+4611,10.63.132.242,BUL.Rashaant_UnegtTolgoi,13,2025-08-12T19:00:02,2025-08-12T21:18:51,Scheduled test,Low voltage,Battery alm,45.9,-57.1,132.1,,VRLA12v_LeadAcid
+4612,10.63.132.242,BUL.Rashaant_UnegtTolgoi,14,2025-08-09T19:00:02,2025-08-09T21:20:30,Scheduled test,Low voltage,Battery alm,45.9,-57.7,135.0,,VRLA12v_LeadAcid
+4613,10.63.132.242,BUL.Rashaant_UnegtTolgoi,15,2025-08-06T19:00:02,2025-08-06T21:19:21,Scheduled test,Low voltage,Battery alm,45.9,-58.3,135.3,,VRLA12v_LeadAcid
+4614,10.63.132.242,BUL.Rashaant_UnegtTolgoi,16,2025-08-03T19:00:03,2025-08-03T21:18:02,Scheduled test,Low voltage,Battery alm,46.0,-58.9,135.4,,VRLA12v_LeadAcid
+4615,10.63.132.242,BUL.Rashaant_UnegtTolgoi,17,2025-07-31T19:00:03,2025-07-31T21:23:24,Scheduled test,Low voltage,Battery alm,46.0,-56.8,135.7,,VRLA12v_LeadAcid
+4616,10.63.132.242,BUL.Rashaant_UnegtTolgoi,18,2025-07-28T19:00:02,2025-07-28T21:20:13,Scheduled test,Low voltage,Battery alm,45.8,-58.0,135.3,,VRLA12v_LeadAcid
+4617,10.63.132.242,BUL.Rashaant_UnegtTolgoi,19,2025-07-25T19:00:03,2025-07-25T21:21:53,Scheduled test,Low voltage,Battery alm,45.9,-58.1,137.4,,VRLA12v_LeadAcid
+4618,10.63.132.242,BUL.Rashaant_UnegtTolgoi,20,2025-07-22T19:00:02,2025-07-22T21:26:00,Scheduled test,Low voltage,Battery alm,46.0,-56.7,137.8,,VRLA12v_LeadAcid
+4619,10.63.132.242,BUL.Rashaant_UnegtTolgoi,21,2025-07-19T19:00:02,2025-07-19T21:20:23,Scheduled test,Low voltage,Battery alm,45.9,-58.6,137.1,,VRLA12v_LeadAcid
+4620,10.63.132.242,BUL.Rashaant_UnegtTolgoi,22,2025-07-16T19:00:03,2025-07-16T21:16:14,Scheduled test,Low voltage,Battery alm,45.9,-59.7,135.4,,VRLA12v_LeadAcid
+4621,10.63.132.242,BUL.Rashaant_UnegtTolgoi,23,2025-07-13T19:00:02,2025-07-13T21:17:11,Scheduled test,Low voltage,Battery alm,46.0,-59.5,135.8,,VRLA12v_LeadAcid
+4622,10.63.132.242,BUL.Rashaant_UnegtTolgoi,24,2025-07-10T19:00:03,2025-07-10T21:16:57,Scheduled test,Low voltage,Battery alm,46.0,-59.8,136.3,,VRLA12v_LeadAcid
+4623,10.63.132.242,BUL.Rashaant_UnegtTolgoi,25,2025-07-07T19:00:02,2025-07-07T21:27:54,Scheduled test,Low voltage,Battery alm,46.0,-56.2,138.4,,VRLA12v_LeadAcid
+4624,10.63.132.242,BUL.Rashaant_UnegtTolgoi,26,2025-07-04T19:00:02,2025-07-04T21:26:38,Scheduled test,Low voltage,Battery alm,45.9,-56.4,137.6,,VRLA12v_LeadAcid
+4625,10.63.132.242,BUL.Rashaant_UnegtTolgoi,27,2025-07-01T19:00:01,2025-07-01T21:31:44,Scheduled test,Low voltage,Battery alm,45.9,-54.5,137.8,,VRLA12v_LeadAcid
+4626,10.63.132.242,BUL.Rashaant_UnegtTolgoi,28,2025-06-28T19:00:03,2025-06-28T21:21:31,Scheduled test,Low voltage,Battery alm,45.9,-56.9,134.2,,VRLA12v_LeadAcid
+4627,10.63.132.242,BUL.Rashaant_UnegtTolgoi,29,2025-06-25T19:00:03,2025-06-25T19:11:04,Scheduled test,Fault alarm,Abnormal end,49.8,-53.9,9.9,,VRLA12v_LeadAcid
+4628,10.63.132.242,BUL.Rashaant_UnegtTolgoi,30,2025-06-22T19:00:02,2025-06-22T21:25:08,Scheduled test,Low voltage,Battery alm,45.9,-56.7,137.0,,VRLA12v_LeadAcid
+4629,10.63.132.242,BUL.Rashaant_UnegtTolgoi,31,2025-06-19T19:00:02,2025-06-19T21:32:14,Scheduled test,Low voltage,Battery alm,45.9,-54.5,138.1,,VRLA12v_LeadAcid
+4630,10.63.132.242,BUL.Rashaant_UnegtTolgoi,32,2025-06-16T19:00:03,2025-06-16T21:28:07,Scheduled test,Low voltage,Battery alm,45.9,-55.2,136.3,,VRLA12v_LeadAcid
+4631,10.63.132.242,BUL.Rashaant_UnegtTolgoi,33,2025-06-13T19:00:03,2025-06-13T21:29:03,Scheduled test,Low voltage,Battery alm,45.9,-55.2,137.0,,VRLA12v_LeadAcid
+4632,10.63.132.242,BUL.Rashaant_UnegtTolgoi,34,2025-06-10T19:00:02,2025-06-10T21:40:19,Scheduled test,Low voltage,Battery alm,45.9,-52.4,139.8,,VRLA12v_LeadAcid
+4633,10.63.132.242,BUL.Rashaant_UnegtTolgoi,35,2025-06-07T19:00:02,2025-06-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,46.1,-54.5,163.6,,VRLA12v_LeadAcid
+4634,10.63.132.242,BUL.Rashaant_UnegtTolgoi,36,2025-06-04T19:00:03,2025-06-04T22:00:14,Scheduled test,Exceeded time limit,Test normal,46.5,-52.3,156.9,,VRLA12v_LeadAcid

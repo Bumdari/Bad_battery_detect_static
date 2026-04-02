@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+674927,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,46,2026-03-31T19:00:03,2026-03-31T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-93.0,279.0,,VRLA12v_LeadAcid
+607804,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,45,2026-03-28T19:00:02,2026-03-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.9,-90.4,271.2,,VRLA12v_LeadAcid
+542197,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,44,2026-03-25T19:00:03,2026-03-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.6,-97.1,291.5,,VRLA12v_LeadAcid
+478273,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,43,2026-03-22T19:00:02,2026-03-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.5,-89.4,268.2,,VRLA12v_LeadAcid
+395846,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,42,2026-03-19T19:00:02,2026-03-19T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-92.2,276.6,,VRLA12v_LeadAcid
+335170,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,41,2026-03-16T19:00:02,2026-03-16T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.1,-95.1,285.5,,VRLA12v_LeadAcid
+275789,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,40,2026-03-13T19:00:02,2026-03-13T21:46:49,Scheduled test,Low capacity,Test normal,47.9,-101.1,280.8,,VRLA12v_LeadAcid
+217703,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,39,2026-03-10T19:00:03,2026-03-10T21:37:13,Scheduled test,Low capacity,Test normal,48.1,-99.8,261.3,,VRLA12v_LeadAcid
+160982,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,38,2026-03-07T19:00:02,2026-03-07T21:36:09,Scheduled test,Low capacity,Test normal,47.8,-97.5,253.6,,VRLA12v_LeadAcid
+105629,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,37,2026-03-04T19:00:03,2026-03-04T21:37:32,Scheduled test,Low capacity,Test normal,47.8,-95.4,250.3,,VRLA12v_LeadAcid
+15163,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,1,2026-03-01T19:00:03,2026-03-01T21:52:24,Scheduled test,Low capacity,Test normal,47.9,-89.8,257.7,,VRLA12v_LeadAcid
+15164,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,2,2026-02-26T19:00:03,2026-02-26T21:48:09,Scheduled test,Low capacity,Test normal,48.2,-90.9,254.6,,VRLA12v_LeadAcid
+15165,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,3,2026-02-23T19:00:02,2026-02-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-85.7,257.3,,VRLA12v_LeadAcid
+15166,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,4,2026-02-20T19:00:02,2026-02-20T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.8,-96.1,288.4,,VRLA12v_LeadAcid
+15167,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,5,2026-02-17T19:00:03,2026-02-17T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-89.0,267.0,,VRLA12v_LeadAcid
+15168,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,6,2026-02-14T19:00:02,2026-02-14T21:45:03,Scheduled test,Low capacity,Test normal,47.7,-98.5,270.8,,VRLA12v_LeadAcid
+15169,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,7,2026-02-11T19:00:03,2026-02-11T21:15:10,Scheduled test,Low capacity,Test normal,47.7,-110.0,247.5,,VRLA12v_LeadAcid
+15170,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,8,2026-02-08T19:00:03,2026-02-08T21:06:52,Scheduled test,Low capacity,Test normal,48.1,-106.5,224.9,,VRLA12v_LeadAcid
+15171,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,9,2026-02-05T19:00:02,2026-02-05T21:11:23,Scheduled test,Low capacity,Test normal,47.9,-114.5,250.5,,VRLA12v_LeadAcid
+15172,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,10,2026-02-02T19:00:02,2026-02-02T21:14:41,Scheduled test,Low capacity,Test normal,47.7,-116.0,260.1,,VRLA12v_LeadAcid
+15173,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,11,2026-01-30T19:00:03,2026-01-30T21:17:25,Scheduled test,Low capacity,Test normal,47.7,-107.7,246.4,,VRLA12v_LeadAcid
+15174,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,12,2026-01-27T19:00:03,2026-01-27T20:19:44,Scheduled test,Fault alarm,Abnormal end,48.8,-121.9,161.8,,VRLA12v_LeadAcid
+15175,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,13,2026-01-24T19:00:02,2026-01-24T21:07:02,Scheduled test,Low capacity,Test normal,47.7,-108.8,230.1,,VRLA12v_LeadAcid
+15176,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,14,2026-01-21T19:00:02,2026-01-21T19:26:18,Scheduled test,Fault alarm,Abnormal end,48.8,-124.1,54.2,,VRLA12v_LeadAcid
+15177,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,15,2026-01-18T19:00:01,2026-01-18T21:30:15,Scheduled test,Low capacity,Test normal,47.6,-99.3,248.5,,VRLA12v_LeadAcid
+15178,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,16,2026-01-15T19:00:03,2026-01-15T21:23:46,Scheduled test,Low capacity,Test normal,47.8,-103.7,248.3,,VRLA12v_LeadAcid
+15179,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,17,2026-01-12T19:00:02,2026-01-12T21:28:21,Scheduled test,Low capacity,Test normal,48.0,-108.4,267.9,,VRLA12v_LeadAcid
+15180,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,18,2026-01-09T19:00:03,2026-01-09T21:34:51,Scheduled test,Low capacity,Test normal,48.0,-102.6,264.4,,VRLA12v_LeadAcid
+15181,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,19,2026-01-06T19:00:01,2026-01-06T21:33:15,Scheduled test,Low capacity,Test normal,47.9,-104.9,267.7,,VRLA12v_LeadAcid
+15182,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,20,2026-01-03T19:00:03,2026-01-03T21:46:49,Scheduled test,Low capacity,Test normal,48.1,-96.1,266.9,,VRLA12v_LeadAcid
+15183,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,21,2025-12-31T19:00:03,2025-12-31T22:00:13,Scheduled test,Exceeded time limit,Test normal,48.3,-90.4,271.3,,VRLA12v_LeadAcid
+15184,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,22,2025-12-28T19:00:02,2025-12-28T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.9,-94.4,283.4,,VRLA12v_LeadAcid
+15185,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,23,2025-12-25T19:00:03,2025-12-25T21:41:12,Scheduled test,Low capacity,Test normal,47.9,-100.5,269.6,,VRLA12v_LeadAcid
+15186,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,24,2025-12-22T19:00:03,2025-12-22T21:56:24,Scheduled test,Low capacity,Test normal,47.8,-96.8,284.2,,VRLA12v_LeadAcid
+15187,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,25,2025-12-19T19:00:03,2025-12-19T21:46:19,Scheduled test,Low capacity,Test normal,48.2,-103.2,285.9,,VRLA12v_LeadAcid
+15188,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,26,2025-12-16T19:00:03,2025-12-16T21:54:38,Scheduled test,Low capacity,Test normal,47.9,-100.1,291.0,,VRLA12v_LeadAcid
+15189,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,27,2025-12-13T19:00:03,2025-12-13T21:45:01,Scheduled test,Low capacity,Test normal,47.9,-98.8,271.5,,VRLA12v_LeadAcid
+15190,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,28,2025-12-10T19:00:03,2025-12-10T21:33:52,Scheduled test,Low capacity,Test normal,47.8,-108.7,278.4,,VRLA12v_LeadAcid
+15191,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,29,2025-12-07T19:00:02,2025-12-07T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.2,-92.8,278.4,,VRLA12v_LeadAcid
+15192,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,30,2025-12-04T19:00:03,2025-12-04T21:36:13,Scheduled test,Low capacity,Test normal,48.1,-108.0,281.0,,VRLA12v_LeadAcid
+15193,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,31,2025-12-01T19:00:02,2025-12-01T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.3,-104.4,313.2,,VRLA12v_LeadAcid
+15194,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,32,2025-11-28T19:00:02,2025-11-28T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.3,-107.4,322.1,,VRLA12v_LeadAcid
+15195,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,33,2025-11-25T19:00:03,2025-11-25T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.2,-105.9,317.8,,VRLA12v_LeadAcid
+15196,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,34,2025-11-22T19:00:03,2025-11-22T22:00:12,Scheduled test,Exceeded time limit,Test normal,48.4,-97.6,292.7,,VRLA12v_LeadAcid
+15197,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,35,2025-11-19T19:00:02,2025-11-19T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-103.0,309.2,,VRLA12v_LeadAcid
+15198,10.63.80.67,CHD._6hor_BayanburdToirog_ULN,36,2025-11-16T19:00:02,2025-11-16T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-98.5,295.5,,VRLA12v_LeadAcid

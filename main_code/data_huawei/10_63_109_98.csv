@@ -1,0 +1,37 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+3449,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,1,2025-11-12T19:00:01,2025-11-12T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-55.4,166.1,22.0,ESMU_Lithium
+3450,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,2,2025-11-08T19:00:00,2025-11-08T21:28:38,Scheduled test,Fault alarm,Abnormal end,48.7,-56.1,139.0,20.0,ESMU_Lithium
+3451,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,3,2025-10-21T19:00:01,2025-10-21T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.6,-58.4,175.1,22.0,ESMU_Lithium
+3452,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,4,2025-10-17T19:00:00,2025-10-17T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.5,-58.9,176.6,19.0,ESMU_Lithium
+3453,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,5,2025-10-08T19:00:01,2025-10-08T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-58.4,175.2,29.0,ESMU_Lithium
+3454,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,6,2025-09-25T19:00:00,2025-09-25T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-56.0,168.0,34.0,ESMU_Lithium
+3455,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,7,2025-09-21T19:00:01,2025-09-21T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-57.7,173.0,34.0,ESMU_Lithium
+3456,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,8,2025-09-18T19:00:01,2025-09-18T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-56.7,170.1,33.0,ESMU_Lithium
+3457,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,9,2025-09-15T19:00:01,2025-09-15T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.8,-57.6,172.7,30.0,ESMU_Lithium
+3458,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,10,2025-09-12T19:00:01,2025-09-12T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-59.3,178.0,33.0,ESMU_Lithium
+3459,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,11,2025-08-26T19:00:01,2025-08-26T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-59.6,178.8,36.0,ESMU_Lithium
+3460,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,12,2025-08-13T19:00:00,2025-08-13T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-58.1,174.3,35.0,ESMU_Lithium
+3461,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,13,2025-08-10T19:00:01,2025-08-10T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-60.5,181.6,36.0,ESMU_Lithium
+3462,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,14,2025-08-07T19:00:00,2025-08-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-61.4,184.3,37.0,ESMU_Lithium
+3463,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,15,2025-08-04T19:00:00,2025-08-04T22:00:07,Scheduled test,Exceeded time limit,Test normal,49.0,-57.7,173.0,36.0,ESMU_Lithium
+3464,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,16,2025-08-01T19:00:01,2025-08-01T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-62.2,186.7,37.0,ESMU_Lithium
+3465,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,17,2025-07-29T19:00:01,2025-07-29T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-60.6,181.8,37.0,ESMU_Lithium
+3466,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,18,2025-07-26T19:00:02,2025-07-26T22:00:09,Scheduled test,Exceeded time limit,Test normal,49.0,-57.5,172.6,37.0,ESMU_Lithium
+3467,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,19,2025-07-23T19:00:01,2025-07-23T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-60.9,182.8,37.0,ESMU_Lithium
+3468,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,20,2025-07-19T19:00:02,2025-07-19T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-59.4,178.2,38.0,ESMU_Lithium
+3469,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,21,2025-07-16T19:00:00,2025-07-16T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-57.8,173.3,39.0,ESMU_Lithium
+3470,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,22,2025-07-13T19:00:01,2025-07-13T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-58.2,174.5,38.0,ESMU_Lithium
+3471,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,23,2025-07-10T19:00:00,2025-07-10T21:41:35,Scheduled test,Fault alarm,Abnormal end,49.0,-57.0,153.4,37.0,ESMU_Lithium
+3472,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,24,2025-07-02T19:00:01,2025-07-02T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-67.6,202.8,39.0,ESMU_Lithium
+3473,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,25,2025-06-29T19:00:00,2025-06-29T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-70.6,211.7,38.0,ESMU_Lithium
+3474,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,26,2025-06-26T19:00:00,2025-06-26T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-63.6,190.7,37.0,ESMU_Lithium
+3475,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,27,2025-06-23T19:00:01,2025-06-23T19:18:55,Scheduled test,Fault alarm,Abnormal end,49.5,-61.2,19.3,36.0,ESMU_Lithium
+3476,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,28,2025-06-13T19:00:01,2025-06-13T22:00:09,Scheduled test,Exceeded time limit,Test normal,48.9,-60.5,181.5,34.0,ESMU_Lithium
+3477,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,29,2025-06-10T19:00:00,2025-06-10T22:00:06,Scheduled test,Exceeded time limit,Test normal,49.8,-7.9,23.8,28.0,ESMU_Lithium
+3478,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,30,2025-06-07T19:00:00,2025-06-07T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.9,-65.3,196.0,37.0,ESMU_Lithium
+3479,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,31,2025-05-24T19:00:00,2025-05-24T19:25:50,Scheduled test,Fault alarm,Abnormal end,49.5,-68.0,29.2,32.0,ESMU_Lithium
+3480,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,32,2025-05-10T19:00:01,2025-05-10T19:08:09,Scheduled test,Fault alarm,Abnormal end,49.3,-108.9,14.8,30.0,ESMU_Lithium
+3481,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,33,2025-04-18T19:00:01,2025-04-18T19:08:53,Scheduled test,Fault alarm,Abnormal end,49.4,-49.8,7.4,29.0,ESMU_Lithium
+3482,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,34,2025-04-07T19:00:01,2025-04-07T22:00:08,Scheduled test,Exceeded time limit,Test normal,49.0,-53.6,160.9,31.0,ESMU_Lithium
+3483,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,35,2025-03-31T19:00:00,2025-03-31T22:00:07,Scheduled test,Exceeded time limit,Test normal,48.8,-51.1,153.4,27.0,ESMU_Lithium
+3484,10.63.109.98,SHD.AutoHudaldaaniiTuv_Temprory_ShineZah_ULN,36,2025-03-17T19:00:00,2025-03-17T22:00:08,Scheduled test,Exceeded time limit,Test normal,48.9,-50.7,152.0,26.0,ESMU_Lithium

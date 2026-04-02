@@ -1,0 +1,2 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+94960,10.63.132.2,UVH.Arvaiheer_SoyomboUrguu604Bbair,1,2026-03-04T21:00:02,2026-03-05T05:00:21,Scheduled test,Exceeded time limit,Test normal,48.2,-21.7,173.6,,VRLA12v_LeadAcid

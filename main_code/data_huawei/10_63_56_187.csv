@@ -1,0 +1,46 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+693768,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,45,2026-04-01T19:00:01,2026-04-01T20:38:03,Scheduled test,Low voltage,Battery alm,45.8,-34.7,56.5,16.0,VRLA12v_LeadAcid
+626257,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,44,2026-03-29T19:00:00,2026-03-29T20:37:51,Scheduled test,Low voltage,Battery alm,45.7,-34.5,56.2,16.0,VRLA12v_LeadAcid
+560228,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,43,2026-03-26T19:00:01,2026-03-26T20:43:00,Scheduled test,Low voltage,Battery alm,45.8,-35.0,60.0,16.0,VRLA12v_LeadAcid
+495650,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,42,2026-03-23T19:00:00,2026-03-23T20:36:43,Scheduled test,Low voltage,Battery alm,45.7,-35.5,57.2,12.0,VRLA12v_LeadAcid
+433244,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,41,2026-03-20T19:00:01,2026-03-20T20:34:33,Scheduled test,Low voltage,Battery alm,45.6,-35.7,56.1,10.0,VRLA12v_LeadAcid
+351801,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,40,2026-03-17T19:00:01,2026-03-17T20:35:26,Scheduled test,Low voltage,Battery alm,45.7,-35.5,56.3,9.0,VRLA12v_LeadAcid
+292058,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,39,2026-03-14T19:00:01,2026-03-14T20:36:48,Scheduled test,Low voltage,Battery alm,45.6,-35.4,57.1,9.0,VRLA12v_LeadAcid
+233611,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,38,2026-03-11T19:00:00,2026-03-11T20:34:39,Scheduled test,Low voltage,Battery alm,45.8,-36.5,57.5,9.0,VRLA12v_LeadAcid
+176510,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,37,2026-03-08T19:00:00,2026-03-08T20:34:53,Scheduled test,Low voltage,Battery alm,45.6,-36.6,57.8,6.0,VRLA12v_LeadAcid
+12046,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,1,2026-02-20T19:00:00,2026-02-20T21:12:26,Scheduled test,Low voltage,Battery alm,45.7,-28.7,63.3,7.0,VRLA12v_LeadAcid
+12047,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,2,2025-11-13T19:00:00,2025-11-13T21:17:14,Scheduled test,Low voltage,Battery alm,45.6,-26.8,61.3,7.0,VRLA12v_LeadAcid
+12048,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,3,2025-11-10T19:00:02,2025-11-10T21:22:56,Scheduled test,Low voltage,Battery alm,45.9,-26.5,62.9,9.0,VRLA12v_LeadAcid
+12049,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,4,2025-11-07T19:00:01,2025-11-07T21:22:22,Scheduled test,Low voltage,Battery alm,45.7,-27.4,65.0,11.0,VRLA12v_LeadAcid
+12050,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,5,2025-11-04T19:00:01,2025-11-04T21:22:23,Scheduled test,Low voltage,Battery alm,45.9,-27.7,65.6,13.0,VRLA12v_LeadAcid
+12051,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,6,2025-11-01T19:00:00,2025-11-01T21:19:12,Scheduled test,Low voltage,Battery alm,45.7,-28.0,64.7,12.0,VRLA12v_LeadAcid
+12052,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,7,2025-10-29T19:00:01,2025-10-29T21:21:15,Scheduled test,Low voltage,Battery alm,45.9,-27.0,63.4,11.0,VRLA12v_LeadAcid
+12053,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,8,2025-10-26T19:00:00,2025-10-26T21:20:41,Scheduled test,Low voltage,Battery alm,45.7,-26.6,62.2,9.0,VRLA12v_LeadAcid
+12054,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,9,2025-10-23T19:00:00,2025-10-23T21:22:53,Scheduled test,Low voltage,Battery alm,45.9,-26.7,63.4,8.0,VRLA12v_LeadAcid
+12055,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,10,2025-10-20T19:00:00,2025-10-20T21:33:14,Scheduled test,Low voltage,Battery alm,46.0,-26.3,67.0,9.0,VRLA12v_LeadAcid
+12056,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,11,2025-10-17T19:00:01,2025-10-17T21:32:01,Scheduled test,Low voltage,Battery alm,45.8,-27.4,69.4,12.0,VRLA12v_LeadAcid
+12057,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,12,2025-10-14T19:00:00,2025-10-14T21:48:21,Scheduled test,Low voltage,Battery alm,45.8,-26.3,73.6,15.0,VRLA12v_LeadAcid
+12058,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,13,2025-10-11T19:00:01,2025-10-11T21:55:05,Scheduled test,Low voltage,Battery alm,45.9,-26.5,77.1,18.0,VRLA12v_LeadAcid
+12059,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,14,2025-10-08T19:00:01,2025-10-08T21:54:47,Scheduled test,Low voltage,Battery alm,45.9,-26.6,77.5,19.0,VRLA12v_LeadAcid
+12060,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,15,2025-10-05T19:00:00,2025-10-05T21:16:20,Scheduled test,Low voltage,Battery alm,45.9,-26.3,59.7,27.0,VRLA12v_LeadAcid
+12061,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,16,2025-10-02T19:00:00,2025-10-02T20:37:52,Scheduled test,Fault alarm,Abnormal end,49.3,-26.1,42.5,29.0,VRLA12v_LeadAcid
+12062,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,17,2025-09-29T19:00:01,2025-09-29T21:55:24,Scheduled test,Low voltage,Battery alm,45.8,-27.1,79.1,30.0,VRLA12v_LeadAcid
+12063,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,18,2025-09-26T19:00:01,2025-09-26T21:31:14,Scheduled test,Low voltage,Battery alm,45.8,-27.6,69.3,29.0,VRLA12v_LeadAcid
+12064,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,19,2025-09-21T19:00:01,2025-09-21T21:55:52,Scheduled test,Low voltage,Battery alm,45.9,-26.1,76.3,25.0,VRLA12v_LeadAcid
+12065,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,20,2025-09-18T19:00:01,2025-09-18T21:42:49,Scheduled test,Low voltage,Battery alm,46.0,-27.1,73.4,22.0,VRLA12v_LeadAcid
+12066,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,21,2025-09-15T19:00:01,2025-09-15T21:38:24,Scheduled test,Low voltage,Battery alm,45.8,-27.3,71.9,21.0,VRLA12v_LeadAcid
+12067,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,22,2025-09-12T19:00:00,2025-09-12T21:33:36,Scheduled test,Low voltage,Battery alm,45.8,-27.6,70.5,21.0,VRLA12v_LeadAcid
+12068,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,23,2025-09-09T19:00:00,2025-09-09T21:37:45,Scheduled test,Low voltage,Battery alm,45.5,-26.4,69.4,16.0,VRLA12v_LeadAcid
+12069,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,24,2025-09-06T19:00:01,2025-09-06T21:19:16,Scheduled test,Low voltage,Battery alm,45.9,-26.6,61.7,16.0,VRLA12v_LeadAcid
+12070,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,25,2025-09-03T19:00:00,2025-09-03T21:43:38,Scheduled test,Low voltage,Battery alm,45.8,-25.7,70.0,16.0,VRLA12v_LeadAcid
+12071,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,26,2025-08-31T19:00:01,2025-08-31T21:38:44,Scheduled test,Low voltage,Battery alm,45.8,-26.6,70.3,17.0,VRLA12v_LeadAcid
+12072,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,27,2025-08-28T19:00:00,2025-08-28T21:50:12,Scheduled test,Low voltage,Battery alm,45.8,-25.9,73.3,16.0,VRLA12v_LeadAcid
+12073,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,28,2025-08-25T19:00:00,2025-08-25T21:59:46,Scheduled test,Low voltage,Battery alm,45.9,-25.8,77.2,17.0,VRLA12v_LeadAcid
+12074,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,29,2025-08-22T19:00:00,2025-08-22T22:00:23,Scheduled test,Exceeded time limit,Test normal,47.9,-25.9,77.7,17.0,VRLA12v_LeadAcid
+12075,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,30,2025-08-18T19:00:00,2025-08-18T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.3,-26.3,78.8,17.0,VRLA12v_LeadAcid
+12076,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,31,2025-08-15T19:00:01,2025-08-15T22:00:23,Scheduled test,Exceeded time limit,Test normal,45.9,-27.3,81.9,17.0,VRLA12v_LeadAcid
+12077,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,32,2025-08-12T19:00:01,2025-08-12T21:41:44,Scheduled test,Low voltage,Battery alm,45.8,-26.9,72.3,17.0,VRLA12v_LeadAcid
+12078,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,33,2025-08-09T19:00:00,2025-08-09T21:50:41,Scheduled test,Low voltage,Battery alm,45.9,-26.5,75.3,17.0,VRLA12v_LeadAcid
+12079,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,34,2025-08-06T19:00:01,2025-08-06T21:33:53,Scheduled test,Low voltage,Battery alm,45.7,-26.0,66.5,17.0,VRLA12v_LeadAcid
+12080,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,35,2025-08-03T19:00:00,2025-08-03T21:57:29,Scheduled test,Low voltage,Battery alm,45.8,-25.9,76.5,17.0,VRLA12v_LeadAcid
+12081,10.63.56.187,HEN.Delgerhaan_Holboo_ISS100,36,2025-07-31T19:00:00,2025-07-31T22:00:23,Scheduled test,Exceeded time limit,Test normal,46.7,-26.2,78.7,18.0,VRLA12v_LeadAcid

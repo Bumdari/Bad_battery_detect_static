@@ -1,0 +1,47 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+660806,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,46,2026-03-31T19:00:03,2026-03-31T21:21:44,Scheduled test,Low capacity,Test normal,47.0,-27.4,64.6,22.0,VRLA12v_LeadAcid
+593981,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,45,2026-03-28T19:00:03,2026-03-28T21:17:40,Scheduled test,Low capacity,Test normal,48.2,-28.2,64.7,22.0,VRLA12v_LeadAcid
+528679,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,44,2026-03-25T19:00:03,2026-03-25T21:34:49,Scheduled test,Low capacity,Test normal,47.6,-26.8,69.2,22.0,VRLA12v_LeadAcid
+465192,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,43,2026-03-22T19:00:03,2026-03-22T21:27:59,Scheduled test,Low capacity,Test normal,47.1,-28.5,70.3,22.0,VRLA12v_LeadAcid
+383053,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,42,2026-03-19T19:00:02,2026-03-19T21:39:13,Scheduled test,Low capacity,Test normal,47.4,-27.4,72.6,21.0,VRLA12v_LeadAcid
+322644,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,41,2026-03-16T19:00:03,2026-03-16T21:44:32,Scheduled test,Low capacity,Test normal,47.3,-27.6,75.7,23.0,VRLA12v_LeadAcid
+263537,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,40,2026-03-13T19:00:01,2026-03-13T21:49:50,Scheduled test,Low capacity,Test normal,48.0,-26.6,75.2,22.0,VRLA12v_LeadAcid
+205722,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,39,2026-03-10T19:00:02,2026-03-10T22:00:10,Scheduled test,Exceeded time limit,Test normal,47.7,-26.2,78.5,23.0,VRLA12v_LeadAcid
+149285,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,38,2026-03-07T19:00:02,2026-03-07T19:29:05,Scheduled test,Low capacity,Test normal,50.5,-30.7,14.8,22.0,VRLA12v_LeadAcid
+94226,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,37,2026-03-04T19:00:03,2026-03-04T21:49:19,Scheduled test,Low capacity,Test normal,48.9,-25.4,71.6,22.0,VRLA12v_LeadAcid
+3834,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,1,2026-03-01T19:00:02,2026-03-01T20:41:28,Scheduled test,Low capacity,Test normal,49.8,-26.4,44.6,23.0,VRLA12v_LeadAcid
+3835,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,2,2026-02-26T19:00:02,2026-02-26T21:14:13,Scheduled test,Low capacity,Test normal,49.7,-26.0,58.0,23.0,VRLA12v_LeadAcid
+3836,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,3,2026-02-23T19:00:02,2026-02-23T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.4,-27.2,81.5,22.0,VRLA12v_LeadAcid
+3837,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,4,2026-02-20T19:00:03,2026-02-20T20:38:33,Scheduled test,Low capacity,Test normal,49.8,-30.5,50.0,28.0,VRLA12v_LeadAcid
+3838,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,5,2026-02-17T19:00:01,2026-02-17T22:00:10,Scheduled test,Exceeded time limit,Test normal,48.9,-24.2,72.6,43.0,VRLA12v_LeadAcid
+3839,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,6,2026-02-14T19:00:02,2026-02-14T22:00:11,Scheduled test,Exceeded time limit,Test normal,48.6,-26.7,80.1,31.0,VRLA12v_LeadAcid
+3840,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,7,2026-02-11T19:00:03,2026-02-11T22:00:11,Scheduled test,Exceeded time limit,Test normal,49.1,-25.6,76.8,42.0,VRLA12v_LeadAcid
+3841,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,8,2026-02-08T19:00:02,2026-02-08T19:31:43,Scheduled test,Low capacity,Test normal,50.5,-27.5,14.5,40.0,VRLA12v_LeadAcid
+3842,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,9,2026-02-05T19:00:02,2026-02-05T22:00:11,Scheduled test,Exceeded time limit,Test normal,47.9,-25.8,77.5,27.0,VRLA12v_LeadAcid
+3843,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,10,2026-02-02T19:00:02,2026-02-02T20:12:22,Scheduled test,Low capacity,Test normal,50.0,-27.4,33.0,41.0,VRLA12v_LeadAcid
+3844,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,11,2026-01-30T19:00:02,2026-01-30T21:32:08,Scheduled test,Low capacity,Test normal,48.5,-27.4,69.4,34.0,VRLA12v_LeadAcid
+3845,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,12,2026-01-27T19:00:01,2026-01-27T19:48:38,Scheduled test,Fault alarm,Abnormal end,50.1,-26.7,21.6,35.0,VRLA12v_LeadAcid
+3846,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,13,2026-01-24T19:00:02,2026-01-24T20:04:27,Scheduled test,Low capacity,Test normal,50.4,-27.7,29.7,36.0,VRLA12v_LeadAcid
+3847,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,14,2026-01-21T19:00:02,2026-01-21T21:26:35,Scheduled test,Low capacity,Test normal,47.7,-27.3,66.7,24.0,VRLA12v_LeadAcid
+3848,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,15,2026-01-18T19:00:03,2026-01-18T21:33:21,Scheduled test,Low capacity,Test normal,47.5,-29.2,74.5,20.0,VRLA12v_LeadAcid
+3849,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,16,2026-01-15T19:00:03,2026-01-15T21:57:13,Scheduled test,Low capacity,Test normal,48.3,-27.4,81.0,36.0,VRLA12v_LeadAcid
+3850,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,17,2026-01-12T19:00:02,2026-01-12T21:03:40,Scheduled test,Low capacity,Test normal,49.9,-26.7,55.0,40.0,VRLA12v_LeadAcid
+3851,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,18,2026-01-09T19:00:03,2026-01-09T21:50:38,Scheduled test,Low capacity,Test normal,48.3,-27.1,77.0,40.0,VRLA12v_LeadAcid
+3852,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,19,2026-01-06T19:00:02,2026-01-06T21:30:58,Scheduled test,Low capacity,Test normal,48.1,-27.7,69.7,40.0,VRLA12v_LeadAcid
+3853,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,20,2026-01-03T19:00:02,2026-01-03T20:58:07,Scheduled test,Low capacity,Test normal,48.6,-26.3,51.6,43.0,VRLA12v_LeadAcid
+3854,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,21,2025-12-31T19:00:02,2025-12-31T20:51:58,Scheduled test,Low capacity,Test normal,48.2,-26.8,50.0,38.0,VRLA12v_LeadAcid
+3855,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,22,2025-12-28T19:00:03,2025-12-28T20:41:15,Scheduled test,Low capacity,Test normal,48.3,-25.4,42.8,41.0,VRLA12v_LeadAcid
+3856,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,23,2025-12-25T19:00:03,2025-12-25T19:59:21,Scheduled test,Low capacity,Test normal,48.8,-26.7,26.4,21.0,VRLA12v_LeadAcid
+3857,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,24,2025-12-22T19:00:03,2025-12-22T19:59:56,Scheduled test,Low capacity,Test normal,48.8,-27.3,27.2,21.0,VRLA12v_LeadAcid
+3858,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,25,2025-12-19T19:00:02,2025-12-19T20:05:28,Scheduled test,Low capacity,Test normal,48.8,-27.0,29.5,21.0,VRLA12v_LeadAcid
+3859,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,26,2025-12-16T19:00:02,2025-12-16T20:04:15,Scheduled test,Low capacity,Test normal,48.7,-28.3,30.2,20.0,VRLA12v_LeadAcid
+3860,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,27,2025-12-13T19:00:02,2025-12-13T20:16:19,Scheduled test,Low capacity,Test normal,47.9,-28.8,36.6,21.0,VRLA12v_LeadAcid
+3861,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,28,2025-12-10T19:00:02,2025-12-10T19:46:50,Scheduled test,Low capacity,Test normal,49.0,-28.9,22.5,21.0,VRLA12v_LeadAcid
+3862,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,29,2025-12-07T19:00:03,2025-12-07T19:55:02,Scheduled test,Low capacity,Test normal,48.5,-27.3,25.0,19.0,VRLA12v_LeadAcid
+3863,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,30,2025-12-04T19:00:03,2025-12-04T19:52:13,Scheduled test,Low capacity,Test normal,48.5,-29.3,25.4,21.0,VRLA12v_LeadAcid
+3864,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,31,2025-12-01T19:00:03,2025-12-01T19:58:15,Scheduled test,Low capacity,Test normal,48.5,-27.6,26.7,22.0,VRLA12v_LeadAcid
+3865,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,32,2025-11-28T19:00:02,2025-11-28T19:54:56,Scheduled test,Low capacity,Test normal,48.3,-29.5,27.0,21.0,VRLA12v_LeadAcid
+3866,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,33,2025-11-25T19:00:02,2025-11-25T20:02:00,Scheduled test,Low capacity,Test normal,48.3,-27.8,28.7,20.0,VRLA12v_LeadAcid
+3867,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,34,2025-11-22T19:00:02,2025-11-22T19:35:19,Scheduled test,Low capacity,Test normal,50.2,-29.3,17.2,20.0,VRLA12v_LeadAcid
+3868,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,35,2025-11-19T19:00:01,2025-11-19T19:47:00,Scheduled test,Low capacity,Test normal,48.8,-30.5,23.9,20.0,VRLA12v_LeadAcid
+3869,10.63.114.78,BZD.BolorTuulAmralt_Unitel_SMP22_ULN,36,2025-11-16T19:00:02,2025-11-16T19:54:08,Scheduled test,Low capacity,Test normal,48.9,-28.5,25.7,20.0,VRLA12v_LeadAcid

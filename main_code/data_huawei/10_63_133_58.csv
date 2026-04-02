@@ -1,0 +1,10 @@
+﻿id,ip,location,test_no,start_time,end_time,test_type,stop_reason,test_result,end_voltage,avg_current,capacity,temperature,batt_type
+661795,10.63.133.58,ARH.Tariat_Murunbag,9,2026-03-31T19:00:01,2026-04-01T00:00:10,Scheduled test,Exceeded time limit,Test normal,49.5,-9.5,47.5,15.0,ESMU_Lithium
+594950,10.63.133.58,ARH.Tariat_Murunbag,8,2026-03-28T19:00:01,2026-03-29T00:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-9.5,47.7,11.0,ESMU_Lithium
+529626,10.63.133.58,ARH.Tariat_Murunbag,7,2026-03-25T19:00:00,2026-03-26T00:00:10,Scheduled test,Exceeded time limit,Test normal,49.4,-9.6,47.9,11.0,ESMU_Lithium
+466117,10.63.133.58,ARH.Tariat_Murunbag,6,2026-03-22T19:00:00,2026-03-23T00:00:10,Scheduled test,Exceeded time limit,Test normal,49.5,-9.4,47.2,15.0,ESMU_Lithium
+383958,10.63.133.58,ARH.Tariat_Murunbag,5,2026-03-19T19:00:01,2026-03-20T00:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-9.5,47.6,12.0,ESMU_Lithium
+303664,10.63.133.58,ARH.Tariat_Murunbag,4,2026-03-15T19:00:00,2026-03-16T00:00:11,Scheduled test,Exceeded time limit,Test normal,49.4,-9.6,47.8,12.0,ESMU_Lithium
+187588,10.63.133.58,ARH.Tariat_Murunbag,3,2026-03-09T19:00:01,2026-03-10T00:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-9.5,47.7,13.0,ESMU_Lithium
+4671,10.63.133.58,ARH.Tariat_Murunbag,1,2026-02-19T19:00:01,2026-02-20T00:00:11,Scheduled test,Exceeded time limit,Test normal,49.5,-9.9,49.4,15.0,ESMU_Lithium
+4672,10.63.133.58,ARH.Tariat_Murunbag,2,2025-11-27T19:00:01,2025-11-28T00:00:12,Scheduled test,Exceeded time limit,Test normal,49.4,-10.3,51.6,11.0,ESMU_Lithium
